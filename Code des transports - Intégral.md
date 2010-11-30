@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-01 00:00:01 +0100
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -517,7 +517,7 @@ Version Consolidée au 2010-12-01
           - [Chapitre unique (art. L4641-1 à L4641-2)](#514)
         - [TITRE V : DISPOSITIONS SPECIFIQUES  A SAINT-PIERRE-ET-MIQUELON (art. L4651-1 à L4651-2)](#515)
           - [Chapitre unique (art. L4651-1 à L4651-2)](#516)
-    - [CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES (art. L5000-1 à L5795-15)](#517)
+    - [CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES (art. L5000-1 à L5795-14)](#517)
       - [LIVRE IER : LE NAVIRE (art. L5111-1 à L5142-8)](#518)
         - [TITRE IER : STATUT DES NAVIRES (art. L5111-1 à L5114-50)](#519)
           - [Chapitre Ier : Identification des navires (art. L5111-1 à L5111-2)](#520)
@@ -877,7 +877,7 @@ du régime d'assurance vieillesse des marins (art. L5553-1 à L5553-16)](#838)
         - [TITRE IV : CONTROLE ET SANCTIONS (art. L5641-1 à L5642-2)](#871)
           - [Chapitre Ier : Contrôle (art. L5641-1)](#872)
           - [Chapitre II : Sanctions pénales (art. L5642-1 à L5642-2)](#873)
-      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L5700-1 à L5795-15)](#874)
+      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L5700-1 à L5795-14)](#874)
         - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER (art. L5713-1 à L5715-10)](#875)
           - [Chapitre III : Les ports maritimes (art. L5713-1 à L5713-3)](#876)
           - [Chapitre IV : Le transport maritime (art. L5714-1 à L5714-2)](#877)
@@ -918,12 +918,12 @@ du régime d'assurance vieillesse des marins (art. L5553-1 à L5553-16)](#838)
           - [Chapitre III : Les ports maritimes (art. L5783-1)](#912)
           - [Chapitre IV : Le transport maritime (art. L5784-1)](#913)
           - [Chapitre V : Les gens de mer (art. L5785-1 à L5785-7)](#914)
-        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L5790-1 à L5795-15)](#915)
+        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L5790-1 à L5795-14)](#915)
           - [Chapitre Ier : Le navire (art. L5791-1)](#916)
           - [Chapitre II : Navigation maritime (art. L5792-1)](#917)
           - [Chapitre III : Les ports maritimes (art. L5793-1)](#918)
           - [Chapitre IV : Le transport maritime (art. L5794-1)](#919)
-          - [Chapitre V : Les gens de mer (art. L5795-1 à L5795-15)](#920)
+          - [Chapitre V : Les gens de mer (art. L5795-1 à L5795-14)](#920)
     - [SIXIEME PARTIE : AVIATION CIVILE (art. L6100-1 à L6792-2)](#921)
       - [LIVRE IER : L'AERONEF (art. L6100-1 à L6142-9)](#922)
         - [TITRE IER : IDENTIFICATION DE L'AERONEF (art. L6111-1 à L6111-6)](#923)
@@ -1725,19 +1725,18 @@ _Codifié par_:
 
 L'Etat et les autres autorités publiques mentionnées à l'article L. 1211-4, pour exercer leurs missions, ont accès aux
 informations relatives au trafic ferroviaire et aux données économiques nécessaires à la conduite d'études et de recherches
-de nature à faciliter la réalisation des objectifs assignés au système de transports. 
+de nature à faciliter la réalisation des objectifs assignés au système de transports.
 
 Lorsque la divulgation de ces informations est susceptible de porter atteinte au secret des affaires, leur détenteur peut
 demander que leur diffusion à ces personnes publiques soit assurée par le ministre chargé des transports. Dans ce cas, celui-
 ci désigne les services habilités à procéder à cette diffusion, précise les conditions et les modalités de nature à garantir
-le respect de ce secret et arrête la nature des informations pouvant être rendues publiques. Les modalités d'application du
-présent article sont fixées par décret en Conseil d'Etat.
+le respect de ce secret et arrête la nature des informations pouvant être rendues publiques.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 5 (VT), alinéa 8, phrases 2 à 4
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 _Cité par_:
 
@@ -1752,7 +1751,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L1211-4 (VD)
+  - Code des transports - art. L1211-4
 
 _Codifié par_:
 
@@ -2518,17 +2517,17 @@ _Codifié par_:
 ###### Article L1214-17
 
 En l'absence d'approbation du projet de plan de déplacements urbains, l'autorité administrative compétente de l'Etat peut
-engager ou poursuivre son élaboration selon les modalités prévues en application de la présente sous-section dans un délai
-prévu par voie réglementaire.
+engager ou poursuivre son élaboration selon les modalités prévues en application de la présente sous-section.
 
 Dans ce cas, le projet, éventuellement modifié pour tenir compte des résultats de l'enquête publique, est approuvé par
-l'autorité administrative compétente de l'Etat, après délibération de l'autorité organisatrice de transport.
+l'autorité administrative compétente de l'Etat, après délibération de l'autorité organisatrice de transport dans un délai et
+des conditions fixés par voie réglementaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 28-2 (M), alinéa 5, phrases 2, 3 et 4
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 _Cité par_:
 
@@ -5274,16 +5273,12 @@ convention ou accord d'entreprise ou d'établissement aux dispositions réglemen
 
 3° Aux modalités de récupération des heures de travail perdues ; 
 
-4° A la période de référence sur laquelle est calculée la durée maximale hebdomadaire moyenne de travail, dans la limite de
-quatre mois ; 
+4° A la période de référence sur laquelle est calculée la durée maximale hebdomadaire moyenne de travail et sont décomptées
+les heures supplémentaires, dans la limite de quatre mois ; 
 
 5° A l'amplitude de la journée de travail et aux coupures.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du travail - art. L212-18 (VT), alinéa 8
 
 _Cité par_:
 
@@ -5291,11 +5286,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L1321-1 (VD)
+  - Code des transports - art. L1321-1
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 3 : Repos quotidien<a id=74></a>
@@ -5363,18 +5362,19 @@ _Codifié par_:
 Les dispositions de la présente section s'appliquent aux salariés roulants ou navigants des entreprises mentionnées à
 l'article L. 1321-1. 
 
-Toutefois, elles ne s'appliquent pas au personnel roulant des entreprises de transport routier, à l'exception des entreprises
-de transport sanitaire.
+Les dispositions des articles L. 3122-34 et L. 3122-35 du code du travail ne s'appliquent pas aux salariés roulants ou
+navigants des entreprises mentionnées à l'article L. 1321-1.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code du travail - art. L213-11 (VT)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 _Cite_:
 
-  - Code des transports - art. L1321-1 (VD)
+  - Code du travail - art. L3122-34
+  - Code des transports - art. L1321-1
 
 _Cité par_:
 
@@ -5422,24 +5422,19 @@ _Codifié par_:
 
 ###### Article L1321-8
 
-Par dérogation aux dispositions de l'article L. 3122-34 du code du travail, la durée quotidienne de travail effectuée par un
-travailleur de nuit ne peut excéder huit heures en moyenne par période de vingt-quatre heures sur une période de référence
-définie par convention ou accord collectif étendu ou, à défaut, par décret en Conseil d'Etat pris après consultation des
-organisations syndicales représentatives au plan national des employeurs et des salariés des secteurs d'activité intéressés. 
+La durée quotidienne de travail effectuée par un travailleur de nuit ne peut excéder huit heures en moyenne par période de
+vingt-quatre heures sur une période de référence définie par convention ou accord collectif étendu ou, à défaut, par décret
+en Conseil d'Etat pris après consultation des organisations syndicales représentatives au plan national des employeurs et des
+salariés des secteurs d'activité intéressés. 
 
 Il peut être dérogé à la durée quotidienne de travail fixée par l'alinéa précédent par convention ou accord collectif étendu
 ou par convention ou accord d'entreprise ou d'établissement, sous réserve que ces conventions ou accords prévoient, en
 contrepartie, des périodes équivalentes de repos compensateur de remplacement.
 
+Les dispositions des deux alinéas précédents ne sont pas applicables au personnel roulant des entreprises de transport
+routier, à l'exception de celui des entreprises de transport sanitaire.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code du travail - art. L213-11 (VT), alinéas 5, 6, phrase 1, paragraphe II, et 9, paragraphe IV
-
-_Cite_:
-
-  - Code du travail - art. L3122-34 (V)
 
 _Cité par_:
 
@@ -5449,6 +5444,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Section 6 : Pauses du personnel roulant ou navigant<a id=77></a>
@@ -5513,16 +5512,17 @@ _Codifié par_:
 
 La durée du temps consacré par les non-salariés des entreprises de transport à la conduite ou au pilotage et aux opérations
 annexes ainsi que leurs temps de repos font l'objet de dispositions particulières tenant compte des exigences de la sécurité.
+Ces dispositions ne s'appliquent pas aux entreprises d'armement maritime.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-1153 du 30 décembre 1982 - art. 10 (VT), alinéa 3
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 
 ##### Chapitre III : Aptitude à la conduite<a id=79></a>
@@ -6342,13 +6342,13 @@ _Codifié par_:
 ###### Article L1432-4
 
 A défaut de convention écrite et sans préjudice de dispositions législatives régissant les contrats, les rapports entre les
-parties sont, de plein droit, celles fixées par les contrats-types prévus à la section 3.
+parties sont, de plein droit, ceux  fixés par les contrats-types prévus à la section 3.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 8 (Ab), alinéa 6, phrase 1, fin, paragraphe II
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 _Cité par_:
 
@@ -6834,7 +6834,7 @@ _Codifié par_:
 ###### Article L1511-2
 
 Les grands projets d'infrastructures et les grands choix technologiques sont évalués sur la base de critères homogènes
-mesurant les impacts des effets externes des transports sur, notamment, l'environnement, la sécurité et la santé et
+intégrant  les impacts des effets externes des transports sur, notamment, l'environnement, la sécurité et la santé et
 permettant des comparaisons à l'intérieur d'un même mode de transport ainsi qu'entre les modes ou les combinaisons de modes
 de transport.
 
@@ -6843,6 +6843,10 @@ de transport.
 _Anciens textes_:
 
   - Loi n°82-1153 du 30 décembre 1982 - art. 14 (VT), alinéa 2, phrase 1
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 _Cité par_:
 
@@ -7426,14 +7430,14 @@ _Codifié par_:
 
 ###### Article L1611-1
 
-L'autorité compétente de l'Etat définit les règles de sécurité, d'organisation des secours et de contrôle technique
-applicables au transport. Elle veille à leur mise en œuvre et en contrôle l'application.
+L'autorité compétente de l'Etat  définit les règles de sûreté,  de sécurité, d'organisation des secours et de contrôle
+technique applicables au transport. Elle veille à leur mise en œuvre et en contrôle l'application.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 9 (VT), alinéa 2
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 2
 
 _Cité par_:
 
@@ -24191,19 +24195,19 @@ _Codifié par_:
 
 Les transferts prévus par l'article L. 4322-3 substituent de plein droit Port autonome de Paris aux départements, aux
 communes, aux concessionnaires, dans tous les droits et avantages attachés aux biens et activités transférés. Il en est de
-même, sous réserve des dispositions de l'article L. 4322-11, pour les charges et obligations attachées aux mêmes biens et
+même, sous réserve des dispositions de l'article L. 4322-12, pour les charges et obligations attachées aux mêmes biens et
 activités.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°68-917 du 24 octobre 1968 - art. 6 (Ab)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 4
 
 _Cite_:
 
-  - Code des transports - art. L4322-11 (V)
-  - Code des transports - art. L4322-3 (V)
+  - Code des transports - art. L4322-12
+  - Code des transports - art. L4322-3
 
 _Cité par_:
 
@@ -29489,27 +29493,26 @@ En cas de déchéance, le navire ou autre engin flottant abandonné ne peut êtr
 d'un délai de deux mois et sous réserve des droits des créanciers privilégiés et hypothécaires. 
 
 Les créances afférentes aux frais exposés par l'autorité compétente au titre des mesures d'intervention prises en application
-des dispositions des articles L. 5242-16 et L. 5242-18 sont imputées en priorité sur le produit de la vente.
+des dispositions de l'article L. 5242-16 sont imputées en priorité sur le produit de la vente.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°85-662 du 3 juillet 1985 - art. 3 (VT), alinéas 2 et 3
 
 _Cité par_:
 
   - Décret n°87-830 du 6 octobre 1987 - art. 10 (Ab)
   - Code des transports - art. R5141-12 (V)
 
-_Cite_:
-
-  - Code des transports - art. L5242-16 (V)
-  - Code des transports - art. L5242-18 (V)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+_Cite_:
+
+  - Code des transports - art. L5242-16
 
 
 ##### Section 3 : Dispositions relatives à la cargaison<a id=560></a>
@@ -29652,22 +29655,22 @@ _Codifié par_:
 ###### Article L5142-4
 
 Dans le cas où l'épave est constituée par un navire et sa cargaison, la déchéance et la vente prévues par les articles L.
-5242-2 et L. 5242-3 s'étendent à l'ensemble de cette épave, sans préjudice du recours du propriétaire de la cargaison contre
+5142-2 et L. 5142-3 s'étendent à l'ensemble de cette épave, sans préjudice du recours du propriétaire de la cargaison contre
 le transporteur et, le cas échéant, contre l'affréteur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°61-1262 du 24 novembre 1961 - art. 1 (VT), alinéa 7
-
 _Cite_:
 
-  - Code des transports - art. L5242-2 (V)
+  - Code des transports - art. L5142-2
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5142-5
@@ -29886,22 +29889,22 @@ _Codifié par_:
 
 ###### Article L5222-1
 
-Sont habilités à constater les infractions aux dispositions du présent titre et aux dispositions réglementaires prises pour
-leur application :
+Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent
+titre et aux dispositions réglementaires prises pour leur application : 
 
-1° Les commandants des bâtiments de l'Etat ;
+1° Les commandants des bâtiments de l'Etat ; 
 
-2° Les administrateurs des affaires maritimes ;
+2° Les administrateurs des affaires maritimes ; 
 
-3° Les officiers du corps technique et administratif des affaires maritimes ;
+3° Les officiers du corps technique et administratif des affaires maritimes ; 
 
-4° Les inspecteurs des affaires maritimes ;
+4° Les inspecteurs des affaires maritimes ; 
 
-5° Les techniciens experts du service de la sécurité de la navigation maritime ;
+5° Les techniciens experts du service de la sécurité de la navigation maritime ; 
 
-6° Les contrôleurs des affaires maritimes ;
+6° Les contrôleurs des affaires maritimes ; 
 
-7° Les syndics des gens de mer ;
+7° Les syndics des gens de mer ; 
 
 8° Les capitaines des navires à bord desquels les délits ont été commis.
 
@@ -29910,6 +29913,10 @@ leur application :
 _Anciens textes_:
 
   - Loi n°83-581 du 5 juillet 1983 - art. 4 (Ab), alinéas 1 et 2
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cité par_:
 
@@ -31112,30 +31119,34 @@ _Codifié par_:
 
 En vue de mettre fin aux dangers que présente un navire ou autre engin flottant abandonné au sens des dispositions du
 chapitre Ier du titre IV du livre Ier de la présente partie, il peut être procédé à la réquisition des personnes et des
-biens, avec attribution de compétence à l'autorité judiciaire en ce qui concerne le contentieux du droit à l'indemnité.
+biens, avec attribution de compétence à l'autorité judiciaire en ce qui concerne le contentieux du droit à l'indemnité. 
 
 Lorsque le propriétaire, l'armateur, l'exploitant ou leurs représentants, dûment mis en demeure de mettre fin, dans le délai
 qui leur est imparti, aux dangers que présente le navire ou l'engin flottant abandonné, refuse ou néglige de prendre les
-mesures nécessaires, l'autorité administrative compétente peut intervenir aux frais et risques du propriétaire, de l'armateur
-ou de l'exploitant.
+mesures nécessaires, l'Etat ou l'autorité portuaire mentionnée à l'article L. 5331-5, selon le cas peut intervenir aux frais
+et risques du propriétaire, de l'armateur ou de l'exploitant. 
 
 En cas d'urgence, l'intervention peut être exécutée d'office sans délai.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°85-662 du 3 juillet 1985 - art. 2 (Ab)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
-**Liens**:
+_Abrogé par_:
 
-  - RECTIFICATION: Ordonnance n°2010-1307 du 28 octobre 2010, v. init.
+  - Loi n°2013-431 du 28 mai 2013 - art. 28
 
 _Cité par_:
 
   - Code des transports - art. L5141-3 (V)
   - Code des transports - art. L5141-4 (V)
   - Code des transports - art. L6132-2 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5331-5
 
 
 ###### Article L5242-17
@@ -31167,14 +31178,10 @@ _Codifié par_:
 
 Lorsque le propriétaire de l'épave est inconnu ou lorsque, dûment mis en demeure, directement ou en la personne de son
 représentant, il refuse ou néglige de procéder aux opérations de sauvetage, de récupération, d'enlèvement, de destruction ou
-à celles destinées à supprimer les dangers que présente cette épave, l'autorité administrative compétente peut intervenir
-d'office, aux frais et risques du propriétaire.
+à celles destinées à supprimer les dangers que présente cette épave, l'Etat ou l'autorité portuaire mentionnée à l'article L.
+5331-5, selon le cas peut intervenir d'office, aux frais et risques du propriétaire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°61-1262 du 24 novembre 1961 - art. 1 (VT), alinéa 4
 
 _Cité par_:
 
@@ -31182,9 +31189,17 @@ _Cité par_:
   - Code des transports - art. L5142-2 (V)
   - Code des transports - art. L6132-2 (V)
 
+_Cite_:
+
+  - Code des transports - art. L5331-5
+
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ##### Section 3 : Protection des câbles sous-marins<a id=593></a>
@@ -31235,8 +31250,8 @@ _Codifié par_:
 
 ###### Article L5243-1
 
-Sont habilités à rechercher et constater les infractions réprimées par les dispositions du présent titre ou les dispositions
-réglementaires prises pour leur application : 
+Outre les officiers et agents de police judiciaire, sont habilités à rechercher et constater les infractions réprimées par
+les dispositions du présent titre ou les dispositions réglementaires prises pour leur application : 
 
 1° Les administrateurs des affaires maritimes ; 
 
@@ -31265,11 +31280,15 @@ _Cité par_:
   - Code des transports - art. L5241-14 (V)
   - Code des transports - art. L5243-5 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
 _Cite_:
 
-  - Code des transports - art. L5222-1 (V)
-  - Code des transports - art. L5222-2 (V)
-  - Code des transports - art. L5242-1 (V)
+  - Code des transports - art. L5222-1
+  - Code des transports - art. L5222-2
+  - Code des transports - art. L5242-1
 
 _Codifié par_:
 
@@ -31857,21 +31876,22 @@ _Codifié par_:
 
 ###### Article L5262-4
 
-Sont habilités à constater les infractions aux dispositions du présent chapitre :
+Outre les officiers et agents de police judiciaire, sont habilités à constater les infractions aux dispositions du présent
+chapitre : 
 
-1° Les commandants des bâtiments de l'Etat ;
+1° Les commandants des bâtiments de l'Etat ; 
 
-2° Les administrateurs des affaires maritimes ;
+2° Les administrateurs des affaires maritimes ; 
 
-3° Les officiers du corps technique et administratif des affaires maritimes ;
+3° Les officiers du corps technique et administratif des affaires maritimes ; 
 
-4° Les inspecteurs des affaires maritimes ;
+4° Les inspecteurs des affaires maritimes ; 
 
-5° Les techniciens experts du service de la sécurité de la navigation maritime ;
+5° Les techniciens experts du service de la sécurité de la navigation maritime ; 
 
-6° Les contrôleurs des affaires maritimes ;
+6° Les contrôleurs des affaires maritimes ; 
 
-7° Les syndics des gens de mer ;
+7° Les syndics des gens de mer ; 
 
 8° Les capitaines des navires à bord desquels les délits ont été commis.
 
@@ -31880,6 +31900,10 @@ Sont habilités à constater les infractions aux dispositions du présent chapit
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5262-5
@@ -31944,7 +31968,7 @@ _Codifié par_:
 
 ###### Article L5262-7
 
-Les dispositions de l'article L. 5262-1 et du I de l'article L. 5262-2 sont applicables : 
+Les dispositions de l'article L. 5262-1 et          de l'article L. 5262-2 sont applicables : 
 
 1° Aux personnes, même étrangères, qui se trouvent sur un navire étranger, lorsque l'infraction a lieu dans les eaux
 intérieures maritimes ou les eaux territoriales ; 
@@ -31954,10 +31978,14 @@ Est alors considérée comme capitaine la personne qui, en fait, dirige le navir
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
 _Cite_:
 
-  - Code des transports - art. L5262-1 (V)
-  - Code des transports - art. L5262-2 (V)
+  - Code des transports - art. L5262-1
+  - Code des transports - art. L5262-2
 
 _Codifié par_:
 
@@ -32158,19 +32186,33 @@ liste est fixée par décret en Conseil d'Etat ;
 3° Remplir les conditions d'âge, d'ancienneté du permis de conduire les bateaux de plaisance à moteur, de qualification et
 d'expérience professionnelles, fixées par décret en Conseil d'Etat.
 
+Toutefois, par dérogation aux dispositions du présent article, les ressortissants d'un Etat membre de l'Union européenne ou
+d'un Etat partie à l'accord sur l'Espace économique européen peuvent exercer de façon temporaire et occasionnelle en France
+l'activité de formation à la conduite des bateaux de plaisance à moteur en mer et en eaux intérieures, sous réserve :
+
+1° D'être légalement établis dans un de ces Etats pour y exercer cette activité ;
+
+2° Lorsque ni l'activité ni la formation qui y conduit ne sont réglementées dans l'Etat, de l'avoir exercée pendant au moins
+deux ans dans cet Etat au cours des dix années qui précèdent la prestation en France. Cette condition n'est pas exigée si la
+formation conduisant à cette activité y est réglementée.
+
+Lorsqu'un ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique
+européen effectue pour la première fois une prestation en France, il en informe au préalable l'autorité administrative par
+une déclaration qui donne lieu à une vérification de ses qualifications professionnelles.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2006-10 du 5 janvier 2006 - art. 17 (Ab), alinéas 11 et 12, et 14 à 19, paragraphe II
 
 _Cite_:
 
-  - Code des transports - art. L5272-1 (V)
+  - Code des transports - art. L5272-1
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ##### Chapitre III : Sanctions pénales<a id=611></a>
@@ -35655,18 +35697,15 @@ _Codifié par_:
 
 Le matériel du pilotage est la propriété des pilotes.
 
-Un syndicat professionnel peut, s'il y est autorisé par ses statuts, acheter ce matériel pour le louer à ses membres, le leur
-prêter ou le répartir entre eux.
-
-L'exploitation à titre collectif s'effectue dans le cadre d'une station de pilotage.
+Un syndicat professionnel de pilotes peut exploiter le matériel de pilotage dans le cadre d'une station.
 
 Dans les stations où le service se fait au tour de liste, les rémunérations des pilotes sont mises en commun.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi du 28 mars 1928 - art. 22 (Ab), alinéas 1 et 4, sauf ecqc le règlement local
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cité par_:
 
@@ -35830,14 +35869,14 @@ _Codifié par_:
 ###### Article L5341-14
 
 Le pilote, par l'abandon du cautionnement mentionné à l'article L. 5341-13, peut s'affranchir de la responsabilité civile
-résultant de l'application des dispositions des articles L. 5341-11 et L. 5341-12, sauf si la faute est de nature à donner
-lieu à procédure disciplinaire.
+résultant de l'application des dispositions des articles L. 5341-11 et L. 5341-12, sauf si sa faute est d'avoir,
+volontairement et dans une intention criminelle, échoué, perdu ou détruit un navire par quelque moyen que ce soit.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°69-8 du 3 janvier 1969 - art. 21 (Ab)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cite_:
 
@@ -39943,7 +39982,7 @@ _Codifié par_:
 
 ###### Article L5542-14
 
-Les dispositions des articles L. 5542-8, L. 5542-11 et L. 5542-12 ne sont pas applicables aux contrats conclus : 
+Les dispositions des articles L. 5542-8, L. 5542-11 et    L. 5542-13  ne sont pas applicables aux contrats conclus : 
 
 1° Au titre des dispositions légales destinées à favoriser l'embarquement de certaines catégories de demandeurs d'emploi ; 
 
@@ -39961,14 +40000,14 @@ examens ou obtenir son diplôme, conformément aux dispositions réglementaires 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code du travail maritime - art. 10-7 (Ab)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cite_:
 
-  - Code des transports - art. L5542-11 (V)
-  - Code des transports - art. L5542-8 (V)
+  - Code des transports - art. L5542-11
+  - Code des transports - art. L5542-8
 
 _Cité par_:
 
@@ -43422,20 +43461,23 @@ Si le marin continue, après l'âge d'ouverture du droit à pension, à naviguer
 pour la pension, l'entrée en jouissance de celle-ci est reportée jusqu'à la date de cessation de l'activité et au plus tard à
 un âge fixé par décret en Conseil d'Etat.
 
+En cas de reprise de l'une de ces activités après liquidation de la pension, celle-ci est suspendue jusqu'à la date ou l'âge
+mentionnés au premier alinéa.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Code des pensions de retraite des marins frança... - art. L4 (Ab), alinéa 2
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cité par_:
 
   - Code des transports - art. L5552-6 (V)
   - Code des transports - art. L5552-7 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ###### Article L5552-6
@@ -44818,22 +44860,21 @@ _Codifié par_:
 ###### Article L5553-13
 
 Les marins de moins de soixante-cinq ans naviguant à la pêche titulaires d'une pension versée par le régime spécial
-d'assurance vieillesse ou par le régime de prévoyance des marins peuvent bénéficier d'une réduction de la cotisation
-normalement due au régime d'assurance vieillesse des marins en souscrivant un forfait dans des conditions fixées par décret
-en Conseil d'Etat.
+d'assurance vieillesse des marins peuvent bénéficier d'une réduction de la cotisation normalement due au régime d'assurance
+vieillesse des marins en souscrivant un forfait dans des conditions fixées par décret en Conseil d'Etat.
 
 Cette réduction, dont le montant est fixé par décret en Conseil d'Etat, est inversement proportionnelle à la durée de la
 navigation donnant lieu à cotisation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Code des pensions de retraite des marins frança... - art. L45 (Ab)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ##### Section 4 : Dispositions diverses<a id=842></a>
@@ -45487,19 +45528,20 @@ Les navigants résidant en France sont soumis aux dispositions des titres IV et 
 
 Les navigants résidant hors de France sont soumis aux dispositions des titres II et III du présent livre.
 
-Les navigants ressortissants d'un Etat de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou
-d'un Etat lié à la France par une convention bilatérale de sécurité sociale bénéficient des dispositions du présent chapitre,
-sous réserve des dispositions plus favorables prises en application du traité sur l'Union européenne.
+Les navigants ressortissants d'un Etat de l'Union européenne, d'un Etat partie à l'accord sur l'Espace économique européen,
+de la Confédération suisse ou d'un Etat lié à la France par une convention bilatérale de sécurité sociale bénéficient des
+dispositions du présent chapitre, sous réserve des dispositions plus favorables prises en application du traité sur l'Union
+européenne.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2005-412 du 3 mai 2005 - art. 3 (Ab), alinéa 2
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 #### TITRE II : LES RELATIONS DU TRAVAIL<a id=855></a>
@@ -45573,23 +45615,27 @@ _Codifié par_:
 ###### Article L5621-4
 
 La mise à disposition de tout navigant fait l'objet d'un contrat conclu par écrit entre l'armateur et l'entreprise de travail
-maritime, mentionnant :
+maritime, mentionnant : 
 
-1° Les conditions générales d'engagement, d'emploi, de travail et de vie à bord du navire ;
+1° Les conditions générales d'engagement, d'emploi, de travail et de vie à bord du navire ; 
 
-2° Les bases de calcul des rémunérations des navigants dans leurs différentes composantes ;
+2° Les bases de calcul des rémunérations des navigants dans leurs différentes composantes ; 
 
-3° Les conditions de la protection sociale prévues par les articles L. 5613-2 à L. 5613-4 et le ou les organismes gérant les
-risques mentionnés à ces articles.
+3° Les conditions de la protection sociale prévues par les articles L. 5631-2 à L. 5631-4 et le ou les organismes gérant les
+risques mentionnés à ces articles. 
 
 Une copie du contrat de mise à disposition se trouve à bord du navire, à l'exclusion des dispositions qui intéressent la
 relation commerciale entre l'entreprise de travail maritime et l'armateur.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2005-412 du 3 mai 2005 - art. 14 (Ab)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+_Cite_:
+
+  - Code des transports - art. L5631-2
 
 _Codifié par_:
 
@@ -45694,49 +45740,65 @@ _Codifié par_:
 ###### Article L5621-10
 
 Le contrat d'engagement conclu entre l'entreprise de travail maritime et chacun des navigants mis à disposition de l'armateur
-précise :
+précise : 
 
-1° La raison sociale de l'employeur ;
+1° La raison sociale de l'employeur ; 
 
-2° La durée du contrat ;
+2° La durée du contrat ; 
 
 3° L'emploi occupé à bord, la qualification professionnelle exigée et, le cas échéant, le nom du navire, son numéro
-d'identification internationale, le port et la date d'embarquement ;
+d'identification internationale, le port et la date d'embarquement ; 
 
-4° Le montant de la rémunération du navigant avec ses différentes composantes ;
+4° Le montant de la rémunération du navigant avec ses différentes composantes ; 
 
-5° Les conditions de la protection sociale prévues par les articles L. 5613-2 à L. 5613-4 et le ou les organismes gérant les
+5° Les conditions de la protection sociale prévues par les articles L. 5631-2 à L. 5631-4 et le ou les organismes gérant les
 risques mentionnés à ces articles.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Loi n°2005-412 du 3 mai 2005 - art. 15 (Ab), alinéas 1 à 6
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+_Abrogé par_:
+
+  - Loi n°2013-619 du 16 juillet 2013 - art. 28
 
 _Cité par_:
 
   - Code des transports - art. L5621-11 (Ab)
   - Code des transports - art. L5642-1 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+  - Code des transports - art. L5631-2
 
 
 ###### Article L5621-11
 
-Le contrat d'engagement conclu entre l'armateur et le navigant comporte les mentions prévues par l'article L. 5612-10.
+Le contrat d'engagement conclu entre l'armateur et le navigant comporte les mentions prévues par l'article L. 5621-10.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°2005-412 du 3 mai 2005 - art. 15 (Ab), alinéa 7
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
+
+_Abrogé par_:
+
+  - Loi n°2013-619 du 16 juillet 2013 - art. 28
+
+_Cite_:
+
+  - Code des transports - art. L5621-10
 
 
 ###### Article L5621-12
@@ -46661,19 +46723,6 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5715-9
-
-Les marins étrangers embarqués sur un navire immatriculé dans un département d'outre-mer sont affiliés au régime de
-prévoyance des marins même lorsque leurs services ne donnent pas lieu à cotisation au régime d'assurance vieillesse des
-marins.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-
 ###### Article L5715-10
 
 Pour l'application dans les départements d'outre-mer des dispositions de l'article L. 5556-11, les mots : " au 3° de
@@ -47101,22 +47150,6 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5735-9
-
-Les marins étrangers embarqués sur un navire immatriculé à Saint-Barthélemy sont affiliés au régime de prévoyance des marins
-même lorsque leurs services ne donnent pas lieu à cotisation au régime d'assurance vieillesse des marins.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-_Anciens textes_:
-
-  - Code du travail maritime - art. 119 (Ab), alinéa 1
-
-
 ###### Article L5735-10
 
 Pour l'application à Saint-Barthélemy des dispositions de l'article L. 5556-11, les mots : " au 3° de l'article L. 531-1 du
@@ -47384,22 +47417,6 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5745-9
-
-Les marins étrangers embarqués sur un navire immatriculé à Saint-Martin sont affiliés au régime de prévoyance des marins même
-lorsque leurs services ne donnent pas lieu à cotisation au régime d'assurance vieillesse des marins.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-_Anciens textes_:
-
-  - Code du travail maritime - art. 119 (Ab), alinéa 1
-
-
 ###### Article L5745-10
 
 Pour l'application à Saint-Martin des dispositions de l'article L. 5556-11, les mots : " au 4° de l'article L. 531-1 du code
@@ -47648,22 +47665,6 @@ employeurs et travailleurs indépendant pendant les six mois suivant la catastro
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5755-9
-
-Les marins étrangers embarqués sur un navire immatriculé à Saint-Pierre-et-Miquelon sont affiliés au régime de prévoyance des
-marins même lorsque leurs services ne donnent pas lieu à cotisation au régime d'assurance vieillesse des marins.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-_Anciens textes_:
-
-  - Code du travail maritime - art. 119 (Ab), alinéa 1
 
 
 ###### Article L5755-10
@@ -48065,17 +48066,24 @@ _Codifié par_:
 Les dispositions des articles L. 5511-1 à L. 5524-4, L. 5531-1 à L. 5532-1, L. 5542-18, alinéa 1er, L. 5542-19, 
 L. 5545-10, L. 5545-13 et L. 5546-3 sont applicables à Wallis-et-Futuna.
 
+Les dispositions du premier alinéa de l'article L. 5542-18 sont également applicables aux gens de mer non marins mentionnés à
+l'article L. 5511-1 affiliés au régime de protection sociale prévu au titre V du livre V de la présente partie.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cite_:
 
-  - Code des transports - art. L5511-1 (V)
-  - Code des transports - art. L5531-1 (V)
-  - Code des transports - art. L5542-18 (V)
-  - Code des transports - art. L5542-19 (V)
-  - Code des transports - art. L5545-10 (V)
-  - Code des transports - art. L5545-13 (V)
-  - Code des transports - art. L5546-3 (V)
+  - Code des transports - art. L5511-1
+  - Code des transports - art. L5531-1
+  - Code des transports - art. L5542-18
+  - Code des transports - art. L5542-19
+  - Code des transports - art. L5545-10
+  - Code des transports - art. L5545-13
+  - Code des transports - art. L5546-3
 
 _Codifié par_:
 
@@ -48273,17 +48281,24 @@ _Codifié par_:
 Les dispositions des articles L. 5511-1 à L. 5524-4, L. 5531-1 à L. 5532-1, L. 5542-18, alinéa 1er, L. 5542-19, L. 5545-10, 
 L. 5545-13 et L. 5546-3 sont applicables dans les Terres australes et antarctiques françaises.
 
+Les dispositions du premier alinéa de l'article L. 5542-18 sont également applicables aux gens de mer non marins mentionnés à
+l'article L. 5511-1 affiliés au régime de protection sociale prévu au titre V du livre V de la présente partie.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 _Cite_:
 
-  - Code des transports - art. L5511-1 (V)
-  - Code des transports - art. L5531-1 (V)
-  - Code des transports - art. L5542-18 (V)
-  - Code des transports - art. L5542-19 (V)
-  - Code des transports - art. L5545-10 (V)
-  - Code des transports - art. L5545-13 (V)
-  - Code des transports - art. L5545-3 (V)
+  - Code des transports - art. L5511-1
+  - Code des transports - art. L5531-1
+  - Code des transports - art. L5542-18
+  - Code des transports - art. L5542-19
+  - Code des transports - art. L5545-10
+  - Code des transports - art. L5545-13
+  - Code des transports - art. L5545-3
 
 _Codifié par_:
 
@@ -48453,19 +48468,6 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5795-10
-
-Les marins étrangers embarqués sur un navire battant pavillon français immatriculé dans les Terres australes et antarctiques
-françaises sont affiliés au régime de prévoyance des marins même lorsque leur service ne donnent pas lieu à cotisation au
-régime d'assurance vieillesse des marins.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-
 ###### Article L5795-11
 
 Sont immatriculés, à la demande de l'armateur, au registre des Terres australes et antarctiques françaises :
@@ -48558,29 +48560,6 @@ _Cite_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5795-15
-
-Les chapitres Ier à V du titre V du livre V de la présente partie sont applicables aux marins français embarqués sur des
-navires immatriculés au registre des Terres australes et antarctiques françaises.
-
-Les contributions patronales et les cotisations personnelles dues au titre des services accomplis à bord de ces navires sont
-calculées selon des taux fixés par voie réglementaire.
-
-Les taux de calcul des contributions patronales peuvent être modulés en fonction des caractéristiques techniques, des
-modalités d'exploitation et du trafic des navires, pour une partie de l'équipage qui ne peut excéder un pourcentage fixé par
-voie réglementaire.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
-
-_Anciens textes_:
-
-  - Code des pensions de retraite des marins frança... - art. L48 (Ab), alinéas 3 à 5
 
 
 ## SIXIEME PARTIE : AVIATION CIVILE<a id=921></a>
@@ -50557,11 +50536,11 @@ _Codifié par_:
 ###### Article L6232-5
 
 L'interdiction de conduite d'un aéronef quelconque peut être prononcée par le jugement ou l'arrêt pour une durée de trois
-mois à trois ans contre le pilote condamné, en vertu des articles L. 6142-5, L. 6142-6, L. 6232-2, L. 6232-7 et L. 6531-1.
+mois à trois ans contre le pilote condamné, en vertu des articles L. 6142-5, L. 6142-6, L. 6232-2, L. 6232-7 et L. 6541-1. 
 
 Si le pilote est condamné une seconde fois pour l'un de ces mêmes délits dans un délai de cinq ans après l'expiration de la
-peine d'emprisonnement ou le paiement de l'amende ou la prescription de ces deux peines, l'interdiction de conduire un
-aéronef est prononcée et sa durée est portée à trois ans et peut être doublée. 
+peine d'emprisonnement ou le paiement de l'amende ou la prescription de ces deux peines, la durée de l'interdiction de
+conduire un aéronef peut être doublée. 
 
 Les brevets dont sont titulaires les pilotes restent déposés pendant toute la durée de l'interdiction au greffe de la
 juridiction qui a prononcé l'interdiction. Les condamnés doivent effectuer les dépôts de ces brevets soit à ce greffe, soit à
@@ -50571,16 +50550,16 @@ quoi ils sont punis d'un an d'emprisonnement et de 9 000 € d'amende, sans pré
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'aviation civile - art. L150-8 (Ab)
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cite_:
 
-  - Code des transports - art. L6142-5 (V)
-  - Code des transports - art. L6232-2 (V)
-  - Code des transports - art. L6232-7 (V)
-  - Code des transports - art. L6531-1 (V)
+  - Code des transports - art. L6142-5
+  - Code des transports - art. L6232-2
+  - Code des transports - art. L6232-7
+  - Code des transports - art. L6541-1
 
 _Codifié par_:
 
@@ -54191,22 +54170,21 @@ transporteur aérien délivrés par l'autorité administrative conformément aux
 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté, dans des
 conditions fixées par décret en Conseil d'Etat.
 
-Les transporteurs aériens de passagers, de fret ou de courrier, mentionnés par le 3 de l'article 3 du règlement (CE) n°
-1008/2008, n'ont l'obligation de détenir une licence d'exploitation et un certificat de transport aérien que si la capacité
+L'exploitation des services aériens mentionnés par le 3 de l'article 3 du règlement (CE) n° 1008/2008 du 24 septembre 2008
+n'est subordonnée à la détention d'une licence d'exploitation et d'un certificat de transporteur aérien que si la capacité
 d'emport des aéronefs utilisés est supérieure à une limite fixée par décret en Conseil d'Etat. Ce décret détermine également
 les conditions d'octroi de la licence d'exploitation et du certificat de transporteur aérien, notamment en ce qui concerne
 les garanties morales, financières et techniques exigées du transporteur.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - 3 de l'article 3 du règlement (CE) n°1008/2008
-  - règlement (CE) n°1008/2008 du 24 septembre 2008
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cité par_:
 
@@ -54221,10 +54199,6 @@ _Cité par_:
   - Code des transports - art. L6724-1 (VT)
   - Code des transports - art. L6734-2 (V)
   - Code des transports - art. L6754-1 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L330-1 (Ab), alinéas 2 et 3
 
 
 ###### Article L6412-3
@@ -54391,7 +54365,7 @@ _Codifié par_:
 
 ###### Article L6421-3
 
-La responsabilité du transporteur aérien titulaire d'une licence d'exploitation délivrée en application du règlement (CEE) n°
+La responsabilité du transporteur aérien titulaire d'une licence d'exploitation délivrée en application du règlement (CE) n°
 1008/2008 du 24 septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté est
 soumise, en ce qui concerne le transport aérien de passagers et de leurs bagages, aux dispositions du règlement (CE) n°
 889/2002 du 13 mai 2002 modifiant le règlement (CE) n° 2027/97 relatif à la responsabilité des transporteurs aériens en cas
@@ -54399,6 +54373,10 @@ d'accident et aux stipulations de la convention pour l'unification de certaines 
 international signée à Montréal le 28 mai 1999.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cité par_:
 
@@ -54410,11 +54388,6 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-_Cite_:
-
-  - règlement (CE) n°2027/97
-  - règlement (CE) n°889/2002 du 13 mai 2002
 
 
 ###### Article L6421-4
@@ -55196,25 +55169,28 @@ _Codifié par_:
 L'activité de pilote ou de copilote, mentionnée au 1° de l'article L. 6521-1, ne peut être exercée dans le transport aérien
 public au-delà de l'âge de soixante ans. 
 
-Toutefois, l'intéressé peut être maintenu en activité s'il en formule la demande et répond aux conditions de validité des
-titres aéronautiques mentionnées au 1° de l'article L. 6521-2 ainsi qu'à la vérification de son aptitude médicale et des
-conditions de réalisation des vols en équipage, déterminées par décret en Conseil d'Etat. 
+Toutefois, l'intéressé qui répond aux conditions de validité des titres aéronautiques mentionnées au 1° de l'article L.
+6521-2 ainsi qu'à la vérification de son aptitude médicale est maintenu en activité au-delà de soixante ans pour une année
+supplémentaire sur sa demande, uniquement dans le cas des vols en équipage avec plus d'un pilote, à la condition qu'un seul
+des pilotes soit âgé de plus de soixante ans. Cette demande est formulée dans des conditions définies par décret en Conseil
+d'Etat. 
 
-Cette demande doit, si l'intéressé souhaite pouvoir continuer à exercer l'activité de pilote ou de copilote, être renouvelée
-chaque année, et en dernier lieu l'année précédant son soixante-cinquième anniversaire.
+Cette demande doit, si l'intéressé souhaite pouvoir, dans la limite de l'âge de soixante-cinq ans, continuer à exercer
+l'activité de pilote ou de copilote, être renouvelée chacune des quatre années suivantes, dans les mêmes conditions.
 
 L'intéressé peut à tout moment, à partir de l'âge de soixante ans, demander à bénéficier d'un reclassement dans un emploi au
 sol. 
 
-Le contrat de travail du navigant n'est pas rompu du seul fait d'une demande de reclassement ou du fait que la limite d'âge
-mentionnée au premier ou au troisième alinéa est atteinte, sauf s'il est impossible à l'employeur de lui proposer un
-reclassement dans un emploi au sol ou si l'intéressé refuse d'accepter l'emploi qui lui est proposé.
+Le contrat de travail du navigant n'est pas rompu du seul fait d'une demande de reclassement, du fait que la limite d'âge
+mentionnée au premier ou au troisième alinéa est atteinte, ou lorsqu'il ne demande pas à poursuivre son activité de navigant,
+sauf s'il est impossible à l'employeur de lui proposer un reclassement dans un emploi au sol ou si l'intéressé refuse
+d'accepter l'emploi qui lui est proposé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'aviation civile - art. L421-9 (VT), paragraphes I et II, limite d'âge des pilotes
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cité par_:
 
@@ -55226,7 +55202,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6521-1 (V)
+  - Code des transports - art. L6521-1
+  - Code des transports - art. L6521-2
 
 _Codifié par_:
 
@@ -55238,30 +55215,30 @@ _Codifié par_:
 L'activité de personnel navigant commercial, mentionnée au 4° de l'article L. 6521-1, ne peut être exercée dans le transport
 aérien public au-delà de l'âge de cinquante-cinq ans. 
 
-Toutefois, l'intéressé peut être maintenu en activité s'il en formule la demande et répond aux conditions de validité des
-titres aéronautiques mentionnées au 1° de l'article L. 6521-2 ainsi qu'à la vérification de son aptitude médicale dans des
-conditions déterminées par décret en Conseil d'Etat. 
+Toutefois, l'intéressé qui répond aux conditions de validité des titres aéronautiques mentionnées au 1° de l'article L.
+6521-2 ainsi qu'à la vérification de son aptitude médicale est maintenu en activité au-delà de cinquante-cinq ans pour une
+année supplémentaire sur sa demande. Cette demande est formulée dans des conditions définies par décret en Conseil d'Etat. 
 
 Cette demande doit, si l'intéressé souhaite pouvoir continuer à exercer l'activité de personnel navigant commercial, être
-renouvelée chaque année, et en dernier lieu l'année précédant son soixante-cinquième anniversaire.
+renouvelée dans les mêmes conditions les neuf années suivantes.
 
 L'intéressé peut à tout moment, à partir de l'âge de cinquante-cinq ans, demander à bénéficier d'un reclassement dans un
 emploi au sol. 
 
-Le contrat de travail du navigant n'est pas rompu du seul fait d'une demande de reclassement ou du fait que la limite d'âge
-mentionnée au premier ou au troisième alinéa est atteinte, sauf s'il est impossible à l'employeur de lui proposer un
-reclassement dans un emploi au sol ou si l'intéressé refuse d'accepter l'emploi qui lui est proposé.
+Le contrat de travail n'est pas rompu du seul fait que l'intéressé atteint l'âge de cinquante-cinq ans et renonce ou épuise
+son droit à bénéficier du maintien en activité en qualité de navigant, sauf impossibilité pour l'employeur de proposer un
+reclassement au sol ou refus de l'intéressé d'accepter l'emploi qui lui est proposé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'aviation civile - art. L421-9 (VT), paragraphes III et IV, limite d'âge des personnels de cabine
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cite_:
 
-  - Code des transports - art. L6521-1 (V)
-  - Code des transports - art. L6521-2 (V)
+  - Code des transports - art. L6521-1
+  - Code des transports - art. L6521-2
 
 _Cité par_:
 
@@ -55497,18 +55474,18 @@ _Codifié par_:
 ###### Article L6523-4
 
 L'indemnité de licenciement, dont les modalités de calcul sont définies par décret en Conseil d'Etat, est allouée, sauf en
-cas de faute grave, au personnel licencié lorsqu'il n'a pas droit à la jouissance immédiate d'une pension de retraite,
-quelles que soient la nature de son contrat et son ancienneté.
+cas de faute grave, au personnel licencié lorsqu'il n'a pas droit à la jouissance immédiate d'une pension de retraite, quelle
+que soit son ancienneté.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L423-1 (VT), alinéa 4, ecqc l'indemnité de licenciement
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
 ###### Article L6523-5
@@ -56589,21 +56566,31 @@ instituant une agence européenne de la sécurité aérienne, ou le règlement (
 Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
 remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
-agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars
-2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen ou des règlements pris pour leur
-application par la Commission européenne ".
+agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
+".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des transports - art. L6221-1 (V)
-  - règlement (CE) n°216/2008 du 20 février 2008
-  - règlement (CE) n°550/2004
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
+_Abrogé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+_Cite_:
+
+  - Code des transports - art. L6221-1
+  - règlement (CE) n°550/2004
 
 
 ##### Chapitre III : Les aérodromes<a id=1046></a>
@@ -56819,11 +56806,18 @@ civile et instituant une agence européenne de la sécurité aérienne, ou le r�
 du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
 remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
-agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars
-2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen ou des règlements pris pour leur
-application par la Commission européenne ".
+agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
+".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cité par_:
 
@@ -56832,7 +56826,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6221-1 (V)
+  - Code des transports - art. L6221-1
   - règlement (CE) n°216/2008 du 20 février 2008
   - règlement (CE) n°550/2004
 
@@ -56894,10 +56888,10 @@ L'activité de transporteur aérien public à Saint-Pierre-et-Miquelon est subor
 d'exploitation et d'un certificat de transporteur aérien délivrés par l'autorité administrative dans des conditions fixées
 par décret en Conseil d'Etat.
 
-Le transport aérien de passagers, de fret ou de courrier, prévu par le 3 de l'article 3 du règlement (CE) n° 1008/2008 du 24
-septembre 2008 établissant des règles communes pour l'exploitation de services aériens dans la Communauté, ne nécessite la
-détention d'une licence d'exploitation et d'un certificat de transport aérien que si la capacité d'emport des aéronefs
-utilisés est supérieure à une limite fixée par décret en Conseil d'Etat.
+L'exploitation des services aériens mentionnés par le 3 de l'article 3 du règlement (CE) n° 1008/2008 du 24 septembre 2008
+établissant des règles communes pour l'exploitation de services aériens dans la Communauté n'est subordonnée à la détention
+d'une licence d'exploitation et d'un certificat de transporteur aérien que si la capacité d'emport des aéronefs utilisés est
+supérieure à une limite fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -56908,6 +56902,10 @@ _Cite_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
 ###### Article L6754-3
@@ -56987,9 +56985,12 @@ civile et instituant une agence européenne de la sécurité aérienne, ou le r�
 du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
 remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
-agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars
-2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen ou des règlements pris pour leur
-application par la Commission européenne ".
+agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
+".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
 
 **Liens relatifs à cet article**
 
@@ -57000,13 +57001,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6221-1 (V)
+  - Code des transports - art. L6221-1
   - règlement (CE) n°216/2008 du 20 février 2008
   - règlement (CE) n°550/2004
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
 ##### Chapitre III : Les aérodromes<a id=1061></a>
@@ -57239,13 +57244,20 @@ _Codifié par_:
 
 ###### Article L6765-2
 
-Pour son application en Nouvelle-Calédonie, le dernier alinéa de l'article L. 6521-4est supprimé.
+Pour son application en Nouvelle-Calédonie, le dernier alinéa de l'article L. 6521-4 est supprimé. 
+
+Pour son application en Nouvelle-Calédonie, le dernier alinéa de l'article L. 6521-5 est supprimé.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
 _Cite_:
 
-  - Code des transports - art. L6521-4 (V)
+  - Code des transports - art. L6521-4
+  - Code des transports - art. L6521-5
 
 _Codifié par_:
 
@@ -57321,11 +57333,18 @@ civile et instituant une agence européenne de la sécurité aérienne, ou le r�
 du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
 remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
-agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars
-2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen ou des règlements pris pour leur
-application par la Commission européenne ".
+agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
+".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cité par_:
 
@@ -57334,7 +57353,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6221-1 (V)
+  - Code des transports - art. L6221-1
   - règlement (CE) n°216/2008 du 20 février 2008
   - règlement (CE) n°550/2004
 
@@ -57601,13 +57620,20 @@ _Codifié par_:
 
 ###### Article L6775-2
 
-Pour son application en Polynésie française, le dernier alinéa de l'article L. 6521-4est supprimé.
+Pour son application en Polynésie française, le dernier alinéa de l'article L. 6521-4 est supprimé. 
+
+Pour son application en Polynésie française, le dernier alinéa de l'article L. 6521-5 est supprimé.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
 _Cite_:
 
-  - Code des transports - art. L6521-4 (V)
+  - Code des transports - art. L6521-4
+  - Code des transports - art. L6521-5
 
 _Codifié par_:
 
@@ -57667,11 +57693,22 @@ civile et instituant une agence européenne de la sécurité aérienne, ou le r�
 du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen " sont
 remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n° 216/2008 du 20 février 2008
 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation civile et instituant une
-agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et du Conseil du 10 mars
-2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen ou des règlements pris pour leur
-application par la Commission européenne ".
+agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par la Commission européenne
+".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 _Cité par_:
 
@@ -57680,13 +57717,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6221-1 (V)
+  - Code des transports - art. L6221-1
   - règlement (CE) n°216/2008 du 20 février 2008
   - règlement (CE) n°550/2004
-
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
 ##### Chapitre III : Les aérodromes<a id=1073></a>
@@ -58077,19 +58110,27 @@ domaine de l'aviation civile et instituant une agence européenne de la sécurit
 Parlement européen et du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel
 unique européen " sont remplacés par les mots : " par les règles applicables en métropole en vertu du règlement (CE) n°
 216/2008 du 20 février 2008 du Parlement européen et du Conseil concernant des règles communes dans le domaine de l'aviation
-civile et instituant une agence européenne de la sécurité aérienne, ou le règlement (CE) n° 550/2004 du Parlement européen et
-du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le Ciel unique européen ".
+civile et instituant une agence européenne de la sécurité aérienne ou en vertu des règlements pris pour son application par
+la Commission européenne ".
+
+L'autorité administrative compétente peut accorder des dérogations aux exigences de fond précisées dans ces règles, en cas de
+circonstances opérationnelles ou de nécessités opérationnelles imprévues et urgentes d'une durée limitée, pour autant que ces
+dérogations ne réduisent pas le niveau de sécurité.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des transports - art. L6221-1 (V)
-  - règlement (CE) n°216/2008 du 20 février 2008
-  - règlement (CE) n°550/2004
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-204 du 24 février 2011 - art. 6
+
+_Cite_:
+
+  - Code des transports - art. L6221-1
+  - règlement (CE) n°216/2008 du 20 février 2008
+  - règlement (CE) n°550/2004
 
 

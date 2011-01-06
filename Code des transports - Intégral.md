@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-07
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -301,7 +301,7 @@ Version Consolidée au 2011-01-01
               - [Sous-section 5 : Dispositions particulières applicables aux services à la demande et aux transports scolaires (art. L3111-12 à L3111-13)](#298)
             - [Section 2 : Autorité organisatrice des services en région Ile-de-France (art. L3111-14 à L3111-16)](#299)
           - [Chapitre II : Exécution des services occasionnels (art. L3112-1 à L3112-2)](#300)
-          - [Chapitre III : Accès à la profession de transporteur public routier de personnes (art. L3113-1)](#301)
+          - [Chapitre III : Accès à la profession de transporteur public routier de personnes (art. L3113-1 à L3113-2)](#301)
           - [Chapitre IV : Sanctions administratives et sanctions pénales (art. L3114-1 à L3114-3)](#302)
             - [Section 1 : Recherche, constatation et poursuite des infractions (art. L3114-1)](#303)
             - [Section 2 : Sanctions administratives (art. L3114-2)](#304)
@@ -325,8 +325,8 @@ Version Consolidée au 2011-01-01
         - [TITRE III : LE TRANSPORT PRIVE ROUTIER DE PERSONNES (art. L3131-1)](#322)
           - [Chapitre unique (art. L3131-1)](#323)
       - [LIVRE II : LE TRANSPORT ROUTIER  DE MARCHANDISES (art. L3211-1 à L3242-5)](#324)
-        - [TITRE IER : LA PROFESSION (art. L3211-1)](#325)
-          - [Chapitre Ier : Accès aux professions du transport public routier de marchandises (art. L3211-1)](#326)
+        - [TITRE IER : LA PROFESSION (art. L3211-1 à L3211-2)](#325)
+          - [Chapitre Ier : Accès aux professions du transport public routier de marchandises (art. L3211-1 à L3211-2)](#326)
         - [TITRE II : LES CONTRATS (art. L3221-1 à L3224-1)](#327)
           - [Chapitre Ier : Dispositions communes (art. L3221-1 à L3221-4)](#328)
             - [Section 1 : Dispositions générales applicables aux contrats (art. L3221-1 à L3221-2)](#329)
@@ -368,7 +368,7 @@ Version Consolidée au 2011-01-01
         - [TITRE V : SANCTIONS ADMINISTRATIVES  ET SANCTIONS PENALES (art. L3451-1 à L3452-10)](#365)
           - [Chapitre Ier : Recherche et constatation des infractions (art. L3451-1 à L3451-2)](#366)
           - [Chapitre II : Sanctions administratives et sanctions pénales (art. L3452-1 à L3452-10)](#367)
-            - [Section 1 : Sanctions administratives (art. L3452-1 à L3452-5)](#368)
+            - [Section 1 : Sanctions administratives (art. L3452-1 à L3452-5-2)](#368)
             - [Section 2 : Sanctions pénales (art. L3452-6 à L3452-10)](#369)
       - [LIVRE V : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L3500-1 à L3561-1)](#370)
         - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE-MER (art. L3511-1 à L3511-2)](#371)
@@ -16930,15 +16930,15 @@ _Codifié par_:
 ###### Article L3113-1
 
 Les entreprises de transport public de personnes établies sur le territoire national doivent être inscrites à un registre
-tenu par les autorités de l'Etat dans les conditions prévues par l'article L. 1421-1.L'inscription à ce registre peut être
-subordonnée à des conditions d'honorabilité professionnelle, de capacité financière et de capacité professionnelle selon des
-modalités fixées par décret en Conseil d'Etat.
+tenu par les autorités de l'Etat dans les conditions prévues par l'article L. 1421-1. L'inscription à ce registre peut être
+subordonnée à des conditions d'établissement, d'honorabilité professionnelle, de capacité financière et de capacité
+professionnelle selon des modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 7 (Ab), alinéa 1, paragraphe I
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
 
 _Cité par_:
 
@@ -16959,11 +16959,48 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L1421-1 (V)
+  - Code des transports - art. L1421-1
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L3113-2
+
+Un décret en Conseil d'Etat détermine les modalités d'application du règlement (CE) n° 1071/2009 du Parlement européen et du
+Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de
+transporteur par route, et abrogeant la directive 96/26/CE du Conseil.
+
+Il fixe notamment :
+
+a) La liste des personnes de l'entreprise, dirigeants et gestionnaire de transport, devant satisfaire à ces conditions ;
+
+b) La liste des infractions qui font perdre l'honorabilité professionnelle ;
+
+c) Les modalités selon lesquelles les autorités compétentes se prononcent sur la réhabilitation de l'entreprise et des
+dirigeants qui ne satisfont plus la condition d'honorabilité professionnelle et sur la réhabilitation du gestionnaire de
+transport qui a été déclaré inapte à gérer les activités de transport d'une entreprise ;
+
+d) Les modalités selon lesquelles les autorités compétentes informent un Etat membre de la situation, au regard de la
+condition d'honorabilité professionnelle, d'un gestionnaire de transport résidant ou ayant résidé en France ;
+
+e) Les modalités selon lesquelles les autorités compétentes se prononcent sur la situation, au regard de la condition
+d'honorabilité professionnelle, de l'entreprise de transport ou du gestionnaire de transport qui a fait l'objet, hors de
+France, d'une condamnation pénale grave au sens du règlement (CE) n° 1071/2009 du 21 octobre 2009 précité ou d'une sanction
+pour les infractions les plus graves aux actes de droit de l'Union européenne mentionnés par ce règlement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
+
+_Cité par_:
+
+  - Code des transports - art. L3113-3 (V)
+  - Code des transports - art. L3211-2 (V)
+  - Code des transports - art. L3551-1 (V)
 
 
 ##### Chapitre IV : Sanctions administratives et sanctions pénales<a id=302></a>
@@ -17944,15 +17981,15 @@ _Codifié par_:
 ###### Article L3211-1
 
 L'exercice des professions de transporteur public routier de marchandises, y compris de déménagement, ou de loueur de
-véhicules industriels avec conducteur peut être subordonné, selon des modalités fixées par décret en Conseil d'Etat, à des
-conditions d'honorabilité professionnelle, de capacité financière et de capacité professionnelle ainsi qu'à l'inscription à
-un registre tenu par les autorités de l'Etat.
+véhicules industriels avec conducteur peut être subordonné, selon des modalités fixées par décret en Conseil d'Etat,  à des
+conditions d'établissement, d'honorabilité professionnelle, de capacité financière et de capacité professionnelle ainsi qu'à
+l'inscription à un registre tenu par les autorités de l'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 8 (Ab), alinéa 1, paragraphe I
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
 
 _Cité par_:
 
@@ -17969,6 +18006,28 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L3211-2
+
+Le décret en Conseil d'Etat prévu à l'article L. 3113-2 détermine les conditions d'application du règlement (CE) n° 1071/2009
+du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour
+exercer la profession de transporteur par route, et abrogeant la directive 96/26/ CE du Conseil.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L3113-2
+
+_Cité par_:
+
+  - Code des transports - art. L3211-3 (V)
+  - Code des transports - art. L3551-1 (V)
 
 
 #### TITRE II : LES CONTRATS<a id=327></a>
@@ -19992,14 +20051,19 @@ _Codifié par_:
 
 ###### Article L3452-5
 
-Les modalités d'application de la présente section, notamment celles concernant la publication de la sanction administrative,
-sont fixées par décret en Conseil d'Etat. Ce décret fixe la liste des infractions mentionnées à l'article L. 3452-2.
+Les modalités selon lesquelles, en application du règlement (CE) n° 1072/2009 du Parlement européen et du Conseil du 21
+octobre 2009 établissant des règles communes pour l'accès au marché du transport international de marchandises par route et
+du règlement (CE) n° 1073/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes pour
+l'accès au marché international des services de transport par autocars et autobus, et modifiant le règlement (CE) n°
+561/2006, les autorités compétentes sanctionnent les transporteurs établis en France qui ont commis des infractions graves à
+la législation communautaire dans le domaine des transports par route sont fixées par le décret prévu à l'article L.
+3452-5-2.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°82-1153 du 30 décembre 1982 - art. 37 (VT), alinéa 4, paragraphe III
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
 
 _Cite_:
 
@@ -20012,6 +20076,51 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L3452-5-1
+
+Les modalités selon lesquelles, en application des règlements cités à l'article L. 3452-5, un transporteur non résident qui a
+commis en France, à l'occasion d'un transport de cabotage, une infraction grave au droit de l'Union européenne dans le
+domaine des transports routiers peut faire l'objet d'une interdiction temporaire de cabotage sur le territoire français sont
+fixées par le décret prévu à l'article L. 3452-5-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L3452-5
+  - Code des transports - art. L3452-5-2
+
+_Cité par_:
+
+  - Code des transports - art. R3116-12 (VD)
+  - Code des transports - art. R3116-21 (V)
+
+
+###### Article L3452-5-2
+
+Les modalités d'application de la présente section, notamment celles concernant la publication de la sanction administrative
+et l'interdiction temporaire de cabotage, sont fixées par décret en Conseil d'Etat. Ce décret fixe la liste des infractions
+mentionnées à l'article L. 3452-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-12 du 5 janvier 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L3452-2
+
+_Cité par_:
+
+  - Code des transports - art. L3452-5-1 (V)
 
 
 ##### Section 2 : Sanctions pénales<a id=369></a>
@@ -51606,17 +51715,29 @@ _Codifié par_:
 
 Les exploitants d'aérodromes civils et les gestionnaires des zones civiles des aérodromes ouverts au trafic aérien commercial
 dont le ministère de la défense est affectataire principal sont tenus d'assurer, sous l'autorité du titulaire des pouvoirs de
-police mentionné à l'article L. 6332-2, le sauvetage et la lutte contre les incendies d'aéronefs, ainsi que la prévention du
-péril aviaire. Ils peuvent, en tout ou partie, confier l'exécution de ces missions, par voie de convention, au service
-départemental d'incendie et de secours, à l'autorité militaire ou à un organisme agréé dans des conditions fixées par voie
-réglementaire.
+police mentionné à l'article L. 6332-2, le sauvetage et la lutte contre les incendies d'aéronefs ainsi que la prévention du
+péril animalier. Ils peuvent, en tout ou partie, confier par voie de convention à l'autorité militaire, au service
+départemental d'incendie et de secours ou à tout autre organisme l'exécution de ces missions. Les modalités d'exercice des
+missions mentionnées au présent article ainsi que les contrôles auxquels sont soumis ces organismes sont précisés par décret.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2011-12 du 5 janvier 2011 - art. 14
 
 _Cité par_:
 
   - Loi n°2012-1270 du 20 novembre 2012 - art. 35 (V)
   - Code des transports - art. L6321-4 (V)
+
+_Anciens textes_:
+
+  - Code de l'aviation civile - art. L213-3 (Ab), alinéa 1
+
+_Cite_:
+
+  - Code des transports - art. L6332-2
 
 _Codifié par_:
 
@@ -55003,20 +55124,30 @@ _Codifié par_:
 
 ###### Article L6521-2
 
-Nul ne peut faire partie du personnel navigant professionnel de l'aéronautique civile s'il n'est :
+Nul ne peut faire partie du personnel navigant professionnel de l'aéronautique civile s'il n'est : 
 
-1° Titulaire d'un titre aéronautique en état de validité ;
+1° Titulaire d'un titre aéronautique en état de validité ; 
 
 2° Inscrit sur le registre correspondant à celle des fonctions mentionnées à l'article L. 6521-1 dont il relève et à l'une
-des trois catégories suivantes :
+des trois catégories suivantes : 
 
-a) Essais et réceptions ;
+a) Essais et réceptions ; 
 
-b) Transport aérien ;
+b) Transport aérien ; 
 
-c) Travail aérien.
+c) Travail aérien. 
+
+Le personnel navigant prestataire de services de transport ou de travail aériens établi dans un Etat membre de l'Union
+européenne autre que la France ou dans un Etat partie à l'accord sur l'Espace économique européen ou aux accords bilatéraux
+passés par l'Union européenne avec la Confédération suisse ainsi que le personnel navigant salarié d'un prestataire de
+services de transport ou de travail aériens établi dans l'un des Etats précités, qui exercent temporairement leur activité en
+France, n'entrent pas dans le champ d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2011-12 du 5 janvier 2011 - art. 13
 
 _Cité par_:
 
@@ -55025,6 +55156,16 @@ _Cité par_:
   - Code des transports - art. L6521-4 (V)
   - Code des transports - art. L6521-5 (V)
   - Code des transports - art. L6527-1 (V)
+
+_Anciens textes_:
+
+  - Code de l'aviation civile - art. L421-2 (Ab)
+  - Code de l'aviation civile - art. L421-3 (Ab)
+  - Code de l'aviation civile - art. L421-4 (Ab), possession de titres pour être PN professionnel
+
+_Cite_:
+
+  - Code des transports - art. L6521-1 (V)
 
 _Codifié par_:
 
@@ -56045,11 +56186,11 @@ _Codifié par_:
 
 ###### Article L6527-1
 
-Le personnel navigant professionnel civil salarié inscrit sur les registres prévus par l'article L. 6521-3, qui exerce de
+Le personnel navigant professionnel civil salarié, nonobstant les dispositions du 2° de l'article L. 6521-2, qui exerce de
 manière habituelle la profession de navigant à titre d'occupation principale, bénéficie d'un régime complémentaire de
-retraite auquel il est obligatoirement affilié.
+retraite auquel il est obligatoirement affilié. 
 
-Les navigants stagiaires de l'aéronautique civile sont assujettis à ce régime de retraite.
+Les navigants stagiaires de l'aéronautique civile sont assujettis à ce régime de retraite. 
 
 Les personnels navigants répondant aux conditions du premier alinéa et employés hors de France par une entreprise étrangère
 peuvent également être affiliés sur la demande de ladite entreprise ou, à défaut, sur leur demande dans des conditions fixées
@@ -56066,9 +56207,13 @@ _Cité par_:
   - Code des transports - art. L6527-4 (V)
   - Code des transports - art. L6527-9 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'aviation civile - art. L426-1 (Ab), alinéas 1 et 2, bénéfice de la retraite complémentaire
+  - Loi n°2011-12 du 5 janvier 2011 - art. 13
+
+_Cite_:
+
+  - Code des transports - art. L6521-2
 
 _Codifié par_:
 

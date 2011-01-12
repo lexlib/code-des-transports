@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-01-07
+Version Consolidée au 2011-01-13
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -6860,19 +6860,23 @@ Les sanctions administratives, notamment la radiation du registre, ne peuvent ê
 commissionnaires de transport qu'après avis d'une commission des sanctions administratives placée auprès de l'autorité
 compétente dont la composition et les modalités de fonctionnement sont fixées par un décret en Conseil d'Etat.
 
+Une commission nationale des sanctions administratives placée auprès du ministre chargé des transports est saisie pour avis
+des recours hiérarchiques formés contre les sanctions administratives prononcées par l'autorité compétente après avis de la
+commission mentionnée à l'alinéa précédent.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°82-1153 du 30 décembre 1982 - art. 17 (M), alinéa 9
-
-_Cité par_:
-
-  - Code des transports - art. R3452-1 (VD)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 10
+
+_Cité par_:
+
+  - Code des transports - art. R3452-1 (VD)
 
 
 ##### Section 2 : Sanctions pénales<a id=106></a>
@@ -20407,7 +20411,11 @@ Les sanctions, notamment les mesures de retrait et d'immobilisation prévues par
 peuvent être prononcées qu'après avis d'une commission des sanctions administratives placée auprès de l'autorité
 administrative et présidée par un magistrat de l'ordre administratif. Elle comprend des représentants des entreprises qui
 participent aux opérations de transport, de leurs salariés et des différentes catégories d'usagers ainsi que des
-représentants de l'Etat.
+représentants de l'Etat. 
+
+Une commission nationale des sanctions administratives placée auprès du ministre chargé des transports est saisie pour avis
+des recours hiérarchiques formés contre les sanctions administratives prononcées par l'autorité compétente après avis de la
+commission mentionnée à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -20427,13 +20435,17 @@ _Cité par_:
   - Code des transports - art. R3113-30 (V)
   - Code des transports - art. R3452-1 (VD)
 
-_Cite_:
-
-  - Code des transports - art. L3452-1 (V)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L3452-1 (V)
 
 
 ###### Article L3452-4

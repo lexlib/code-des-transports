@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-11
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -542,550 +542,563 @@ Version Consolidée au 2011-05-19
           - [Chapitre II : Régimes spéciaux de responsabilité (art. L5122-1 à L5122-25)](#539)
             - [Section 1 : Responsabilité civile des exploitants de navires nucléaires (art. L5122-1 à L5122-24)](#540)
             - [Section 2 : Responsabilité civile des propriétaires de navires pour les dommages résultant de la pollution par les hydrocarbures (art. L5122-25)](#541)
-        - [TITRE III : REPARATION DES ACCIDENTS DE NAVIGATION (art. L5131-1 à L5133-19)](#542)
-          - [Chapitre Ier : Abordage (art. L5131-1 à L5131-7)](#543)
-            - [Section 1 : Dispositions générales (art. L5131-1 à L5131-2)](#544)
-            - [Section 2 : Responsabilité des dommages (art. L5131-3 à L5131-5)](#545)
-            - [Section 3 : Actions en réparation (art. L5131-6 à L5131-7)](#546)
-          - [Chapitre II : Assistance (art. L5132-1 à L5132-11)](#547)
-            - [Section 1 : Dispositions générales (art. L5132-1)](#548)
-            - [Section 2 : Rémunération de l'assistance aux navires et bateaux (art. L5132-2 à L5132-10)](#549)
-            - [Section 3 : Responsabilité de l'assistant (art. L5132-11)](#550)
-          - [Chapitre III : Avaries (art. L5133-1 à L5133-19)](#551)
-            - [Section 1 : Dispositions générales (art. L5133-1 à L5133-2)](#552)
-            - [Section 2 : Classement en avaries communes (art. L5133-3 à L5133-6)](#553)
-            - [Section 3 : Contributions aux avaries communes (art. L5133-7 à L5133-15)](#554)
-            - [Section 4 : Règlement des avaries communes (art. L5133-16 à L5133-19)](#555)
-        - [TITRE IV : NAVIRES ABANDONNES ET EPAVES (art. L5141-1 à L5142-8)](#556)
-          - [Chapitre Ier : Navires abandonnés (art. L5141-1 à L5141-7)](#557)
-            - [Section 1 : Dispositions générales (art. L5141-1 à L5141-2)](#558)
-            - [Section 2 : Déchéance du propriétaire (art. L5141-3 à L5141-4)](#559)
-            - [Section 3 : Dispositions relatives à la cargaison (art. L5141-5 à L5141-7)](#560)
-          - [Chapitre II : Epaves (art. L5142-1 à L5142-8)](#561)
-            - [Section 1 : Dispositions générales (art. L5142-2 à L5142-6)](#562)
-            - [Section 2 : Dispositions pénales (art. L5142-7 à L5142-8)](#563)
-      - [LIVRE II : LA NAVIGATION MARITIME (art. L5211-1 à L5273-3)](#564)
-        - [TITRE IER : DROIT DE PASSAGE INOFFENSIF  DANS LES EAUX TERRITORIALES (art. L5211-1 à L5211-5)](#565)
-          - [Chapitre unique (art. L5211-1 à L5211-5)](#566)
-        - [TITRE II : DOCUMENTS DE BORD (art. L5221-1 à L5223-1)](#567)
-          - [Chapitre Ier : Dispositions générales (art. L5221-1)](#568)
-          - [Chapitre II : Constatation des infractions (art. L5222-1 à L5222-2)](#569)
-          - [Chapitre III : Sanctions pénales (art. L5223-1)](#570)
-        - [TITRE III : TITRES DE NAVIGATION MARITIME (art. L5231-1 à L5236-1)](#571)
-          - [Chapitre Ier : Dispositions générales (art. L5231-1 à L5231-2)](#572)
-          - [Chapitre II : Rôle d'équipage (art. L5232-1 à L5232-4)](#573)
-          - [Chapitre III : Permis de circulation (art. L5233-1)](#574)
-          - [Chapitre IV : Carte de circulation (art. L5234-1)](#575)
-          - [Chapitre V : Dispositions diverses (art. L5235-1)](#576)
-          - [Chapitre VI : Constatation des infractions (art. L5236-1)](#577)
-        - [TITRE IV : SECURITE ET PREVENTION DE LA POLLUTION (art. L5241-1 à L5243-10)](#578)
-          - [Chapitre Ier : Sécurité des navires et prévention de la pollution (art. L5241-1 à L5241-16)](#579)
-            - [Section 1 : Champ d'application (art. L5241-1)](#580)
-            - [Section 2 : Entretien des navires (art. L5241-2)](#581)
-            - [Section 3 : Titres de sécurité et certificats de prévention de la pollution (art. L5241-3 à L5241-4)](#582)
-            - [Section 4 : Mesures d'immobilisation (art. L5241-5 à L5241-6)](#583)
-            - [Section 5 : Visites des navires (art. L5241-7 à L5241-8)](#584)
-            - [Section 6 : Mesures de prévention de la pollution (art. L5241-9 à L5241-10)](#585)
-            - [Section 7 : Sanctions pénales (art. L5241-11 à L5241-16)](#586)
-          - [Chapitre II : Sécurité de la navigation (art. L5242-1 à L5242-20)](#587)
-            - [Section 1 : Dispositions relatives à la circulation maritime (art. L5242-1 à L5242-15)](#588)
-              - [Sous-section 1 : Infractions aux règles générales de conduite en mer (art. L5242-1 à L5242-6)](#589)
-              - [Sous-section 2 : Infractions liées à la nature polluante ou dangereuse des cargaisons (art. L5242-7 à L5242-13)](#590)
-              - [Sous-section 3 : Dispositions particulières aux navires nucléaires (art. L5242-14 à L5242-15)](#591)
-            - [Section 2 : Dispositions relatives aux navires abandonnés et aux épaves (art. L5242-16 à L5242-18)](#592)
-            - [Section 3 : Protection des câbles sous-marins (art. L5242-19)](#593)
-            - [Section 4 : Groupement d'intérêt public concourant à la sécurité maritime (art. L5242-20)](#594)
-          - [Chapitre III : Constatation des infractions (art. L5243-1 à L5243-10)](#595)
-            - [Section 1 : Dispositions générales (art. L5243-1 à L5243-6)](#596)
-            - [Section 2 : Dispositions particulières aux épaves (art. L5243-7 à L5243-10)](#597)
-        - [TITRE V : SURETE DES NAVIRES (art. L5251-1 à L5253-3)](#598)
-          - [Chapitre Ier : Dispositions générales et contrôles (art. L5251-1 à L5251-6)](#599)
-          - [Chapitre II : Sanctions administratives (art. L5252-1 à L5252-2)](#600)
-          - [Chapitre III : Sanctions pénales (art. L5253-1 à L5253-3)](#601)
-        - [TITRE VI : SECOURS, ASSISTANCE EN MER  ET EVENEMENTS DE MER (art. L5261-1 à L5263-3)](#602)
-          - [Chapitre Ier : Recherche et sauvetage en mer (art. L5261-1 à L5261-3)](#603)
-          - [Chapitre II : Assistance (art. L5262-1 à L5262-7)](#604)
-            - [Section 1 : Obligation d'assistance (art. L5262-1 à L5262-3)](#605)
-            - [Section 2 : Sanctions pénales (art. L5262-4 à L5262-7)](#606)
-          - [Chapitre III : Abordage, échouement et abandon (art. L5263-1 à L5263-3)](#607)
-        - [TITRE VII : FORMATION A LA CONDUITE DES NAVIRES  ET BATEAUX DE PLAISANCE A MOTEUR (art. L5271-1 à L5273-3)](#608)
-          - [Chapitre Ier : Titres de conduite en mer et en eaux intérieures (art. L5271-1)](#609)
-          - [Chapitre II : Etablissements de formation à la conduite en mer et en eaux intérieures (art. L5272-1 à L5272-3)](#610)
-          - [Chapitre III : Sanctions pénales (art. L5273-1 à L5273-3)](#611)
-      - [LIVRE III : LES PORTS MARITIMES (art. L5311-1 à L5352-5)](#612)
-        - [TITRE IER : ORGANISATION DES PORTS MARITIMES (art. L5311-1 à L5314-11)](#613)
-          - [Chapitre Ier : Dispositions communes (art. L5311-1 à L5311-2)](#614)
-          - [Chapitre II : Grands ports maritimes (art. L5312-1 à L5312-18)](#615)
-            - [Section 1 : Création et missions (art. L5312-1 à L5312-5)](#616)
-            - [Section 2 : Organisation (art. L5312-6 à L5312-12)](#617)
-              - [Sous-section 1 : Conseil de surveillance (art. L5312-7 à L5312-8)](#618)
-              - [Sous-section 2 : Directoire (art. L5312-9 à L5312-10)](#619)
-              - [Sous-section 3 : Conseil de développement (art. L5312-11)](#620)
-              - [Sous-section 4 : Conseil de coordination interportuaire (art. L5312-12)](#621)
-            - [Section 3 : Exploitation (art. L5312-13 à L5312-14)](#622)
-            - [Section 4 : Dispositions diverses (art. L5312-15 à L5312-18)](#623)
-          - [Chapitre III : Ports autonomes (art. L5313-1 à L5313-13)](#624)
-            - [Section 1 : Création, modification et missions (art. L5313-1 à L5313-6)](#625)
-            - [Section 2 : Organisation et fonctionnement (art. L5313-7 à L5313-13)](#626)
-          - [Chapitre IV : Ports maritimes relevant des collectivités territoriales et de leurs groupements (art. L5314-1 à L5314-11)](#627)
-        - [TITRE II : DROITS DE PORT (art. L5321-1 à L5321-4)](#628)
-          - [Chapitre unique (art. L5321-1 à L5321-4)](#629)
-        - [TITRE III : POLICE DES PORTS MARITIMES (art. L5331-1 à L5338-1)](#630)
-          - [Chapitre Ier : Dispositions générales (art. L5331-1 à L5331-16)](#631)
-            - [Section 1 : Champ d'application (art. L5331-1)](#632)
-            - [Section 2 : Compétences (art. L5331-2 à L5331-10)](#633)
-              - [Sous-section 1 : Compétences de l'Etat (art. L5331-2 à L5331-4)](#634)
-              - [Sous-section 2 : Compétences de l'autorité portuaire et de l'autorité investie du pouvoir de police portuaire (art. L5331-5 à L5331-10)](#635)
-            - [Section 3 : Agents chargés de la police (art. L5331-11 à L5331-16)](#636)
-              - [Sous-section 1 : Officiers de port et officiers de port adjoints (art. L5331-11 à L5331-12)](#637)
-              - [Sous-section 2 : Surveillants de port et auxiliaires de surveillance (art. L5331-13 à L5331-16)](#638)
-          - [Chapitre II : Sûreté portuaire (art. L5332-1 à L5332-7)](#639)
-          - [Chapitre IV : Accueil des navires (art. L5334-1 à L5334-13)](#640)
-            - [Section 1 : Police du plan d'eau (art. L5334-1 à L5334-5)](#641)
-            - [Section 2 : Suivi du trafic (art. L5334-6)](#642)
-            - [Section 3 : Déchets d'exploitation des navires et résidus de cargaison (art. L5334-7 à L5334-11)](#643)
-            - [Section 4 : Chargement et déchargement des navires vraquiers (art. L5334-12 à L5334-13)](#644)
-          - [Chapitre V : Conservation du domaine public (art. L5335-1 à L5335-5)](#645)
-          - [Chapitre VI : Sanctions administratives et dispositions pénales (art. L5336-1 à L5336-17)](#646)
-            - [Section 1 : Sanctions administratives (art. L5336-1)](#647)
-            - [Section 2 : Recherche, constatation et poursuite des infractions pénales (art. L5336-2 à L5336-9)](#648)
-            - [Section 3 : Sanctions pénales (art. L5336-10 à L5336-17)](#649)
-              - [Sous-section 1 : Sûreté portuaire (art. L5336-10)](#650)
-              - [Sous-section 2 : Déchets d'exploitation et résidus de cargaison (art. L5336-11)](#651)
-              - [Sous-section 3 : Chargement et déchargement de navires vraquiers (art. L5336-12 à L5336-14)](#652)
-              - [Sous-section 4 : Signalisation maritime (art. L5336-15 à L5336-16)](#653)
-              - [Sous-section 5 : Marchandises dangereuses (art. L5336-17)](#654)
-          - [Chapitre VII : Police de la grande voirie (art. L5337-1 à L5337-5)](#655)
-            - [Section 1 : Constatation des contraventions de grande voirie (art. L5337-1 à L5337-3)](#656)
-            - [Section 2 : Atteintes à la conservation du domaine public (art. L5337-4)](#657)
-            - [Section 3 : Usage du plan d'eau (art. L5337-5)](#658)
-          - [Chapitre VIII : Dispositions finales (art. L5338-1)](#659)
-        - [TITRE IV : LES SERVICES PORTUAIRES (art. L5341-1 à L5344-8)](#660)
-          - [Chapitre Ier : Le pilotage (art. L5341-1 à L5341-18)](#661)
-            - [Section 1 : Service de pilotage et rémunération du pilote (art. L5341-1 à L5341-6)](#662)
-            - [Section 2 : Les stations de pilotage (art. L5341-7 à L5341-10)](#663)
-            - [Section 3 : Responsabilité du pilote (art. L5341-11 à L5341-18)](#664)
-          - [Chapitre II : Le remorquage (art. L5342-1 à L5342-6)](#665)
-            - [Section 1 : Le remorquage portuaire et le lamanage (art. L5342-1 à L5342-3)](#666)
-            - [Section 2 : Le remorquage en haute mer (art. L5342-4 à L5342-6)](#667)
-          - [Chapitre III : La manutention portuaire (art. L5343-1 à L5343-23)](#668)
-            - [Section 1 : Les ouvriers dockers (art. L5343-1 à L5343-7)](#669)
-            - [Section 2 : L'organisation de la main-d'œuvre intermittente (art. L5343-8 à L5343-22)](#670)
-              - [Sous-section 1 : Le bureau central de la main-d'œuvre du port (art. L5343-8)](#671)
-              - [Sous-section 2 : La Caisse nationale de garantie des ouvriers dockers (art. L5343-9 à L5343-14)](#672)
-              - [Sous-section 3 : Les limites à l'emploi de dockers professionnels intermittents (art. L5343-15 à L5343-17)](#673)
-              - [Sous-section 4 : L'indemnité de garantie (art. L5343-18 à L5343-20)](#674)
-              - [Sous-section 5 : Dispositions du droit du travail applicables aux dockers (art. L5343-21 à L5343-22)](#675)
-            - [Section 3 : Mesure d'application (art. L5343-23)](#676)
-          - [Chapitre IV : Sanctions administratives et dispositions pénales (art. L5344-1 à L5344-8)](#677)
-            - [Section 1 : Sanctions administratives (art. L5344-1 à L5344-4)](#678)
-            - [Section 2 : Dispositions pénales (art. L5344-5 à L5344-8)](#679)
-        - [TITRE V : VOIES FERREES PORTUAIRES (art. L5351-1 à L5352-5)](#680)
-          - [Chapitre Ier : Compétences (art. L5351-1 à L5351-5)](#681)
-          - [Chapitre II : Utilisation et contrôle (art. L5352-1 à L5352-5)](#682)
-      - [LIVRE IV : LE TRANSPORT MARITIME (art. L5411-1 à L5434-1)](#683)
-        - [TITRE IER : L'ENTREPRISE D'ARMEMENT MARITIME (art. L5411-1 à L5413-5)](#684)
-          - [Chapitre Ier : L'armateur (art. L5411-1 à L5411-2)](#685)
-          - [Chapitre II : Les agents de l'armateur (art. L5412-1 à L5412-8)](#686)
-            - [Section 1 : Dispositions générales (art. L5412-1)](#687)
-            - [Section 2 : Le capitaine (art. L5412-2 à L5412-8)](#688)
-          - [Chapitre III : Les consignataires (art. L5413-1 à L5413-5)](#689)
-            - [Section 1 : Le consignataire du navire (art. L5413-1 à L5413-2)](#690)
-            - [Section 2 : Le consignataire de la cargaison (art. L5413-3 à L5413-4)](#691)
-            - [Section 3 : Dispositions communes (art. L5413-5)](#692)
-        - [TITRE II : LES CONTRATS  RELATIFS A L'EXPLOITATION DU NAVIRE (art. L5421-1 à L5425-1)](#693)
-          - [Chapitre Ier : Le transport de personnes (art. L5421-1 à L5421-12)](#694)
-            - [Section 1 : Le contrat de passage (art. L5421-1)](#695)
-            - [Section 2 : La responsabilité pour dommage aux passagers (art. L5421-2 à L5421-8)](#696)
-            - [Section 3 : La responsabilité pour dommage aux bagages (art. L5421-9 à L5421-12)](#697)
-          - [Chapitre II : Le transport de marchandises (art. L5422-1 à L5422-26)](#698)
-            - [Section 1 : Le contrat de transport (art. L5422-1 à L5422-2)](#699)
-            - [Section 2 : Le connaissement (art. L5422-3 à L5422-5)](#700)
-            - [Section 3 : L'exécution du contrat (art. L5422-6 à L5422-11)](#701)
-            - [Section 4 : La responsabilité du transporteur (art. L5422-12 à L5422-18)](#702)
-            - [Section 5 : Les entreprises de manutention (art. L5422-19 à L5422-25)](#703)
-            - [Section 6 : Dispositions pénales (art. L5422-26)](#704)
-          - [Chapitre III : L'affrètement (art. L5423-1 à L5423-14)](#705)
-            - [Section 1 : Dispositions générales (art. L5423-1 à L5423-7)](#706)
-            - [Section 2 : L'affrètement coque nue (art. L5423-8 à L5423-9)](#707)
-            - [Section 3 : L'affrètement à temps (art. L5423-10 à L5423-12)](#708)
-            - [Section 4 : L'affrètement au voyage (art. L5423-13 à L5423-14)](#709)
-          - [Chapitre IV : Les ventes maritimes (art. L5424-1 à L5424-11)](#710)
-            - [Section 1 : Disposition générale (art. L5424-1)](#711)
-            - [Section 2 : Vente au départ (art. L5424-2 à L5424-5)](#712)
-            - [Section 3 : Vente à l'arrivée (art. L5424-6 à L5424-8)](#713)
-            - [Section 4 : Vente "coût, assurance, fret" (art. L5424-9 à L5424-11)](#714)
-          - [Chapitre V : Les assurances maritimes (art. L5425-1)](#715)
-        - [TITRE III : DISPOSITIONS PARTICULIERES RELATIVES  A CERTAINS TRANSPORTS MARITIMES (art. L5431-1 à L5434-1)](#716)
-          - [Chapitre Ier : Desserte des îles (art. L5431-1 à L5431-4)](#717)
-          - [Chapitre II : Transports réservés (art. L5432-1)](#718)
-          - [Chapitre III : Transport du pétrole brut (art. L5433-1)](#719)
-          - [Chapitre IV : Dispositions applicables en temps de crise (art. L5434-1)](#720)
-      - [LIVRE V : LES GENS DE MER (art. L5511-1 à L5556-11)](#721)
-        - [TITRE IER : DEFINITIONS (art. L5511-1 à L5511-5)](#722)
-          - [Chapitre unique (art. L5511-1 à L5511-5)](#723)
-        - [TITRE II : L'EQUIPAGE (art. L5521-1 à L5524-4)](#724)
-          - [Chapitre Ier : Conditions d'accès et d'exercice de la profession de marin (art. L5521-1 à L5521-3)](#725)
-          - [Chapitre II : Effectifs et nationalité (art. L5522-1 à L5522-2)](#726)
-          - [Chapitre III : Dispositions pénales (art. L5523-1 à L5523-2)](#727)
-            - [Section 1 : Recherche et constatation des infractions (art. L5523-1)](#728)
-            - [Section 2 : Sanctions pénales (art. L5523-2)](#729)
-          - [Chapitre IV : Sanctions professionnelles (art. L5524-1 à L5524-4)](#730)
-            - [Section unique : Dispositions communes (art. L5524-1 à L5524-4)](#731)
-        - [TITRE III : LA COLLECTIVITE DU BORD (art. L5531-1 à L5532-1)](#732)
-          - [Chapitre Ier : Police intérieure et discipline à bord (art. L5531-1 à L5531-18)](#733)
-            - [Section 1 : Dispositions communes (art. L5531-1 à L5531-3)](#734)
-            - [Section 2 : Fautes disciplinaires (art. L5531-4 à L5531-5)](#735)
-            - [Section 3 : Sanctions pénales (art. L5531-6 à L5531-18)](#736)
-              - [Sous-section 1 : Insubordination, complot et violences (art. L5531-6 à L5531-8)](#737)
-              - [Sous-section 2 : Abus d'autorité et outrages (art. L5531-9 à L5531-11)](#738)
-              - [Sous-section 3 : Manquements aux obligations professionnelles (art. L5531-12 à L5531-14)](#739)
-              - [Sous-section 4 : Présence irrégulière à bord (art. L5531-15 à L5531-17)](#740)
-              - [Sous-section 5 : Autres sanctions (art. L5531-18)](#741)
-          - [Chapitre II : Dispositions particulières aux personnels militaires (art. L5532-1)](#742)
-        - [TITRE IV : LE DROIT DU TRAVAIL (art. L5541-1 à L5549-3)](#743)
-          - [Chapitre Ier : Champ d'application (art. L5541-1 à L5541-2)](#744)
-          - [Chapitre II : Les relations individuelles de travail (art. L5542-1 à L5542-50)](#745)
-            - [Section 1 : Le contrat de travail (art. L5542-1 à L5542-47)](#746)
-              - [Sous-section 1 : Formation et contenu du contrat (art. L5542-1 à L5542-6)](#747)
-              - [Sous-section 2 : Le contrat à durée déterminée ou au voyage (art. L5542-7 à L5542-14)](#748)
-              - [Sous-section 3 : La période d'essai (art. L5542-15 à L5542-17)](#749)
-              - [Sous-section 4 : Exécution du contrat (art. L5542-18 à L5542-37)](#750)
-                - [Paragraphe 1 : Obligations générales de l'employeur (art. L5542-18 à L5542-20)](#751)
-                - [Paragraphe 2 : Cas de blessure ou de maladie du marin (art. L5542-21 à L5542-28)](#752)
-                - [Paragraphe 3 : Rapatriement (art. L5542-29 à L5542-33)](#753)
-                - [Paragraphe 4 : Obligations du marin (art. L5542-34 à L5542-36)](#754)
-                - [Paragraphe 5 : Adaptation à la profession de marin de modalités particulières d'exécution du contrat de travail (art. L5542-37)](#755)
-              - [Sous-section 5 : Rupture du contrat (art. L5542-38 à L5542-47)](#756)
-                - [Paragraphe 1 : Dispositions communes à tous les contrats (art. L5542-38 à L5542-39)](#757)
-                - [Paragraphe 2 : Contrat de travail à durée indéterminée (art. L5542-40 à L5542-44)](#758)
-                  - [1. Dispositions générales (art. L5542-40 à L5542-42)](#759)
-                  - [2. Préavis et indemnité de licenciement (art. L5542-43 à L5542-44)](#760)
-                - [Paragraphe 3 : Contrat à durée déterminée ou au voyage (art. L5542-45 à L5542-46)](#761)
-                - [Paragraphe 4 : Dispositions particulières au capitaine (art. L5542-47)](#762)
-            - [Section 2 : La résolution des litiges individuels (art. L5542-48 à L5542-49)](#763)
-            - [Section 3 : Sanctions pénales (art. L5542-50)](#764)
-          - [Chapitre III : Les relations collectives de travail (art. L5543-1 à L5543-4)](#765)
-            - [Section 1 : Négociation collective. ― Conventions et accords collectifs de travail (art. L5543-1)](#766)
-            - [Section 2 : Les institutions représentatives du personnel (art. L5543-2)](#767)
-            - [Section 3 : Les salariés protégés (art. L5543-3)](#768)
-            - [Section 4 : Les conflits collectifs (art. L5543-4)](#769)
-          - [Chapitre IV : Durée du travail, repos, congés et salaire (art. L5544-1 à L5544-62)](#770)
-            - [Section 1 : Durée du travail et organisation du travail (art. L5544-1 à L5544-14)](#771)
-              - [Sous-section 1 : Travail effectif et astreintes (art. L5544-2 à L5544-3)](#772)
-              - [Sous-section 2 : Durée du travail (art. L5544-4 à L5544-8)](#773)
-                - [Paragraphe 1 : Dispositions générales (art. L5544-4 à L5544-5)](#774)
-                - [Paragraphe 2 : Durée du travail à la pêche (art. L5544-6 à L5544-7)](#775)
-                - [Paragraphe 3 : Heures supplémentaires (art. L5544-8)](#776)
-              - [Sous-section 3 : Répartition et aménagement des horaires (art. L5544-9)](#777)
-              - [Sous-section 4 : Travail à temps partiel et travail intermittent (art. L5544-10)](#778)
-              - [Sous-section 5 : Organisation du travail à bord (art. L5544-11 à L5544-14)](#779)
-            - [Section 2 : Repos et jours fériés (art. L5544-15 à L5544-22)](#780)
-              - [Sous-section 1 : Repos quotidien (art. L5544-15 à L5544-16)](#781)
-              - [Sous-section 2 : Repos hebdomadaire (art. L5544-17 à L5544-21)](#782)
-                - [Paragraphe 1 : Dispositions générales (art. L5544-17 à L5544-20)](#783)
-                - [Paragraphe 2 : Entreprises de cultures marines (art. L5544-21)](#784)
-              - [Sous-section 3 : Jours fériés (art. L5544-22)](#785)
-            - [Section 3 : Congés payés et autres congés (art. L5544-23 à L5544-25)](#786)
-            - [Section 4 : Dispositions particulières à certains marins (art. L5544-26 à L5544-33)](#787)
-              - [Sous-section 1 : Jeunes travailleurs (art. L5544-26 à L5544-32)](#788)
-              - [Sous-section 2 : Le capitaine (art. L5544-33)](#789)
-            - [Section 5 : Salaire et avantages divers (art. L5544-34 à L5544-62)](#790)
-              - [Sous-section 1 : Détermination du salaire (art. L5544-34 à L5544-49)](#791)
-                - [Paragraphe 1 : Dispositions générales (art. L5544-34 à L5544-37)](#792)
-                - [Paragraphe 2 : Modalités de calcul de la rémunération (art. L5544-38 à L5544-39)](#793)
-                - [Paragraphe 3 : Fixation des rémunérations (art. L5544-40 à L5544-45)](#794)
-                - [Paragraphe 4 : Participation à la rémunération d'assistance (art. L5544-46)](#795)
-                - [Paragraphe 5 : Décès ou disparition du marin (art. L5544-47 à L5544-49)](#796)
-              - [Sous-section 2 : Paiement du salaire (art. L5544-50 à L5544-57)](#797)
-                - [Paragraphe 1 : Avances et acomptes (art. L5544-50 à L5544-54)](#798)
-                - [Paragraphe 2 : Paiement du salaire (art. L5544-55 à L5544-57)](#799)
-              - [Sous-section 3 : Protection du salaire (art. L5544-58 à L5544-61)](#800)
-              - [Sous-section 4 : Dispositions particulières au capitaine (art. L5544-62)](#801)
-          - [Chapitre V : Santé et sécurité au travail (art. L5545-1 à L5545-14)](#802)
-            - [Section 1 : Dispositions générales (art. L5545-1 à L5545-8)](#803)
-              - [Sous-section 1 : Obligations de l'employeur et des gens de mer (art. L5545-1 à L5545-3)](#804)
-              - [Sous-section 2 : Droit d'alerte et de retrait (art. L5545-4)](#805)
-              - [Sous-section 3 : Jeunes travailleurs (art. L5545-5 à L5545-8)](#806)
-            - [Section 2 : Lieux de travail et conditions de vie à bord des navires (art. L5545-9 à L5545-10)](#807)
-            - [Section 3 : Equipements de travail et de protection individuelle (art. L5545-11)](#808)
-            - [Section 6 : Institutions et organismes de prévention (art. L5545-12 à L5545-13)](#809)
-            - [Section 7 : Contrôle et sanctions (art. L5545-14)](#810)
-          - [Chapitre VI : L'emploi (art. L5546-1 à L5546-3)](#811)
-            - [Section 2 : Service public de l'emploi et placement (art. L5546-1)](#812)
+        - [TITRE II : REGIMES DE RESPONSABILITE ET OBLIGATIONS D'ASSURANCE (art.  à L5123-9)](#542)
+          - [Chapitre Ier : Régime général de responsabilité (art.  à L5122-25)](#543)
+          - [Chapitre II : Régimes spéciaux de responsabilité (art.  à L5122-25)](#544)
+          - [Chapitre III : Obligations d'assurance (art. L5123-1 à L5123-9)](#545)
+            - [Section 1 : Obligations d'assurance générales (art. L5123-1)](#546)
+            - [Section 2 : Obligations d'assurance couvrant des risques particuliers (art. L5123-2 à L5123-4)](#547)
+            - [Section 3 : Sanctions des obligations d'assurance (art. L5123-5 à L5123-6)](#548)
+            - [Section 4 : Constatation des infractions (art. L5123-7 à L5123-9)](#549)
+        - [TITRE III : REPARATION DES ACCIDENTS DE NAVIGATION (art. L5131-1 à L5133-19)](#550)
+          - [Chapitre Ier : Abordage (art. L5131-1 à L5131-7)](#551)
+            - [Section 1 : Dispositions générales (art. L5131-1 à L5131-2)](#552)
+            - [Section 2 : Responsabilité des dommages (art. L5131-3 à L5131-5)](#553)
+            - [Section 3 : Actions en réparation (art. L5131-6 à L5131-7)](#554)
+          - [Chapitre II : Assistance (art. L5132-1 à L5132-13)](#555)
+            - [Section 1 : Dispositions générales (art. L5132-1 à L5132-2)](#556)
+            - [Section 2 : Rémunération de l'assistance (art. L5132-3 à L5132-9)](#557)
+            - [Section 3 : Conditions d'exécution des opérations d'assistance (art. L5132-10 à L5132-11)](#558)
+            - [Section 4 : Responsabilité de l'assistant (art. L5132-12 à L5132-13)](#559)
+          - [Chapitre III : Avaries (art. L5133-1 à L5133-19)](#560)
+            - [Section 1 : Dispositions générales (art. L5133-1 à L5133-2)](#561)
+            - [Section 2 : Classement en avaries communes (art. L5133-3 à L5133-6)](#562)
+            - [Section 3 : Contributions aux avaries communes (art. L5133-7 à L5133-15)](#563)
+            - [Section 4 : Règlement des avaries communes (art. L5133-16 à L5133-19)](#564)
+        - [TITRE IV : NAVIRES ABANDONNES ET EPAVES (art. L5141-1 à L5142-8)](#565)
+          - [Chapitre Ier : Navires abandonnés (art. L5141-1 à L5141-7)](#566)
+            - [Section 1 : Dispositions générales (art. L5141-1 à L5141-2)](#567)
+            - [Section 2 : Déchéance du propriétaire (art. L5141-3 à L5141-4)](#568)
+            - [Section 3 : Dispositions relatives à la cargaison (art. L5141-5 à L5141-7)](#569)
+          - [Chapitre II : Epaves (art. L5142-1 à L5142-8)](#570)
+            - [Section 1 : Dispositions générales (art. L5142-2 à L5142-6)](#571)
+            - [Section 2 : Dispositions pénales (art. L5142-7 à L5142-8)](#572)
+      - [LIVRE II : LA NAVIGATION MARITIME (art. L5211-1 à L5273-3)](#573)
+        - [TITRE IER : DROIT DE PASSAGE INOFFENSIF  DANS LES EAUX TERRITORIALES (art. L5211-1 à L5211-5)](#574)
+          - [Chapitre unique (art. L5211-1 à L5211-5)](#575)
+        - [TITRE II : DOCUMENTS DE BORD (art. L5221-1 à L5223-1)](#576)
+          - [Chapitre Ier : Dispositions générales (art. L5221-1)](#577)
+          - [Chapitre II : Constatation des infractions (art. L5222-1 à L5222-2)](#578)
+          - [Chapitre III : Sanctions pénales (art. L5223-1)](#579)
+        - [TITRE III : TITRES DE NAVIGATION MARITIME (art. L5231-1 à L5236-1)](#580)
+          - [Chapitre Ier : Dispositions générales (art. L5231-1 à L5231-2)](#581)
+          - [Chapitre II : Rôle d'équipage (art. L5232-1 à L5232-4)](#582)
+          - [Chapitre III : Permis de circulation (art. L5233-1)](#583)
+          - [Chapitre IV : Carte de circulation (art. L5234-1)](#584)
+          - [Chapitre V : Dispositions diverses (art. L5235-1)](#585)
+          - [Chapitre VI : Constatation des infractions (art. L5236-1)](#586)
+        - [TITRE IV : SECURITE ET PREVENTION DE LA POLLUTION (art. L5241-1 à L5243-10)](#587)
+          - [Chapitre Ier : Sécurité des navires et prévention de la pollution (art. L5241-1 à L5241-16)](#588)
+            - [Section 1 : Champ d'application (art. L5241-1)](#589)
+            - [Section 2 : Entretien et exploitation des navires (art. L5241-2)](#590)
+            - [Section 3 : Titres de sécurité et certificats de prévention de la pollution (art. L5241-3 à L5241-4-1)](#591)
+            - [Section 3 bis : Autres titres et certificats (art. L5241-4-2)](#592)
+            - [Section 3 ter : Contrôle par l'Etat du port (art. L5241-4-3 à L5241-4-4)](#593)
+            - [Section 4 : Refus d'accès au port et mesures d'immobilisations (art. L5241-4-5 à L5241-6)](#594)
+            - [Section 5 : Visites et inspections des navires (art. L5241-7 à L5241-8)](#595)
+            - [Section 6 : Mesures de prévention de la pollution (art. L5241-9 à L5241-10)](#596)
+            - [Section 6 bis : Cargaisons (art. L5241-10-1 à L5241-10-2)](#597)
+            - [Section 7 : Sanctions pénales (art. L5241-11 à L5241-16)](#598)
+          - [Chapitre II : Sécurité de la navigation (art. L5242-1 à L5242-24)](#599)
+            - [Section 1 : Dispositions relatives à la circulation maritime (art. L5242-1 à L5242-15)](#600)
+              - [Sous-section 1 : Infractions aux règles générales de conduite en mer (art. L5242-1 à L5242-6-1)](#601)
+              - [Sous-section 2 : Infractions liées à la nature polluante ou dangereuse des cargaisons (art. L5242-7 à L5242-13)](#602)
+              - [Sous-section 3 : Dispositions particulières aux navires nucléaires (art. L5242-14 à L5242-15)](#603)
+            - [Section 2 : Dispositions relatives aux navires abandonnés et aux épaves (art. L5242-16 à L5242-18)](#604)
+            - [Section 3 : Protection des câbles sous-marins (art. L5242-19)](#605)
+            - [Section 4 : Groupement d'intérêt public concourant à la sécurité maritime (art. L5242-20)](#606)
+            - [Section 5 : Dommages aux installations de signalisation maritime ou d'aide à la navigation (art. L5242-21 à L5242-24)](#607)
+          - [Chapitre III : Constatation des infractions (art. L5243-1 à L5243-10)](#608)
+            - [Section 1 : Dispositions générales (art. L5243-1 à L5243-6)](#609)
+            - [Section 2 : Dispositions particulières aux épaves (art. L5243-7 à L5243-10)](#610)
+        - [TITRE V : SURETE DES NAVIRES (art. L5251-1 à L5253-3)](#611)
+          - [Chapitre Ier : Dispositions générales et contrôles (art. L5251-1 à L5251-6)](#612)
+          - [Chapitre II : Sanctions administratives (art. L5252-1 à L5252-2)](#613)
+          - [Chapitre III : Sanctions pénales (art. L5253-1 à L5253-3)](#614)
+        - [TITRE VI : SECOURS, ASSISTANCE EN MER  ET EVENEMENTS DE MER (art. L5261-1 à L5263-3)](#615)
+          - [Chapitre Ier : Recherche et sauvetage en mer (art. L5261-1 à L5261-3)](#616)
+          - [Chapitre II : Assistance (art. L5262-1 à L5262-7)](#617)
+            - [Section 1 : Obligation d'assistance (art. L5262-1 à L5262-3)](#618)
+            - [Section 2 : Sanctions pénales (art. L5262-4 à L5262-7)](#619)
+          - [Chapitre III : Abordage, échouement et abandon (art. L5263-1 à L5263-3)](#620)
+        - [TITRE VII : FORMATION A LA CONDUITE DES NAVIRES  ET BATEAUX DE PLAISANCE A MOTEUR (art. L5271-1 à L5273-3)](#621)
+          - [Chapitre Ier : Titres de conduite en mer et en eaux intérieures (art. L5271-1)](#622)
+          - [Chapitre II : Etablissements de formation à la conduite en mer et en eaux intérieures (art. L5272-1 à L5272-3)](#623)
+          - [Chapitre III : Sanctions pénales (art. L5273-1 à L5273-3)](#624)
+      - [LIVRE III : LES PORTS MARITIMES (art. L5311-1 à L5352-5)](#625)
+        - [TITRE IER : ORGANISATION DES PORTS MARITIMES (art. L5311-1 à L5314-11)](#626)
+          - [Chapitre Ier : Dispositions communes (art. L5311-1 à L5311-2)](#627)
+          - [Chapitre II : Grands ports maritimes (art. L5312-1 à L5312-18)](#628)
+            - [Section 1 : Création et missions (art. L5312-1 à L5312-5)](#629)
+            - [Section 2 : Organisation (art. L5312-6 à L5312-12)](#630)
+              - [Sous-section 1 : Conseil de surveillance (art. L5312-7 à L5312-8)](#631)
+              - [Sous-section 2 : Directoire (art. L5312-9 à L5312-10)](#632)
+              - [Sous-section 3 : Conseil de développement (art. L5312-11)](#633)
+              - [Sous-section 4 : Conseil de coordination interportuaire (art. L5312-12)](#634)
+            - [Section 3 : Exploitation (art. L5312-13 à L5312-14)](#635)
+            - [Section 4 : Dispositions diverses (art. L5312-15 à L5312-18)](#636)
+          - [Chapitre III : Ports autonomes (art. L5313-1 à L5313-13)](#637)
+            - [Section 1 : Création, modification et missions (art. L5313-1 à L5313-6)](#638)
+            - [Section 2 : Organisation et fonctionnement (art. L5313-7 à L5313-13)](#639)
+          - [Chapitre IV : Ports maritimes relevant des collectivités territoriales et de leurs groupements (art. L5314-1 à L5314-11)](#640)
+        - [TITRE II : DROITS DE PORT (art. L5321-1 à L5321-4)](#641)
+          - [Chapitre unique (art. L5321-1 à L5321-4)](#642)
+        - [TITRE III : POLICE DES PORTS MARITIMES (art. L5331-1 à L5338-1)](#643)
+          - [Chapitre Ier : Dispositions générales (art. L5331-1 à L5331-16)](#644)
+            - [Section 1 : Champ d'application (art. L5331-1)](#645)
+            - [Section 2 : Compétences (art. L5331-2 à L5331-10)](#646)
+              - [Sous-section 1 : Compétences de l'Etat (art. L5331-2 à L5331-4)](#647)
+              - [Sous-section 2 : Compétences de l'autorité portuaire et de l'autorité investie du pouvoir de police portuaire (art. L5331-5 à L5331-10)](#648)
+            - [Section 3 : Agents chargés de la police (art. L5331-11 à L5331-16)](#649)
+              - [Sous-section 1 : Officiers de port et officiers de port adjoints (art. L5331-11 à L5331-12)](#650)
+              - [Sous-section 2 : Surveillants de port et auxiliaires de surveillance (art. L5331-13 à L5331-16)](#651)
+          - [Chapitre II : Sûreté portuaire (art. L5332-1 à L5332-7)](#652)
+          - [Chapitre IV : Accueil des navires (art. L5334-1 à L5334-13)](#653)
+            - [Section 1 : Police du plan d'eau (art. L5334-1 à L5334-5)](#654)
+            - [Section 2 : Suivi du trafic (art. L5334-6)](#655)
+            - [Section 3 : Déchets d'exploitation des navires et résidus de cargaison (art. L5334-7 à L5334-11)](#656)
+            - [Section 4 : Chargement et déchargement des navires vraquiers (art. L5334-12 à L5334-13)](#657)
+          - [Chapitre V : Conservation du domaine public (art. L5335-1 à L5335-5)](#658)
+          - [Chapitre VI : Sanctions administratives et dispositions pénales (art. L5336-1 à L5336-17)](#659)
+            - [Section 1 : Sanctions administratives (art. L5336-1)](#660)
+            - [Section 2 : Recherche, constatation et poursuite des infractions pénales (art. L5336-2 à L5336-9)](#661)
+            - [Section 3 : Sanctions pénales (art. L5336-10 à L5336-17)](#662)
+              - [Sous-section 1 : Sûreté portuaire (art. L5336-10)](#663)
+              - [Sous-section 2 : Déchets d'exploitation et résidus de cargaison (art. L5336-11)](#664)
+              - [Sous-section 3 : Chargement et déchargement de navires vraquiers (art. L5336-12 à L5336-14)](#665)
+              - [Sous-section 4 : Signalisation maritime (art. L5336-15 à L5336-16)](#666)
+              - [Sous-section 5 : Marchandises dangereuses (art. L5336-17)](#667)
+          - [Chapitre VII : Police de la grande voirie (art. L5337-1 à L5337-5)](#668)
+            - [Section 1 : Constatation des contraventions de grande voirie (art. L5337-1 à L5337-3)](#669)
+            - [Section 2 : Atteintes à la conservation du domaine public (art. L5337-4)](#670)
+            - [Section 3 : Usage du plan d'eau (art. L5337-5)](#671)
+          - [Chapitre VIII : Dispositions finales (art. L5338-1)](#672)
+        - [TITRE IV : LES SERVICES PORTUAIRES (art. L5341-1 à L5344-8)](#673)
+          - [Chapitre Ier : Le pilotage (art. L5341-1 à L5341-18)](#674)
+            - [Section 1 : Service de pilotage et rémunération du pilote (art. L5341-1 à L5341-6)](#675)
+            - [Section 2 : Les stations de pilotage (art. L5341-7 à L5341-10)](#676)
+            - [Section 3 : Responsabilité du pilote (art. L5341-11 à L5341-18)](#677)
+          - [Chapitre II : Le remorquage (art. L5342-1 à L5342-6)](#678)
+            - [Section 1 : Le remorquage portuaire et le lamanage (art. L5342-1 à L5342-3)](#679)
+            - [Section 2 : Le remorquage en haute mer (art. L5342-4 à L5342-6)](#680)
+          - [Chapitre III : La manutention portuaire (art. L5343-1 à L5343-23)](#681)
+            - [Section 1 : Les ouvriers dockers (art. L5343-1 à L5343-7)](#682)
+            - [Section 2 : L'organisation de la main-d'œuvre intermittente (art. L5343-8 à L5343-22)](#683)
+              - [Sous-section 1 : Le bureau central de la main-d'œuvre du port (art. L5343-8)](#684)
+              - [Sous-section 2 : La Caisse nationale de garantie des ouvriers dockers (art. L5343-9 à L5343-14)](#685)
+              - [Sous-section 3 : Les limites à l'emploi de dockers professionnels intermittents (art. L5343-15 à L5343-17)](#686)
+              - [Sous-section 4 : L'indemnité de garantie (art. L5343-18 à L5343-20)](#687)
+              - [Sous-section 5 : Dispositions du droit du travail applicables aux dockers (art. L5343-21 à L5343-22)](#688)
+            - [Section 3 : Mesure d'application (art. L5343-23)](#689)
+          - [Chapitre IV : Sanctions administratives et dispositions pénales (art. L5344-1 à L5344-8)](#690)
+            - [Section 1 : Sanctions administratives (art. L5344-1 à L5344-4)](#691)
+            - [Section 2 : Dispositions pénales (art. L5344-5 à L5344-8)](#692)
+        - [TITRE V : VOIES FERREES PORTUAIRES (art. L5351-1 à L5352-5)](#693)
+          - [Chapitre Ier : Compétences (art. L5351-1 à L5351-5)](#694)
+          - [Chapitre II : Utilisation et contrôle (art. L5352-1 à L5352-5)](#695)
+      - [LIVRE IV : LE TRANSPORT MARITIME (art. L5411-1 à L5434-1)](#696)
+        - [TITRE IER : L'ENTREPRISE D'ARMEMENT MARITIME (art. L5411-1 à L5413-5)](#697)
+          - [Chapitre Ier : L'armateur (art. L5411-1 à L5411-2)](#698)
+          - [Chapitre II : Les agents de l'armateur (art. L5412-1 à L5412-8)](#699)
+            - [Section 1 : Dispositions générales (art. L5412-1)](#700)
+            - [Section 2 : Le capitaine (art. L5412-2 à L5412-8)](#701)
+          - [Chapitre III : Les consignataires (art. L5413-1 à L5413-5)](#702)
+            - [Section 1 : Le consignataire du navire (art. L5413-1 à L5413-2)](#703)
+            - [Section 2 : Le consignataire de la cargaison (art. L5413-3 à L5413-4)](#704)
+            - [Section 3 : Dispositions communes (art. L5413-5)](#705)
+        - [TITRE II : LES CONTRATS  RELATIFS A L'EXPLOITATION DU NAVIRE (art. L5420-1 à L5425-1)](#706)
+          - [Chapitre Ier : Le transport de personnes (art. L5420-1 à L5421-12)](#707)
+            - [Section 1 : Le contrat de passage (art. L5421-1)](#708)
+            - [Section 2 : La responsabilité pour dommage aux passagers (art. L5421-2 à L5421-8)](#709)
+            - [Section 3 : La responsabilité pour dommage aux bagages (art. L5421-9 à L5421-12)](#710)
+          - [Chapitre II : Le transport de marchandises (art. L5422-1 à L5422-26)](#711)
+            - [Section 1 : Le contrat de transport (art. L5422-1 à L5422-2)](#712)
+            - [Section 2 : Le connaissement (art. L5422-3 à L5422-5)](#713)
+            - [Section 3 : L'exécution du contrat (art. L5422-6 à L5422-11)](#714)
+            - [Section 4 : La responsabilité du transporteur (art. L5422-12 à L5422-18)](#715)
+            - [Section 5 : Les entreprises de manutention (art. L5422-19 à L5422-25)](#716)
+            - [Section 6 : Dispositions pénales (art. L5422-26)](#717)
+          - [Chapitre III : L'affrètement (art. L5423-1 à L5423-14)](#718)
+            - [Section 1 : Dispositions générales (art. L5423-1 à L5423-7)](#719)
+            - [Section 2 : L'affrètement coque nue (art. L5423-8 à L5423-9)](#720)
+            - [Section 3 : L'affrètement à temps (art. L5423-10 à L5423-12)](#721)
+            - [Section 4 : L'affrètement au voyage (art. L5423-13 à L5423-14)](#722)
+          - [Chapitre IV : Les ventes maritimes (art. L5424-1 à L5424-11)](#723)
+            - [Section 1 : Disposition générale (art. L5424-1)](#724)
+            - [Section 2 : Vente au départ (art. L5424-2 à L5424-5)](#725)
+            - [Section 3 : Vente à l'arrivée (art. L5424-6 à L5424-8)](#726)
+            - [Section 4 : Vente "coût, assurance, fret" (art. L5424-9 à L5424-11)](#727)
+          - [Chapitre V : Les assurances maritimes (art. L5425-1)](#728)
+        - [TITRE III : DISPOSITIONS PARTICULIERES RELATIVES  A CERTAINS TRANSPORTS MARITIMES (art. L5431-1 à L5434-1)](#729)
+          - [Chapitre Ier : Desserte des îles (art. L5431-1 à L5431-4)](#730)
+          - [Chapitre II : Transports réservés (art. L5432-1)](#731)
+          - [Chapitre III : Transport du pétrole brut (art. L5433-1)](#732)
+          - [Chapitre IV : Dispositions applicables en temps de crise (art. L5434-1)](#733)
+      - [LIVRE V : LES GENS DE MER (art. L5511-1 à L5556-11)](#734)
+        - [TITRE IER : DEFINITIONS (art. L5511-1 à L5511-5)](#735)
+          - [Chapitre unique (art. L5511-1 à L5511-5)](#736)
+        - [TITRE II : L'EQUIPAGE (art. L5521-1 à L5524-4)](#737)
+          - [Chapitre Ier : Conditions d'accès et d'exercice de la profession de marin (art. L5521-1 à L5521-3)](#738)
+          - [Chapitre II : Effectifs et nationalité (art. L5522-1 à L5522-2)](#739)
+          - [Chapitre III : Dispositions pénales (art. L5523-1 à L5523-2)](#740)
+            - [Section 1 : Recherche et constatation des infractions (art. L5523-1)](#741)
+            - [Section 2 : Sanctions pénales (art. L5523-2)](#742)
+          - [Chapitre IV : Sanctions professionnelles (art. L5524-1 à L5524-4)](#743)
+            - [Section unique : Dispositions communes (art. L5524-1 à L5524-4)](#744)
+        - [TITRE III : LA COLLECTIVITE DU BORD (art. L5531-1 à L5532-1)](#745)
+          - [Chapitre Ier : Police intérieure et discipline à bord (art. L5531-1 à L5531-18)](#746)
+            - [Section 1 : Dispositions communes (art. L5531-1 à L5531-3)](#747)
+            - [Section 2 : Fautes disciplinaires (art. L5531-4 à L5531-5)](#748)
+            - [Section 3 : Sanctions pénales (art. L5531-6 à L5531-18)](#749)
+              - [Sous-section 1 : Insubordination, complot et violences (art. L5531-6 à L5531-8)](#750)
+              - [Sous-section 2 : Abus d'autorité et outrages (art. L5531-9 à L5531-11)](#751)
+              - [Sous-section 3 : Manquements aux obligations professionnelles (art. L5531-12 à L5531-14)](#752)
+              - [Sous-section 4 : Présence irrégulière à bord (art. L5531-15 à L5531-17)](#753)
+              - [Sous-section 5 : Autres sanctions (art. L5531-18)](#754)
+          - [Chapitre II : Dispositions particulières aux personnels militaires (art. L5532-1)](#755)
+        - [TITRE IV : LE DROIT DU TRAVAIL (art. L5541-1 à L5549-3)](#756)
+          - [Chapitre Ier : Champ d'application (art. L5541-1 à L5541-2)](#757)
+          - [Chapitre II : Les relations individuelles de travail (art. L5542-1 à L5542-50)](#758)
+            - [Section 1 : Le contrat de travail (art. L5542-1 à L5542-47)](#759)
+              - [Sous-section 1 : Formation et contenu du contrat (art. L5542-1 à L5542-6)](#760)
+              - [Sous-section 2 : Le contrat à durée déterminée ou au voyage (art. L5542-7 à L5542-14)](#761)
+              - [Sous-section 3 : La période d'essai (art. L5542-15 à L5542-17)](#762)
+              - [Sous-section 4 : Exécution du contrat (art. L5542-18 à L5542-37)](#763)
+                - [Paragraphe 1 : Obligations générales de l'employeur (art. L5542-18 à L5542-20)](#764)
+                - [Paragraphe 2 : Cas de blessure ou de maladie du marin (art. L5542-21 à L5542-28)](#765)
+                - [Paragraphe 3 : Rapatriement (art. L5542-29 à L5542-33)](#766)
+                - [Paragraphe 4 : Obligations du marin (art. L5542-34 à L5542-36)](#767)
+                - [Paragraphe 5 : Adaptation à la profession de marin de modalités particulières d'exécution du contrat de travail (art. L5542-37)](#768)
+              - [Sous-section 5 : Rupture du contrat (art. L5542-38 à L5542-47)](#769)
+                - [Paragraphe 1 : Dispositions communes à tous les contrats (art. L5542-38 à L5542-39)](#770)
+                - [Paragraphe 2 : Contrat de travail à durée indéterminée (art. L5542-40 à L5542-44)](#771)
+                  - [1. Dispositions générales (art. L5542-40 à L5542-42)](#772)
+                  - [2. Préavis et indemnité de licenciement (art. L5542-43 à L5542-44)](#773)
+                - [Paragraphe 3 : Contrat à durée déterminée ou au voyage (art. L5542-45 à L5542-46)](#774)
+                - [Paragraphe 4 : Dispositions particulières au capitaine (art. L5542-47)](#775)
+            - [Section 2 : La résolution des litiges individuels (art. L5542-48 à L5542-49)](#776)
+            - [Section 3 : Sanctions pénales (art. L5542-50)](#777)
+          - [Chapitre III : Les relations collectives de travail (art. L5543-1 à L5543-4)](#778)
+            - [Section 1 : Négociation collective. ― Conventions et accords collectifs de travail (art. L5543-1)](#779)
+            - [Section 2 : Les institutions représentatives du personnel (art. L5543-2)](#780)
+            - [Section 3 : Les salariés protégés (art. L5543-3)](#781)
+            - [Section 4 : Les conflits collectifs (art. L5543-4)](#782)
+          - [Chapitre IV : Durée du travail, repos, congés et salaire (art. L5544-1 à L5544-62)](#783)
+            - [Section 1 : Durée du travail et organisation du travail (art. L5544-1 à L5544-14)](#784)
+              - [Sous-section 1 : Travail effectif et astreintes (art. L5544-2 à L5544-3)](#785)
+              - [Sous-section 2 : Durée du travail (art. L5544-4 à L5544-8)](#786)
+                - [Paragraphe 1 : Dispositions générales (art. L5544-4 à L5544-5)](#787)
+                - [Paragraphe 2 : Durée du travail à la pêche (art. L5544-6 à L5544-7)](#788)
+                - [Paragraphe 3 : Heures supplémentaires (art. L5544-8)](#789)
+              - [Sous-section 3 : Répartition et aménagement des horaires (art. L5544-9)](#790)
+              - [Sous-section 4 : Travail à temps partiel et travail intermittent (art. L5544-10)](#791)
+              - [Sous-section 5 : Organisation du travail à bord (art. L5544-11 à L5544-14)](#792)
+            - [Section 2 : Repos et jours fériés (art. L5544-15 à L5544-22)](#793)
+              - [Sous-section 1 : Repos quotidien (art. L5544-15 à L5544-16)](#794)
+              - [Sous-section 2 : Repos hebdomadaire (art. L5544-17 à L5544-21)](#795)
+                - [Paragraphe 1 : Dispositions générales (art. L5544-17 à L5544-20)](#796)
+                - [Paragraphe 2 : Entreprises de cultures marines (art. L5544-21)](#797)
+              - [Sous-section 3 : Jours fériés (art. L5544-22)](#798)
+            - [Section 3 : Congés payés et autres congés (art. L5544-23 à L5544-25)](#799)
+            - [Section 4 : Dispositions particulières à certains marins (art. L5544-26 à L5544-33)](#800)
+              - [Sous-section 1 : Jeunes travailleurs (art. L5544-26 à L5544-32)](#801)
+              - [Sous-section 2 : Le capitaine (art. L5544-33)](#802)
+            - [Section 5 : Salaire et avantages divers (art. L5544-34 à L5544-62)](#803)
+              - [Sous-section 1 : Détermination du salaire (art. L5544-34 à L5544-49)](#804)
+                - [Paragraphe 1 : Dispositions générales (art. L5544-34 à L5544-37)](#805)
+                - [Paragraphe 2 : Modalités de calcul de la rémunération (art. L5544-38 à L5544-39)](#806)
+                - [Paragraphe 3 : Fixation des rémunérations (art. L5544-40 à L5544-45)](#807)
+                - [Paragraphe 4 : Participation à la rémunération d'assistance (art. L5544-46)](#808)
+                - [Paragraphe 5 : Décès ou disparition du marin (art. L5544-47 à L5544-49)](#809)
+              - [Sous-section 2 : Paiement du salaire (art. L5544-50 à L5544-57)](#810)
+                - [Paragraphe 1 : Avances et acomptes (art. L5544-50 à L5544-54)](#811)
+                - [Paragraphe 2 : Paiement du salaire (art. L5544-55 à L5544-57)](#812)
+              - [Sous-section 3 : Protection du salaire (art. L5544-58 à L5544-61)](#813)
+              - [Sous-section 4 : Dispositions particulières au capitaine (art. L5544-62)](#814)
+          - [Chapitre V : Santé et sécurité au travail (art. L5545-1 à L5545-14)](#815)
+            - [Section 1 : Dispositions générales (art. L5545-1 à L5545-8)](#816)
+              - [Sous-section 1 : Obligations de l'employeur et des gens de mer (art. L5545-1 à L5545-3)](#817)
+              - [Sous-section 2 : Droit d'alerte et de retrait (art. L5545-4)](#818)
+              - [Sous-section 3 : Jeunes travailleurs (art. L5545-5 à L5545-8)](#819)
+            - [Section 2 : Lieux de travail et conditions de vie à bord des navires (art. L5545-9 à L5545-10)](#820)
+            - [Section 3 : Equipements de travail et de protection individuelle (art. L5545-11)](#821)
+            - [Section 6 : Institutions et organismes de prévention (art. L5545-12 à L5545-13)](#822)
+            - [Section 7 : Contrôle et sanctions (art. L5545-14)](#823)
+          - [Chapitre VI : L'emploi (art. L5546-1 à L5546-3)](#824)
+            - [Section 2 : Service public de l'emploi et placement (art. L5546-1)](#825)
             - [Section 3 : Indemnisation des marins 
-involontairement privés d'emploi (art. L5546-2 à L5546-3)](#813)
+involontairement privés d'emploi (art. L5546-2 à L5546-3)](#826)
           - [Chapitre VII : La formation professionnelle 
-tout au long de la vie (art. L5547-1 à L5547-2)](#814)
-            - [Section 1 : L'apprentissage (art. L5547-1)](#815)
-            - [Section 2 : La formation professionnelle continue (art. L5547-2)](#816)
-          - [Chapitre VIII : Contrôle de l'application de la législation du travail (art. L5548-1 à L5548-4)](#817)
-          - [Chapitre IX : Dispositions applicables aux gens de mer autres que les marins (art. L5549-1 à L5549-3)](#818)
-            - [Section 1 : Obligations de l'armateur (art. L5549-1 à L5549-1-1)](#819)
-            - [Section 2 : Durée du travail et salaire (art. L5549-2 à L5549-3)](#820)
-        - [TITRE V : LA PROTECTION SOCIALE DES MARINS (art. L5551-1 à L5556-11)](#821)
-          - [Chapitre Ier : Dispositions générales (art. L5551-1 à L5551-2)](#822)
-          - [Chapitre II : Pensions de retraite des marins (art. L5552-1 à L5552-45)](#823)
-            - [Section 1 : Dispositions générales (art. L5552-1 à L5552-3)](#824)
-            - [Section 2 : Ouverture du droit à pension (art. L5552-4 à L5552-12)](#825)
-              - [Sous-section 1 : Pension d'ancienneté (art. L5552-4 à L5552-7)](#826)
-              - [Sous-section 2 : Pension proportionnelle (art. L5552-8 à L5552-10)](#827)
-              - [Sous-section 3 : Pension spéciale (art. L5552-11 à L5552-12)](#828)
-            - [Section 3 : Services pris en compte (art. L5552-13 à L5552-18)](#829)
-            - [Section 4 : Détermination du montant des pensions (art. L5552-19 à L5552-22)](#830)
-            - [Section 5 : Dispositions particulières aux salariés à temps partiel (art. L5552-23 à L5552-24)](#831)
-            - [Section 6 : Pensions d'ayants cause (art. L5552-25 à L5552-37)](#832)
-              - [Sous-section 1 : Conjoint (art. L5552-25 à L5552-30)](#833)
-              - [Sous-section 2 : Orphelins (art. L5552-31 à L5552-35)](#834)
-              - [Sous-section 3 : Concours d'ayants cause (art. L5552-36 à L5552-37)](#835)
-            - [Section 7 : Options et cumuls (art. L5552-38 à L5552-40)](#836)
-            - [Section 8 : Dispositions diverses (art. L5552-41 à L5552-45)](#837)
+tout au long de la vie (art. L5547-1 à L5547-2)](#827)
+            - [Section 1 : L'apprentissage (art. L5547-1)](#828)
+            - [Section 2 : La formation professionnelle continue (art. L5547-2)](#829)
+          - [Chapitre VIII : Contrôle de l'application de la législation du travail (art. L5548-1 à L5548-4)](#830)
+          - [Chapitre IX : Dispositions applicables aux gens de mer autres que les marins (art. L5549-1 à L5549-3)](#831)
+            - [Section 1 : Obligations de l'armateur (art. L5549-1 à L5549-1-1)](#832)
+            - [Section 2 : Durée du travail et salaire (art. L5549-2 à L5549-3)](#833)
+        - [TITRE V : LA PROTECTION SOCIALE DES MARINS (art. L5551-1 à L5556-11)](#834)
+          - [Chapitre Ier : Dispositions générales (art. L5551-1 à L5551-2)](#835)
+          - [Chapitre II : Pensions de retraite des marins (art. L5552-1 à L5552-45)](#836)
+            - [Section 1 : Dispositions générales (art. L5552-1 à L5552-3)](#837)
+            - [Section 2 : Ouverture du droit à pension (art. L5552-4 à L5552-12)](#838)
+              - [Sous-section 1 : Pension d'ancienneté (art. L5552-4 à L5552-7)](#839)
+              - [Sous-section 2 : Pension proportionnelle (art. L5552-8 à L5552-10)](#840)
+              - [Sous-section 3 : Pension spéciale (art. L5552-11 à L5552-12)](#841)
+            - [Section 3 : Services pris en compte (art. L5552-13 à L5552-18)](#842)
+            - [Section 4 : Détermination du montant des pensions (art. L5552-19 à L5552-22)](#843)
+            - [Section 5 : Dispositions particulières aux salariés à temps partiel (art. L5552-23 à L5552-24)](#844)
+            - [Section 6 : Pensions d'ayants cause (art. L5552-25 à L5552-37)](#845)
+              - [Sous-section 1 : Conjoint (art. L5552-25 à L5552-30)](#846)
+              - [Sous-section 2 : Orphelins (art. L5552-31 à L5552-35)](#847)
+              - [Sous-section 3 : Concours d'ayants cause (art. L5552-36 à L5552-37)](#848)
+            - [Section 7 : Options et cumuls (art. L5552-38 à L5552-40)](#849)
+            - [Section 8 : Dispositions diverses (art. L5552-41 à L5552-45)](#850)
           - [Chapitre III : Cotisations et contributions au titre 
-du régime d'assurance vieillesse des marins (art. L5553-1 à L5553-16)](#838)
-            - [Section 1 : Services taxables (art. L5553-1 à L5553-4)](#839)
-            - [Section 2 : Assiette des cotisations et contributions (art. L5553-5 à L5553-6)](#840)
-            - [Section 3 : Exonérations et réductions (art. L5553-7 à L5553-13)](#841)
-            - [Section 4 : Dispositions diverses (art. L5553-14 à L5553-16)](#842)
-          - [Chapitre IV : Prestations du régime de prévoyance des marins (art. L5554-1)](#843)
-          - [Chapitre V : Cotisations et contributions au titre du régime de prévoyance des marins (art. L5555-1)](#844)
-          - [Chapitre VI : Dispositions applicables au conjoint collaborateur du chef d'entreprise relevant du régime de sécurité sociale des marins (art. L5556-1 à L5556-11)](#845)
-            - [Section 1 : Champ d'application (art. L5556-1)](#846)
-            - [Section 2 : Pension (art. L5556-2 à L5556-8)](#847)
-              - [Sous-section 1 : Pension en nom propre (art. L5556-2 à L5556-6)](#848)
-              - [Sous-section 2 : Pension partagée (art. L5556-7 à L5556-8)](#849)
-            - [Section 3 : Allocation de remplacement (art. L5556-9 à L5556-11)](#850)
-      - [LIVRE VI : REGISTRE INTERNATIONAL FRANCAIS (art. L5611-1 à L5642-2)](#851)
-        - [TITRE IER : CHAMP D'APPLICATION (art. L5611-1 à L5612-6)](#852)
-          - [Chapitre Ier : Navires (art. L5611-1 à L5611-4)](#853)
-          - [Chapitre II : Personnel navigant (art. L5612-1 à L5612-6)](#854)
-        - [TITRE II : LES RELATIONS DU TRAVAIL (art. L5621-1 à L5623-9)](#855)
-          - [Chapitre Ier : Les relations individuelles de travail (art. L5621-1 à L5621-18)](#856)
-            - [Section 1 : L'engagement du navigant (art. L5621-1 à L5621-12)](#857)
-              - [Sous-section 1 : Engagement direct et mise à disposition (art. L5621-1 à L5621-5)](#858)
-              - [Sous-section 2 : Formation et contenu du contrat d'engagement (art. L5621-6 à L5621-12)](#859)
-            - [Section 2 : Fin de la relation de travail (art. L5621-13 à L5621-15)](#860)
-            - [Section 3 : Conditions de rapatriement (art. L5621-16 à L5621-17)](#861)
-            - [Section 4 : Résolution des litiges individuels (art. L5621-18)](#862)
-          - [Chapitre II : Les relations collectives de travail (art. L5622-1 à L5622-4)](#863)
-          - [Chapitre III : Durée du travail et salaire (art. L5623-1 à L5623-9)](#864)
-            - [Section 1 : Durée, repos et congés annuels (art. L5623-1 à L5623-8)](#865)
-              - [Sous-section 1 : Durée et organisation du travail (art. L5623-1 à L5623-4)](#866)
-              - [Sous-section 2 : Repos et jours fériés (art. L5623-5 à L5623-7)](#867)
-              - [Sous-section 3 : Congés payés (art. L5623-8)](#868)
-            - [Section 2 : Le salaire (art. L5623-9)](#869)
-        - [TITRE III : PROTECTION SOCIALE (art. L5631-1 à L5631-4)](#870)
-        - [TITRE IV : CONTROLE ET SANCTIONS (art. L5641-1 à L5642-2)](#871)
-          - [Chapitre Ier : Contrôle (art. L5641-1)](#872)
-          - [Chapitre II : Sanctions pénales (art. L5642-1 à L5642-2)](#873)
-      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L5700-1 à L5795-14)](#874)
-        - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER (art. L5713-1 à L5715-10)](#875)
-          - [Chapitre III : Les ports maritimes (art. L5713-1 à L5713-3)](#876)
-          - [Chapitre IV : Le transport maritime (art. L5714-1 à L5714-2)](#877)
-          - [Chapitre V : Les gens de mer (art. L5715-1 à L5715-10)](#878)
-        - [TITRE II : MAYOTTE (art. L5721-1 à L5725-4)](#879)
-          - [Chapitre Ier : Le navire (art. L5721-1)](#880)
-          - [Chapitre III : Les ports maritimes (art. L5723-1 à L5723-2)](#881)
-          - [Chapitre IV : Le transport maritime (art. L5724-1 à L5724-2)](#882)
-          - [Chapitre V : Les gens de mer (art. L5725-1 à L5725-4)](#883)
-        - [TITRE III : SAINT-BARTHELEMY (art. L5733-1 à L5735-10)](#884)
-          - [Chapitre III : Les ports maritimes (art. L5733-1 à L5733-3)](#885)
-          - [Chapitre IV : Le transport maritime (art. L5734-1 à L5734-2)](#886)
-          - [Chapitre V : Les gens de mer (art. L5735-1 à L5735-10)](#887)
-        - [TITRE IV : SAINT-MARTIN (art. L5743-1 à L5745-10)](#888)
-          - [Chapitre III : Les ports maritimes (art. L5743-1 à L5743-3)](#889)
-          - [Chapitre IV : Le transport maritime (art. L5744-1 à L5744-2)](#890)
-          - [Chapitre V : Les gens de mer (art. L5745-1 à L5745-10)](#891)
-        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L5751-1 à L5755-10)](#892)
-          - [Chapitre Ier : Le navire (art. L5751-1)](#893)
-          - [Chapitre III : Les ports maritimes (art. L5753-1 à L5753-2)](#894)
-          - [Chapitre IV : Le transport maritime (art. L5754-1)](#895)
-          - [Chapitre V : Les gens de mer (art. L5755-1 à L5755-10)](#896)
-        - [TITRE VI : NOUVELLE-CALEDONIE (art. L5760-1 à L5765-4)](#897)
-          - [Chapitre Ier : Le navire (art. L5761-1)](#898)
-          - [Chapitre II : Navigation maritime (art. L5762-1)](#899)
-          - [Chapitre III : Les ports maritimes (art. L5763-1)](#900)
-          - [Chapitre IV : Le transport maritime (art. L5764-1)](#901)
-          - [Chapitre V : Les gens de mer (art. L5765-1 à L5765-4)](#902)
-        - [TITRE VII : POLYNESIE FRANCAISE (art. L5770-1 à L5775-4)](#903)
-          - [Chapitre Ier : Le navire (art. L5771-1)](#904)
-          - [Chapitre II : Navigation maritime (art. L5772-1)](#905)
-          - [Chapitre IV : Le transport maritime (art. L5774-1)](#906)
-          - [Chapitre V : Les gens de mer (art. L5775-1 à L5775-4)](#907)
-        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L5780-1 à L5785-7)](#908)
-          - [Chapitre Ier : Le navire (art. L5781-1)](#909)
-          - [Chapitre II : Navigation maritime (art. L5782-1)](#910)
-          - [Chapitre III : Les ports maritimes (art. L5783-1)](#911)
-          - [Chapitre IV : Le transport maritime (art. L5784-1)](#912)
-          - [Chapitre V : Les gens de mer (art. L5785-1 à L5785-7)](#913)
-        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L5790-1 à L5795-14)](#914)
-          - [Chapitre Ier : Le navire (art. L5791-1)](#915)
-          - [Chapitre II : Navigation maritime (art. L5792-1)](#916)
-          - [Chapitre III : Les ports maritimes (art. L5793-1)](#917)
-          - [Chapitre IV : Le transport maritime (art. L5794-1)](#918)
-          - [Chapitre V : Les gens de mer (art. L5795-1 à L5795-14)](#919)
-    - [SIXIEME PARTIE : AVIATION CIVILE (art. L6100-1 à L6792-2)](#920)
-      - [LIVRE IER : L'AERONEF (art. L6100-1 à L6142-9)](#921)
-        - [TITRE IER : IDENTIFICATION DE L'AERONEF (art. L6111-1 à L6111-6)](#922)
-          - [Chapitre unique (art. L6111-1 à L6111-6)](#923)
-        - [TITRE II : REGIME DE PROPRIETE (art. L6121-1 à L6123-3)](#924)
-          - [Chapitre Ier : Titres de propriété (art. L6121-1 à L6121-2)](#925)
-          - [Chapitre II : Hypothèques et privilèges (art. L6122-1 à L6122-20)](#926)
-            - [Section 1 : Hypothèques (art. L6122-1 à L6122-15)](#927)
-            - [Section 2 : Privilèges (art. L6122-16 à L6122-20)](#928)
-          - [Chapitre III : Saisie et vente forcée (art. L6123-1 à L6123-3)](#929)
-            - [Section 1 : Saisie conservatoire (art. L6123-1 à L6123-2)](#930)
-            - [Section 2 : Vente forcée (art. L6123-3)](#931)
-        - [TITRE III : DOMMAGES ET RESPONSABILITES (art. L6131-1 à L6132-3)](#932)
-          - [Chapitre Ier : Responsabilité des équipages et des exploitants (art. L6131-1 à L6131-4)](#933)
-          - [Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition (art. L6132-1 à L6132-3)](#934)
-            - [Section 1 : Assistance et sauvetage (art. L6132-1)](#935)
-            - [Section 2 : Epaves (art. L6132-2)](#936)
-            - [Section 3 : Disparition (art. L6132-3)](#937)
-        - [TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES (art. L6141-1 à L6142-9)](#938)
-          - [Chapitre Ier : Mesures administratives (art. L6141-1)](#939)
-            - [Section unique : Rétention et immobilisation d'aéronefs (art. L6141-1)](#940)
-          - [Chapitre II : Dispositions pénales (art. L6142-1 à L6142-9)](#941)
-            - [Section 1 : Constatation et poursuite des infractions (art. L6142-1 à L6142-3)](#942)
-            - [Section 2 : Identification de l'aéronef (art. L6142-4 à L6142-7)](#943)
-            - [Section 3 : Jets d'objets (art. L6142-8)](#944)
-            - [Section 4 : Délit de fuite (art. L6142-9)](#945)
-      - [LIVRE II : LA CIRCULATION AERIENNE (art. L6200-1 à L6232-11)](#946)
-        - [TITRE IER : DROIT DE CIRCULATION (art. L6211-1 à L6212-2)](#947)
-          - [Chapitre Ier : Survol du territoire (art. L6211-1 à L6211-5)](#948)
-          - [Chapitre II : Atterrissage et décollage (art. L6212-1 à L6212-2)](#949)
-        - [TITRE II : POLICE DE LA CIRCULATION DES AERONEFS (art. L6221-1 à L6223-3)](#950)
-          - [Chapitre Ier : Contrôle (art. L6221-1 à L6221-5)](#951)
-          - [Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile (art. L6222-1 à L6222-11)](#952)
-          - [Chapitre III : Compte rendu d'événements (art. L6223-1 à L6223-3)](#953)
-        - [TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES (art. L6231-1 à L6232-11)](#954)
-          - [Chapitre Ier : Mesures de police et sanctions administratives (art. L6231-1 à L6231-2)](#955)
-          - [Chapitre II : Dispositions pénales (art. L6232-1 à L6232-11)](#956)
-            - [Section 1 : Dispositions communes (art. L6232-1)](#957)
-            - [Section 2 : Droit de circulation (art. L6232-2 à L6232-3)](#958)
-            - [Section 3 : Documents de bord (art. L6232-4 à L6232-7)](#959)
-            - [Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils (art. L6232-8 à L6232-9)](#960)
-            - [Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile (art. L6232-10 à L6232-11)](#961)
-      - [LIVRE III : LES AERODROMES (art. L6300-1 à L6372-10)](#962)
-        - [TITRE IER : STATUT DES AERODROMES (art. L6311-1 à L6312-2)](#963)
+du régime d'assurance vieillesse des marins (art. L5553-1 à L5553-16)](#851)
+            - [Section 1 : Services taxables (art. L5553-1 à L5553-4)](#852)
+            - [Section 2 : Assiette des cotisations et contributions (art. L5553-5 à L5553-6)](#853)
+            - [Section 3 : Exonérations et réductions (art. L5553-7 à L5553-13)](#854)
+            - [Section 4 : Dispositions diverses (art. L5553-14 à L5553-16)](#855)
+          - [Chapitre IV : Prestations du régime de prévoyance des marins (art. L5554-1)](#856)
+          - [Chapitre V : Cotisations et contributions au titre du régime de prévoyance des marins (art. L5555-1)](#857)
+          - [Chapitre VI : Dispositions applicables au conjoint collaborateur du chef d'entreprise relevant du régime de sécurité sociale des marins (art. L5556-1 à L5556-11)](#858)
+            - [Section 1 : Champ d'application (art. L5556-1)](#859)
+            - [Section 2 : Pension (art. L5556-2 à L5556-8)](#860)
+              - [Sous-section 1 : Pension en nom propre (art. L5556-2 à L5556-6)](#861)
+              - [Sous-section 2 : Pension partagée (art. L5556-7 à L5556-8)](#862)
+            - [Section 3 : Allocation de remplacement (art. L5556-9 à L5556-11)](#863)
+      - [LIVRE VI : REGISTRE INTERNATIONAL FRANCAIS (art. L5611-1 à L5642-2)](#864)
+        - [TITRE IER : CHAMP D'APPLICATION (art. L5611-1 à L5612-6)](#865)
+          - [Chapitre Ier : Navires (art. L5611-1 à L5611-4)](#866)
+          - [Chapitre II : Personnel navigant (art. L5612-1 à L5612-6)](#867)
+        - [TITRE II : LES RELATIONS DU TRAVAIL (art. L5621-1 à L5623-9)](#868)
+          - [Chapitre Ier : Les relations individuelles de travail (art. L5621-1 à L5621-18)](#869)
+            - [Section 1 : L'engagement du navigant (art. L5621-1 à L5621-12)](#870)
+              - [Sous-section 1 : Engagement direct et mise à disposition (art. L5621-1 à L5621-5)](#871)
+              - [Sous-section 2 : Formation et contenu du contrat d'engagement (art. L5621-6 à L5621-12)](#872)
+            - [Section 2 : Fin de la relation de travail (art. L5621-13 à L5621-15)](#873)
+            - [Section 3 : Conditions de rapatriement (art. L5621-16 à L5621-17)](#874)
+            - [Section 4 : Résolution des litiges individuels (art. L5621-18)](#875)
+          - [Chapitre II : Les relations collectives de travail (art. L5622-1 à L5622-4)](#876)
+          - [Chapitre III : Durée du travail et salaire (art. L5623-1 à L5623-9)](#877)
+            - [Section 1 : Durée, repos et congés annuels (art. L5623-1 à L5623-8)](#878)
+              - [Sous-section 1 : Durée et organisation du travail (art. L5623-1 à L5623-4)](#879)
+              - [Sous-section 2 : Repos et jours fériés (art. L5623-5 à L5623-7)](#880)
+              - [Sous-section 3 : Congés payés (art. L5623-8)](#881)
+            - [Section 2 : Le salaire (art. L5623-9)](#882)
+        - [TITRE III : PROTECTION SOCIALE (art. L5631-1 à L5631-4)](#883)
+        - [TITRE IV : CONTROLE ET SANCTIONS (art. L5641-1 à L5642-2)](#884)
+          - [Chapitre Ier : Contrôle (art. L5641-1)](#885)
+          - [Chapitre II : Sanctions pénales (art. L5642-1 à L5642-2)](#886)
+      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L5700-1 à L5795-14)](#887)
+        - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER (art. L5713-1 à L5715-10)](#888)
+          - [Chapitre III : Les ports maritimes (art. L5713-1 à L5713-3)](#889)
+          - [Chapitre IV : Le transport maritime (art. L5714-1 à L5714-2)](#890)
+          - [Chapitre V : Les gens de mer (art. L5715-1 à L5715-10)](#891)
+        - [TITRE II : MAYOTTE (art. L5721-1 à L5725-4)](#892)
+          - [Chapitre Ier : Le navire (art. L5721-1 à L5721-2)](#893)
+          - [Chapitre III : Les ports maritimes (art. L5723-1 à L5723-2)](#894)
+          - [Chapitre IV : Le transport maritime (art. L5724-1 à L5724-2)](#895)
+          - [Chapitre V : Les gens de mer (art. L5725-1 à L5725-4)](#896)
+        - [TITRE III : SAINT-BARTHELEMY (art. L5733-1 à L5735-10)](#897)
+          - [Chapitre III : Les ports maritimes (art. L5733-1 à L5733-3)](#898)
+          - [Chapitre IV : Le transport maritime (art. L5734-1 à L5734-2)](#899)
+          - [Chapitre V : Les gens de mer (art. L5735-1 à L5735-10)](#900)
+        - [TITRE IV : SAINT-MARTIN (art. L5743-1 à L5745-10)](#901)
+          - [Chapitre III : Les ports maritimes (art. L5743-1 à L5743-3)](#902)
+          - [Chapitre IV : Le transport maritime (art. L5744-1 à L5744-2)](#903)
+          - [Chapitre V : Les gens de mer (art. L5745-1 à L5745-10)](#904)
+        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L5751-1 à L5755-10)](#905)
+          - [Chapitre Ier : Le navire (art. L5751-1 à L5751-2)](#906)
+          - [Chapitre III : Les ports maritimes (art. L5753-1 à L5753-2)](#907)
+          - [Chapitre IV : Le transport maritime (art. L5754-1)](#908)
+          - [Chapitre V : Les gens de mer (art. L5755-1 à L5755-10)](#909)
+        - [TITRE VI : NOUVELLE-CALEDONIE (art. L5760-1 à L5765-4)](#910)
+          - [Chapitre Ier : Le navire (art. L5761-1)](#911)
+          - [Chapitre II : Navigation maritime (art. L5762-1 à L5762-2)](#912)
+          - [Chapitre III : Les ports maritimes (art. L5763-1)](#913)
+          - [Chapitre IV : Le transport maritime (art. L5764-1)](#914)
+          - [Chapitre V : Les gens de mer (art. L5765-1 à L5765-4)](#915)
+        - [TITRE VII : POLYNESIE FRANCAISE (art. L5770-1 à L5775-4)](#916)
+          - [Chapitre Ier : Le navire (art. L5771-1)](#917)
+          - [Chapitre II : Navigation maritime (art. L5772-1 à L5772-3)](#918)
+          - [Chapitre IV : Le transport maritime (art. L5774-1)](#919)
+          - [Chapitre V : Les gens de mer (art. L5775-1 à L5775-4)](#920)
+        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L5780-1 à L5785-7)](#921)
+          - [Chapitre Ier : Le navire (art. L5781-1 à L5781-2)](#922)
+          - [Chapitre II : Navigation maritime (art. L5782-1 à L5782-3)](#923)
+          - [Chapitre III : Les ports maritimes (art. L5783-1)](#924)
+          - [Chapitre IV : Le transport maritime (art. L5784-1)](#925)
+          - [Chapitre V : Les gens de mer (art. L5785-1 à L5785-7)](#926)
+        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L5790-1 à L5795-14)](#927)
+          - [Chapitre Ier : Le navire (art. L5791-1 à L5791-2)](#928)
+          - [Chapitre II : Navigation maritime (art. L5792-1 à L5792-3)](#929)
+          - [Chapitre III : Les ports maritimes (art. L5793-1)](#930)
+          - [Chapitre IV : Le transport maritime (art. L5794-1)](#931)
+          - [Chapitre V : Les gens de mer (art. L5795-1 à L5795-14)](#932)
+    - [SIXIEME PARTIE : AVIATION CIVILE (art. L6100-1 à L6792-2)](#933)
+      - [LIVRE IER : L'AERONEF (art. L6100-1 à L6142-9)](#934)
+        - [TITRE IER : IDENTIFICATION DE L'AERONEF (art. L6111-1 à L6111-6)](#935)
+          - [Chapitre unique (art. L6111-1 à L6111-6)](#936)
+        - [TITRE II : REGIME DE PROPRIETE (art. L6121-1 à L6123-3)](#937)
+          - [Chapitre Ier : Titres de propriété (art. L6121-1 à L6121-2)](#938)
+          - [Chapitre II : Hypothèques et privilèges (art. L6122-1 à L6122-20)](#939)
+            - [Section 1 : Hypothèques (art. L6122-1 à L6122-15)](#940)
+            - [Section 2 : Privilèges (art. L6122-16 à L6122-20)](#941)
+          - [Chapitre III : Saisie et vente forcée (art. L6123-1 à L6123-3)](#942)
+            - [Section 1 : Saisie conservatoire (art. L6123-1 à L6123-2)](#943)
+            - [Section 2 : Vente forcée (art. L6123-3)](#944)
+        - [TITRE III : DOMMAGES ET RESPONSABILITES (art. L6131-1 à L6132-3)](#945)
+          - [Chapitre Ier : Responsabilité des équipages et des exploitants (art. L6131-1 à L6131-4)](#946)
+          - [Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition (art. L6132-1 à L6132-3)](#947)
+            - [Section 1 : Assistance et sauvetage (art. L6132-1)](#948)
+            - [Section 2 : Epaves (art. L6132-2)](#949)
+            - [Section 3 : Disparition (art. L6132-3)](#950)
+        - [TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES (art. L6141-1 à L6142-9)](#951)
+          - [Chapitre Ier : Mesures administratives (art. L6141-1)](#952)
+            - [Section unique : Rétention et immobilisation d'aéronefs (art. L6141-1)](#953)
+          - [Chapitre II : Dispositions pénales (art. L6142-1 à L6142-9)](#954)
+            - [Section 1 : Constatation et poursuite des infractions (art. L6142-1 à L6142-3)](#955)
+            - [Section 2 : Identification de l'aéronef (art. L6142-4 à L6142-7)](#956)
+            - [Section 3 : Jets d'objets (art. L6142-8)](#957)
+            - [Section 4 : Délit de fuite (art. L6142-9)](#958)
+      - [LIVRE II : LA CIRCULATION AERIENNE (art. L6200-1 à L6232-11)](#959)
+        - [TITRE IER : DROIT DE CIRCULATION (art. L6211-1 à L6212-2)](#960)
+          - [Chapitre Ier : Survol du territoire (art. L6211-1 à L6211-5)](#961)
+          - [Chapitre II : Atterrissage et décollage (art. L6212-1 à L6212-2)](#962)
+        - [TITRE II : POLICE DE LA CIRCULATION DES AERONEFS (art. L6221-1 à L6223-3)](#963)
+          - [Chapitre Ier : Contrôle (art. L6221-1 à L6221-5)](#964)
+          - [Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile (art. L6222-1 à L6222-11)](#965)
+          - [Chapitre III : Compte rendu d'événements (art. L6223-1 à L6223-3)](#966)
+        - [TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES (art. L6231-1 à L6232-11)](#967)
+          - [Chapitre Ier : Mesures de police et sanctions administratives (art. L6231-1 à L6231-2)](#968)
+          - [Chapitre II : Dispositions pénales (art. L6232-1 à L6232-11)](#969)
+            - [Section 1 : Dispositions communes (art. L6232-1)](#970)
+            - [Section 2 : Droit de circulation (art. L6232-2 à L6232-3)](#971)
+            - [Section 3 : Documents de bord (art. L6232-4 à L6232-7)](#972)
+            - [Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils (art. L6232-8 à L6232-9)](#973)
+            - [Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile (art. L6232-10 à L6232-11)](#974)
+      - [LIVRE III : LES AERODROMES (art. L6300-1 à L6372-10)](#975)
+        - [TITRE IER : STATUT DES AERODROMES (art. L6311-1 à L6312-2)](#976)
           - [Chapitre Ier : Compétences relatives à la création
-et à l'exploitation (art. L6311-1 à L6311-3)](#964)
-          - [Chapitre II : Catégories d'aérodromes (art. L6312-1 à L6312-2)](#965)
-        - [TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE (art. L6321-1 à L6326-1)](#966)
-          - [Chapitre Ier : Dispositions générales (art. L6321-1 à L6321-4)](#967)
-          - [Chapitre II : Dispositions particulières aux sociétés aéroportuaires (art. L6322-1 à L6322-5)](#968)
-          - [Chapitre III : Dispositions particulières à la société Aéroports de Paris (art. L6323-1 à L6323-6)](#969)
-          - [Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse (art. L6324-1)](#970)
-          - [Chapitre V : Redevances aéroportuaires (art. L6325-1 à L6325-6)](#971)
-          - [Chapitre VI : Services d'assistance en escale (art. L6326-1)](#972)
-        - [TITRE III : CONTROLE DE L'ETAT (art. L6331-1 à L6332-5)](#973)
-          - [Chapitre Ier : Contrôle technique et administratif (art. L6331-1 à L6331-3)](#974)
-          - [Chapitre II : Police des aérodromes et des installations à usage aéronautique (art. L6332-1 à L6332-5)](#975)
-        - [TITRE IV : SURETE AEROPORTUAIRE (art. L6341-1 à L6343-5)](#976)
-          - [Chapitre Ier : Dispositions générales (art. L6341-1 à L6341-2)](#977)
-          - [Chapitre II : Protection de la zone réservée (art. L6342-1 à L6342-3)](#978)
+et à l'exploitation (art. L6311-1 à L6311-3)](#977)
+          - [Chapitre II : Catégories d'aérodromes (art. L6312-1 à L6312-2)](#978)
+        - [TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE (art. L6321-1 à L6326-1)](#979)
+          - [Chapitre Ier : Dispositions générales (art. L6321-1 à L6321-4)](#980)
+          - [Chapitre II : Dispositions particulières aux sociétés aéroportuaires (art. L6322-1 à L6322-5)](#981)
+          - [Chapitre III : Dispositions particulières à la société Aéroports de Paris (art. L6323-1 à L6323-6)](#982)
+          - [Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse (art. L6324-1)](#983)
+          - [Chapitre V : Redevances aéroportuaires (art. L6325-1 à L6325-6)](#984)
+          - [Chapitre VI : Services d'assistance en escale (art. L6326-1)](#985)
+        - [TITRE III : CONTROLE DE L'ETAT (art. L6331-1 à L6332-5)](#986)
+          - [Chapitre Ier : Contrôle technique et administratif (art. L6331-1 à L6331-3)](#987)
+          - [Chapitre II : Police des aérodromes et des installations à usage aéronautique (art. L6332-1 à L6332-5)](#988)
+        - [TITRE IV : SURETE AEROPORTUAIRE (art. L6341-1 à L6343-5)](#989)
+          - [Chapitre Ier : Dispositions générales (art. L6341-1 à L6341-2)](#990)
+          - [Chapitre II : Protection de la zone réservée (art. L6342-1 à L6342-3)](#991)
           - [Chapitre III : Sûreté du fret et des colis postaux 
-avant leur embarquement (art. L6343-1 à L6343-5)](#979)
-        - [TITRE V : SUJETIONS AUX ABORDS DES AERODROMES (art. L6350-1 à L6353-2)](#980)
-          - [Chapitre Ier : Servitudes aéronautiques (art. L6351-1 à L6351-9)](#981)
-            - [Section 1 : Définition et portée (art. L6351-1)](#982)
-            - [Section 2 : Servitudes aéronautiques de dégagement (art. L6351-2 à L6351-5)](#983)
-            - [Section 3 : Servitudes aéronautiques de balisage (art. L6351-6 à L6351-9)](#984)
-          - [Chapitre II : Installations soumises à autorisation spéciale (art. L6352-1)](#985)
+avant leur embarquement (art. L6343-1 à L6343-5)](#992)
+        - [TITRE V : SUJETIONS AUX ABORDS DES AERODROMES (art. L6350-1 à L6353-2)](#993)
+          - [Chapitre Ier : Servitudes aéronautiques (art. L6351-1 à L6351-9)](#994)
+            - [Section 1 : Définition et portée (art. L6351-1)](#995)
+            - [Section 2 : Servitudes aéronautiques de dégagement (art. L6351-2 à L6351-5)](#996)
+            - [Section 3 : Servitudes aéronautiques de balisage (art. L6351-6 à L6351-9)](#997)
+          - [Chapitre II : Installations soumises à autorisation spéciale (art. L6352-1)](#998)
           - [Chapitre III : Procédures relatives aux extensions
-et aux créations d'aérodromes (art. L6353-1 à L6353-2)](#986)
-        - [TITRE VI : NUISANCES AEROPORTUAIRES (art. L6361-1 à L6363-7)](#987)
-          - [Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires (art. L6361-1 à L6361-15)](#988)
-            - [Section 1 : Composition et fonctionnement (art. L6361-1 à L6361-4)](#989)
-            - [Section 2 : Missions (art. L6361-5 à L6361-9)](#990)
-            - [Section 3 : Moyens (art. L6361-10 à L6361-11)](#991)
-            - [Section 4 : Sanctions administratives (art. L6361-12 à L6361-15)](#992)
-          - [Chapitre II : Procédures d'approche et de départ (art. L6362-1 à L6362-3)](#993)
-          - [Chapitre III : Les communautés aéroportuaires (art. L6363-1 à L6363-7)](#994)
-        - [TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES (art. L6371-1 à L6372-10)](#995)
-          - [Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation (art. L6371-1 à L6371-4)](#996)
-            - [Section 1 : Police de l'exploitation (art. L6371-1 à L6371-3)](#997)
-            - [Section 2 : Police de la conservation (art. L6371-4)](#998)
-          - [Chapitre II : Dispositions pénales (art. L6372-1 à L6372-10)](#999)
-            - [Section 1 : Constatation des infractions (art. L6372-1 à L6372-3)](#1000)
-            - [Section 2 : Sanctions (art. L6372-4 à L6372-10)](#1001)
-              - [Sous-section 1 : Actes de malveillance (art. L6372-4 à L6372-7)](#1002)
-              - [Sous-section 2 : Servitudes aéronautiques (art. L6372-8 à L6372-10)](#1003)
-      - [LIVRE IV : LE TRANSPORT AERIEN (art. L6400-1 à L6433-2)](#1004)
-        - [TITRE IER : ENTREPRISES DE TRANSPORT AERIEN (art. L6411-1 à L6412-7)](#1005)
-          - [Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien (art. L6411-1 à L6411-10)](#1006)
-            - [Section 1 : Contrôle (art. L6411-1)](#1007)
-            - [Section 2 : Dispositions générales relatives au capital et aux statuts (art. L6411-2 à L6411-8)](#1008)
-            - [Section 3 : Société Air France (art. L6411-9 à L6411-10)](#1009)
-          - [Chapitre II : Exercice de l'activité de transporteur aérien public (art. L6412-1 à L6412-7)](#1010)
-        - [TITRE II : CONTRAT DE TRANSPORT (art. L6421-1 à L6422-5)](#1011)
-          - [Chapitre Ier : Transport de personnes et de bagages (art. L6421-1 à L6421-4)](#1012)
-            - [Section 1 : Le contrat de transport (art. L6421-1 à L6421-2)](#1013)
-            - [Section 2 : Responsabilité du transporteur aérien (art. L6421-3 à L6421-4)](#1014)
-          - [Chapitre II : Transport de marchandises (art. L6422-1 à L6422-5)](#1015)
-            - [Section 1 : Le contrat de transport de marchandises (art. L6422-1)](#1016)
-            - [Section 2 : Responsabilité du transporteur aérien (art. L6422-2 à L6422-5)](#1017)
-        - [TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES (art. L6431-1 à L6433-2)](#1018)
-          - [Chapitre Ier : Mesures de police, pouvoirs de constatation (art. L6431-1 à L6431-5)](#1019)
-          - [Chapitre II : Sanctions administratives (art. L6432-1 à L6432-2)](#1020)
-          - [Chapitre III : Dispositions pénales (art. L6433-1 à L6433-2)](#1021)
-            - [Section 1 : Transaction pénale (art. L6433-1)](#1022)
+et aux créations d'aérodromes (art. L6353-1 à L6353-2)](#999)
+        - [TITRE VI : NUISANCES AEROPORTUAIRES (art. L6361-1 à L6363-7)](#1000)
+          - [Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires (art. L6361-1 à L6361-15)](#1001)
+            - [Section 1 : Composition et fonctionnement (art. L6361-1 à L6361-4)](#1002)
+            - [Section 2 : Missions (art. L6361-5 à L6361-9)](#1003)
+            - [Section 3 : Moyens (art. L6361-10 à L6361-11)](#1004)
+            - [Section 4 : Sanctions administratives (art. L6361-12 à L6361-15)](#1005)
+          - [Chapitre II : Procédures d'approche et de départ (art. L6362-1 à L6362-3)](#1006)
+          - [Chapitre III : Les communautés aéroportuaires (art. L6363-1 à L6363-7)](#1007)
+        - [TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES (art. L6371-1 à L6372-10)](#1008)
+          - [Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation (art. L6371-1 à L6371-4)](#1009)
+            - [Section 1 : Police de l'exploitation (art. L6371-1 à L6371-3)](#1010)
+            - [Section 2 : Police de la conservation (art. L6371-4)](#1011)
+          - [Chapitre II : Dispositions pénales (art. L6372-1 à L6372-10)](#1012)
+            - [Section 1 : Constatation des infractions (art. L6372-1 à L6372-3)](#1013)
+            - [Section 2 : Sanctions (art. L6372-4 à L6372-10)](#1014)
+              - [Sous-section 1 : Actes de malveillance (art. L6372-4 à L6372-7)](#1015)
+              - [Sous-section 2 : Servitudes aéronautiques (art. L6372-8 à L6372-10)](#1016)
+      - [LIVRE IV : LE TRANSPORT AERIEN (art. L6400-1 à L6433-2)](#1017)
+        - [TITRE IER : ENTREPRISES DE TRANSPORT AERIEN (art. L6411-1 à L6412-7)](#1018)
+          - [Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien (art. L6411-1 à L6411-10)](#1019)
+            - [Section 1 : Contrôle (art. L6411-1)](#1020)
+            - [Section 2 : Dispositions générales relatives au capital et aux statuts (art. L6411-2 à L6411-8)](#1021)
+            - [Section 3 : Société Air France (art. L6411-9 à L6411-10)](#1022)
+          - [Chapitre II : Exercice de l'activité de transporteur aérien public (art. L6412-1 à L6412-7)](#1023)
+        - [TITRE II : CONTRAT DE TRANSPORT (art. L6421-1 à L6422-5)](#1024)
+          - [Chapitre Ier : Transport de personnes et de bagages (art. L6421-1 à L6421-4)](#1025)
+            - [Section 1 : Le contrat de transport (art. L6421-1 à L6421-2)](#1026)
+            - [Section 2 : Responsabilité du transporteur aérien (art. L6421-3 à L6421-4)](#1027)
+          - [Chapitre II : Transport de marchandises (art. L6422-1 à L6422-5)](#1028)
+            - [Section 1 : Le contrat de transport de marchandises (art. L6422-1)](#1029)
+            - [Section 2 : Responsabilité du transporteur aérien (art. L6422-2 à L6422-5)](#1030)
+        - [TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES (art. L6431-1 à L6433-2)](#1031)
+          - [Chapitre Ier : Mesures de police, pouvoirs de constatation (art. L6431-1 à L6431-5)](#1032)
+          - [Chapitre II : Sanctions administratives (art. L6432-1 à L6432-2)](#1033)
+          - [Chapitre III : Dispositions pénales (art. L6433-1 à L6433-2)](#1034)
+            - [Section 1 : Transaction pénale (art. L6433-1)](#1035)
             - [Section 2 : Violences commises dans un aéronef
-ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1023)
-      - [LIVRE V : LE PERSONNEL NAVIGANT (art. L6511-1 à L6541-3)](#1024)
-        - [TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES (art. L6511-1 à L6511-10)](#1025)
-          - [Chapitre unique (art. L6511-1 à L6511-10)](#1026)
-        - [TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL (art. L6521-1 à L6527-10)](#1027)
-          - [Chapitre Ier : Règles générales (art. L6521-1 à L6521-6)](#1028)
-          - [Chapitre II : Commandant de bord et équipage (art. L6522-1 à L6522-6)](#1029)
-          - [Chapitre III : Les relations individuelles de travail (art. L6523-1 à L6523-14)](#1030)
-            - [Section 1 : Forme, contenu et exécution du contrat (art. L6523-1 à L6523-11)](#1031)
-            - [Section 2 : Fin du contrat (art. L6523-12 à L6523-14)](#1032)
-          - [Chapitre IV : Relations collectives du travail (art. L6524-1 à L6524-5)](#1033)
-          - [Chapitre V : Durée du travail et congés (art. L6525-1 à L6525-5)](#1034)
-          - [Chapitre VI : La protection sociale (art. L6526-1 à L6526-8)](#1035)
-          - [Chapitre VII : Retraites (art. L6527-1 à L6527-10)](#1036)
-        - [TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES (art. L6541-1 à L6541-3)](#1037)
-          - [Chapitre unique : Sanctions pénales (art. L6541-1 à L6541-3)](#1038)
-      - [LIVRE VI : FORMATION AERONAUTIQUE AMATEURS (art. L6611-1)](#1039)
-        - [TITRE IER : AERO CLUBS ET FEDERATIONS (art. L6611-1)](#1040)
-          - [Chapitre unique (art. L6611-1)](#1041)
-      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L6700-1 à L6792-2)](#1042)
-        - [TITRE II : MAYOTTE (art. L6722-1 à L6725-1)](#1043)
-          - [Chapitre II : La circulation aérienne (art. L6722-1)](#1044)
-          - [Chapitre III : Les aérodromes (art. L6723-1 à L6723-3)](#1045)
-          - [Chapitre IV : Le transport aérien (art. L6724-1 à L6724-3)](#1046)
-          - [Chapitre V : Le personnel navigant (art. L6725-1)](#1047)
-        - [TITRE III : SAINT BARTHELEMY (art. L6731-1 à L6731-2)](#1048)
-          - [Chapitre unique (art. L6731-1 à L6731-2)](#1049)
-        - [TITRE IV : SAINT MARTIN (art. L6741-1)](#1050)
-          - [Chapitre unique (art. L6741-1)](#1051)
-        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L6752-1 à L6755-1)](#1052)
-          - [Chapitre II : La circulation aérienne (art. L6752-1)](#1053)
-          - [Chapitre III : Les aérodromes (art. L6753-1)](#1054)
-          - [Chapitre IV : Le transport aérien (art. L6754-1 à L6754-3)](#1055)
-          - [Chapitre V : Le personnel navigant (art. L6755-1)](#1056)
-        - [TITRE VI : NOUVELLE-CALEDONIE (art. L6761-1 à L6765-3)](#1057)
-          - [Chapitre Ier : L'aéronef (art. L6761-1)](#1058)
-          - [Chapitre II : La circulation aérienne (art. L6762-1 à L6762-2)](#1059)
-          - [Chapitre III : Les aérodromes (art. L6763-1 à L6763-8)](#1060)
-          - [Chapitre IV : Le transport aérien (art. L6764-1 à L6764-2)](#1061)
-          - [Chapitre V : Le personnel navigant (art. L6765-1 à L6765-3)](#1062)
-        - [TITRE VII : POLYNESIE FRANCAISE (art. L6770-1 à L6775-3)](#1063)
-          - [Chapitre Ier : L'aéronef (art. L6771-1)](#1064)
-          - [Chapitre II : La circulation aérienne (art. L6772-1 à L6772-2)](#1065)
-          - [Chapitre III : Les aérodromes (art. L6773-1 à L6773-9)](#1066)
-          - [Chapitre IV : Le transport aérien (art. L6774-1 à L6774-3)](#1067)
-          - [Chapitre V : Le personnel navigant (art. L6775-1 à L6775-3)](#1068)
-        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L6781-1 à L6786-1)](#1069)
-          - [Chapitre Ier : L'aéronef (art. L6781-1)](#1070)
-          - [Chapitre II : La circulation aérienne (art. L6782-1 à L6782-2)](#1071)
-          - [Chapitre III : Les aérodromes (art. L6783-1 à L6783-12)](#1072)
-          - [Chapitre IV : Le transport aérien (art. L6784-1 à L6784-3)](#1073)
-          - [Chapitre V : Le personnel navigant (art. L6785-1 à L6785-4)](#1074)
-          - [Chapitre VI : La formation aéronautique (art. L6786-1)](#1075)
-        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L6791-1 à L6792-2)](#1076)
-          - [Chapitre Ier : L'aéronef (art. L6791-1)](#1077)
-          - [Chapitre II : La circulation aérienne (art. L6792-1 à L6792-2)](#1078)
+ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1036)
+      - [LIVRE V : LE PERSONNEL NAVIGANT (art. L6511-1 à L6541-3)](#1037)
+        - [TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES (art. L6511-1 à L6511-10)](#1038)
+          - [Chapitre unique (art. L6511-1 à L6511-10)](#1039)
+        - [TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL (art. L6521-1 à L6527-10)](#1040)
+          - [Chapitre Ier : Règles générales (art. L6521-1 à L6521-6)](#1041)
+          - [Chapitre II : Commandant de bord et équipage (art. L6522-1 à L6522-6)](#1042)
+          - [Chapitre III : Les relations individuelles de travail (art. L6523-1 à L6523-14)](#1043)
+            - [Section 1 : Forme, contenu et exécution du contrat (art. L6523-1 à L6523-11)](#1044)
+            - [Section 2 : Fin du contrat (art. L6523-12 à L6523-14)](#1045)
+          - [Chapitre IV : Relations collectives du travail (art. L6524-1 à L6524-5)](#1046)
+          - [Chapitre V : Durée du travail et congés (art. L6525-1 à L6525-5)](#1047)
+          - [Chapitre VI : La protection sociale (art. L6526-1 à L6526-8)](#1048)
+          - [Chapitre VII : Retraites (art. L6527-1 à L6527-10)](#1049)
+        - [TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES (art. L6541-1 à L6541-3)](#1050)
+          - [Chapitre unique : Sanctions pénales (art. L6541-1 à L6541-3)](#1051)
+      - [LIVRE VI : FORMATION AERONAUTIQUE AMATEURS (art. L6611-1)](#1052)
+        - [TITRE IER : AERO CLUBS ET FEDERATIONS (art. L6611-1)](#1053)
+          - [Chapitre unique (art. L6611-1)](#1054)
+      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L6700-1 à L6792-2)](#1055)
+        - [TITRE II : MAYOTTE (art. L6722-1 à L6725-1)](#1056)
+          - [Chapitre II : La circulation aérienne (art. L6722-1)](#1057)
+          - [Chapitre III : Les aérodromes (art. L6723-1 à L6723-3)](#1058)
+          - [Chapitre IV : Le transport aérien (art. L6724-1 à L6724-3)](#1059)
+          - [Chapitre V : Le personnel navigant (art. L6725-1)](#1060)
+        - [TITRE III : SAINT BARTHELEMY (art. L6731-1 à L6731-2)](#1061)
+          - [Chapitre unique (art. L6731-1 à L6731-2)](#1062)
+        - [TITRE IV : SAINT MARTIN (art. L6741-1)](#1063)
+          - [Chapitre unique (art. L6741-1)](#1064)
+        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L6752-1 à L6755-1)](#1065)
+          - [Chapitre II : La circulation aérienne (art. L6752-1)](#1066)
+          - [Chapitre III : Les aérodromes (art. L6753-1)](#1067)
+          - [Chapitre IV : Le transport aérien (art. L6754-1 à L6754-3)](#1068)
+          - [Chapitre V : Le personnel navigant (art. L6755-1)](#1069)
+        - [TITRE VI : NOUVELLE-CALEDONIE (art. L6761-1 à L6765-3)](#1070)
+          - [Chapitre Ier : L'aéronef (art. L6761-1)](#1071)
+          - [Chapitre II : La circulation aérienne (art. L6762-1 à L6762-2)](#1072)
+          - [Chapitre III : Les aérodromes (art. L6763-1 à L6763-8)](#1073)
+          - [Chapitre IV : Le transport aérien (art. L6764-1 à L6764-2)](#1074)
+          - [Chapitre V : Le personnel navigant (art. L6765-1 à L6765-3)](#1075)
+        - [TITRE VII : POLYNESIE FRANCAISE (art. L6770-1 à L6775-3)](#1076)
+          - [Chapitre Ier : L'aéronef (art. L6771-1)](#1077)
+          - [Chapitre II : La circulation aérienne (art. L6772-1 à L6772-2)](#1078)
+          - [Chapitre III : Les aérodromes (art. L6773-1 à L6773-9)](#1079)
+          - [Chapitre IV : Le transport aérien (art. L6774-1 à L6774-3)](#1080)
+          - [Chapitre V : Le personnel navigant (art. L6775-1 à L6775-3)](#1081)
+        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L6781-1 à L6786-1)](#1082)
+          - [Chapitre Ier : L'aéronef (art. L6781-1)](#1083)
+          - [Chapitre II : La circulation aérienne (art. L6782-1 à L6782-2)](#1084)
+          - [Chapitre III : Les aérodromes (art. L6783-1 à L6783-12)](#1085)
+          - [Chapitre IV : Le transport aérien (art. L6784-1 à L6784-3)](#1086)
+          - [Chapitre V : Le personnel navigant (art. L6785-1 à L6785-4)](#1087)
+          - [Chapitre VI : La formation aéronautique (art. L6786-1)](#1088)
+        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L6791-1 à L6792-2)](#1089)
+          - [Chapitre Ier : L'aéronef (art. L6791-1)](#1090)
+          - [Chapitre II : La circulation aérienne (art. L6792-1 à L6792-2)](#1091)
 # PARTIE LEGISLATIVE<a id=1></a>
 
 ## PREMIERE PARTIE : DISPOSITIONS COMMUNES<a id=2></a>
@@ -7860,10 +7873,12 @@ transport fluvial ;
 2° Les accidents ou incidents de transport terrestre s'entendent de ceux où l'accident ou l'incident est survenu sur le
 territoire national ; 
 
-3° Par " événement de mer ", on entend tout accident de mer et incident de mer tels que définis par le code de l'organisation
-maritime internationale pour les enquêtes sur les accidents ; 
+3° Par " événement de mer ", on entend tout accident de mer et incident de mer tels que définis par le code de normes
+internationales et pratiques recommandées applicables à une enquête de sécurité sur un accident de mer ou un incident de mer
+(code pour les enquêtes sur les accidents), adopté à Londres le 16 mai 2008 ; 
 
-4° Les événements de mer pouvant donner lieu à enquête technique sont : 
+4° Les événements de mer pouvant donner lieu à une enquête technique, conduite dans le respect du code mentionné au 3°
+sont : 
 
 a) Ceux affectant les navires civils battant pavillon français où qu'ils se trouvent ainsi que les navires civils battant un
 autre pavillon lorsque l'événement de mer s'est produit dans les eaux intérieures ou dans la mer territoriale française ; 
@@ -7878,6 +7893,14 @@ _Anciens textes_:
 
   - Loi n°2002-3 du 3 janvier 2002 - art. 14 (VT), alinéas 2 et 3, ecqc le champ géographique de l'accident ou incident de transport terrestre, paragraphe II
 
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 1
+
 _Cité par_:
 
   - Code de la défense. - art. R3125-1 (V)
@@ -7891,11 +7914,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L2000-1 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+  - Code des transports - art. L2000-1
 
 
 ##### Section 2 : La procédure<a id=129></a>
@@ -8259,7 +8278,10 @@ Les enquêteurs techniques peuvent rencontrer toute personne concernée et obtie
 secret professionnel, communication de toute information ou de tout document concernant les circonstances, entreprises,
 organismes et matériels en relation avec l'accident ou l'incident et concernant notamment la construction, la certification,
 l'entretien, l'exploitation des matériels, la préparation du transport, la conduite, l'information et le contrôle du ou des
-engins de transport impliqués.
+engins de transport impliqués. Les enquêteurs peuvent organiser ces rencontres en l'absence de toute personne qui pourrait
+avoir intérêt à entraver l'enquête de sécurité. Les témoignages, informations et documents recueillis ne peuvent être
+utilisés par les enquêteurs techniques à d'autres fins que l'enquête technique elle-même, à moins qu'un intérêt public
+supérieur ne justifie leur divulgation. 
 
 Dans les mêmes conditions, les enquêteurs techniques peuvent demander communication de toute information ou de tout document
 à caractère personnel concernant la formation, la qualification, l'aptitude à la conduite des personnels ou le contrôle de
@@ -8277,13 +8299,17 @@ _Anciens textes_:
   - Loi n°2002-3 du 3 janvier 2002 - art. 19 (VT), alinéas 1, 2 et 3, phrase 2
   - Code de l'aviation civile - art. L721-5 (VT)
 
-_Cité par_:
-
-  - Code des transports - art. L6222-6 (Ab)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. L6222-6 (Ab)
 
 
 ###### Article L1621-15
@@ -26937,8 +26963,9 @@ _Codifié par_:
 
 ###### Article L5113-1
 
-Les règles générales de construction destinées à assurer la sécurité, la sûreté, l'hygiène et l'habitabilité à bord des
-navires, ainsi que la prévention de la pollution par les navires, sont fixées par voie réglementaire.
+Les règles générales de construction destinées à assurer la sécurité, la sûreté, l'hygiène, la santé et la sécurité au
+travail et l'habitabilité à bord des navires, ainsi que la prévention de la pollution par les navires, sont fixées par voie
+réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -26950,6 +26977,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 
 ##### Section 2 : Contrat de construction<a id=524></a>
@@ -28200,17 +28231,17 @@ limitation de la responsabilité en matière de créances maritimes, faite à Lo
 
 Toutefois, les limites de la responsabilité du propriétaire du navire dont la jauge est inférieure ou égale à 300 sont égales
 à la moitié de celles fixées par les dispositions de l'article 6 de la convention, pour les navires dont la jauge est
-inférieure ou égale à 500.
+inférieure ou égale à 2 000.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°67-5 du 3 janvier 1967 - art. 61 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 _Cite_:
 
-  - Code des transports - art. L5121-3 (V)
+  - Code des transports - art. L5121-3
 
 _Cité par_:
 
@@ -28974,11 +29005,320 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : REPARATION DES ACCIDENTS DE NAVIGATION<a id=542></a>
+#### TITRE II : REGIMES DE RESPONSABILITE ET OBLIGATIONS D'ASSURANCE<a id=542></a>
 
-##### Chapitre Ier : Abordage<a id=543></a>
+##### Chapitre Ier : Régime général de responsabilité<a id=543></a>
 
-##### Section 1 : Dispositions générales<a id=544></a>
+##### Chapitre II : Régimes spéciaux de responsabilité<a id=544></a>
+
+##### Chapitre III : Obligations d'assurance<a id=545></a>
+
+##### Section 1 : Obligations d'assurance générales<a id=546></a>
+
+###### Article L5123-1
+
+Le propriétaire inscrit d'un navire ou toute autre personne, telle que l'affréteur coque nue, qui est responsable de
+l'exploitation du navire, souscrit une assurance ou une autre garantie financière, avec ou sans franchise, lorsque ce navire
+bat pavillon français ou entre dans un port français et que sa jauge brute est égale ou supérieure à 300. 
+
+L'assurance ou la garantie couvre les créances maritimes soumises à limitation au titre de la convention de 1976 modifiée sur
+la limitation de responsabilité en matière de créances maritimes, faite à Londres le 19 novembre 1976. Le montant de
+l'assurance, pour chaque navire et par événement, n'est pas inférieur au montant maximal applicable pour la limitation de
+responsabilité conformément à cette convention. 
+
+Un certificat attestant que la garantie est en cours de validité doit se trouver à bord du navire. 
+
+Les renseignements devant figurer dans le certificat sont fixés par voie réglementaire. 
+
+Le présent article ne s'applique pas aux navires appartenant à un Etat ou exploités par lui et utilisés pour un service non
+commercial d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-967 du 27 octobre 1967 - art. 88 (Ab)
+  - Décret n°67-967 du 27 octobre 1967 - art. 89 (Ab)
+  - Décret n°67-967 du 27 octobre 1967 - art. 92 (Ab)
+  - Code des transports - art. L5123-5 (V)
+  - Code des transports - art. L5123-6 (V)
+  - Code des transports - art. L5123-7 (V)
+  - Code des transports - art. L5241-4-5 (V)
+  - Code des transports - art. L5334-4 (V)
+  - Code des transports - art. R5123-1 (V)
+  - Code des transports - art. R5123-2 (V)
+  - Code des transports - art. R5123-5 (V)
+  - Code des transports - art. R5232-1 (VD)
+  - Code des transports - art. R5333-4 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+##### Section 2 : Obligations d'assurance couvrant des risques particuliers<a id=547></a>
+
+###### Article L5123-2
+
+I. ― Le propriétaire inscrit d'un navire, au sens du paragraphe 4 de l'article 1er de la convention internationale de 2001
+sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, faite à Londres le 23 mars
+2001, souscrit une assurance ou une autre garantie financière satisfaisant aux exigences de cette convention lorsque ce
+navire est exploité sous pavillon français, ou touche ou quitte un port français ou une installation située dans la mer
+territoriale française. Un certificat attestant que la garantie est en cours de validité doit se trouver à bord du navire. 
+
+II. ― Le transporteur qui assure effectivement tout ou partie d'un transport de passagers, au sens du point c du paragraphe 1
+de l'article 1er de la convention d'Athènes relative au transport par mer de passagers et de leurs bagages, telle que
+modifiée par son protocole fait à Londres le 1er novembre 2002, souscrit une assurance ou une autre garantie financière
+satisfaisant aux exigences de cette convention et du règlement (CE) n° 392/2009 du Parlement européen et du Conseil du 23
+avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident, lorsque ce navire est
+exploité sous pavillon français, ou touche ou quitte un port français. Un certificat attestant que la garantie est en cours
+de validité doit se trouver à bord du navire. Ces obligations s'imposent à compter de la date d'entrée en vigueur de la
+convention et au plus tard le 31 décembre 2012 si la convention n'est pas entrée en vigueur à cette date.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2006-142 du 10 février 2006 - art. 2 (VD)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+  - Décret n°2015-1354 du 26 octobre 2015 - art. 2
+  - Décret n°2017-942 du 10 mai 2017 - art. 11
+  - Code des transports - art. L5123-3 (V)
+  - Code des transports - art. L5123-6 (V)
+  - Code des transports - art. L5721-2 (V)
+  - Code des transports - art. L5751-2 (V)
+  - Code des transports - art. L5781-2 (V)
+  - Code des transports - art. L5791-2 (V)
+  - Code des transports - art. R5123-15 (V)
+  - Code des transports - art. R5232-1 (VD)
+  - Code des transports - art. R5232-5 (VD)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+###### Article L5123-3
+
+I. ― La délivrance des certificats d'assurance des navires mentionnés à l'article L. 5123-2 peut être déléguée à des
+organismes agréés par l'autorité administrative, lorsqu'en application des instruments internationaux ou des textes européens
+pertinents ces certificats peuvent faire l'objet d'une délégation. Ces certificats sont alors délivrés pour le compte et sous
+la responsabilité de l'Etat. Leur délivrance peut donner lieu à perception d'une rémunération par le délégataire. 
+
+Les attributions et conditions d'agrément de ces organismes sont précisées par décret en Conseil d'Etat. 
+
+II. ― Une amende administrative d'un montant maximum de 100 000 € peut être prononcée par l'autorité administrative
+compétente à l'encontre d'un organisme habilité à délivrer les certificats d'assurance en application du présent article, si
+celui-ci n'exécute pas la mission de contrôle qui lui est déléguée dans les conditions normales requises pour la bonne
+exécution de ce service. 
+
+En cas de manquement grave ou répété dans l'exécution du service qui lui est délégué, ou en cas de non-paiement de l'amende
+administrative prononcée en application de l'alinéa précédent, la délégation peut être suspendue ou abrogée par l'autorité
+administrative compétente, dans les conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2006-142 du 10 février 2006 - art. 2 (VD)
+  - Décret n°2015-1354 du 26 octobre 2015 - art. 2
+  - Décret n°2017-942 du 10 mai 2017 - art. 11
+  - Code des transports - art. L5123-4 (V)
+  - Code des transports - art. R5123-15 (V)
+  - Code des transports - art. R5123-6 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L5123-2
+
+
+###### Article L5123-4
+
+Les dispositions relatives à l'obligation d'assurance des propriétaires de navires pour les dommages résultant de la
+pollution par les hydrocarbures sont fixées par les dispositions de la sous-section 1 de la section 1 du chapitre VIII du
+titre Ier du livre II du code de l'environnement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cité par_:
+
+  - Code des transports - art. R5123-18 (V)
+  - Code des transports - art. R5123-19 (V)
+  - Code des transports - art. R5123-20 (V)
+
+
+##### Section 3 : Sanctions des obligations d'assurance<a id=548></a>
+
+###### Article L5123-5
+
+Lorsqu'un navire ne dispose pas d'un certificat d'assurance conforme à l'article L. 5123-1, l'autorité administrative
+compétente peut, sans préjudice des mesures d'immobilisation ou d'ajournement de départ du navire qui peuvent être rendues
+nécessaires pour des motifs de sécurité, prendre une décision d'expulsion du navire. 
+
+Les modalités d'application du présent article sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-967 du 27 octobre 1967 - art. 90 (Ab)
+  - Décret n°67-967 du 27 octobre 1967 - art. 92 (Ab)
+  - Code des transports - art. L5123-6 (V)
+  - Code des transports - art. L5241-4-5 (V)
+  - Code des transports - art. R5123-3 (V)
+  - Code des transports - art. R5123-5 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L5123-1
+
+
+###### Article L5123-6
+
+I. ― Est puni de 45 000 € d'amende : 
+
+1° Le fait pour les personnes mentionnées à l'article L. 5123-1 de ne pas respecter les obligations prévues au même
+article ; 
+
+2° Le fait pour le propriétaire inscrit d'un navire, au sens du paragraphe 4 de l'article 1er de la convention internationale
+de 2001 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures de soute, faite à Londres le
+23 mars 2001, de ne pas respecter les obligations prévues au I de l'article L. 5123-2 ; 
+
+3° Le fait pour le transporteur qui assure effectivement la totalité ou une partie du transport, au sens du point c du
+paragraphe 1 de l'article 1er de la convention d'Athènes de 1974 relative au transport par mer de passagers et de leurs
+bagages, telle que modifiée par son protocole fait à Londres le 1er novembre 2002, de ne pas respecter les obligations
+prévues au II de l'article L. 5123-2. 
+
+II. ― Est puni d'un an d'emprisonnement et de 75 000 € d'amende : 
+
+1° Le fait de faire obstacle à l'exercice des fonctions des agents mentionnés à l'article L. 5123-7 ; 
+
+2° Le fait de ne pas obtempérer à une injonction prononcée en application de l'article L. 5123-5 ou de faire obstacle à une
+mesure d'exécution forcée visant à ce que le navire quitte le port.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L5123-1
+  - Code des transports - art. L5123-2
+  - Code des transports - art. L5123-5
+
+_Cité par_:
+
+  - Code des transports - art. L5123-7 (V)
+
+
+##### Section 4 : Constatation des infractions<a id=549></a>
+
+###### Article L5123-7
+
+I. ― Outre les officiers et agents de police judiciaire, sont habilités à rechercher et constater les infractions prévues par
+l'article L. 5123-6 : 
+
+1° Les administrateurs des affaires maritimes ; 
+
+2° Les inspecteurs des affaires maritimes ; 
+
+3° Les officiers du corps technique et administratif des affaires maritimes ; 
+
+4° Les agents de l'Etat habilités par le ministre chargé de la mer en qualité d'inspecteurs de la sécurité des navires et de
+la prévention des risques professionnels maritimes ; 
+
+5° Les techniciens experts du service de sécurité de la navigation maritime ; 
+
+6° Les contrôleurs des affaires maritimes ; 
+
+7° Les syndics des gens de mer ; 
+
+8° Les agents des douanes. 
+
+II. ― Ont accès à bord de tout navire pour vérifier la présence des certificats prévus aux articles L. 5123-1 et L. 5123-2
+les agents mentionnés au I.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°67-967 du 27 octobre 1967 - art. 89 (Ab)
+  - Code des transports - art. L5123-6 (V)
+  - Code des transports - art. R5123-2 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L5123-1
+
+
+###### Article L5123-8
+
+Les procès-verbaux de constatation d'infraction sont transmis dans les cinq jours qui suivent la constatation des faits au
+procureur de la République par l'agent verbalisateur qui en adresse en même temps copie aux services intéressés. Ces procès-
+verbaux font foi jusqu'à preuve contraire.
+
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5123-8 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+###### Article L5123-9
+
+Les infractions aux dispositions du présent chapitre sont jugées soit par le tribunal compétent du lieu de l'infraction, soit
+par le tribunal compétent dans le ressort duquel le navire est immatriculé. 
+
+A défaut d'autre tribunal, le tribunal de grande instance de Paris est compétent.
+
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5123-9 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+#### TITRE III : REPARATION DES ACCIDENTS DE NAVIGATION<a id=550></a>
+
+##### Chapitre Ier : Abordage<a id=551></a>
+
+##### Section 1 : Dispositions générales<a id=552></a>
 
 ###### Article L5131-1
 
@@ -29019,7 +29359,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Responsabilité des dommages<a id=545></a>
+##### Section 2 : Responsabilité des dommages<a id=553></a>
 
 ###### Article L5131-3
 
@@ -29093,7 +29433,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Actions en réparation<a id=546></a>
+##### Section 3 : Actions en réparation<a id=554></a>
 
 ###### Article L5131-6
 
@@ -29138,22 +29478,52 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Assistance<a id=547></a>
+##### Chapitre II : Assistance<a id=555></a>
 
-##### Section 1 : Dispositions générales<a id=548></a>
+##### Section 1 : Dispositions générales<a id=556></a>
 
 ###### Article L5132-1
 
-Les dispositions du présent chapitre s'appliquent à l'assistance des navires en danger, y compris les navires de guerre,
-ainsi qu'aux services de même nature rendus entre navires et bateaux, sans tenir compte des eaux où elle a été rendue.
+I. ― Sans préjudice des dispositions du chapitre II du titre VI du livre II, sont applicables aux opérations d'assistance les
+dispositions du présent chapitre chaque fois qu'une action judiciaire ou arbitrale est introduite devant une juridiction ou
+une instance arbitrale française. 
 
-Pour l'application des dispositions du présent chapitre, tout engin flottant est assimilé soit au navire, soit au bateau.
+Les dispositions du présent chapitre présentent un caractère supplétif, à l'exception de celles figurant aux articles L.
+5132-2 et L. 5132-6 et de celles tendant à prévenir ou limiter les dommages à l'environnement. 
+
+Elles sont susceptibles de s'appliquer, dans toutes les eaux, aux navires, bateaux et biens, à la condition que les
+opérations d'assistance répondent à l'une au moins des deux conditions suivantes : 
+
+1° Les opérations se déroulent, en tout ou partie, dans les eaux maritimes ; 
+
+2° Un navire est concerné soit comme assisté, soit comme assistant. 
+
+Pour l'application des dispositions du présent chapitre, tout engin flottant est assimilé, selon le cas, soit aux navires,
+soit aux bateaux. 
+
+II. ― Les dispositions du présent chapitre sont applicables aux navires et bateaux de l'Etat ou à ceux affectés à un service
+public. Le III du présent article et le II de l'article L. 5132-7 ne sont pas applicables aux navires et bateaux de l'Etat. 
+
+III. ― Les dispositions du présent chapitre s'appliquent même si le navire ou bateau assisté et le navire ou bateau assistant
+appartiennent au même propriétaire. 
+
+IV. ― Les dispositions du présent chapitre ne s'appliquent pas lorsque est en cause un bien maritime culturel présentant un
+intérêt préhistorique, archéologique ou historique et qui se trouve au fond de la mer. 
+
+V. ― Dans les dispositions des sections 2 à 4 ci-après, le terme : " navire " désigne le navire ou le bateau ou, conformément
+au dernier alinéa du I, tout engin flottant qui leur est assimilé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°67-545 du 7 juillet 1967 - art. 9 (Ab), art. 21 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L5132-2
+  - Code des transports - art. L5132-6
+  - Code des transports - art. L5132-7
 
 _Cité par_:
 
@@ -29165,21 +29535,12 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Rémunération de l'assistance aux navires et bateaux<a id=549></a>
-
 ###### Article L5132-2
 
-Tout fait d'assistance ayant eu un résultat utile donne lieu, dans ce cas seulement, à une rémunération équitable dont le
-montant ne peut dépasser la valeur des choses sauvées.
-
-Une rémunération est due même si l'assistance a eu lieu entre navires appartenant au même propriétaire. Toutefois, les
-dispositions du présent alinéa ne sont pas applicables aux navires ou bateaux de l'Etat.
+Le capitaine peut conclure des contrats d'assistance au nom du propriétaire du navire. Le capitaine ou le propriétaire du
+navire peut conclure de tels contrats au nom du propriétaire des biens se trouvant à bord du navire.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-545 du 7 juillet 1967 - art. 10 (Ab), art. 13 (Ab)
 
 _Cité par_:
 
@@ -29189,18 +29550,26 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+##### Section 2 : Rémunération de l'assistance<a id=557></a>
 
 ###### Article L5132-3
 
-Il n'est dû aucune rémunération pour les personnes sauvées. Toutefois, les sauveteurs des vies humaines qui sont intervenus à
-l'occasion des mêmes dangers ont droit à une équitable part de la rémunération accordée aux sauveteurs du navire, de la
-cargaison et de leurs accessoires.
+I.-Les opérations d'assistance qui ont eu un résultat utile donnent droit à une rémunération au profit de la ou des personnes
+qui ont fourni une assistance. Sous réserve de l'article L. 5132-5, aucun paiement n'est dû en application du présent
+chapitre si les opérations d'assistance n'ont pas eu de résultat utile. 
+
+II.-Les services rendus malgré la défense expresse et raisonnable du propriétaire ou du capitaine du navire ou du
+propriétaire de tout autre bien en danger qui n'est pas ou n'a pas été à bord du navire ne donnent pas droit à rémunération. 
+
+III.-Aucune rémunération n'est due pour des services rendus en vertu de contrats conclus avant que le danger ne survienne, à
+moins que les services rendus n'excèdent ce qui peut raisonnablement être considéré comme l'exécution normale du contrat.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-545 du 7 juillet 1967 - art. 17 (Ab)
 
 _Cité par_:
 
@@ -29210,17 +29579,47 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
 
 ###### Article L5132-4
 
-N'ont droit à aucune rémunération les personnes qui ont pris part aux opérations de secours malgré la défense expresse et
-raisonnable du navire secouru.
+I. ― La rémunération est fixée en vue d'encourager les opérations d'assistance et compte tenu des critères suivants, sans
+tenir compte de l'ordre dans lequel ils sont mentionnés : 
+
+1° La valeur du navire et des autres biens sauvés ; 
+
+2° L'habileté et les efforts des assistants pour prévenir ou limiter les dommages à l'environnement ; 
+
+3° L'étendue du succès obtenu par l'assistant ; 
+
+4° La nature et l'importance du danger ; 
+
+5° L'habileté et les efforts des assistants pour sauver le navire, les autres biens et les vies humaines ; 
+
+6° Le temps passé, les dépenses effectuées et les pertes subies par les assistants ; 
+
+7° Le risque de responsabilité et les autres risques encourus par les assistants ou leur matériel ; 
+
+8° La promptitude des services rendus ; 
+
+9° La disponibilité et l'usage de navires ou d'autres matériels destinés aux opérations d'assistance ; 
+
+10° L'état de préparation ainsi que l'efficacité et la valeur du matériel de l'assistant. 
+
+II. ― Le paiement d'une rémunération fixée conformément au I doit être effectué par toutes les parties intéressées en
+proportion de la valeur respective du navire et des autres biens sauvés. 
+
+III. ― Les rémunérations, à l'exclusion de tous intérêts et frais juridiques récupérables qui peuvent être dus à cet égard,
+ne dépassent pas la valeur du navire et des autres biens sauvés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°67-545 du 7 juillet 1967 - art. 11 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 _Cité par_:
 
@@ -29234,18 +29633,43 @@ _Codifié par_:
 
 ###### Article L5132-5
 
-Les services du remorqueur ne sont rémunérés pour l'assistance du navire qu'il a remorqué ou de sa cargaison que lorsqu'il
-s'agit de services exceptionnels ne pouvant être considérés comme l'accomplissement du contrat de remorquage.
+I. ― L'assistant qui a réalisé des opérations d'assistance à un navire qui, par lui-même ou du fait de sa cargaison, menaçait
+de causer des dommages à l'environnement et n'a pu obtenir, en application de l'article L. 5132-3, une rémunération au moins
+égale à l'indemnité spéciale calculée conformément au présent article a droit de la part du propriétaire du navire à cette
+indemnité. 
+
+II. ― Si, dans les circonstances mentionnées au I, l'assistant a prévenu ou limité des dommages à l'environnement par ses
+opérations d'assistance, l'indemnité spéciale due par le propriétaire du navire à l'assistant en vertu du I peut être
+augmentée jusqu'à un maximum de 30 % des dépenses engagées par l'assistant. Toutefois, si le tribunal le juge équitable et
+juste, compte tenu des critères pertinents énoncés au I de l'article L. 5132-4, il peut encore augmenter cette indemnité
+spéciale, sans que l'augmentation totale représente plus de 100 % des dépenses engagées par l'assistant. 
+
+III. ― Les dépenses de l'assistant prises en compte pour l'application du présent article comprennent les débours
+raisonnablement engagés par l'assistant dans les opérations d'assistance ainsi qu'une somme équitable pour le matériel et le
+personnel effectivement et raisonnablement utilisés dans les opérations d'assistance, compte tenu des critères énoncés aux
+8°, 9° et 10° du I de l'article L. 5132-4. 
+
+IV. ― L'indemnité spéciale totale n'est payée que dans le cas et dans la mesure où elle excède la rémunération pouvant être
+obtenue par l'assistant en vertu de l'article L. 5132-3. 
+
+V. ― Si l'assistant a été négligent et n'a pu, de ce fait, prévenir ou limiter les dommages à l'environnement, il peut être
+privé de tout ou partie de l'indemnité spéciale due en application du présent article. 
+
+VI. ― Les dispositions du présent article ne privent pas de ses droits de recours le propriétaire du navire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°67-545 du 7 juillet 1967 - art. 12 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 _Cité par_:
 
   - Code des transports - art. L5132-3 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5132-4
 
 _Codifié par_:
 
@@ -29254,39 +29678,51 @@ _Codifié par_:
 
 ###### Article L5132-6
 
-Il n'est dû aucune rémunération d'assistance pour les envois postaux de toute nature.
+Un contrat ou certaines de ses clauses peuvent être annulés ou modifiés, si : 
+
+1° Le contrat a été conclu sous une pression abusive ou sous l'influence du danger et que ses clauses ne sont pas
+équitables ; ou 
+
+2° Si le paiement convenu en vertu du contrat est beaucoup trop élevé ou beaucoup trop faible pour les services effectivement
+rendus.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-545 du 7 juillet 1967 - art. 20 (Ab)
-
-_Cité par_:
-
-  - Code des transports - art. L5132-1 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cité par_:
+
+  - Code des transports - art. L5132-1 (V)
+
 
 ###### Article L5132-7
 
-La convention des parties, et, à défaut, la juridiction compétente, détermine le montant de la rémunération et la proportion
-dans laquelle cette rémunération est répartie, soit entre les sauveteurs, soit entre les propriétaires, le capitaine et
-l'équipage de chacun des navires assistants.
+I.-La répartition entre assistants de la rémunération se fait sur la base des critères mentionnés à l'article L. 5132-4. 
+
+II.-La répartition entre le propriétaire, le capitaine et les autres personnes au service de chaque navire assistant est
+déterminée par la législation du pavillon du navire assistant. Si l'assistance n'a pas été réalisée à partir d'un navire, la
+répartition s'opère selon la législation régissant le contrat conclu entre l'assistant et ses préposés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°67-545 du 7 juillet 1967 - art. 14 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 _Cité par_:
 
   - Code des transports - art. L5132-1 (V)
   - Code des transports - art. L5544-46 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5132-4
 
 _Codifié par_:
 
@@ -29295,46 +29731,37 @@ _Codifié par_:
 
 ###### Article L5132-8
 
-Toute convention d'assistance peut, à la requête de l'une des parties, être annulée ou modifiée par la juridiction
-compétente, si elle estime que les conditions convenues ne sont pas équitables, compte tenu du service rendu et des bases de
-rémunération indiquées à l'article L. 5132-9 ou que le service rendu ne présente pas les caractères d'une véritable
-assistance, quelque qualification que les parties lui aient donnée.
+Il n'est dû aucune rémunération pour les personnes sauvées. 
+
+Toutefois, le sauveteur de vies humaines qui a participé aux services rendus à l'occasion de l'accident ayant donné lieu aux
+opérations d'assistance a droit à une part équitable du paiement alloué à l'assistant pour avoir sauvé le navire ou d'autres
+biens ou pour avoir prévenu ou limité les dommages à l'environnement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-545 du 7 juillet 1967 - art. 15 (Ab)
-
-_Cite_:
-
-  - Code des transports - art. L5132-9 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
 
 ###### Article L5132-9
 
-Pour fixer le montant de la rémunération et la proportion dans laquelle elle est répartie, la juridiction compétente se
-fonde, selon les circonstances :
+I. - Toute action en paiement intentée en application du présent chapitre est prescrite si une procédure judiciaire ou
+arbitrale n'a pas été engagée dans un délai de deux ans. Le délai de prescription court du jour où les opérations
+d'assistance ont été terminées. 
 
-1° Sur le succès obtenu, les efforts et le mérite de ceux qui ont prêté secours, le danger couru par le navire assisté, par
-ses passagers et son équipage, par sa cargaison, par les sauveteurs et par le navire assistant, le temps employé, les frais
-et dommages subis et les risques de responsabilité et autres encourus par les sauveteurs, la valeur du matériel exposé par
-eux, en tenant compte, le cas échéant, de l'appropriation spéciale du navire assistant ;
-
-2° Sur la valeur des choses sauvées, le fret et le prix du passage.
-
-La juridiction compétente peut réduire ou supprimer la rémunération s'il apparaît que les sauveteurs ont, par leur faute,
-rendu l'assistance nécessaire ou qu'ils se sont rendus coupables de vols, recels ou autres actes frauduleux.
+II. - La personne contre laquelle une créance a été formée peut à tout moment, pendant le délai de prescription, prolonger
+celui-ci par une déclaration adressée au créancier. Le délai peut, de la même façon, être à nouveau prolongé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°67-545 du 7 juillet 1967 - art. 16 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
 _Cité par_:
 
@@ -29345,57 +29772,46 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+##### Section 3 : Conditions d'exécution des opérations d'assistance<a id=558></a>
+
 ###### Article L5132-10
 
-L'action en paiement de la rémunération se prescrit par deux ans à compter du jour où les opérations d'assistance sont
-terminées.
+L'assistant a l'obligation : 
 
-Toutefois, ce délai de prescription ne court pas lorsque le navire assisté n'a pu être saisi dans les eaux soumises à la
-juridiction française. Les dispositions du présent alinéa ne sont pas applicables aux navires ou bateaux de l'Etat ou
-affectés à un service public.
+1° D'exécuter les opérations d'assistance avec le soin voulu ; 
+
+2° Lorsqu'il s'acquitte de l'obligation mentionnée à l'alinéa précédent, d'agir avec le soin voulu pour prévenir ou limiter
+les dommages à l'environnement ; 
+
+3° Chaque fois que les circonstances l'exigent raisonnablement, de chercher à obtenir l'aide d'autres assistants ; 
+
+4° D'accepter l'intervention d'autres assistants lorsqu'il est raisonnablement prié de le faire par le capitaine ou le
+propriétaire du navire ou des autres biens en danger ; le montant de sa rémunération n'est pas affecté s'il s'avère que cette
+demande n'était pas raisonnable.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-545 du 7 juillet 1967 - art. 18 (Ab), art. 21 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Section 3 : Responsabilité de l'assistant<a id=550></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
 
 ###### Article L5132-11
 
-La responsabilité de l'assistant, à raison des dommages corporels ou matériels en relation directe avec des opérations
-d'assistance ou de sauvetage, au sens de la convention sur la limitation de la responsabilité en matière de créances
-maritimes faite à Londres le 19 novembre 1976 modifiée, ainsi qu'à raison de tous autres préjudices résultant de ces
-opérations, peut être soumise à limitation, quel que soit le fondement de la responsabilité. 
+Le capitaine, le propriétaire du navire et le propriétaire des autres biens en danger ont l'obligation : 
 
-Cette limitation est soumise aux conditions applicables à la limitation de responsabilité du propriétaire de navire prévue
-par le chapitre Ier du titre II du présent livre. 
+1° De coopérer pleinement avec l'assistant pendant les opérations d'assistance ; 
 
-Les préposés de l'assistant ont le droit de se prévaloir de la limitation de responsabilité dans les mêmes conditions que
-l'assistant lui-même. 
+2° Ce faisant, d'agir avec le soin voulu pour prévenir ou limiter les dommages à l'environnement ; 
 
-Les limites de responsabilité de l'assistant agissant à partir d'un navire autre que celui auquel il fournit ses services
-d'assistance sont calculées suivant les règles fixées par l'article L. 5121-5.
-
-Les limites de responsabilité de l'assistant n'agissant pas à partir d'un navire ou agissant uniquement à bord du navire
-auquel il fournit ses services d'assistance sont calculées selon les mêmes règles et sur la base d'une jauge de 1 500 au sens
-des dispositions du 5 de l'article 6 de la convention mentionnée au premier alinéa du présent article.
+3° Lorsque le navire ou les autres biens ont été conduits en lieu sûr, d'en accepter la restitution lorsque l'assistant le
+leur demande raisonnablement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°67-545 du 7 juillet 1967 - art. 21 bis (Ab)
-
-_Cite_:
-
-  - Code des transports - art. L5121-5 (V)
 
 _Cité par_:
 
@@ -29405,10 +29821,55 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Chapitre III : Avaries<a id=551></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
 
-##### Section 1 : Dispositions générales<a id=552></a>
+
+##### Section 4 : Responsabilité de l'assistant<a id=559></a>
+
+###### Article L5132-12
+
+I. ― La responsabilité de l'assistant, engagée à raison des dommages corporels ou matériels qui sont en relation directe avec
+des opérations d'assistance ou de sauvetage, au sens de la convention de 1976 sur la limitation de la responsabilité en
+matière de créances maritimes faite à Londres le 19 novembre 1976, telle que modifiée, ainsi qu'à raison de tous autres
+préjudices résultant de ces opérations, peut être soumise à limitation, quel que soit le fondement de la responsabilité. 
+
+II. ― Cette limitation est soumise aux mêmes conditions que celles applicables à la limitation de la responsabilité du
+propriétaire de navire mentionnée au chapitre Ier du titre II du présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+
+###### Article L5132-13
+
+I. ― Les préposés de l'assistant ont le droit de se prévaloir de la limitation de responsabilité dans les mêmes conditions
+que l'assistant lui-même. 
+
+II. ― Les limites de responsabilité de l'assistant agissant à partir d'un navire autre que celui auquel il fournit des
+services d'assistance sont calculées suivant les règles prévues pour le propriétaire de navire à l'article L. 5121-5. 
+
+III. ― Les limites de responsabilité de l'assistant n'agissant pas à partir d'un navire ou agissant uniquement à bord du
+navire auquel il fournit des services d'assistance sont calculées selon les mêmes règles et sur la base d'une jauge de 2000.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L5121-5
+
+
+##### Chapitre III : Avaries<a id=560></a>
+
+##### Section 1 : Dispositions générales<a id=561></a>
 
 ###### Article L5133-1
 
@@ -29449,7 +29910,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Classement en avaries communes<a id=553></a>
+##### Section 2 : Classement en avaries communes<a id=562></a>
 
 ###### Article L5133-3
 
@@ -29517,7 +29978,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Contributions aux avaries communes<a id=554></a>
+##### Section 3 : Contributions aux avaries communes<a id=563></a>
 
 ###### Article L5133-7
 
@@ -29687,7 +30148,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Règlement des avaries communes<a id=555></a>
+##### Section 4 : Règlement des avaries communes<a id=564></a>
 
 ###### Article L5133-16
 
@@ -29752,11 +30213,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : NAVIRES ABANDONNES ET EPAVES<a id=556></a>
+#### TITRE IV : NAVIRES ABANDONNES ET EPAVES<a id=565></a>
 
-##### Chapitre Ier : Navires abandonnés<a id=557></a>
+##### Chapitre Ier : Navires abandonnés<a id=566></a>
 
-##### Section 1 : Dispositions générales<a id=558></a>
+##### Section 1 : Dispositions générales<a id=567></a>
 
 ###### Article L5141-1
 
@@ -29804,7 +30265,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Déchéance du propriétaire<a id=559></a>
+##### Section 2 : Déchéance du propriétaire<a id=568></a>
 
 ###### Article L5141-3
 
@@ -29865,7 +30326,7 @@ _Cite_:
   - Code des transports - art. L5242-16
 
 
-##### Section 3 : Dispositions relatives à la cargaison<a id=560></a>
+##### Section 3 : Dispositions relatives à la cargaison<a id=569></a>
 
 ###### Article L5141-5
 
@@ -29926,7 +30387,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Epaves<a id=561></a>
+##### Chapitre II : Epaves<a id=570></a>
 
 ###### Article L5142-1
 
@@ -29950,7 +30411,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 1 : Dispositions générales<a id=562></a>
+##### Section 1 : Dispositions générales<a id=571></a>
 
 ###### Article L5142-2
 
@@ -30050,7 +30511,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Dispositions pénales<a id=563></a>
+##### Section 2 : Dispositions pénales<a id=572></a>
 
 ###### Article L5142-7
 
@@ -30115,11 +30576,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE II : LA NAVIGATION MARITIME<a id=564></a>
+### LIVRE II : LA NAVIGATION MARITIME<a id=573></a>
 
-#### TITRE IER : DROIT DE PASSAGE INOFFENSIF  DANS LES EAUX TERRITORIALES<a id=565></a>
+#### TITRE IER : DROIT DE PASSAGE INOFFENSIF  DANS LES EAUX TERRITORIALES<a id=574></a>
 
-##### Chapitre unique<a id=566></a>
+##### Chapitre unique<a id=575></a>
 
 ###### Article L5211-1
 
@@ -30214,9 +30675,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : DOCUMENTS DE BORD<a id=567></a>
+#### TITRE II : DOCUMENTS DE BORD<a id=576></a>
 
-##### Chapitre Ier : Dispositions générales<a id=568></a>
+##### Chapitre Ier : Dispositions générales<a id=577></a>
 
 ###### Article L5221-1
 
@@ -30235,7 +30696,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Constatation des infractions<a id=569></a>
+##### Chapitre II : Constatation des infractions<a id=578></a>
 
 ###### Article L5222-1
 
@@ -30300,24 +30761,30 @@ _Codifié par_:
 
 ###### Article L5222-2
 
-Les procès-verbaux établis par les commandants des bâtiments de l'Etat sont transmis au directeur départemental des
-territoires et de la mer dans la circonscription duquel ils se trouvent et, en cas d'empêchement, au premier directeur
-départemental des territoires et de la mer avec lequel ils peuvent entrer en contact. 
+Les procès-verbaux établis par les commandants des bâtiments de l'Etat sont transmis au directeur interrégional de la mer
+dans la circonscription duquel ils se trouvent. 
 
-Les procès-verbaux établis par les fonctionnaires et agents mentionnés aux 2° à 7° de l'article L. 5222-1 sont transmis au
-directeur départemental des territoires et de la mer dont ils relèvent. 
+Les procès-verbaux établis par les fonctionnaires et agents mentionnés aux 1° à 7° de l'article L. 5222-1 et au 3° de
+l'article L. 5336-5 sont également transmis au directeur départemental des territoires et de la mer dans le ressort duquel a
+été commise l'infraction. 
 
 Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5222-2 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code disciplinaire et pénal de la marine marcha... - art. 27 (VT), ecqc les infractions au titre II
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 3
 
 _Cite_:
 
-  - Code des transports - art. L5222-1 (V)
+  - Code des transports - art. L5222-1
+  - Code des transports - art. L5336-5
 
 _Cité par_:
 
@@ -30333,7 +30800,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Sanctions pénales<a id=570></a>
+##### Chapitre III : Sanctions pénales<a id=579></a>
 
 ###### Article L5223-1
 
@@ -30355,9 +30822,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : TITRES DE NAVIGATION MARITIME<a id=571></a>
+#### TITRE III : TITRES DE NAVIGATION MARITIME<a id=580></a>
 
-##### Chapitre Ier : Dispositions générales<a id=572></a>
+##### Chapitre Ier : Dispositions générales<a id=581></a>
 
 ###### Article L5231-1
 
@@ -30408,7 +30875,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Rôle d'équipage<a id=573></a>
+##### Chapitre II : Rôle d'équipage<a id=582></a>
 
 ###### Article L5232-1
 
@@ -30504,7 +30971,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Permis de circulation<a id=574></a>
+##### Chapitre III : Permis de circulation<a id=583></a>
 
 ###### Article L5233-1
 
@@ -30536,7 +31003,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Carte de circulation<a id=575></a>
+##### Chapitre IV : Carte de circulation<a id=584></a>
 
 ###### Article L5234-1
 
@@ -30559,7 +31026,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Dispositions diverses<a id=576></a>
+##### Chapitre V : Dispositions diverses<a id=585></a>
 
 ###### Article L5235-1
 
@@ -30583,7 +31050,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : Constatation des infractions<a id=577></a>
+##### Chapitre VI : Constatation des infractions<a id=586></a>
 
 ###### Article L5236-1
 
@@ -30601,11 +31068,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SECURITE ET PREVENTION DE LA POLLUTION<a id=578></a>
+#### TITRE IV : SECURITE ET PREVENTION DE LA POLLUTION<a id=587></a>
 
-##### Chapitre Ier : Sécurité des navires et prévention de la pollution<a id=579></a>
+##### Chapitre Ier : Sécurité des navires et prévention de la pollution<a id=588></a>
 
-##### Section 1 : Champ d'application<a id=580></a>
+##### Section 1 : Champ d'application<a id=589></a>
 
 ###### Article L5241-1
 
@@ -30650,12 +31117,15 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Entretien des navires<a id=581></a>
+##### Section 2 : Entretien et exploitation des navires<a id=590></a>
 
 ###### Article L5241-2
 
-Les mesures d'entretien destinées à assurer la sécurité à bord des navires et la prévention de la pollution par les navires
-sont fixées par voie réglementaire.
+Les règles générales d'entretien et d'exploitation destinées à assurer la sécurité et la sûreté à bord des navires,
+l'habitabilité de ces derniers ainsi que la prévention des risques professionnels maritimes et la prévention de la pollution
+par les navires sont fixées par voie réglementaire.
+
+Le propriétaire ou l'exploitant du navire maintient le navire et ses équipements en conformité avec ces règles générales.
 
 **Liens relatifs à cet article**
 
@@ -30671,8 +31141,12 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Section 3 : Titres de sécurité et certificats de prévention de la pollution<a id=582></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+##### Section 3 : Titres de sécurité et certificats de prévention de la pollution<a id=591></a>
 
 ###### Article L5241-3
 
@@ -30705,7 +31179,7 @@ _Codifié par_:
 ###### Article L5241-4
 
 Les titres de sécurité ou les certificats de prévention de la pollution sont délivrés par l'autorité administrative ou par
-des sociétés de classification agréées.
+des sociétés de classification habilitées dans des conditions fixées par décret en Conseil d'Etat.
 
 Ils peuvent faire l'objet de mesures de suspension ou de retrait.
 
@@ -30728,8 +31202,136 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Section 4 : Mesures d'immobilisation<a id=583></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+###### Article L5241-4-1
+
+I. - Une amende administrative d'un montant maximum de 100 000 € peut être prononcée par l'autorité administrative à
+l'encontre des sociétés de classification habilitées qui méconnaissent leurs obligations professionnelles de contrôle
+définies par voie réglementaire. En cas de réitération d'un manquement dans un délai de deux ans, le plafond de l'amende est
+doublé.
+
+II. - Toutefois, lorsque les manquements constatés ont déjà donné lieu au prononcé d'une amende par la Commission européenne
+en application de l'article 6 du règlement (CE) n° 391/2009 du Parlement européen et du Conseil du 23 avril 2009 établissant
+des règles et normes communes concernant les organismes habilités à effectuer l'inspection et la visite des navires, le
+montant cumulé des deux amendes ne peut être supérieur au pourcentage du chiffre d'affaires mentionné au paragraphe 3 du même
+article.
+
+III. - En cas de manquement grave ou répété dans l'exécution du service, ou en cas de non-paiement d'une amende
+administrative prononcée en application des dispositions du I, l'autorité administrative peut suspendre ou retirer
+l'habilitation selon des modalités définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cité par_:
+
+  - Code des transports - art. L5241-4-2 (V)
+
+
+##### Section 3 bis : Autres titres et certificats<a id=592></a>
+
+###### Article L5241-4-2
+
+Les autres titres ou certificats requis par les conventions internationales, notamment les certificats relatifs aux
+cargaisons mentionnées à l'article L. 5241-10-1, peuvent être délivrés par des organismes agréés dans des conditions fixées
+par décret en Conseil d'Etat. 
+
+Les dispositions de l'article L. 5241-4-1 sont applicables à ces organismes.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-810 du 30 août 1984 - art. 42-7 (V)
+  - Arrêté du 23 novembre 1987 - art. 423-1.05 (VD)
+  - Arrêté du 23 novembre 1987 - art. 423-1.07 (VD)
+  - Arrêté du 7 décembre 2017 - art. 4
+  - Arrêté du 7 décembre 2017 - art. 5
+  - Code des transports - art. L5241-14 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cite_:
+
+  - Code des transports - art. L5241-10-1 (V)
+  - Code des transports - art. L5241-4-1
+
+
+##### Section 3 ter : Contrôle par l'Etat du port<a id=593></a>
+
+###### Article L5241-4-3
+
+Les navires battant pavillon d'un Etat étranger qui font escale dans un port ou un mouillage français sont susceptibles de
+faire l'objet d'inspections dans les conditions précisées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cité par_:
+
+  - Arrêté du 5 juin 2015 (V)
+  - Code des transports - art. L5241-4-4 (V)
+  - Code des transports - art. R5561-1 (VD)
+
+
+###### Article L5241-4-4
+
+Les frais liés aux inspections prévues par l'article L. 5241-4-3 sont à la charge du propriétaire ou de l'exploitant du
+navire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cite_:
+
+  - Code des transports - art. L5241-4-3
+
+
+##### Section 4 : Refus d'accès au port et mesures d'immobilisations<a id=594></a>
+
+###### Article L5241-4-5
+
+Sous réserve des dispositions de l'article L. 5331-3, l'autorité administrative refuse l'accès aux ports : 
+
+1° A tout navire présentant un risque élevé pour la sécurité maritime, la sûreté maritime ou pour l'environnement, dans les
+cas fixés par décret en Conseil d'Etat ; 
+
+2° A tout navire ayant fait l'objet d'une décision d'expulsion en application de l'article L. 5123-5 ou d'une décision
+analogue prise par l'autorité compétente d'un autre Etat membre de l'Union européenne, tant que le propriétaire ou exploitant
+du navire ne justifie pas disposer du certificat requis par l'article L. 5123-1.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-810 du 30 août 1984 - art. 41-9 (V)
+  - Code des transports - art. L5334-4 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cite_:
+
+  - Code des transports - art. L5123-1
+  - Code des transports - art. L5123-5
+  - Code des transports - art. L5331-3
+
 
 ###### Article L5241-5
 
@@ -30737,26 +31339,38 @@ Au cas où le navire ne pourrait prendre la mer sans risque pour la sécurité o
 embarquées, le milieu marin et ses intérêts connexes ou les autres navires, son départ peut être interdit ou ajourné, après
 visite.
 
+L'autorité administrative peut également interdire ou ajourner le départ de tout navire n'ayant pas respecté, préalablement à
+son arrivée au port ou au mouillage, l'obligation de signalement aux autorités maritimes ou portuaires des informations
+relatives à la sécurité maritime dont le contenu est fixé par voie réglementaire, ou qui n'est pas équipé d'un dispositif
+permettant d'assurer la sécurité de l'accès à bord en vue d'une inspection.
+
+Les frais engendrés par l'inspection d'un navire immobilisé ou dont le départ a été ajourné sont à la charge du propriétaire
+ou de l'exploitant du navire.
+
+Un décret en Conseil d'Etat fixe les conditions et les modalités de cette interdiction ou cet ajournement de départ.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-581 du 5 juillet 1983 - art. 3 (Ab), alinéas 2 et 3
-
-_Cité par_:
-
-  - Code des transports - art. L5241-13 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cité par_:
+
+  - Code des transports - art. L5241-13 (V)
+
 
 ###### Article L5241-6
 
-L'exploitation d'un navire ou toute opération connexe peut être interdite ou arrêtée d'urgence, par l'autorité
-administrative, si elle présente un risque manifeste pour la sécurité ou la santé des passagers ou de l'équipage, pour les
-autres navires ou pour l'environnement marin.
+L'exploitation d'un navire ou toute opération connexe présentant un risque manifeste pour la sécurité ou la santé des
+passagers ou de l'équipage, pour les autres navires, ou pour l'environnement peut être limitée ou interdite par l'autorité
+administrative, après réalisation d'une étude de conformité ou d'une visite.
+
+Elle peut dans les mêmes conditions être arrêtée d'urgence, en cas de risque manifeste et imminent. 
 
 Le propriétaire, l'armateur ou l'exploitant et le capitaine du navire donnent accès, à tout moment, au navire, à l'exception
 des locaux à usage exclusif d'habitation, dans les conditions prévues par les dispositions du chapitre unique du titre Ier du
@@ -30768,13 +31382,17 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Section 5 : Visites des navires<a id=584></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+##### Section 5 : Visites et inspections des navires<a id=595></a>
 
 ###### Article L5241-7
 
 Un décret en Conseil d'Etat fixe la liste des fonctionnaires et personnes ayant libre accès à bord pour procéder aux visites
-prévues par les dispositions du présent chapitre ou y participer.
+et inspections prévues par les dispositions du présent chapitre ou y participer.
 
 **Liens relatifs à cet article**
 
@@ -30787,6 +31405,10 @@ _Cité par_:
   - Décret n°84-810 du 30 août 1984 - art. 2 (VD)
   - Décret n°2016-1693 du 9 décembre 2016 - art. 5
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -30794,8 +31416,8 @@ _Codifié par_:
 
 ###### Article L5241-8
 
-Les modalités d'application des dispositions du présent chapitre relative aux visites des navires sont précisées par décret
-en Conseil d'Etat.
+Les modalités d'application des dispositions du présent chapitre relative aux visites et inspections des navires sont
+précisées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -30808,8 +31430,12 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Section 6 : Mesures de prévention de la pollution<a id=585></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+##### Section 6 : Mesures de prévention de la pollution<a id=596></a>
 
 ###### Article L5241-9
 
@@ -30836,42 +31462,63 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 7 : Sanctions pénales<a id=586></a>
+##### Section 6 bis : Cargaisons<a id=597></a>
 
-###### Article L5241-11
+###### Article L5241-10-1
 
-I. ― Est puni de 7 500 € d'amende, le fait, pour le constructeur, l'armateur, le propriétaire ou le capitaine, d'enfreindre
-les stipulations des conventions internationales suivantes :
-
-1° Convention n° 92 sur le logement des équipages, adoptée le 18 juin 1949 par l'Organisation internationale du travail, en
-ce qui concerne l'habitabilité et l'hygiène ;
-
-2° Convention internationale sur les lignes de charge, faite à Londres le 5 avril 1966, en ce qui concerne les conditions de
-délivrance des titres de sécurité et l'organisation des contrôles des navires ;
-
-3° Convention internationale pour la prévention de la pollution par les navires, faite à Londres le 2 novembre 1973, telle
-qu'elle a été modifiée par le protocole du 17 février 1978, en ce qui concerne la délivrance des certificats de prévention de
-la pollution, l'organisation des contrôles des navires et les dispositions relatives à la prévention de la pollution, à
-l'exclusion des rejets ;
-
-4° Convention internationale pour la sauvegarde de la vie humaine en mer, faite à Londres le 1er novembre 1974, en ce qui
-concerne la construction des navires, la protection contre l'incendie, les installations électriques, la sécurité de la
-navigation, le transport des cargaisons et des marchandises dangereuses, les radiocommunications, le sauvetage, la délivrance
-des titres de sécurité et l'organisation des contrôles des navires ;
-
-5° Protocole relatif à la convention internationale de 1974 pour la sauvegarde de la vie humaine en mer, fait à Londres le 17
-février 1978, en ce qui concerne la délivrance des titres de sécurité et l'organisation des contrôles des navires, la
-construction des navires, la protection contre l'incendie, les installations électriques, la sécurité de la navigation.
-
-II. ― La même peine est applicable aux responsables des opérations de chargement, de déchargement, d'emballage et de
-manutention qui ne respectent pas les stipulations des conventions internationales mentionnées au I, en ce qui concerne le
-transport des cargaisons, des marchandises dangereuses et des substances nuisibles.
+Les marchandises dangereuses, les substances nuisibles ainsi que les autres cargaisons ne peuvent être proposées au
+chargement à bord d'un navire par le chargeur ou acceptées à bord par le transporteur, si les règles de sécurité ou de
+prévention de la pollution relatives à ces cargaisons fixées par voie réglementaire ne sont pas respectées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cité par_:
 
-  - Loi n°83-581 du 5 juillet 1983 - art. 6 (Ab)
+  - Décret n°84-810 du 30 août 1984 - art. 42-8 (V)
+  - Code des transports - art. L5241-11 (V)
+  - Code des transports - art. L5241-4-2 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+###### Article L5241-10-2
+
+Les certificats relatifs aux cargaisons peuvent être suspendus ou retirés, pour des motifs liés à la sécurité du transport ou
+à la prévention de la pollution.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
+##### Section 7 : Sanctions pénales<a id=598></a>
+
+###### Article L5241-11
+
+Est puni de 75 000 € d'amende le fait, pour tout propriétaire ou exploitant, de faire naviguer ou tenter de faire naviguer un
+navire soumis à la convention internationale sur les lignes de charges, faite à Londres le 5 avril 1966, qui ne dispose pas
+de marques de franc-bord ou dont les lignes de charge appropriées, marquées sur le bordé, sont immergées pendant le voyage ou
+à l'arrivée. 
+
+Le capitaine qui a commis l'une des infractions visées au premier alinéa est passible de la même peine que le propriétaire ou
+l'exploitant. Toutefois le maximum de l'amende est de 15 000 € s'il a reçu un ordre du propriétaire ou de l'exploitant. 
+
+La même peine est applicable aux responsables des opérations de chargement, de déchargement, de classification, d'emballage,
+de marquage, d'étiquetage, de déclaration et de manutention qui enfreignent les règles mentionnées à l'article L. 5241-10-1.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cite_:
+
+  - Code des transports - art. L5241-10-1
 
 _Cité par_:
 
@@ -30882,21 +31529,34 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5241-11-1
+
+Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait pour tout constructeur, capitaine, propriétaire ou
+exploitant d'un navire, d'installer sans autorisation des postes de couchage à l'avant du navire au-delà de la cloison
+d'abordage ou en dessous de la ligne de charge.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+
 ###### Article L5241-12
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour l'armateur ou le propriétaire d'un navire, de faire
+Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait, pour l'exploitant ou le propriétaire d'un navire, de faire
 naviguer ou de tenter de faire naviguer celui-ci sans titre de sécurité ou certificat de prévention de la pollution en cours
 de validité.
 
 Le capitaine qui a commis une des infractions définies par le premier alinéa est passible des mêmes peines que l'armateur ou
-le propriétaire. Toutefois, le maximum de l'emprisonnement est de trois mois et celui de l'amende de 3 750 € s'il est prouvé
-que le capitaine a reçu un ordre de l'armateur ou du propriétaire.
+le propriétaire. Toutefois, le maximum de l'emprisonnement est de trois mois et celui de l'amende de 1 500 € s'il est prouvé
+que le capitaine a reçu un ordre de l'exploitant ou du propriétaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°83-581 du 5 juillet 1983 - art. 7 (Ab), alinéas 1 et 2
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 _Cité par_:
 
@@ -30910,40 +31570,43 @@ _Codifié par_:
 
 ###### Article L5241-13
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour l'armateur ou le propriétaire d'un navire, de faire
-naviguer celui-ci en violation de l'interdiction de départ prévue à l'article L. 5241-5. 
+Est puni de deux ans d'emprisonnement et de 150 000 € d'amende le fait, pour l'exploitant ou le propriétaire d'un navire, de
+faire naviguer celui-ci en violation de l'interdiction de départ prévue à l'article L. 5241-5. 
 
 Est puni des mêmes peines le capitaine qui fait naviguer un tel navire en violation d'une telle interdiction.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°83-581 du 5 juillet 1983 - art. 7-1 (Ab)
-
-_Cite_:
-
-  - Code des transports - art. L5241-5 (V)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-###### Article L5241-14
-
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait pour quiconque de s'opposer à l'exercice des missions de
-contrôle dont sont chargés les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1 à L. 5243-5.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-581 du 5 juillet 1983 - art. 7 (Ab), alinéa 3
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 _Cite_:
 
-  - Code des transports - art. L5243-1 (V)
+  - Code des transports - art. L5241-5
+
+
+###### Article L5241-14
+
+Est puni d'un an d'emprisonnement et de 75 000 € d'amende le fait pour quiconque de s'opposer à l'exercice des missions de
+contrôle dont sont chargés les fonctionnaires et agents de l'Etat mentionnés à l'article L. 5243-5 et les personnels des
+sociétés de classification habilitées et des organismes agréés mentionnés aux articles L. 5241-4 et L. 5241-4-2.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
+
+_Cite_:
+
+  - Code des transports - art. L5241-4
+  - Code des transports - art. L5241-4-2
+  - Code des transports - art. L5243-5
 
 _Codifié par_:
 
@@ -30952,9 +31615,9 @@ _Codifié par_:
 
 ###### Article L5241-15
 
-Est puni d'un an d'emprisonnement et de 15 000 € d'amende le fait de vendre à un utilisateur des matériels de sécurité ou de
-prévention de la pollution n'ayant pas obtenu l'approbation, la marque européenne de conformité ou l'autorisation d'usage
-exigée.
+Est puni d'un an d'emprisonnement et de 150 000 € d'amende le fait de vendre ou de proposer à la vente, d'installer ou de
+faire installer des matériels de sécurité ou de prévention de la pollution ou d'autres équipements marins requis par la
+réglementation n'ayant pas obtenu l'approbation, la marque européenne de conformité ou l'autorisation d'usage exigée.
 
 Les mêmes peines sont applicables au fabricant qui, ayant obtenu l'approbation ou l'autorisation d'usage pour un prototype de
 navire ou de matériel de sécurité ou de prévention de la pollution, livre un matériel de série qui n'est pas identique à ce
@@ -30974,13 +31637,13 @@ _Cité par_:
   - Loi du 17 décembre 1926 - art. 36 (V)
   - Loi du 17 décembre 1926 - art. 37 (V)
 
-_Anciens textes_:
-
-  - Loi n°83-581 du 5 juillet 1983 - art. 8 (Ab)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 4
 
 
 ###### Article L5241-16
@@ -31009,11 +31672,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Sécurité de la navigation<a id=587></a>
+##### Chapitre II : Sécurité de la navigation<a id=599></a>
 
-##### Section 1 : Dispositions relatives à la circulation maritime<a id=588></a>
+##### Section 1 : Dispositions relatives à la circulation maritime<a id=600></a>
 
-##### Sous-section 1 : Infractions aux règles générales de conduite en mer<a id=589></a>
+##### Sous-section 1 : Infractions aux règles générales de conduite en mer<a id=601></a>
 
 ###### Article L5242-1
 
@@ -31082,14 +31745,20 @@ _Codifié par_:
 
 ###### Article L5242-3
 
-I. ― Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait, pour le capitaine ou le chef de quart d'un
-navire battant pavillon français ou étranger, d'enfreindre, y compris par imprudence ou négligence, les règles fixées par la
+I. ― Est puni de six mois d'emprisonnement et de 7 500 € d'amende le fait, pour le capitaine ou le chef de quart d'un navire
+battant pavillon français ou étranger, d'enfreindre, y compris par imprudence ou négligence, les règles fixées par la
 convention sur le règlement international de 1972 pour prévenir les abordages en mer, faite à Londres le 20 octobre 1972, et
 relatives : 
 
 1° Aux feux à allumer la nuit et aux signaux à faire en temps de brume ; 
 
-2° A la route à suivre et aux manœuvres à exécuter en cas de rencontre d'un navire ou autre bâtiment. 
+2° A la route à suivre et aux manœuvres à exécuter en cas de rencontre d'un navire ou autre bâtiment ;
+
+3° A la veille visuelle et auditive à assurer en permanence avec tous les moyens disponibles et adaptés aux circonstances et
+aux conditions existantes, de manière à permettre une pleine appréciation du risque d'abordage ;
+
+4° Au maintien en permanence d'une vitesse de sécurité permettant de prendre des mesures appropriées et efficaces pour éviter
+un abordage et de s'arrêter sur une distance adaptée aux circonstances et aux conditions existantes. 
 
 La peine est portée au double si l'infraction est commise par une personne exerçant le commandement dans des conditions
 irrégulières au sens de l'article L. 5523-2. 
@@ -31102,10 +31771,9 @@ intérieures maritimes ou les eaux territoriales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code disciplinaire et pénal de la marine marcha... - art. 80 (Ab)
-  - Code disciplinaire et pénal de la marine marcha... - art. 87 (Ab), alinéas 1 et 3
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 _Cité par_:
 
@@ -31113,7 +31781,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L5523-2 (V)
+  - Code des transports - art. L5523-2
 
 _Codifié par_:
 
@@ -31122,7 +31790,7 @@ _Codifié par_:
 
 ###### Article L5242-4
 
-I. ― Est puni de trois mois d'emprisonnement et de 3 750 € d'amende le fait, pour le capitaine, le chef de quart ou le pilote
+I. ― Est puni de six mois d'emprisonnement et de 15 000 € d'amende le fait, pour le capitaine, le chef de quart ou le pilote
 d'un navire, de commettre l'une des infractions définies par l'article L. 5242-3 ou tout autre fait de négligence
 occasionnant, pour le navire ou un autre navire : 
 
@@ -31130,33 +31798,39 @@ occasionnant, pour le navire ou un autre navire :
 
 2° Soit un échouement ou un choc contre un obstacle visible ou connu ; 
 
-3° Soit une avarie grave du navire ou de sa cargaison. 
+3° Soit une avarie grave du navire ou de sa cargaison ; 
 
-II. ― Les peines prévues par le I sont portées à deux ans d'emprisonnement et 3 750 € d'amende si l'infraction a entraîné : 
+4° Soit des blessures n'ayant pas entraîné d'incapacité totale de travail ou d'une durée inférieure ou égale à trois mois
+pour une ou plusieurs personnes. 
+
+II. ― Les peines prévues par le I sont portées à deux ans d'emprisonnement et 30 000 € d'amende si l'infraction a entraîné : 
 
 1° Soit la perte ou l'innavigabilité absolue d'un navire ; 
 
 2° Soit la perte d'une cargaison ; 
 
-3° Soit des blessures graves ou la mort pour une ou plusieurs personnes. 
+3° Soit des blessures ayant entraîné une incapacité totale de travail d'une durée supérieure à trois mois pour une ou
+plusieurs personnes. 
 
-III. ― Les peines prévues par le I et le II sont portées au double si l'infraction est commise par une personne exerçant le
+III.-Les peines prévues aux I et II sont portées à trois ans d'emprisonnement et 75 000 € d'amende si l'infraction a entraîné
+la mort pour une ou plusieurs personnes. 
+
+IV.-Les peines prévues aux I, II et III sont portées au double si l'infraction est commise par une personne exerçant le
 commandement dans des conditions irrégulières au sens de l'article L. 5523-2. 
 
-IV.-Lorsque le navire est étranger, les dispositions du présent article sont applicables lorsque l'infraction est commise
-dans les eaux intérieures maritimes ou les eaux territoriales.
+V.-Lorsque le navire est étranger, les dispositions du présent article sont applicables lorsque l'infraction est commise dans
+les eaux intérieures maritimes ou les eaux territoriales.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code disciplinaire et pénal de la marine marcha... - art. 81 (Ab)
-  - Code disciplinaire et pénal de la marine marcha... - art. 87 (Ab), alinéas 1 et 3
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 _Cite_:
 
-  - Code des transports - art. L5242-3 (V)
-  - Code des transports - art. L5523-2 (V)
+  - Code des transports - art. L5242-3
+  - Code des transports - art. L5523-2
 
 _Cité par_:
 
@@ -31212,7 +31886,19 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Infractions liées à la nature polluante ou dangereuse des cargaisons<a id=590></a>
+###### Article L5242-6-1
+
+Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait d'utiliser ou d'envoyer, en dehors de toute situation
+de danger, des signaux internationaux de détresse.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+
+##### Sous-section 2 : Infractions liées à la nature polluante ou dangereuse des cargaisons<a id=602></a>
 
 ###### Article L5242-7
 
@@ -31273,7 +31959,7 @@ _Codifié par_:
 
 ###### Article L5242-9
 
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire français transportant en colis une cargaison constituée
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire français transportant en colis une cargaison constituée
 de tout ou partie de marchandises dangereuses au sens de la convention internationale pour la sauvegarde de la vie humaine en
 mer, faite à Londres le 1er novembre 1974, qui a subi un événement de mer entraînant ou risquant d'entraîner la perte par-
 dessus bord en mer de telles marchandises, de ne pas adresser, dès qu'il en a eu connaissance, un compte rendu aussi détaillé
@@ -31281,9 +31967,9 @@ que possible des circonstances de cet événement à l'autorité compétente de 
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°83-581 du 5 juillet 1983 - art. 7-2 (Ab), alinéa 1
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 _Cité par_:
 
@@ -31298,7 +31984,7 @@ _Codifié par_:
 
 ###### Article L5242-10
 
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire étranger transportant en colis une cargaison constituée
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire étranger transportant en colis une cargaison constituée
 de tout ou partie de marchandises dangereuses au sens de la convention internationale pour la sauvegarde de la vie humaine en
 mer, faite à Londres le 1er novembre 1974, et qui, naviguant dans les eaux territoriales, a subi un événement de mer
 entraînant ou risquant d'entraîner la perte par-dessus bord en mer de telles marchandises, de ne pas adresser, dès qu'il en a
@@ -31320,33 +32006,33 @@ en matière douanière, fiscale ou sanitaire ou constituer un danger :
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Codifié par_:
 
-  - Loi n°83-581 du 5 juillet 1983 - art. 7-2 (Ab), alinéa 2
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 _Cité par_:
 
   - Code des transports - art. L5242-11 (V)
 
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
 
 ###### Article L5242-11
 
-Est puni de 15 000 € d'amende le fait, pour le capitaine d'un navire mentionné à l'article L. 5242-10 naviguant dans la zone
+Est puni de 75 000 € d'amende le fait, pour le capitaine d'un navire mentionné à l'article L. 5242-10 naviguant dans la zone
 économique mentionnée à l'article 1er de la loi n° 76-655 du 16 juillet 1976 relative à la zone économique et à la zone de
 protection écologique au large des côtes du territoire de la République, d'omettre de remplir l'obligation mentionnée au même
-article, dès lors que la perte ou le risque de perte de marchandises dangereuses peut constituer une menace :
+article, dès lors que la perte ou le risque de perte de marchandises dangereuses peut constituer une menace : 
 
 1° Pour l'exploration, l'exploitation, la conservation et la gestion des ressources naturelles, biologiques ou non
 biologiques, des eaux surjacentes aux fonds marins, des fonds marins et de leur sous-sol, ainsi qu'en ce qui concerne
-d'autres activités tendant à l'exploration et à l'exploitation de la zone à des fins économiques ;
+d'autres activités tendant à l'exploration et à l'exploitation de la zone à des fins économiques ; 
 
-2° Pour la mise en place et l'utilisation d'îles artificielles, d'installations et d'ouvrages ;
+2° Pour la mise en place et l'utilisation d'îles artificielles, d'installations et d'ouvrages ; 
 
-3° Pour la recherche scientifique marine ;
+3° Pour la recherche scientifique marine ; 
 
 4° Pour la protection et la préservation du milieu marin.
 
@@ -31355,14 +32041,15 @@ d'autres activités tendant à l'exploration et à l'exploitation de la zone à 
 _Cite_:
 
   - Loi n°76-655 du 16 juillet 1976 - art. 1
-
-_Anciens textes_:
-
-  - Loi n°83-581 du 5 juillet 1983 - art. 7-2 (Ab), alinéa 3
+  - Code des transports - art. L5242-10 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
 
 
 ###### Article L5242-12
@@ -31414,7 +32101,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Dispositions particulières aux navires nucléaires<a id=591></a>
+##### Sous-section 3 : Dispositions particulières aux navires nucléaires<a id=603></a>
 
 ###### Article L5242-14
 
@@ -31463,7 +32150,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Dispositions relatives aux navires abandonnés et aux épaves<a id=592></a>
+##### Section 2 : Dispositions relatives aux navires abandonnés et aux épaves<a id=604></a>
 
 ###### Article L5242-16
 
@@ -31552,7 +32239,7 @@ _Modifié par_:
   - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
-##### Section 3 : Protection des câbles sous-marins<a id=593></a>
+##### Section 3 : Protection des câbles sous-marins<a id=605></a>
 
 ###### Article L5242-19
 
@@ -31566,7 +32253,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Groupement d'intérêt public concourant à la sécurité maritime<a id=594></a>
+##### Section 4 : Groupement d'intérêt public concourant à la sécurité maritime<a id=606></a>
 
 ###### Article L5242-20
 
@@ -31594,9 +32281,81 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Constatation des infractions<a id=595></a>
+##### Section 5 : Dommages aux installations de signalisation maritime ou d'aide à la navigation<a id=607></a>
 
-##### Section 1 : Dispositions générales<a id=596></a>
+###### Article L5242-21
+
+Sans préjudice des sanctions pénales encourues, tout dommage causé à une installation de signalisation maritime ou d'aide à
+la navigation située en dehors des limites administratives d'un port et jusqu'à la limite des eaux sous juridiction française
+constitue une contravention de grande voirie, réprimée par une amende d'un montant de 3 750 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+_Cité par_:
+
+  - Code des transports - art. L5243-2-2 (V)
+
+
+###### Article L5242-22
+
+Le fait de ne pas déclarer la destruction, le déplacement ou la dégradation d'une installation de signalisation maritime ou
+d'aide à la navigation située en dehors des limites administratives d'un port et jusqu'à la limite des eaux sous juridiction
+française est puni de six mois d'emprisonnement et de 7 500 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+
+###### Article L5242-23
+
+Sans préjudice de l'obligation de réparation du dommage causé, le fait de détruire, déplacer, abattre ou dégrader une
+installation de signalisation maritime ou d'aide à la navigation située en dehors des limites administratives d'un port et
+jusqu'à la limite des eaux sous juridiction française, ou de porter atteinte au bon fonctionnement d'une telle installation,
+est puni de trois ans d'emprisonnement et de 45 000 € d'amende.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+_Cité par_:
+
+  - Code de procédure pénale - art. 689-5 (V)
+
+
+###### Article L5242-24
+
+Les procès-verbaux de constatation d'infraction sont transmis dans les cinq jours qui suivent la constatation des faits au
+procureur de la République par l'agent verbalisateur qui en adresse en même temps copie au directeur interrégional de la mer
+dont relève le lieu de l'infraction. Ces procès-verbaux font foi jusqu'à preuve du contraire.
+
+**Nota:**
+
+Conformément à l'article 21 de l'ordonnance n° 2012-1218 du 2 novembre 2012, les dispositions de l'article L. 5242-24 seront
+abrogées selon des modalités fixées par décret, et au plus tard à compter du 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 5
+
+_Abrogé par_:
+
+  - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
+
+
+##### Chapitre III : Constatation des infractions<a id=608></a>
+
+##### Section 1 : Dispositions générales<a id=609></a>
 
 ###### Article L5243-1
 
@@ -31662,6 +32421,78 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L5243-2-1
+
+Les inspecteurs de la sécurité des navires et de la prévention des risques professionnels maritimes habilités par le ministre
+chargé de la mer peuvent rechercher et constater les infractions réprimées par les dispositions du présent titre ou aux
+dispositions réglementaires prises pour leur application dans leur domaine de compétence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+
+###### Article L5243-2-2
+
+Les commandants des bâtiments de l'Etat, les contrôleurs des affaires maritimes, les syndics des gens de mer et les agents
+mentionnés au 3° de l'article L. 5336-5 sont habilités à rechercher et à constater les infractions prévues par les articles
+L. 5242-21 à L. 5242-23 ou par les dispositions réglementaires prises pour leur application, dans les conditions prévues à
+l'article L. 5222-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+_Cite_:
+
+  - Code des transports - art. L5222-2
+  - Code des transports - art. L5242-21
+  - Code des transports - art. L5336-5
+
+_Cité par_:
+
+  - Code des transports - art. L5762-2 (V)
+  - Code des transports - art. L5772-3 (V)
+  - Code des transports - art. L5782-3 (V)
+  - Code des transports - art. L5792-3 (V)
+
+
+###### Article L5243-2-3
+
+Les inspecteurs et les contrôleurs du travail sont habilités à rechercher et à constater les infractions réprimées par les
+dispositions du présent titre qui relèvent de leur domaine particulier de compétence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+
+###### Article L5243-2-4
+
+Les commandants des bâtiments de l'Etat sont habilités à rechercher et à constater les infractions prévues aux articles L.
+5241-12 et L. 5241-13.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+_Cite_:
+
+  - Code des transports - art. L5241-12
+
+_Cité par_:
+
+  - Code des transports - art. L5243-5 (V)
+
+
 ###### Article L5243-3
 
 Les agents des douanes sont habilités à constater : 
@@ -31706,13 +32537,9 @@ Ils peuvent visiter le navire et demander la communication des titres, certifica
 recueillir les renseignements et justifications utiles à leur mission.
 
 Toutefois, ils ne peuvent accéder aux parties du navire qui sont à usage exclusif d'habitation sauf en cas de contrôle
-portant sur les conditions d'habitabilité et de sécurité.
+portant sur les conditions de sécurité, d'habitabilité, d'hygiène, de santé et de sécurité au travail.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°83-581 du 5 juillet 1983 - art. 5 (Ab), alinéa 1
 
 _Cité par_:
 
@@ -31722,38 +32549,46 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
 
 ###### Article L5243-5
 
 Sous réserve de contrôles inopinés, le procureur de la République est préalablement informé des opérations envisagées en vue
-de la recherche des infractions par les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1 à L. 5243-4. Il
-peut s'opposer à ces opérations. 
+de la recherche des infractions par les fonctionnaires et agents de l'Etat mentionnés aux articles L. 5243-1, L. 5243-2, L.
+5243-2-1, L. 5243-2-2, L. 5243-2-4, L. 5243-3 et L. 5243-4. Il peut s'opposer à ces opérations. 
 
 En cas d'infraction aux dispositions des articles L. 5241-11 à L. 5241-15 et L. 5242-9 à L. 5242-12, il est immédiatement
 informé des constatations auxquelles elles ont donné lieu. 
 
-Les procès-verbaux lui sont transmis dans les cinq jours par l'agent verbalisateur qui en adresse, dans les mêmes délais,
-copie à l'intéressé et au directeur départemental des territoires et de la mer  dont relève le lieu de l'infraction. 
+Les procès-verbaux lui sont transmis dans les meilleurs délais par l'agent verbalisateur qui en adresse, dans les mêmes
+délais, copie à l'intéressé et au directeur interrégional de la mer dont relève le lieu de l'infraction. 
 
 Ces procès-verbaux font foi jusqu'à preuve du contraire.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 6
+
+_Cite_:
+
+  - Code des transports - art. L5241-11
+  - Code des transports - art. L5242-9
+  - Code des transports - art. L5243-1
+  - Code des transports - art. L5243-2-4
+  - Code des transports - art. L5243-3
+
 _Cité par_:
 
   - Code des transports - art. L5241-14 (V)
 
-_Cite_:
-
-  - Code des transports - art. L5243-1
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
 ###### Article L5243-6
@@ -31784,7 +32619,7 @@ _Abrogé par_:
   - Ordonnance n°2012-1218 du 2 novembre 2012 - art. 18 (V)
 
 
-##### Section 2 : Dispositions particulières aux épaves<a id=597></a>
+##### Section 2 : Dispositions particulières aux épaves<a id=610></a>
 
 ###### Article L5243-7
 
@@ -31873,9 +32708,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : SURETE DES NAVIRES<a id=598></a>
+#### TITRE V : SURETE DES NAVIRES<a id=611></a>
 
-##### Chapitre Ier : Dispositions générales et contrôles<a id=599></a>
+##### Chapitre Ier : Dispositions générales et contrôles<a id=612></a>
 
 ###### Article L5251-1
 
@@ -32029,7 +32864,7 @@ _Créé par_:
   - Loi n°2011-267 du 14 mars 2011 - art. 142
 
 
-##### Chapitre II : Sanctions administratives<a id=600></a>
+##### Chapitre II : Sanctions administratives<a id=613></a>
 
 ###### Article L5252-1
 
@@ -32073,7 +32908,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Sanctions pénales<a id=601></a>
+##### Chapitre III : Sanctions pénales<a id=614></a>
 
 ###### Article L5253-1
 
@@ -32134,9 +32969,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : SECOURS, ASSISTANCE EN MER  ET EVENEMENTS DE MER<a id=602></a>
+#### TITRE VI : SECOURS, ASSISTANCE EN MER  ET EVENEMENTS DE MER<a id=615></a>
 
-##### Chapitre Ier : Recherche et sauvetage en mer<a id=603></a>
+##### Chapitre Ier : Recherche et sauvetage en mer<a id=616></a>
 
 ###### Article L5261-1
 
@@ -32197,9 +33032,9 @@ _Nouveaux textes_:
   - Code de la sécurité intérieure - art. L742-10 (V)
 
 
-##### Chapitre II : Assistance<a id=604></a>
+##### Chapitre II : Assistance<a id=617></a>
 
-##### Section 1 : Obligation d'assistance<a id=605></a>
+##### Section 1 : Obligation d'assistance<a id=618></a>
 
 ###### Article L5262-1
 
@@ -32257,7 +33092,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Sanctions pénales<a id=606></a>
+##### Section 2 : Sanctions pénales<a id=619></a>
 
 ###### Article L5262-4
 
@@ -32377,7 +33212,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Abordage, échouement et abandon<a id=607></a>
+##### Chapitre III : Abordage, échouement et abandon<a id=620></a>
 
 ###### Article L5263-1
 
@@ -32465,9 +33300,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : FORMATION A LA CONDUITE DES NAVIRES  ET BATEAUX DE PLAISANCE A MOTEUR<a id=608></a>
+#### TITRE VII : FORMATION A LA CONDUITE DES NAVIRES  ET BATEAUX DE PLAISANCE A MOTEUR<a id=621></a>
 
-##### Chapitre Ier : Titres de conduite en mer et en eaux intérieures<a id=609></a>
+##### Chapitre Ier : Titres de conduite en mer et en eaux intérieures<a id=622></a>
 
 ###### Article L5271-1
 
@@ -32488,7 +33323,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Etablissements de formation à la conduite en mer et en eaux intérieures<a id=610></a>
+##### Chapitre II : Etablissements de formation à la conduite en mer et en eaux intérieures<a id=623></a>
 
 ###### Article L5272-1
 
@@ -32600,7 +33435,7 @@ _Modifié par_:
   - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
-##### Chapitre III : Sanctions pénales<a id=611></a>
+##### Chapitre III : Sanctions pénales<a id=624></a>
 
 ###### Article L5273-1
 
@@ -32732,11 +33567,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE III : LES PORTS MARITIMES<a id=612></a>
+### LIVRE III : LES PORTS MARITIMES<a id=625></a>
 
-#### TITRE IER : ORGANISATION DES PORTS MARITIMES<a id=613></a>
+#### TITRE IER : ORGANISATION DES PORTS MARITIMES<a id=626></a>
 
-##### Chapitre Ier : Dispositions communes<a id=614></a>
+##### Chapitre Ier : Dispositions communes<a id=627></a>
 
 ###### Article L5311-1
 
@@ -32799,9 +33634,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Grands ports maritimes<a id=615></a>
+##### Chapitre II : Grands ports maritimes<a id=628></a>
 
-##### Section 1 : Création et missions<a id=616></a>
+##### Section 1 : Création et missions<a id=629></a>
 
 ###### Article L5312-1
 
@@ -32976,7 +33811,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Organisation<a id=617></a>
+##### Section 2 : Organisation<a id=630></a>
 
 ###### Article L5312-6
 
@@ -32993,7 +33828,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 1 : Conseil de surveillance<a id=618></a>
+##### Sous-section 1 : Conseil de surveillance<a id=631></a>
 
 ###### Article L5312-7
 
@@ -33071,7 +33906,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Directoire<a id=619></a>
+##### Sous-section 2 : Directoire<a id=632></a>
 
 ###### Article L5312-9
 
@@ -33114,7 +33949,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Conseil de développement<a id=620></a>
+##### Sous-section 3 : Conseil de développement<a id=633></a>
 
 ###### Article L5312-11
 
@@ -33141,7 +33976,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : Conseil de coordination interportuaire<a id=621></a>
+##### Sous-section 4 : Conseil de coordination interportuaire<a id=634></a>
 
 ###### Article L5312-12
 
@@ -33192,7 +34027,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Exploitation<a id=622></a>
+##### Section 3 : Exploitation<a id=635></a>
 
 ###### Article L5312-13
 
@@ -33255,7 +34090,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Dispositions diverses<a id=623></a>
+##### Section 4 : Dispositions diverses<a id=636></a>
 
 ###### Article L5312-15
 
@@ -33363,9 +34198,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Ports autonomes<a id=624></a>
+##### Chapitre III : Ports autonomes<a id=637></a>
 
-##### Section 1 : Création, modification et missions<a id=625></a>
+##### Section 1 : Création, modification et missions<a id=638></a>
 
 ###### Article L5313-1
 
@@ -33527,7 +34362,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Organisation et fonctionnement<a id=626></a>
+##### Section 2 : Organisation et fonctionnement<a id=639></a>
 
 ###### Article L5313-7
 
@@ -33711,7 +34546,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Ports maritimes relevant des collectivités territoriales et de leurs groupements<a id=627></a>
+##### Chapitre IV : Ports maritimes relevant des collectivités territoriales et de leurs groupements<a id=640></a>
 
 ###### Article L5314-1
 
@@ -33974,9 +34809,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : DROITS DE PORT<a id=628></a>
+#### TITRE II : DROITS DE PORT<a id=641></a>
 
-##### Chapitre unique<a id=629></a>
+##### Chapitre unique<a id=642></a>
 
 ###### Article L5321-1
 
@@ -34059,11 +34894,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : POLICE DES PORTS MARITIMES<a id=630></a>
+#### TITRE III : POLICE DES PORTS MARITIMES<a id=643></a>
 
-##### Chapitre Ier : Dispositions générales<a id=631></a>
+##### Chapitre Ier : Dispositions générales<a id=644></a>
 
-##### Section 1 : Champ d'application<a id=632></a>
+##### Section 1 : Champ d'application<a id=645></a>
 
 ###### Article L5331-1
 
@@ -34098,9 +34933,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Compétences<a id=633></a>
+##### Section 2 : Compétences<a id=646></a>
 
-##### Sous-section 1 : Compétences de l'Etat<a id=634></a>
+##### Sous-section 1 : Compétences de l'Etat<a id=647></a>
 
 ###### Article L5331-2
 
@@ -34136,18 +34971,17 @@ _Codifié par_:
 
 L'Etat détermine les conditions d'accueil des navires en difficulté.
 
-Le ministre chargé des ports maritimes ou son représentant peut, pour assurer la sécurité des personnes ou des biens ou
-prévenir des atteintes à l'environnement, enjoindre à l'autorité portuaire d'accueillir un navire en difficulté. Il peut
-également, pour les mêmes motifs, autoriser ou ordonner son mouvement dans le port.
+L'autorité administrative enjoint s'il y a lieu à l'autorité portuaire d'accueillir un navire ayant besoin d'assistance. Elle
+peut également, s'il y a lieu, autoriser ou ordonner son mouvement dans le port. 
 
 La réparation des dommages causés par un navire en difficulté accueilli dans un port peut être demandée au propriétaire, à
 l'armateur, ou à l'exploitant.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des ports maritimes - art. L302-2 (Ab)
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 7
 
 _Cité par_:
 
@@ -34179,7 +35013,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Compétences de l'autorité portuaire et de l'autorité investie du pouvoir de police portuaire<a id=635></a>
+##### Sous-section 2 : Compétences de l'autorité portuaire et de l'autorité investie du pouvoir de police portuaire<a id=648></a>
 
 ###### Article L5331-5
 
@@ -34371,9 +35205,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Agents chargés de la police<a id=636></a>
+##### Section 3 : Agents chargés de la police<a id=649></a>
 
-##### Sous-section 1 : Officiers de port et officiers de port adjoints<a id=637></a>
+##### Sous-section 1 : Officiers de port et officiers de port adjoints<a id=650></a>
 
 ###### Article L5331-11
 
@@ -34413,7 +35247,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Surveillants de port et auxiliaires de surveillance<a id=638></a>
+##### Sous-section 2 : Surveillants de port et auxiliaires de surveillance<a id=651></a>
 
 ###### Article L5331-13
 
@@ -34507,7 +35341,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Sûreté portuaire<a id=639></a>
+##### Chapitre II : Sûreté portuaire<a id=652></a>
 
 ###### Article L5332-1
 
@@ -34741,9 +35575,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Accueil des navires<a id=640></a>
+##### Chapitre IV : Accueil des navires<a id=653></a>
 
-##### Section 1 : Police du plan d'eau<a id=641></a>
+##### Section 1 : Police du plan d'eau<a id=654></a>
 
 ###### Article L5334-1
 
@@ -34828,15 +35662,26 @@ _Codifié par_:
 
 ###### Article L5334-4
 
-L'accès au port est interdit aux navires qui, présentant un risque pour la sécurité maritime, la sûreté maritime ou pour
-l'environnement, font l'objet d'un refus d'accès décidé par le ministre chargé des transports ou par une autorité compétente
-d'un Etat membre de l'Union européenne ou d'un Etat agissant en exécution d'un mémorandum d'entente sur le contrôle des
-navires par l'Etat du port auquel la France adhère.
+L'accès au port est interdit : 
+
+1° A tout navire qui, présentant un risque pour la sécurité maritime, la sûreté maritime ou pour l'environnement, a fait
+l'objet d'une décision de refus d'accès par l'autorité administrative en application des dispositions du 1° de l'article L.
+5241-4-5 ou par une autorité compétente d'un Etat membre de l'Union européenne ou d'un Etat agissant en exécution d'un
+mémorandum d'entente sur le contrôle des navires par l'Etat du port auquel la France adhère ; 
+
+2° A tout navire ayant fait l'objet d'une décision de refus d'accès par l'autorité administrative en application des
+dispositions du 2° de l'article L. 5241-4-5 ou par l'autorité compétente d'un Etat membre de l'Union européenne, tant que le
+propriétaire ou l'exploitant ne justifie pas disposer du certificat requis par l'article L. 5123-1 ; 
+
+3° A tout navire dont le propriétaire ou l'exploitant ne justifie pas disposer du certificat requis par l'article L. 5123-1. 
 
 Toutefois, l'autorité investie du pouvoir de police portuaire peut autoriser l'accès d'un navire au port en cas de force
 majeure, pour des raisons de sécurité impératives, notamment pour supprimer ou réduire le risque de pollution ou pour
 permettre que soient faites des réparations urgentes, sous réserve que des mesures appropriées aient été prises par le
-propriétaire, l'exploitant ou le capitaine du navire pour assurer la sécurité de son entrée au port.
+propriétaire, l'exploitant ou le capitaine du navire pour assurer la sécurité de son entrée au port. 
+
+Les dispositions du présent article ne sont pas applicables lorsqu'il est enjoint à l'autorité portuaire d'accueillir un
+navire ayant besoin d'assistance en application des dispositions de l'article L. 5331-3.
 
 **Liens relatifs à cet article**
 
@@ -34849,13 +35694,23 @@ _Cité par_:
   - Décret n°2016-1693 du 9 décembre 2016 - art. 5
   - Décret n°2016-1693 du 9 décembre 2016 - art. 58
 
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 7
+
 _Anciens textes_:
 
   - Code des ports maritimes - art. L311-4 (Ab)
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+  - Code des transports - art. L5123-1
+  - Code des transports - art. L5241-4-5
+  - Code des transports - art. L5331-3
 
 
 ###### Article L5334-5
@@ -34884,7 +35739,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Suivi du trafic<a id=642></a>
+##### Section 2 : Suivi du trafic<a id=655></a>
 
 ###### Article L5334-6
 
@@ -34904,7 +35759,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Déchets d'exploitation des navires et résidus de cargaison<a id=643></a>
+##### Section 3 : Déchets d'exploitation des navires et résidus de cargaison<a id=656></a>
 
 ###### Article L5334-7
 
@@ -35065,7 +35920,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Chargement et déchargement des navires vraquiers<a id=644></a>
+##### Section 4 : Chargement et déchargement des navires vraquiers<a id=657></a>
 
 ###### Article L5334-12
 
@@ -35130,7 +35985,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Conservation du domaine public<a id=645></a>
+##### Chapitre V : Conservation du domaine public<a id=658></a>
 
 ###### Article L5335-1
 
@@ -35253,9 +36108,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : Sanctions administratives et dispositions pénales<a id=646></a>
+##### Chapitre VI : Sanctions administratives et dispositions pénales<a id=659></a>
 
-##### Section 1 : Sanctions administratives<a id=647></a>
+##### Section 1 : Sanctions administratives<a id=660></a>
 
 ###### Article L5336-1
 
@@ -35280,7 +36135,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Recherche, constatation et poursuite des infractions pénales<a id=648></a>
+##### Section 2 : Recherche, constatation et poursuite des infractions pénales<a id=661></a>
 
 ###### Article L5336-2
 
@@ -35533,9 +36388,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Sanctions pénales<a id=649></a>
+##### Section 3 : Sanctions pénales<a id=662></a>
 
-##### Sous-section 1 : Sûreté portuaire<a id=650></a>
+##### Sous-section 1 : Sûreté portuaire<a id=663></a>
 
 ###### Article L5336-10
 
@@ -35573,7 +36428,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Déchets d'exploitation et résidus de cargaison<a id=651></a>
+##### Sous-section 2 : Déchets d'exploitation et résidus de cargaison<a id=664></a>
 
 ###### Article L5336-11
 
@@ -35612,7 +36467,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Chargement et déchargement de navires vraquiers<a id=652></a>
+##### Sous-section 3 : Chargement et déchargement de navires vraquiers<a id=665></a>
 
 ###### Article L5336-12
 
@@ -35691,7 +36546,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : Signalisation maritime<a id=653></a>
+##### Sous-section 4 : Signalisation maritime<a id=666></a>
 
 ###### Article L5336-15
 
@@ -35735,7 +36590,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 5 : Marchandises dangereuses<a id=654></a>
+##### Sous-section 5 : Marchandises dangereuses<a id=667></a>
 
 ###### Article L5336-17
 
@@ -35761,9 +36616,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VII : Police de la grande voirie<a id=655></a>
+##### Chapitre VII : Police de la grande voirie<a id=668></a>
 
-##### Section 1 : Constatation des contraventions de grande voirie<a id=656></a>
+##### Section 1 : Constatation des contraventions de grande voirie<a id=669></a>
 
 ###### Article L5337-1
 
@@ -35855,7 +36710,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Atteintes à la conservation du domaine public<a id=657></a>
+##### Section 2 : Atteintes à la conservation du domaine public<a id=670></a>
 
 ###### Article L5337-4
 
@@ -35891,7 +36746,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Usage du plan d'eau<a id=658></a>
+##### Section 3 : Usage du plan d'eau<a id=671></a>
 
 ###### Article L5337-5
 
@@ -35924,7 +36779,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VIII : Dispositions finales<a id=659></a>
+##### Chapitre VIII : Dispositions finales<a id=672></a>
 
 ###### Article L5338-1
 
@@ -35942,11 +36797,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : LES SERVICES PORTUAIRES<a id=660></a>
+#### TITRE IV : LES SERVICES PORTUAIRES<a id=673></a>
 
-##### Chapitre Ier : Le pilotage<a id=661></a>
+##### Chapitre Ier : Le pilotage<a id=674></a>
 
-##### Section 1 : Service de pilotage et rémunération du pilote<a id=662></a>
+##### Section 1 : Service de pilotage et rémunération du pilote<a id=675></a>
 
 ###### Article L5341-1
 
@@ -36096,7 +36951,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Les stations de pilotage<a id=663></a>
+##### Section 2 : Les stations de pilotage<a id=676></a>
 
 ###### Article L5341-7
 
@@ -36199,7 +37054,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Responsabilité du pilote<a id=664></a>
+##### Section 3 : Responsabilité du pilote<a id=677></a>
 
 ###### Article L5341-11
 
@@ -36372,9 +37227,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Le remorquage<a id=665></a>
+##### Chapitre II : Le remorquage<a id=678></a>
 
-##### Section 1 : Le remorquage portuaire et le lamanage<a id=666></a>
+##### Section 1 : Le remorquage portuaire et le lamanage<a id=679></a>
 
 ###### Article L5342-1
 
@@ -36436,7 +37291,7 @@ _Cité par_:
   - Code des transports - art. L5793-1 (V)
 
 
-##### Section 2 : Le remorquage en haute mer<a id=667></a>
+##### Section 2 : Le remorquage en haute mer<a id=680></a>
 
 ###### Article L5342-4
 
@@ -36488,9 +37343,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : La manutention portuaire<a id=668></a>
+##### Chapitre III : La manutention portuaire<a id=681></a>
 
-##### Section 1 : Les ouvriers dockers<a id=669></a>
+##### Section 1 : Les ouvriers dockers<a id=682></a>
 
 ###### Article L5343-1
 
@@ -36685,9 +37540,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : L'organisation de la main-d'œuvre intermittente<a id=670></a>
+##### Section 2 : L'organisation de la main-d'œuvre intermittente<a id=683></a>
 
-##### Sous-section 1 : Le bureau central de la main-d'œuvre du port<a id=671></a>
+##### Sous-section 1 : Le bureau central de la main-d'œuvre du port<a id=684></a>
 
 ###### Article L5343-8
 
@@ -36731,7 +37586,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : La Caisse nationale de garantie des ouvriers dockers<a id=672></a>
+##### Sous-section 2 : La Caisse nationale de garantie des ouvriers dockers<a id=685></a>
 
 ###### Article L5343-9
 
@@ -36916,7 +37771,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Les limites à l'emploi de dockers professionnels intermittents<a id=673></a>
+##### Sous-section 3 : Les limites à l'emploi de dockers professionnels intermittents<a id=686></a>
 
 ###### Article L5343-15
 
@@ -37017,7 +37872,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : L'indemnité de garantie<a id=674></a>
+##### Sous-section 4 : L'indemnité de garantie<a id=687></a>
 
 ###### Article L5343-18
 
@@ -37089,7 +37944,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 5 : Dispositions du droit du travail applicables aux dockers<a id=675></a>
+##### Sous-section 5 : Dispositions du droit du travail applicables aux dockers<a id=688></a>
 
 ###### Article L5343-21
 
@@ -37145,7 +38000,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Mesure d'application<a id=676></a>
+##### Section 3 : Mesure d'application<a id=689></a>
 
 ###### Article L5343-23
 
@@ -37163,9 +38018,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Sanctions administratives et dispositions pénales<a id=677></a>
+##### Chapitre IV : Sanctions administratives et dispositions pénales<a id=690></a>
 
-##### Section 1 : Sanctions administratives<a id=678></a>
+##### Section 1 : Sanctions administratives<a id=691></a>
 
 ###### Article L5344-1
 
@@ -37262,7 +38117,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Dispositions pénales<a id=679></a>
+##### Section 2 : Dispositions pénales<a id=692></a>
 
 ###### Article L5344-5
 
@@ -37335,9 +38190,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : VOIES FERREES PORTUAIRES<a id=680></a>
+#### TITRE V : VOIES FERREES PORTUAIRES<a id=693></a>
 
-##### Chapitre Ier : Compétences<a id=681></a>
+##### Chapitre Ier : Compétences<a id=694></a>
 
 ###### Article L5351-1
 
@@ -37441,7 +38296,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Utilisation et contrôle<a id=682></a>
+##### Chapitre II : Utilisation et contrôle<a id=695></a>
 
 ###### Article L5352-1
 
@@ -37537,11 +38392,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE IV : LE TRANSPORT MARITIME<a id=683></a>
+### LIVRE IV : LE TRANSPORT MARITIME<a id=696></a>
 
-#### TITRE IER : L'ENTREPRISE D'ARMEMENT MARITIME<a id=684></a>
+#### TITRE IER : L'ENTREPRISE D'ARMEMENT MARITIME<a id=697></a>
 
-##### Chapitre Ier : L'armateur<a id=685></a>
+##### Chapitre Ier : L'armateur<a id=698></a>
 
 ###### Article L5411-1
 
@@ -37583,9 +38438,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Les agents de l'armateur<a id=686></a>
+##### Chapitre II : Les agents de l'armateur<a id=699></a>
 
-##### Section 1 : Dispositions générales<a id=687></a>
+##### Section 1 : Dispositions générales<a id=700></a>
 
 ###### Article L5412-1
 
@@ -37600,7 +38455,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Le capitaine<a id=688></a>
+##### Section 2 : Le capitaine<a id=701></a>
 
 ###### Article L5412-2
 
@@ -37708,9 +38563,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les consignataires<a id=689></a>
+##### Chapitre III : Les consignataires<a id=702></a>
 
-##### Section 1 : Le consignataire du navire<a id=690></a>
+##### Section 1 : Le consignataire du navire<a id=703></a>
 
 ###### Article L5413-1
 
@@ -37748,7 +38603,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Le consignataire de la cargaison<a id=691></a>
+##### Section 2 : Le consignataire de la cargaison<a id=704></a>
 
 ###### Article L5413-3
 
@@ -37782,7 +38637,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Dispositions communes<a id=692></a>
+##### Section 3 : Dispositions communes<a id=705></a>
 
 ###### Article L5413-5
 
@@ -37795,11 +38650,23 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : LES CONTRATS  RELATIFS A L'EXPLOITATION DU NAVIRE<a id=693></a>
+#### TITRE II : LES CONTRATS  RELATIFS A L'EXPLOITATION DU NAVIRE<a id=706></a>
 
-##### Chapitre Ier : Le transport de personnes<a id=694></a>
+##### Chapitre Ier : Le transport de personnes<a id=707></a>
 
-##### Section 1 : Le contrat de passage<a id=695></a>
+###### Article L5420-1
+
+Les dispositions du présent chapitre ne s'appliquent pas aux transports régis par le règlement (CE) n° 392/2009 du Parlement
+européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 8
+
+
+##### Section 1 : Le contrat de passage<a id=708></a>
 
 ###### Article L5421-1
 
@@ -37821,7 +38688,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : La responsabilité pour dommage aux passagers<a id=696></a>
+##### Section 2 : La responsabilité pour dommage aux passagers<a id=709></a>
 
 ###### Article L5421-2
 
@@ -37929,7 +38796,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : La responsabilité pour dommage aux bagages<a id=697></a>
+##### Section 3 : La responsabilité pour dommage aux bagages<a id=710></a>
 
 ###### Article L5421-9
 
@@ -37990,9 +38857,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Le transport de marchandises<a id=698></a>
+##### Chapitre II : Le transport de marchandises<a id=711></a>
 
-##### Section 1 : Le contrat de transport<a id=699></a>
+##### Section 1 : Le contrat de transport<a id=712></a>
 
 ###### Article L5422-1
 
@@ -38026,7 +38893,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Le connaissement<a id=700></a>
+##### Section 2 : Le connaissement<a id=713></a>
 
 ###### Article L5422-3
 
@@ -38080,7 +38947,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : L'exécution du contrat<a id=701></a>
+##### Section 3 : L'exécution du contrat<a id=714></a>
 
 ###### Article L5422-6
 
@@ -38181,7 +39048,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : La responsabilité du transporteur<a id=702></a>
+##### Section 4 : La responsabilité du transporteur<a id=715></a>
 
 ###### Article L5422-12
 
@@ -38369,7 +39236,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 5 : Les entreprises de manutention<a id=703></a>
+##### Section 5 : Les entreprises de manutention<a id=716></a>
 
 ###### Article L5422-19
 
@@ -38522,7 +39389,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 6 : Dispositions pénales<a id=704></a>
+##### Section 6 : Dispositions pénales<a id=717></a>
 
 ###### Article L5422-26
 
@@ -38537,9 +39404,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : L'affrètement<a id=705></a>
+##### Chapitre III : L'affrètement<a id=718></a>
 
-##### Section 1 : Dispositions générales<a id=706></a>
+##### Section 1 : Dispositions générales<a id=719></a>
 
 ###### Article L5423-1
 
@@ -38642,7 +39509,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : L'affrètement coque nue<a id=707></a>
+##### Section 2 : L'affrètement coque nue<a id=720></a>
 
 ###### Article L5423-8
 
@@ -38672,7 +39539,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : L'affrètement à temps<a id=708></a>
+##### Section 3 : L'affrètement à temps<a id=721></a>
 
 ###### Article L5423-10
 
@@ -38711,7 +39578,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : L'affrètement au voyage<a id=709></a>
+##### Section 4 : L'affrètement au voyage<a id=722></a>
 
 ###### Article L5423-13
 
@@ -38740,9 +39607,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Les ventes maritimes<a id=710></a>
+##### Chapitre IV : Les ventes maritimes<a id=723></a>
 
-##### Section 1 : Disposition générale<a id=711></a>
+##### Section 1 : Disposition générale<a id=724></a>
 
 ###### Article L5424-1
 
@@ -38755,7 +39622,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Vente au départ<a id=712></a>
+##### Section 2 : Vente au départ<a id=725></a>
 
 ###### Article L5424-2
 
@@ -38805,7 +39672,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Vente à l'arrivée<a id=713></a>
+##### Section 3 : Vente à l'arrivée<a id=726></a>
 
 ###### Article L5424-6
 
@@ -38847,7 +39714,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Vente "coût, assurance, fret"<a id=714></a>
+##### Section 4 : Vente "coût, assurance, fret"<a id=727></a>
 
 ###### Article L5424-9
 
@@ -38887,7 +39754,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les assurances maritimes<a id=715></a>
+##### Chapitre V : Les assurances maritimes<a id=728></a>
 
 ###### Article L5425-1
 
@@ -38901,9 +39768,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : DISPOSITIONS PARTICULIERES RELATIVES  A CERTAINS TRANSPORTS MARITIMES<a id=716></a>
+#### TITRE III : DISPOSITIONS PARTICULIERES RELATIVES  A CERTAINS TRANSPORTS MARITIMES<a id=729></a>
 
-##### Chapitre Ier : Desserte des îles<a id=717></a>
+##### Chapitre Ier : Desserte des îles<a id=730></a>
 
 ###### Article L5431-1
 
@@ -39007,7 +39874,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Transports réservés<a id=718></a>
+##### Chapitre II : Transports réservés<a id=731></a>
 
 ###### Article L5432-1
 
@@ -39025,7 +39892,7 @@ _Cite_:
   - dispositions des articles 257 à 260 du code des douanes
 
 
-##### Chapitre III : Transport du pétrole brut<a id=719></a>
+##### Chapitre III : Transport du pétrole brut<a id=732></a>
 
 ###### Article L5433-1
 
@@ -39044,7 +39911,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Dispositions applicables en temps de crise<a id=720></a>
+##### Chapitre IV : Dispositions applicables en temps de crise<a id=733></a>
 
 ###### Article L5434-1
 
@@ -39058,11 +39925,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE V : LES GENS DE MER<a id=721></a>
+### LIVRE V : LES GENS DE MER<a id=734></a>
 
-#### TITRE IER : DEFINITIONS<a id=722></a>
+#### TITRE IER : DEFINITIONS<a id=735></a>
 
-##### Chapitre unique<a id=723></a>
+##### Chapitre unique<a id=736></a>
 
 ###### Article L5511-1
 
@@ -39227,9 +40094,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : L'EQUIPAGE<a id=724></a>
+#### TITRE II : L'EQUIPAGE<a id=737></a>
 
-##### Chapitre Ier : Conditions d'accès et d'exercice de la profession de marin<a id=725></a>
+##### Chapitre Ier : Conditions d'accès et d'exercice de la profession de marin<a id=738></a>
 
 ###### Article L5521-1
 
@@ -39356,7 +40223,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Effectifs et nationalité<a id=726></a>
+##### Chapitre II : Effectifs et nationalité<a id=739></a>
 
 ###### Article L5522-1
 
@@ -39443,9 +40310,9 @@ _Cite_:
   - convention n°180
 
 
-##### Chapitre III : Dispositions pénales<a id=727></a>
+##### Chapitre III : Dispositions pénales<a id=740></a>
 
-##### Section 1 : Recherche et constatation des infractions<a id=728></a>
+##### Section 1 : Recherche et constatation des infractions<a id=741></a>
 
 ###### Article L5523-1
 
@@ -39474,7 +40341,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Sanctions pénales<a id=729></a>
+##### Section 2 : Sanctions pénales<a id=742></a>
 
 ###### Article L5523-2
 
@@ -39503,9 +40370,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Sanctions professionnelles<a id=730></a>
+##### Chapitre IV : Sanctions professionnelles<a id=743></a>
 
-##### Section unique : Dispositions communes<a id=731></a>
+##### Section unique : Dispositions communes<a id=744></a>
 
 ###### Article L5524-1
 
@@ -39621,11 +40488,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : LA COLLECTIVITE DU BORD<a id=732></a>
+#### TITRE III : LA COLLECTIVITE DU BORD<a id=745></a>
 
-##### Chapitre Ier : Police intérieure et discipline à bord<a id=733></a>
+##### Chapitre Ier : Police intérieure et discipline à bord<a id=746></a>
 
-##### Section 1 : Dispositions communes<a id=734></a>
+##### Section 1 : Dispositions communes<a id=747></a>
 
 ###### Article L5531-1
 
@@ -39688,7 +40555,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Fautes disciplinaires<a id=735></a>
+##### Section 2 : Fautes disciplinaires<a id=748></a>
 
 ###### Article L5531-4
 
@@ -39718,9 +40585,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Sanctions pénales<a id=736></a>
+##### Section 3 : Sanctions pénales<a id=749></a>
 
-##### Sous-section 1 : Insubordination, complot et violences<a id=737></a>
+##### Sous-section 1 : Insubordination, complot et violences<a id=750></a>
 
 ###### Article L5531-6
 
@@ -39810,7 +40677,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Abus d'autorité et outrages<a id=738></a>
+##### Sous-section 2 : Abus d'autorité et outrages<a id=751></a>
 
 ###### Article L5531-9
 
@@ -39889,7 +40756,7 @@ _Anciens textes_:
   - Code disciplinaire et pénal de la marine marcha... - art. 57 (Ab)
 
 
-##### Sous-section 3 : Manquements aux obligations professionnelles<a id=739></a>
+##### Sous-section 3 : Manquements aux obligations professionnelles<a id=752></a>
 
 ###### Article L5531-12
 
@@ -39964,7 +40831,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : Présence irrégulière à bord<a id=740></a>
+##### Sous-section 4 : Présence irrégulière à bord<a id=753></a>
 
 ###### Article L5531-15
 
@@ -40017,7 +40884,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 5 : Autres sanctions<a id=741></a>
+##### Sous-section 5 : Autres sanctions<a id=754></a>
 
 ###### Article L5531-18
 
@@ -40035,7 +40902,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions particulières aux personnels militaires<a id=742></a>
+##### Chapitre II : Dispositions particulières aux personnels militaires<a id=755></a>
 
 ###### Article L5532-1
 
@@ -40054,9 +40921,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : LE DROIT DU TRAVAIL<a id=743></a>
+#### TITRE IV : LE DROIT DU TRAVAIL<a id=756></a>
 
-##### Chapitre Ier : Champ d'application<a id=744></a>
+##### Chapitre Ier : Champ d'application<a id=757></a>
 
 ###### Article L5541-1
 
@@ -40101,11 +40968,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Les relations individuelles de travail<a id=745></a>
+##### Chapitre II : Les relations individuelles de travail<a id=758></a>
 
-##### Section 1 : Le contrat de travail<a id=746></a>
+##### Section 1 : Le contrat de travail<a id=759></a>
 
-##### Sous-section 1 : Formation et contenu du contrat<a id=747></a>
+##### Sous-section 1 : Formation et contenu du contrat<a id=760></a>
 
 ###### Article L5542-1
 
@@ -40257,7 +41124,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Le contrat à durée déterminée ou au voyage<a id=748></a>
+##### Sous-section 2 : Le contrat à durée déterminée ou au voyage<a id=761></a>
 
 ###### Article L5542-7
 
@@ -40469,7 +41336,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : La période d'essai<a id=749></a>
+##### Sous-section 3 : La période d'essai<a id=762></a>
 
 ###### Article L5542-15
 
@@ -40554,9 +41421,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : Exécution du contrat<a id=750></a>
+##### Sous-section 4 : Exécution du contrat<a id=763></a>
 
-##### Paragraphe 1 : Obligations générales de l'employeur<a id=751></a>
+##### Paragraphe 1 : Obligations générales de l'employeur<a id=764></a>
 
 ###### Article L5542-18
 
@@ -40645,7 +41512,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Cas de blessure ou de maladie du marin<a id=752></a>
+##### Paragraphe 2 : Cas de blessure ou de maladie du marin<a id=765></a>
 
 ###### Article L5542-21
 
@@ -40860,7 +41727,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 3 : Rapatriement<a id=753></a>
+##### Paragraphe 3 : Rapatriement<a id=766></a>
 
 ###### Article L5542-29
 
@@ -41018,7 +41885,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 4 : Obligations du marin<a id=754></a>
+##### Paragraphe 4 : Obligations du marin<a id=767></a>
 
 ###### Article L5542-34
 
@@ -41087,7 +41954,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 5 : Adaptation à la profession de marin de modalités particulières d'exécution du contrat de travail<a id=755></a>
+##### Paragraphe 5 : Adaptation à la profession de marin de modalités particulières d'exécution du contrat de travail<a id=768></a>
 
 ###### Article L5542-37
 
@@ -41124,9 +41991,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 5 : Rupture du contrat<a id=756></a>
+##### Sous-section 5 : Rupture du contrat<a id=769></a>
 
-##### Paragraphe 1 : Dispositions communes à tous les contrats<a id=757></a>
+##### Paragraphe 1 : Dispositions communes à tous les contrats<a id=770></a>
 
 ###### Article L5542-38
 
@@ -41176,9 +42043,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Contrat de travail à durée indéterminée<a id=758></a>
+##### Paragraphe 2 : Contrat de travail à durée indéterminée<a id=771></a>
 
-##### 1. Dispositions générales<a id=759></a>
+##### 1. Dispositions générales<a id=772></a>
 
 ###### Article L5542-40
 
@@ -41247,7 +42114,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### 2. Préavis et indemnité de licenciement<a id=760></a>
+##### 2. Préavis et indemnité de licenciement<a id=773></a>
 
 ###### Article L5542-43
 
@@ -41296,7 +42163,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 3 : Contrat à durée déterminée ou au voyage<a id=761></a>
+##### Paragraphe 3 : Contrat à durée déterminée ou au voyage<a id=774></a>
 
 ###### Article L5542-45
 
@@ -41357,7 +42224,7 @@ _Cité par_:
   - Code des transports - art. L5542-12 (V)
 
 
-##### Paragraphe 4 : Dispositions particulières au capitaine<a id=762></a>
+##### Paragraphe 4 : Dispositions particulières au capitaine<a id=775></a>
 
 ###### Article L5542-47
 
@@ -41379,7 +42246,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : La résolution des litiges individuels<a id=763></a>
+##### Section 2 : La résolution des litiges individuels<a id=776></a>
 
 ###### Article L5542-48
 
@@ -41433,7 +42300,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Sanctions pénales<a id=764></a>
+##### Section 3 : Sanctions pénales<a id=777></a>
 
 ###### Article L5542-50
 
@@ -41472,9 +42339,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les relations collectives de travail<a id=765></a>
+##### Chapitre III : Les relations collectives de travail<a id=778></a>
 
-##### Section 1 : Négociation collective. ― Conventions et accords collectifs de travail<a id=766></a>
+##### Section 1 : Négociation collective. ― Conventions et accords collectifs de travail<a id=779></a>
 
 ###### Article L5543-1
 
@@ -41496,7 +42363,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Les institutions représentatives du personnel<a id=767></a>
+##### Section 2 : Les institutions représentatives du personnel<a id=780></a>
 
 ###### Article L5543-2
 
@@ -41523,7 +42390,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Les salariés protégés<a id=768></a>
+##### Section 3 : Les salariés protégés<a id=781></a>
 
 ###### Article L5543-3
 
@@ -41541,7 +42408,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Les conflits collectifs<a id=769></a>
+##### Section 4 : Les conflits collectifs<a id=782></a>
 
 ###### Article L5543-4
 
@@ -41559,9 +42426,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Durée du travail, repos, congés et salaire<a id=770></a>
+##### Chapitre IV : Durée du travail, repos, congés et salaire<a id=783></a>
 
-##### Section 1 : Durée du travail et organisation du travail<a id=771></a>
+##### Section 1 : Durée du travail et organisation du travail<a id=784></a>
 
 ###### Article L5544-1
 
@@ -41598,7 +42465,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 1 : Travail effectif et astreintes<a id=772></a>
+##### Sous-section 1 : Travail effectif et astreintes<a id=785></a>
 
 ###### Article L5544-2
 
@@ -41643,9 +42510,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Durée du travail<a id=773></a>
+##### Sous-section 2 : Durée du travail<a id=786></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=774></a>
+##### Paragraphe 1 : Dispositions générales<a id=787></a>
 
 ###### Article L5544-4
 
@@ -41716,7 +42583,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Durée du travail à la pêche<a id=775></a>
+##### Paragraphe 2 : Durée du travail à la pêche<a id=788></a>
 
 ###### Article L5544-6
 
@@ -41767,7 +42634,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 3 : Heures supplémentaires<a id=776></a>
+##### Paragraphe 3 : Heures supplémentaires<a id=789></a>
 
 ###### Article L5544-8
 
@@ -41797,7 +42664,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Répartition et aménagement des horaires<a id=777></a>
+##### Sous-section 3 : Répartition et aménagement des horaires<a id=790></a>
 
 ###### Article L5544-9
 
@@ -41819,7 +42686,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : Travail à temps partiel et travail intermittent<a id=778></a>
+##### Sous-section 4 : Travail à temps partiel et travail intermittent<a id=791></a>
 
 ###### Article L5544-10
 
@@ -41846,7 +42713,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 5 : Organisation du travail à bord<a id=779></a>
+##### Sous-section 5 : Organisation du travail à bord<a id=792></a>
 
 ###### Article L5544-11
 
@@ -41949,9 +42816,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Repos et jours fériés<a id=780></a>
+##### Section 2 : Repos et jours fériés<a id=793></a>
 
-##### Sous-section 1 : Repos quotidien<a id=781></a>
+##### Sous-section 1 : Repos quotidien<a id=794></a>
 
 ###### Article L5544-15
 
@@ -42009,9 +42876,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Repos hebdomadaire<a id=782></a>
+##### Sous-section 2 : Repos hebdomadaire<a id=795></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=783></a>
+##### Paragraphe 1 : Dispositions générales<a id=796></a>
 
 ###### Article L5544-17
 
@@ -42125,7 +42992,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Entreprises de cultures marines<a id=784></a>
+##### Paragraphe 2 : Entreprises de cultures marines<a id=797></a>
 
 ###### Article L5544-21
 
@@ -42148,7 +43015,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Jours fériés<a id=785></a>
+##### Sous-section 3 : Jours fériés<a id=798></a>
 
 ###### Article L5544-22
 
@@ -42176,7 +43043,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Congés payés et autres congés<a id=786></a>
+##### Section 3 : Congés payés et autres congés<a id=799></a>
 
 ###### Article L5544-23
 
@@ -42251,9 +43118,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Dispositions particulières à certains marins<a id=787></a>
+##### Section 4 : Dispositions particulières à certains marins<a id=800></a>
 
-##### Sous-section 1 : Jeunes travailleurs<a id=788></a>
+##### Sous-section 1 : Jeunes travailleurs<a id=801></a>
 
 ###### Article L5544-26
 
@@ -42417,7 +43284,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Le capitaine<a id=789></a>
+##### Sous-section 2 : Le capitaine<a id=802></a>
 
 ###### Article L5544-33
 
@@ -42441,11 +43308,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 5 : Salaire et avantages divers<a id=790></a>
+##### Section 5 : Salaire et avantages divers<a id=803></a>
 
-##### Sous-section 1 : Détermination du salaire<a id=791></a>
+##### Sous-section 1 : Détermination du salaire<a id=804></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=792></a>
+##### Paragraphe 1 : Dispositions générales<a id=805></a>
 
 ###### Article L5544-34
 
@@ -42519,7 +43386,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Modalités de calcul de la rémunération<a id=793></a>
+##### Paragraphe 2 : Modalités de calcul de la rémunération<a id=806></a>
 
 ###### Article L5544-38
 
@@ -42563,7 +43430,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 3 : Fixation des rémunérations<a id=794></a>
+##### Paragraphe 3 : Fixation des rémunérations<a id=807></a>
 
 ###### Article L5544-40
 
@@ -42707,7 +43574,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 4 : Participation à la rémunération d'assistance<a id=795></a>
+##### Paragraphe 4 : Participation à la rémunération d'assistance<a id=808></a>
 
 ###### Article L5544-46
 
@@ -42731,7 +43598,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 5 : Décès ou disparition du marin<a id=796></a>
+##### Paragraphe 5 : Décès ou disparition du marin<a id=809></a>
 
 ###### Article L5544-47
 
@@ -42796,9 +43663,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Paiement du salaire<a id=797></a>
+##### Sous-section 2 : Paiement du salaire<a id=810></a>
 
-##### Paragraphe 1 : Avances et acomptes<a id=798></a>
+##### Paragraphe 1 : Avances et acomptes<a id=811></a>
 
 ###### Article L5544-50
 
@@ -42895,7 +43762,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Paragraphe 2 : Paiement du salaire<a id=799></a>
+##### Paragraphe 2 : Paiement du salaire<a id=812></a>
 
 ###### Article L5544-55
 
@@ -42962,7 +43829,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Protection du salaire<a id=800></a>
+##### Sous-section 3 : Protection du salaire<a id=813></a>
 
 ###### Article L5544-58
 
@@ -43055,7 +43922,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 4 : Dispositions particulières au capitaine<a id=801></a>
+##### Sous-section 4 : Dispositions particulières au capitaine<a id=814></a>
 
 ###### Article L5544-62
 
@@ -43083,11 +43950,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Santé et sécurité au travail<a id=802></a>
+##### Chapitre V : Santé et sécurité au travail<a id=815></a>
 
-##### Section 1 : Dispositions générales<a id=803></a>
+##### Section 1 : Dispositions générales<a id=816></a>
 
-##### Sous-section 1 : Obligations de l'employeur et des gens de mer<a id=804></a>
+##### Sous-section 1 : Obligations de l'employeur et des gens de mer<a id=817></a>
 
 ###### Article L5545-1
 
@@ -43146,7 +44013,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Droit d'alerte et de retrait<a id=805></a>
+##### Sous-section 2 : Droit d'alerte et de retrait<a id=818></a>
 
 ###### Article L5545-4
 
@@ -43171,7 +44038,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Jeunes travailleurs<a id=806></a>
+##### Sous-section 3 : Jeunes travailleurs<a id=819></a>
 
 ###### Article L5545-5
 
@@ -43264,7 +44131,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Lieux de travail et conditions de vie à bord des navires<a id=807></a>
+##### Section 2 : Lieux de travail et conditions de vie à bord des navires<a id=820></a>
 
 ###### Article L5545-9
 
@@ -43308,7 +44175,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Equipements de travail et de protection individuelle<a id=808></a>
+##### Section 3 : Equipements de travail et de protection individuelle<a id=821></a>
 
 ###### Article L5545-11
 
@@ -43326,7 +44193,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 6 : Institutions et organismes de prévention<a id=809></a>
+##### Section 6 : Institutions et organismes de prévention<a id=822></a>
 
 ###### Article L5545-12
 
@@ -43372,7 +44239,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 7 : Contrôle et sanctions<a id=810></a>
+##### Section 7 : Contrôle et sanctions<a id=823></a>
 
 ###### Article L5545-14
 
@@ -43414,9 +44281,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : L'emploi<a id=811></a>
+##### Chapitre VI : L'emploi<a id=824></a>
 
-##### Section 2 : Service public de l'emploi et placement<a id=812></a>
+##### Section 2 : Service public de l'emploi et placement<a id=825></a>
 
 ###### Article L5546-1
 
@@ -43439,7 +44306,7 @@ _Codifié par_:
 
 
 ##### Section 3 : Indemnisation des marins 
-involontairement privés d'emploi<a id=813></a>
+involontairement privés d'emploi<a id=826></a>
 
 ###### Article L5546-2
 
@@ -43494,9 +44361,9 @@ _Codifié par_:
 
 
 ##### Chapitre VII : La formation professionnelle 
-tout au long de la vie<a id=814></a>
+tout au long de la vie<a id=827></a>
 
-##### Section 1 : L'apprentissage<a id=815></a>
+##### Section 1 : L'apprentissage<a id=828></a>
 
 ###### Article L5547-1
 
@@ -43514,7 +44381,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : La formation professionnelle continue<a id=816></a>
+##### Section 2 : La formation professionnelle continue<a id=829></a>
 
 ###### Article L5547-2
 
@@ -43538,7 +44405,7 @@ _Cite_:
   - Code des transports - art. L6325-3 (V)
 
 
-##### Chapitre VIII : Contrôle de l'application de la législation du travail<a id=817></a>
+##### Chapitre VIII : Contrôle de l'application de la législation du travail<a id=830></a>
 
 ###### Article L5548-1
 
@@ -43642,9 +44509,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IX : Dispositions applicables aux gens de mer autres que les marins<a id=818></a>
+##### Chapitre IX : Dispositions applicables aux gens de mer autres que les marins<a id=831></a>
 
-##### Section 1 : Obligations de l'armateur<a id=819></a>
+##### Section 1 : Obligations de l'armateur<a id=832></a>
 
 ###### Article L5549-1
 
@@ -43702,7 +44569,7 @@ _Abrogé par_:
   - Loi n°2013-619 du 16 juillet 2013 - art. 25 (V)
 
 
-##### Section 2 : Durée du travail et salaire<a id=820></a>
+##### Section 2 : Durée du travail et salaire<a id=833></a>
 
 ###### Article L5549-2
 
@@ -43753,9 +44620,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : LA PROTECTION SOCIALE DES MARINS<a id=821></a>
+#### TITRE V : LA PROTECTION SOCIALE DES MARINS<a id=834></a>
 
-##### Chapitre Ier : Dispositions générales<a id=822></a>
+##### Chapitre Ier : Dispositions générales<a id=835></a>
 
 ###### Article L5551-1
 
@@ -43822,9 +44689,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Pensions de retraite des marins<a id=823></a>
+##### Chapitre II : Pensions de retraite des marins<a id=836></a>
 
-##### Section 1 : Dispositions générales<a id=824></a>
+##### Section 1 : Dispositions générales<a id=837></a>
 
 ###### Article L5552-1
 
@@ -43884,9 +44751,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Ouverture du droit à pension<a id=825></a>
+##### Section 2 : Ouverture du droit à pension<a id=838></a>
 
-##### Sous-section 1 : Pension d'ancienneté<a id=826></a>
+##### Sous-section 1 : Pension d'ancienneté<a id=839></a>
 
 ###### Article L5552-4
 
@@ -43998,7 +44865,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Pension proportionnelle<a id=827></a>
+##### Sous-section 2 : Pension proportionnelle<a id=840></a>
 
 ###### Article L5552-8
 
@@ -44065,7 +44932,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Pension spéciale<a id=828></a>
+##### Sous-section 3 : Pension spéciale<a id=841></a>
 
 ###### Article L5552-11
 
@@ -44107,7 +44974,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Services pris en compte<a id=829></a>
+##### Section 3 : Services pris en compte<a id=842></a>
 
 ###### Article L5552-13
 
@@ -44341,7 +45208,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Détermination du montant des pensions<a id=830></a>
+##### Section 4 : Détermination du montant des pensions<a id=843></a>
 
 ###### Article L5552-19
 
@@ -44427,7 +45294,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 5 : Dispositions particulières aux salariés à temps partiel<a id=831></a>
+##### Section 5 : Dispositions particulières aux salariés à temps partiel<a id=844></a>
 
 ###### Article L5552-23
 
@@ -44471,9 +45338,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 6 : Pensions d'ayants cause<a id=832></a>
+##### Section 6 : Pensions d'ayants cause<a id=845></a>
 
-##### Sous-section 1 : Conjoint<a id=833></a>
+##### Sous-section 1 : Conjoint<a id=846></a>
 
 ###### Article L5552-25
 
@@ -44632,7 +45499,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Orphelins<a id=834></a>
+##### Sous-section 2 : Orphelins<a id=847></a>
 
 ###### Article L5552-31
 
@@ -44763,7 +45630,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Concours d'ayants cause<a id=835></a>
+##### Sous-section 3 : Concours d'ayants cause<a id=848></a>
 
 ###### Article L5552-36
 
@@ -44818,7 +45685,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 7 : Options et cumuls<a id=836></a>
+##### Section 7 : Options et cumuls<a id=849></a>
 
 ###### Article L5552-38
 
@@ -44882,7 +45749,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 8 : Dispositions diverses<a id=837></a>
+##### Section 8 : Dispositions diverses<a id=850></a>
 
 ###### Article L5552-41
 
@@ -44991,9 +45858,9 @@ _Codifié par_:
 
 
 ##### Chapitre III : Cotisations et contributions au titre 
-du régime d'assurance vieillesse des marins<a id=838></a>
+du régime d'assurance vieillesse des marins<a id=851></a>
 
-##### Section 1 : Services taxables<a id=839></a>
+##### Section 1 : Services taxables<a id=852></a>
 
 ###### Article L5553-1
 
@@ -45091,7 +45958,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Assiette des cotisations et contributions<a id=840></a>
+##### Section 2 : Assiette des cotisations et contributions<a id=853></a>
 
 ###### Article L5553-5
 
@@ -45154,7 +46021,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Exonérations et réductions<a id=841></a>
+##### Section 3 : Exonérations et réductions<a id=854></a>
 
 ###### Article L5553-7
 
@@ -45335,7 +46202,7 @@ _Modifié par_:
   - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
-##### Section 4 : Dispositions diverses<a id=842></a>
+##### Section 4 : Dispositions diverses<a id=855></a>
 
 ###### Article L5553-14
 
@@ -45401,7 +46268,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Prestations du régime de prévoyance des marins<a id=843></a>
+##### Chapitre IV : Prestations du régime de prévoyance des marins<a id=856></a>
 
 ###### Article L5554-1
 
@@ -45423,7 +46290,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Cotisations et contributions au titre du régime de prévoyance des marins<a id=844></a>
+##### Chapitre V : Cotisations et contributions au titre du régime de prévoyance des marins<a id=857></a>
 
 ###### Article L5555-1
 
@@ -45441,9 +46308,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : Dispositions applicables au conjoint collaborateur du chef d'entreprise relevant du régime de sécurité sociale des marins<a id=845></a>
+##### Chapitre VI : Dispositions applicables au conjoint collaborateur du chef d'entreprise relevant du régime de sécurité sociale des marins<a id=858></a>
 
-##### Section 1 : Champ d'application<a id=846></a>
+##### Section 1 : Champ d'application<a id=859></a>
 
 ###### Article L5556-1
 
@@ -45470,9 +46337,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Pension<a id=847></a>
+##### Section 2 : Pension<a id=860></a>
 
-##### Sous-section 1 : Pension en nom propre<a id=848></a>
+##### Sous-section 1 : Pension en nom propre<a id=861></a>
 
 ###### Article L5556-2
 
@@ -45604,7 +46471,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Pension partagée<a id=849></a>
+##### Sous-section 2 : Pension partagée<a id=862></a>
 
 ###### Article L5556-7
 
@@ -45660,7 +46527,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Allocation de remplacement<a id=850></a>
+##### Section 3 : Allocation de remplacement<a id=863></a>
 
 ###### Article L5556-9
 
@@ -45756,11 +46623,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE VI : REGISTRE INTERNATIONAL FRANCAIS<a id=851></a>
+### LIVRE VI : REGISTRE INTERNATIONAL FRANCAIS<a id=864></a>
 
-#### TITRE IER : CHAMP D'APPLICATION<a id=852></a>
+#### TITRE IER : CHAMP D'APPLICATION<a id=865></a>
 
-##### Chapitre Ier : Navires<a id=853></a>
+##### Chapitre Ier : Navires<a id=866></a>
 
 ###### Article L5611-1
 
@@ -45853,7 +46720,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Personnel navigant<a id=854></a>
+##### Chapitre II : Personnel navigant<a id=867></a>
 
 ###### Article L5612-1
 
@@ -45992,13 +46859,13 @@ _Modifié par_:
   - Ordonnance n°2011-204 du 24 février 2011 - art. 5
 
 
-#### TITRE II : LES RELATIONS DU TRAVAIL<a id=855></a>
+#### TITRE II : LES RELATIONS DU TRAVAIL<a id=868></a>
 
-##### Chapitre Ier : Les relations individuelles de travail<a id=856></a>
+##### Chapitre Ier : Les relations individuelles de travail<a id=869></a>
 
-##### Section 1 : L'engagement du navigant<a id=857></a>
+##### Section 1 : L'engagement du navigant<a id=870></a>
 
-##### Sous-section 1 : Engagement direct et mise à disposition<a id=858></a>
+##### Sous-section 1 : Engagement direct et mise à disposition<a id=871></a>
 
 ###### Article L5621-1
 
@@ -46105,7 +46972,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Formation et contenu du contrat d'engagement<a id=859></a>
+##### Sous-section 2 : Formation et contenu du contrat d'engagement<a id=872></a>
 
 ###### Article L5621-6
 
@@ -46266,7 +47133,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Fin de la relation de travail<a id=860></a>
+##### Section 2 : Fin de la relation de travail<a id=873></a>
 
 ###### Article L5621-13
 
@@ -46332,7 +47199,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Conditions de rapatriement<a id=861></a>
+##### Section 3 : Conditions de rapatriement<a id=874></a>
 
 ###### Article L5621-16
 
@@ -46395,7 +47262,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Résolution des litiges individuels<a id=862></a>
+##### Section 4 : Résolution des litiges individuels<a id=875></a>
 
 ###### Article L5621-18
 
@@ -46427,7 +47294,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Les relations collectives de travail<a id=863></a>
+##### Chapitre II : Les relations collectives de travail<a id=876></a>
 
 ###### Article L5622-1
 
@@ -46507,11 +47374,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Durée du travail et salaire<a id=864></a>
+##### Chapitre III : Durée du travail et salaire<a id=877></a>
 
-##### Section 1 : Durée, repos et congés annuels<a id=865></a>
+##### Section 1 : Durée, repos et congés annuels<a id=878></a>
 
-##### Sous-section 1 : Durée et organisation du travail<a id=866></a>
+##### Sous-section 1 : Durée et organisation du travail<a id=879></a>
 
 ###### Article L5623-1
 
@@ -46582,7 +47449,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Repos et jours fériés<a id=867></a>
+##### Sous-section 2 : Repos et jours fériés<a id=880></a>
 
 ###### Article L5623-5
 
@@ -46647,7 +47514,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 3 : Congés payés<a id=868></a>
+##### Sous-section 3 : Congés payés<a id=881></a>
 
 ###### Article L5623-8
 
@@ -46664,7 +47531,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Le salaire<a id=869></a>
+##### Section 2 : Le salaire<a id=882></a>
 
 ###### Article L5623-9
 
@@ -46687,7 +47554,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : PROTECTION SOCIALE<a id=870></a>
+#### TITRE III : PROTECTION SOCIALE<a id=883></a>
 
 ###### Article L5631-1
 
@@ -46812,9 +47679,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : CONTROLE ET SANCTIONS<a id=871></a>
+#### TITRE IV : CONTROLE ET SANCTIONS<a id=884></a>
 
-##### Chapitre Ier : Contrôle<a id=872></a>
+##### Chapitre Ier : Contrôle<a id=885></a>
 
 ###### Article L5641-1
 
@@ -46838,7 +47705,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Sanctions pénales<a id=873></a>
+##### Chapitre II : Sanctions pénales<a id=886></a>
 
 ###### Article L5642-1
 
@@ -46904,7 +47771,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER<a id=874></a>
+### LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER<a id=887></a>
 
 ###### Article L5700-1
 
@@ -46918,9 +47785,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER<a id=875></a>
+#### TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER<a id=888></a>
 
-##### Chapitre III : Les ports maritimes<a id=876></a>
+##### Chapitre III : Les ports maritimes<a id=889></a>
 
 ###### Article L5713-1
 
@@ -46972,7 +47839,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=877></a>
+##### Chapitre IV : Le transport maritime<a id=890></a>
 
 ###### Article L5714-1
 
@@ -47012,7 +47879,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=878></a>
+##### Chapitre V : Les gens de mer<a id=891></a>
 
 ###### Article L5715-1
 
@@ -47191,9 +48058,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : MAYOTTE<a id=879></a>
+#### TITRE II : MAYOTTE<a id=892></a>
 
-##### Chapitre Ier : Le navire<a id=880></a>
+##### Chapitre Ier : Le navire<a id=893></a>
 
 ###### Article L5721-1
 
@@ -47206,7 +48073,28 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=881></a>
+###### Article L5721-2
+
+Pour l'application du II de l'article L. 5123-2 à Mayotte, les mots : " et du règlement (CE) n° 392/2009 du Parlement
+européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas d'accident
+" sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L5123-2
+
+
+##### Chapitre III : Les ports maritimes<a id=894></a>
 
 ###### Article L5723-1
 
@@ -47245,7 +48133,7 @@ _Anciens textes_:
   - Code des ports maritimes - art. L163-1 (Ab)
 
 
-##### Chapitre IV : Le transport maritime<a id=882></a>
+##### Chapitre IV : Le transport maritime<a id=895></a>
 
 ###### Article L5724-1
 
@@ -47282,7 +48170,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=883></a>
+##### Chapitre V : Les gens de mer<a id=896></a>
 
 ###### Article L5725-1
 
@@ -47348,9 +48236,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : SAINT-BARTHELEMY<a id=884></a>
+#### TITRE III : SAINT-BARTHELEMY<a id=897></a>
 
-##### Chapitre III : Les ports maritimes<a id=885></a>
+##### Chapitre III : Les ports maritimes<a id=898></a>
 
 ###### Article L5733-1
 
@@ -47415,7 +48303,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=886></a>
+##### Chapitre IV : Le transport maritime<a id=899></a>
 
 ###### Article L5734-1
 
@@ -47444,7 +48332,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=887></a>
+##### Chapitre V : Les gens de mer<a id=900></a>
 
 ###### Article L5735-1
 
@@ -47615,9 +48503,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SAINT-MARTIN<a id=888></a>
+#### TITRE IV : SAINT-MARTIN<a id=901></a>
 
-##### Chapitre III : Les ports maritimes<a id=889></a>
+##### Chapitre III : Les ports maritimes<a id=902></a>
 
 ###### Article L5743-1
 
@@ -47682,7 +48570,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=890></a>
+##### Chapitre IV : Le transport maritime<a id=903></a>
 
 ###### Article L5744-1
 
@@ -47711,7 +48599,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=891></a>
+##### Chapitre V : Les gens de mer<a id=904></a>
 
 ###### Article L5745-1
 
@@ -47884,9 +48772,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=892></a>
+#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=905></a>
 
-##### Chapitre Ier : Le navire<a id=893></a>
+##### Chapitre Ier : Le navire<a id=906></a>
 
 ###### Article L5751-1
 
@@ -47899,7 +48787,28 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=894></a>
+###### Article L5751-2
+
+Pour l'application du II de l'article L. 5123-2 à Saint-Pierre-et-Miquelon, les mots : " et du règlement (CE) n° 392/2009 du
+Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas
+d'accident " sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des transports - art. L5123-2
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
+##### Chapitre III : Les ports maritimes<a id=907></a>
 
 ###### Article L5753-1
 
@@ -47936,7 +48845,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=895></a>
+##### Chapitre IV : Le transport maritime<a id=908></a>
 
 ###### Article L5754-1
 
@@ -47961,7 +48870,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=896></a>
+##### Chapitre V : Les gens de mer<a id=909></a>
 
 ###### Article L5755-1
 
@@ -48128,7 +49037,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : NOUVELLE-CALEDONIE<a id=897></a>
+#### TITRE VI : NOUVELLE-CALEDONIE<a id=910></a>
 
 ###### Article L5760-1
 
@@ -48145,7 +49054,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=898></a>
+##### Chapitre Ier : Le navire<a id=911></a>
 
 ###### Article L5761-1
 
@@ -48162,7 +49071,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Navigation maritime<a id=899></a>
+##### Chapitre II : Navigation maritime<a id=912></a>
 
 ###### Article L5762-1
 
@@ -48186,7 +49095,29 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=900></a>
+###### Article L5762-2
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 en Nouvelle-Calédonie, les mots : " et au 3° de l'article L. 5336-5
+" et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
+constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L5222-2
+  - Code des transports - art. L5243-2-2
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre III : Les ports maritimes<a id=913></a>
 
 ###### Article L5763-1
 
@@ -48203,7 +49134,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=901></a>
+##### Chapitre IV : Le transport maritime<a id=914></a>
 
 ###### Article L5764-1
 
@@ -48217,7 +49148,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=902></a>
+##### Chapitre V : Les gens de mer<a id=915></a>
 
 ###### Article L5765-1
 
@@ -48292,7 +49223,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : POLYNESIE FRANCAISE<a id=903></a>
+#### TITRE VII : POLYNESIE FRANCAISE<a id=916></a>
 
 ###### Article L5770-1
 
@@ -48309,15 +49240,21 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=904></a>
+##### Chapitre Ier : Le navire<a id=917></a>
 
 ###### Article L5771-1
 
 Les dispositions du chapitre Ier du titre Ier du livre Ier sont applicables en Polynésie française, ainsi que celles des
 chapitres Ier et II du titre III lorsque l'événement de mer se produit en dehors des eaux maritimes intérieures de la
-Polynésie française, et celles des chapitres Ier et II du titre IV.
+Polynésie française, et celles des chapitres Ier et II du titre IV. 
+
+Les dispositions de l'article L. 5113-1 sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des transports - art. L5113-1 (V)
 
 _Cité par_:
 
@@ -48327,8 +49264,12 @@ _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Chapitre II : Navigation maritime<a id=905></a>
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
+##### Chapitre II : Navigation maritime<a id=918></a>
 
 ###### Article L5772-1
 
@@ -48348,7 +49289,29 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=906></a>
+###### Article L5772-3
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 en Polynésie française, les mots : " et au 3° de l'article L. 5336-5
+" et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
+constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L5222-2
+  - Code des transports - art. L5243-2-2
+
+
+##### Chapitre IV : Le transport maritime<a id=919></a>
 
 ###### Article L5774-1
 
@@ -48361,7 +49324,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=907></a>
+##### Chapitre V : Les gens de mer<a id=920></a>
 
 ###### Article L5775-1
 
@@ -48438,7 +49401,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VIII : WALLIS-ET-FUTUNA<a id=908></a>
+#### TITRE VIII : WALLIS-ET-FUTUNA<a id=921></a>
 
 ###### Article L5780-1
 
@@ -48455,7 +49418,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=909></a>
+##### Chapitre Ier : Le navire<a id=922></a>
 
 ###### Article L5781-1
 
@@ -48468,7 +49431,28 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Navigation maritime<a id=910></a>
+###### Article L5781-2
+
+Pour l'application du II de l'article L. 5123-2 à Wallis-et-Futuna, les mots : " et du règlement (CE) n° 392/2009 du
+Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de passagers par mer en cas
+d'accident " sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des transports - art. L5123-2
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
+##### Chapitre II : Navigation maritime<a id=923></a>
 
 ###### Article L5782-1
 
@@ -48482,7 +49466,29 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=911></a>
+###### Article L5782-3
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 à Wallis-et-Futuna, les mots : " et au 3° de l'article L. 5336-5 "
+et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et les agents chargés de la
+constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L5222-2
+  - Code des transports - art. L5243-2-2
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+##### Chapitre III : Les ports maritimes<a id=924></a>
 
 ###### Article L5783-1
 
@@ -48499,7 +49505,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=912></a>
+##### Chapitre IV : Le transport maritime<a id=925></a>
 
 ###### Article L5784-1
 
@@ -48512,7 +49518,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=913></a>
+##### Chapitre V : Les gens de mer<a id=926></a>
 
 ###### Article L5785-1
 
@@ -48651,7 +49657,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=914></a>
+#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=927></a>
 
 ###### Article L5790-1
 
@@ -48668,7 +49674,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=915></a>
+##### Chapitre Ier : Le navire<a id=928></a>
 
 ###### Article L5791-1
 
@@ -48682,7 +49688,28 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Navigation maritime<a id=916></a>
+###### Article L5791-2
+
+Pour l'application du II de l'article L. 5123-2 aux Terres australes et antarctiques françaises, les mots : " et du règlement
+(CE) n° 392/2009 du Parlement européen et du Conseil du 23 avril 2009 relatif à la responsabilité des transporteurs de
+passagers par mer en cas d'accident " sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des transports - art. L5123-2
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
+##### Chapitre II : Navigation maritime<a id=929></a>
 
 ###### Article L5792-1
 
@@ -48696,7 +49723,29 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=917></a>
+###### Article L5792-3
+
+Pour l'application des articles L. 5222-2 et L. 5243-2-2 aux Terres australes et antarctiques françaises, les mots : " et au
+3° de l'article L. 5336-5 " et les mots : " et les agents du 3° de l'article L. 5336-5 " sont remplacés par les mots : " et
+les agents chargés de la constatation des infractions à la police de la signalisation maritime ".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des transports - art. L5222-2
+  - Code des transports - art. L5243-2-2
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Créé par_:
+
+  - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
+
+
+##### Chapitre III : Les ports maritimes<a id=930></a>
 
 ###### Article L5793-1
 
@@ -48713,7 +49762,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=918></a>
+##### Chapitre IV : Le transport maritime<a id=931></a>
 
 ###### Article L5794-1
 
@@ -48727,7 +49776,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=919></a>
+##### Chapitre V : Les gens de mer<a id=932></a>
 
 ###### Article L5795-1
 
@@ -49015,9 +50064,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-## SIXIEME PARTIE : AVIATION CIVILE<a id=920></a>
+## SIXIEME PARTIE : AVIATION CIVILE<a id=933></a>
 
-### LIVRE IER : L'AERONEF<a id=921></a>
+### LIVRE IER : L'AERONEF<a id=934></a>
 
 ###### Article L6100-1
 
@@ -49051,9 +50100,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : IDENTIFICATION DE L'AERONEF<a id=922></a>
+#### TITRE IER : IDENTIFICATION DE L'AERONEF<a id=935></a>
 
-##### Chapitre unique<a id=923></a>
+##### Chapitre unique<a id=936></a>
 
 ###### Article L6111-1
 
@@ -49204,9 +50253,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : REGIME DE PROPRIETE<a id=924></a>
+#### TITRE II : REGIME DE PROPRIETE<a id=937></a>
 
-##### Chapitre Ier : Titres de propriété<a id=925></a>
+##### Chapitre Ier : Titres de propriété<a id=938></a>
 
 ###### Article L6121-1
 
@@ -49243,9 +50292,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Hypothèques et privilèges<a id=926></a>
+##### Chapitre II : Hypothèques et privilèges<a id=939></a>
 
-##### Section 1 : Hypothèques<a id=927></a>
+##### Section 1 : Hypothèques<a id=940></a>
 
 ###### Article L6122-1
 
@@ -49521,7 +50570,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Privilèges<a id=928></a>
+##### Section 2 : Privilèges<a id=941></a>
 
 ###### Article L6122-16
 
@@ -49656,9 +50705,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Saisie et vente forcée<a id=929></a>
+##### Chapitre III : Saisie et vente forcée<a id=942></a>
 
-##### Section 1 : Saisie conservatoire<a id=930></a>
+##### Section 1 : Saisie conservatoire<a id=943></a>
 
 ###### Article L6123-1
 
@@ -49714,7 +50763,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Vente forcée<a id=931></a>
+##### Section 2 : Vente forcée<a id=944></a>
 
 ###### Article L6123-3
 
@@ -49738,9 +50787,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : DOMMAGES ET RESPONSABILITES<a id=932></a>
+#### TITRE III : DOMMAGES ET RESPONSABILITES<a id=945></a>
 
-##### Chapitre Ier : Responsabilité des équipages et des exploitants<a id=933></a>
+##### Chapitre Ier : Responsabilité des équipages et des exploitants<a id=946></a>
 
 ###### Article L6131-1
 
@@ -49822,9 +50871,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition<a id=934></a>
+##### Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition<a id=947></a>
 
-##### Section 1 : Assistance et sauvetage<a id=935></a>
+##### Section 1 : Assistance et sauvetage<a id=948></a>
 
 ###### Article L6132-1
 
@@ -49848,7 +50897,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Epaves<a id=936></a>
+##### Section 2 : Epaves<a id=949></a>
 
 ###### Article L6132-2
 
@@ -49870,7 +50919,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Disparition<a id=937></a>
+##### Section 3 : Disparition<a id=950></a>
 
 ###### Article L6132-3
 
@@ -49897,11 +50946,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES<a id=938></a>
+#### TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES<a id=951></a>
 
-##### Chapitre Ier : Mesures administratives<a id=939></a>
+##### Chapitre Ier : Mesures administratives<a id=952></a>
 
-##### Section unique : Rétention et immobilisation d'aéronefs<a id=940></a>
+##### Section unique : Rétention et immobilisation d'aéronefs<a id=953></a>
 
 ###### Article L6141-1
 
@@ -49920,9 +50969,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions pénales<a id=941></a>
+##### Chapitre II : Dispositions pénales<a id=954></a>
 
-##### Section 1 : Constatation et poursuite des infractions<a id=942></a>
+##### Section 1 : Constatation et poursuite des infractions<a id=955></a>
 
 ###### Article L6142-1
 
@@ -49983,7 +51032,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Identification de l'aéronef<a id=943></a>
+##### Section 2 : Identification de l'aéronef<a id=956></a>
 
 ###### Article L6142-4
 
@@ -50086,7 +51135,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Jets d'objets<a id=944></a>
+##### Section 3 : Jets d'objets<a id=957></a>
 
 ###### Article L6142-8
 
@@ -50105,7 +51154,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Délit de fuite<a id=945></a>
+##### Section 4 : Délit de fuite<a id=958></a>
 
 ###### Article L6142-9
 
@@ -50128,7 +51177,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE II : LA CIRCULATION AERIENNE<a id=946></a>
+### LIVRE II : LA CIRCULATION AERIENNE<a id=959></a>
 
 ###### Article L6200-1
 
@@ -50145,9 +51194,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : DROIT DE CIRCULATION<a id=947></a>
+#### TITRE IER : DROIT DE CIRCULATION<a id=960></a>
 
-##### Chapitre Ier : Survol du territoire<a id=948></a>
+##### Chapitre Ier : Survol du territoire<a id=961></a>
 
 ###### Article L6211-1
 
@@ -50266,7 +51315,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Atterrissage et décollage<a id=949></a>
+##### Chapitre II : Atterrissage et décollage<a id=962></a>
 
 ###### Article L6212-1
 
@@ -50307,9 +51356,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : POLICE DE LA CIRCULATION DES AERONEFS<a id=950></a>
+#### TITRE II : POLICE DE LA CIRCULATION DES AERONEFS<a id=963></a>
 
-##### Chapitre Ier : Contrôle<a id=951></a>
+##### Chapitre Ier : Contrôle<a id=964></a>
 
 ###### Article L6221-1
 
@@ -50454,7 +51503,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile<a id=952></a>
+##### Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile<a id=965></a>
 
 ###### Article L6222-1
 
@@ -50754,7 +51803,7 @@ _Abrogé par_:
   - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
-##### Chapitre III : Compte rendu d'événements<a id=953></a>
+##### Chapitre III : Compte rendu d'événements<a id=966></a>
 
 ###### Article L6223-1
 
@@ -50842,9 +51891,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES<a id=954></a>
+#### TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES<a id=967></a>
 
-##### Chapitre Ier : Mesures de police et sanctions administratives<a id=955></a>
+##### Chapitre Ier : Mesures de police et sanctions administratives<a id=968></a>
 
 ###### Article L6231-1
 
@@ -50878,9 +51927,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions pénales<a id=956></a>
+##### Chapitre II : Dispositions pénales<a id=969></a>
 
-##### Section 1 : Dispositions communes<a id=957></a>
+##### Section 1 : Dispositions communes<a id=970></a>
 
 ###### Article L6232-1
 
@@ -50898,7 +51947,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Droit de circulation<a id=958></a>
+##### Section 2 : Droit de circulation<a id=971></a>
 
 ###### Article L6232-2
 
@@ -50958,7 +52007,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Documents de bord<a id=959></a>
+##### Section 3 : Documents de bord<a id=972></a>
 
 ###### Article L6232-4
 
@@ -51076,7 +52125,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils<a id=960></a>
+##### Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils<a id=973></a>
 
 ###### Article L6232-8
 
@@ -51145,7 +52194,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile<a id=961></a>
+##### Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile<a id=974></a>
 
 ###### Article L6232-10
 
@@ -51196,7 +52245,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE III : LES AERODROMES<a id=962></a>
+### LIVRE III : LES AERODROMES<a id=975></a>
 
 ###### Article L6300-1
 
@@ -51221,10 +52270,10 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : STATUT DES AERODROMES<a id=963></a>
+#### TITRE IER : STATUT DES AERODROMES<a id=976></a>
 
 ##### Chapitre Ier : Compétences relatives à la création
-et à l'exploitation<a id=964></a>
+et à l'exploitation<a id=977></a>
 
 ###### Article L6311-1
 
@@ -51281,7 +52330,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Catégories d'aérodromes<a id=965></a>
+##### Chapitre II : Catégories d'aérodromes<a id=978></a>
 
 ###### Article L6312-1
 
@@ -51331,9 +52380,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE<a id=966></a>
+#### TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE<a id=979></a>
 
-##### Chapitre Ier : Dispositions générales<a id=967></a>
+##### Chapitre Ier : Dispositions générales<a id=980></a>
 
 ###### Article L6321-1
 
@@ -51445,7 +52494,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions particulières aux sociétés aéroportuaires<a id=968></a>
+##### Chapitre II : Dispositions particulières aux sociétés aéroportuaires<a id=981></a>
 
 ###### Article L6322-1
 
@@ -51585,7 +52634,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Dispositions particulières à la société Aéroports de Paris<a id=969></a>
+##### Chapitre III : Dispositions particulières à la société Aéroports de Paris<a id=982></a>
 
 ###### Article L6323-1
 
@@ -51761,7 +52810,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse<a id=970></a>
+##### Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse<a id=983></a>
 
 ###### Article L6324-1
 
@@ -51784,7 +52833,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Redevances aéroportuaires<a id=971></a>
+##### Chapitre V : Redevances aéroportuaires<a id=984></a>
 
 ###### Article L6325-1
 
@@ -51975,7 +53024,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : Services d'assistance en escale<a id=972></a>
+##### Chapitre VI : Services d'assistance en escale<a id=985></a>
 
 ###### Article L6326-1
 
@@ -51995,9 +53044,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : CONTROLE DE L'ETAT<a id=973></a>
+#### TITRE III : CONTROLE DE L'ETAT<a id=986></a>
 
-##### Chapitre Ier : Contrôle technique et administratif<a id=974></a>
+##### Chapitre Ier : Contrôle technique et administratif<a id=987></a>
 
 ###### Article L6331-1
 
@@ -52068,7 +53117,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Police des aérodromes et des installations à usage aéronautique<a id=975></a>
+##### Chapitre II : Police des aérodromes et des installations à usage aéronautique<a id=988></a>
 
 ###### Article L6332-1
 
@@ -52239,9 +53288,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SURETE AEROPORTUAIRE<a id=976></a>
+#### TITRE IV : SURETE AEROPORTUAIRE<a id=989></a>
 
-##### Chapitre Ier : Dispositions générales<a id=977></a>
+##### Chapitre Ier : Dispositions générales<a id=990></a>
 
 ###### Article L6341-1
 
@@ -52327,7 +53376,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Protection de la zone réservée<a id=978></a>
+##### Chapitre II : Protection de la zone réservée<a id=991></a>
 
 ###### Article L6342-1
 
@@ -52485,7 +53534,7 @@ _Codifié par_:
 
 
 ##### Chapitre III : Sûreté du fret et des colis postaux 
-avant leur embarquement<a id=979></a>
+avant leur embarquement<a id=992></a>
 
 ###### Article L6343-1
 
@@ -52649,7 +53698,7 @@ _Cite_:
   - Code des transports - art. L6343-4
 
 
-#### TITRE V : SUJETIONS AUX ABORDS DES AERODROMES<a id=980></a>
+#### TITRE V : SUJETIONS AUX ABORDS DES AERODROMES<a id=993></a>
 
 ###### Article L6350-1
 
@@ -52697,9 +53746,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Servitudes aéronautiques<a id=981></a>
+##### Chapitre Ier : Servitudes aéronautiques<a id=994></a>
 
-##### Section 1 : Définition et portée<a id=982></a>
+##### Section 1 : Définition et portée<a id=995></a>
 
 ###### Article L6351-1
 
@@ -52732,7 +53781,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Servitudes aéronautiques de dégagement<a id=983></a>
+##### Section 2 : Servitudes aéronautiques de dégagement<a id=996></a>
 
 ###### Article L6351-2
 
@@ -52834,7 +53883,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Servitudes aéronautiques de balisage<a id=984></a>
+##### Section 3 : Servitudes aéronautiques de balisage<a id=997></a>
 
 ###### Article L6351-6
 
@@ -52921,7 +53970,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Installations soumises à autorisation spéciale<a id=985></a>
+##### Chapitre II : Installations soumises à autorisation spéciale<a id=998></a>
 
 ###### Article L6352-1
 
@@ -52956,7 +54005,7 @@ _Codifié par_:
 
 
 ##### Chapitre III : Procédures relatives aux extensions
-et aux créations d'aérodromes<a id=986></a>
+et aux créations d'aérodromes<a id=999></a>
 
 ###### Article L6353-1
 
@@ -53030,11 +54079,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : NUISANCES AEROPORTUAIRES<a id=987></a>
+#### TITRE VI : NUISANCES AEROPORTUAIRES<a id=1000></a>
 
-##### Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires<a id=988></a>
+##### Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires<a id=1001></a>
 
-##### Section 1 : Composition et fonctionnement<a id=989></a>
+##### Section 1 : Composition et fonctionnement<a id=1002></a>
 
 ###### Article L6361-1
 
@@ -53168,7 +54217,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Missions<a id=990></a>
+##### Section 2 : Missions<a id=1003></a>
 
 ###### Article L6361-5
 
@@ -53371,7 +54420,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Moyens<a id=991></a>
+##### Section 3 : Moyens<a id=1004></a>
 
 ###### Article L6361-10
 
@@ -53428,7 +54477,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Sanctions administratives<a id=992></a>
+##### Section 4 : Sanctions administratives<a id=1005></a>
 
 ###### Article L6361-12
 
@@ -53578,7 +54627,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Procédures d'approche et de départ<a id=993></a>
+##### Chapitre II : Procédures d'approche et de départ<a id=1006></a>
 
 ###### Article L6362-1
 
@@ -53648,7 +54697,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les communautés aéroportuaires<a id=994></a>
+##### Chapitre III : Les communautés aéroportuaires<a id=1007></a>
 
 ###### Article L6363-1
 
@@ -53831,11 +54880,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES<a id=995></a>
+#### TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES<a id=1008></a>
 
-##### Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation<a id=996></a>
+##### Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation<a id=1009></a>
 
-##### Section 1 : Police de l'exploitation<a id=997></a>
+##### Section 1 : Police de l'exploitation<a id=1010></a>
 
 ###### Article L6371-1
 
@@ -53915,7 +54964,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Police de la conservation<a id=998></a>
+##### Section 2 : Police de la conservation<a id=1011></a>
 
 ###### Article L6371-4
 
@@ -53947,9 +54996,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions pénales<a id=999></a>
+##### Chapitre II : Dispositions pénales<a id=1012></a>
 
-##### Section 1 : Constatation des infractions<a id=1000></a>
+##### Section 1 : Constatation des infractions<a id=1013></a>
 
 ###### Article L6372-1
 
@@ -54034,9 +55083,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Sanctions<a id=1001></a>
+##### Section 2 : Sanctions<a id=1014></a>
 
-##### Sous-section 1 : Actes de malveillance<a id=1002></a>
+##### Sous-section 1 : Actes de malveillance<a id=1015></a>
 
 ###### Article L6372-4
 
@@ -54159,7 +55208,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Servitudes aéronautiques<a id=1003></a>
+##### Sous-section 2 : Servitudes aéronautiques<a id=1016></a>
 
 ###### Article L6372-8
 
@@ -54233,7 +55282,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE IV : LE TRANSPORT AERIEN<a id=1004></a>
+### LIVRE IV : LE TRANSPORT AERIEN<a id=1017></a>
 
 ###### Article L6400-1
 
@@ -54291,11 +55340,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : ENTREPRISES DE TRANSPORT AERIEN<a id=1005></a>
+#### TITRE IER : ENTREPRISES DE TRANSPORT AERIEN<a id=1018></a>
 
-##### Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien<a id=1006></a>
+##### Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien<a id=1019></a>
 
-##### Section 1 : Contrôle<a id=1007></a>
+##### Section 1 : Contrôle<a id=1020></a>
 
 ###### Article L6411-1
 
@@ -54324,7 +55373,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Dispositions générales relatives au capital et aux statuts<a id=1008></a>
+##### Section 2 : Dispositions générales relatives au capital et aux statuts<a id=1021></a>
 
 ###### Article L6411-2
 
@@ -54559,7 +55608,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Société Air France<a id=1009></a>
+##### Section 3 : Société Air France<a id=1022></a>
 
 ###### Article L6411-9
 
@@ -54635,7 +55684,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Exercice de l'activité de transporteur aérien public<a id=1010></a>
+##### Chapitre II : Exercice de l'activité de transporteur aérien public<a id=1023></a>
 
 ###### Article L6412-1
 
@@ -54818,11 +55867,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : CONTRAT DE TRANSPORT<a id=1011></a>
+#### TITRE II : CONTRAT DE TRANSPORT<a id=1024></a>
 
-##### Chapitre Ier : Transport de personnes et de bagages<a id=1012></a>
+##### Chapitre Ier : Transport de personnes et de bagages<a id=1025></a>
 
-##### Section 1 : Le contrat de transport<a id=1013></a>
+##### Section 1 : Le contrat de transport<a id=1026></a>
 
 ###### Article L6421-1
 
@@ -54862,7 +55911,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Responsabilité du transporteur aérien<a id=1014></a>
+##### Section 2 : Responsabilité du transporteur aérien<a id=1027></a>
 
 ###### Article L6421-3
 
@@ -54924,9 +55973,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Transport de marchandises<a id=1015></a>
+##### Chapitre II : Transport de marchandises<a id=1028></a>
 
-##### Section 1 : Le contrat de transport de marchandises<a id=1016></a>
+##### Section 1 : Le contrat de transport de marchandises<a id=1029></a>
 
 ###### Article L6422-1
 
@@ -54949,7 +55998,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Responsabilité du transporteur aérien<a id=1017></a>
+##### Section 2 : Responsabilité du transporteur aérien<a id=1030></a>
 
 ###### Article L6422-2
 
@@ -55042,9 +56091,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES<a id=1018></a>
+#### TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES<a id=1031></a>
 
-##### Chapitre Ier : Mesures de police, pouvoirs de constatation<a id=1019></a>
+##### Chapitre Ier : Mesures de police, pouvoirs de constatation<a id=1032></a>
 
 ###### Article L6431-1
 
@@ -55195,7 +56244,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Sanctions administratives<a id=1020></a>
+##### Chapitre II : Sanctions administratives<a id=1033></a>
 
 ###### Article L6432-1
 
@@ -55235,9 +56284,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Dispositions pénales<a id=1021></a>
+##### Chapitre III : Dispositions pénales<a id=1034></a>
 
-##### Section 1 : Transaction pénale<a id=1022></a>
+##### Section 1 : Transaction pénale<a id=1035></a>
 
 ###### Article L6433-1
 
@@ -55261,7 +56310,7 @@ _Codifié par_:
 
 
 ##### Section 2 : Violences commises dans un aéronef
-ou dans un lieu destiné à l'accès à un aéronef<a id=1023></a>
+ou dans un lieu destiné à l'accès à un aéronef<a id=1036></a>
 
 ###### Article L6433-2
 
@@ -55298,11 +56347,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE V : LE PERSONNEL NAVIGANT<a id=1024></a>
+### LIVRE V : LE PERSONNEL NAVIGANT<a id=1037></a>
 
-#### TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES<a id=1025></a>
+#### TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES<a id=1038></a>
 
-##### Chapitre unique<a id=1026></a>
+##### Chapitre unique<a id=1039></a>
 
 ###### Article L6511-1
 
@@ -55573,9 +56622,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL<a id=1027></a>
+#### TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL<a id=1040></a>
 
-##### Chapitre Ier : Règles générales<a id=1028></a>
+##### Chapitre Ier : Règles générales<a id=1041></a>
 
 ###### Article L6521-1
 
@@ -55785,7 +56834,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Commandant de bord et équipage<a id=1029></a>
+##### Chapitre II : Commandant de bord et équipage<a id=1042></a>
 
 ###### Article L6522-1
 
@@ -55918,9 +56967,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les relations individuelles de travail<a id=1030></a>
+##### Chapitre III : Les relations individuelles de travail<a id=1043></a>
 
-##### Section 1 : Forme, contenu et exécution du contrat<a id=1031></a>
+##### Section 1 : Forme, contenu et exécution du contrat<a id=1044></a>
 
 ###### Article L6523-1
 
@@ -56150,7 +57199,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Fin du contrat<a id=1032></a>
+##### Section 2 : Fin du contrat<a id=1045></a>
 
 ###### Article L6523-12
 
@@ -56206,7 +57255,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Relations collectives du travail<a id=1033></a>
+##### Chapitre IV : Relations collectives du travail<a id=1046></a>
 
 ###### Article L6524-1
 
@@ -56346,7 +57395,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Durée du travail et congés<a id=1034></a>
+##### Chapitre V : Durée du travail et congés<a id=1047></a>
 
 ###### Article L6525-1
 
@@ -56479,7 +57528,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : La protection sociale<a id=1035></a>
+##### Chapitre VI : La protection sociale<a id=1048></a>
 
 ###### Article L6526-1
 
@@ -56693,7 +57742,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VII : Retraites<a id=1036></a>
+##### Chapitre VII : Retraites<a id=1049></a>
 
 ###### Article L6527-1
 
@@ -56945,9 +57994,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES<a id=1037></a>
+#### TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES<a id=1050></a>
 
-##### Chapitre unique : Sanctions pénales<a id=1038></a>
+##### Chapitre unique : Sanctions pénales<a id=1051></a>
 
 ###### Article L6541-1
 
@@ -57018,11 +58067,11 @@ _Anciens textes_:
   - Code des transports - art. L6531-3 (T)
 
 
-### LIVRE VI : FORMATION AERONAUTIQUE AMATEURS<a id=1039></a>
+### LIVRE VI : FORMATION AERONAUTIQUE AMATEURS<a id=1052></a>
 
-#### TITRE IER : AERO CLUBS ET FEDERATIONS<a id=1040></a>
+#### TITRE IER : AERO CLUBS ET FEDERATIONS<a id=1053></a>
 
-##### Chapitre unique<a id=1041></a>
+##### Chapitre unique<a id=1054></a>
 
 ###### Article L6611-1
 
@@ -57045,7 +58094,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER<a id=1042></a>
+### LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER<a id=1055></a>
 
 ###### Article L6700-1
 
@@ -57087,9 +58136,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. L330-3-1 (Ab)
 
 
-#### TITRE II : MAYOTTE<a id=1043></a>
+#### TITRE II : MAYOTTE<a id=1056></a>
 
-##### Chapitre II : La circulation aérienne<a id=1044></a>
+##### Chapitre II : La circulation aérienne<a id=1057></a>
 
 ###### Article L6722-1
 
@@ -57126,7 +58175,7 @@ _Cite_:
   - règlement (CE) n°550/2004
 
 
-##### Chapitre III : Les aérodromes<a id=1045></a>
+##### Chapitre III : Les aérodromes<a id=1058></a>
 
 ###### Article L6723-1
 
@@ -57181,7 +58230,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1046></a>
+##### Chapitre IV : Le transport aérien<a id=1059></a>
 
 ###### Article L6724-1
 
@@ -57251,7 +58300,7 @@ _Abrogé par_:
   - Loi n°2013-1029 du 15 novembre 2013 - art. 18
 
 
-##### Chapitre V : Le personnel navigant<a id=1047></a>
+##### Chapitre V : Le personnel navigant<a id=1060></a>
 
 ###### Article L6725-1
 
@@ -57268,9 +58317,9 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 28 (VD)
 
 
-#### TITRE III : SAINT BARTHELEMY<a id=1048></a>
+#### TITRE III : SAINT BARTHELEMY<a id=1061></a>
 
-##### Chapitre unique<a id=1049></a>
+##### Chapitre unique<a id=1062></a>
 
 ###### Article L6731-1
 
@@ -57305,9 +58354,9 @@ _Nouveaux textes_:
   - Code des transports - art. L6731-4 (Ab)
 
 
-#### TITRE IV : SAINT MARTIN<a id=1050></a>
+#### TITRE IV : SAINT MARTIN<a id=1063></a>
 
-##### Chapitre unique<a id=1051></a>
+##### Chapitre unique<a id=1064></a>
 
 ###### Article L6741-1
 
@@ -57327,9 +58376,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=1052></a>
+#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=1065></a>
 
-##### Chapitre II : La circulation aérienne<a id=1053></a>
+##### Chapitre II : La circulation aérienne<a id=1066></a>
 
 ###### Article L6752-1
 
@@ -57368,7 +58417,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les aérodromes<a id=1054></a>
+##### Chapitre III : Les aérodromes<a id=1067></a>
 
 ###### Article L6753-1
 
@@ -57395,7 +58444,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1055></a>
+##### Chapitre IV : Le transport aérien<a id=1068></a>
 
 ###### Article L6754-1
 
@@ -57458,7 +58507,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1056></a>
+##### Chapitre V : Le personnel navigant<a id=1069></a>
 
 ###### Article L6755-1
 
@@ -57482,9 +58531,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : NOUVELLE-CALEDONIE<a id=1057></a>
+#### TITRE VI : NOUVELLE-CALEDONIE<a id=1070></a>
 
-##### Chapitre Ier : L'aéronef<a id=1058></a>
+##### Chapitre Ier : L'aéronef<a id=1071></a>
 
 ###### Article L6761-1
 
@@ -57497,7 +58546,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1059></a>
+##### Chapitre II : La circulation aérienne<a id=1072></a>
 
 ###### Article L6762-1
 
@@ -57547,7 +58596,7 @@ _Modifié par_:
   - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
-##### Chapitre III : Les aérodromes<a id=1060></a>
+##### Chapitre III : Les aérodromes<a id=1073></a>
 
 ###### Article L6763-1
 
@@ -57710,7 +58759,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1061></a>
+##### Chapitre IV : Le transport aérien<a id=1074></a>
 
 ###### Article L6764-1
 
@@ -57756,7 +58805,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1062></a>
+##### Chapitre V : Le personnel navigant<a id=1075></a>
 
 ###### Article L6765-1
 
@@ -57820,7 +58869,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : POLYNESIE FRANCAISE<a id=1063></a>
+#### TITRE VII : POLYNESIE FRANCAISE<a id=1076></a>
 
 ###### Article L6770-1
 
@@ -57837,7 +58886,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : L'aéronef<a id=1064></a>
+##### Chapitre Ier : L'aéronef<a id=1077></a>
 
 ###### Article L6771-1
 
@@ -57850,7 +58899,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1065></a>
+##### Chapitre II : La circulation aérienne<a id=1078></a>
 
 ###### Article L6772-1
 
@@ -57900,7 +58949,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les aérodromes<a id=1066></a>
+##### Chapitre III : Les aérodromes<a id=1079></a>
 
 ###### Article L6773-1
 
@@ -58076,7 +59125,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1067></a>
+##### Chapitre IV : Le transport aérien<a id=1080></a>
 
 ###### Article L6774-1
 
@@ -58137,7 +59186,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1068></a>
+##### Chapitre V : Le personnel navigant<a id=1081></a>
 
 ###### Article L6775-1
 
@@ -58200,9 +59249,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VIII : WALLIS-ET-FUTUNA<a id=1069></a>
+#### TITRE VIII : WALLIS-ET-FUTUNA<a id=1082></a>
 
-##### Chapitre Ier : L'aéronef<a id=1070></a>
+##### Chapitre Ier : L'aéronef<a id=1083></a>
 
 ###### Article L6781-1
 
@@ -58215,7 +59264,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1071></a>
+##### Chapitre II : La circulation aérienne<a id=1084></a>
 
 ###### Article L6782-1
 
@@ -58265,7 +59314,7 @@ _Cite_:
   - règlement (CE) n°550/2004
 
 
-##### Chapitre III : Les aérodromes<a id=1072></a>
+##### Chapitre III : Les aérodromes<a id=1085></a>
 
 ###### Article L6783-1
 
@@ -58483,7 +59532,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1073></a>
+##### Chapitre IV : Le transport aérien<a id=1086></a>
 
 ###### Article L6784-1
 
@@ -58533,7 +59582,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1074></a>
+##### Chapitre V : Le personnel navigant<a id=1087></a>
 
 ###### Article L6785-1
 
@@ -58602,7 +59651,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : La formation aéronautique<a id=1075></a>
+##### Chapitre VI : La formation aéronautique<a id=1088></a>
 
 ###### Article L6786-1
 
@@ -58621,9 +59670,9 @@ _Cité par_:
   - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
 
 
-#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1076></a>
+#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1089></a>
 
-##### Chapitre Ier : L'aéronef<a id=1077></a>
+##### Chapitre Ier : L'aéronef<a id=1090></a>
 
 ###### Article L6791-1
 
@@ -58636,7 +59685,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1078></a>
+##### Chapitre II : La circulation aérienne<a id=1091></a>
 
 ###### Article L6792-1
 

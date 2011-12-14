@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2011-12-04
+Version Consolidée au 2011-12-15
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -8916,17 +8916,20 @@ _Codifié par_:
 
 ###### Article L1721-2
 
-Les amendes pénales correspondant aux contraventions des quatre premières classes pour lesquelles l'action publique est
-éteinte par le paiement d'une amende forfaitaire, en application de l'article 529 du code de procédure pénale, ne peuvent
-faire l'objet d'une transaction. 
+Les amendes pénales correspondant aux contraventions pour lesquelles l'action publique est éteinte par le paiement d'une
+amende forfaitaire, en application de l'article 529 du code de procédure pénale, ne peuvent faire l'objet d'une transaction. 
 
 La transaction ne peut porter sur les peines privatives de liberté.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 29
+
 _Cite_:
 
-  - Code de procédure pénale - art. 529 (V)
+  - Code de procédure pénale - art. 529
 
 _Codifié par_:
 
@@ -50778,23 +50781,23 @@ _Codifié par_:
 
 ###### Article L6132-3
 
-En cas de disparition sans nouvelles d'un aéronef, l'appareil est réputé perdu trois mois après la date de l'envoi des
-dernières nouvelles.
+En cas de disparition sans nouvelles d'un aéronef, l'appareil est réputé perdu un mois après la date de l'envoi des dernières
+nouvelles. 
 
-A l'expiration de ce délai, les dispositions des articles 87 à 90 du code civil peuvent être mises en œuvre.
+A l'expiration de ce délai, les dispositions des articles 88 à 90 du code civil peuvent être mises en œuvre. 
 
 A cette fin, l'autorité administrative déclare la présomption de disparition et adresse au procureur général près la cour
 d'appel compétente les réquisitions nécessaires pour la constatation judiciaire du décès des personnes disparues.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°2011-1862 du 13 décembre 2011 - art. 68
+
 _Cite_:
 
-  - Code civil - art. 87 (V)
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L142-3 (VT)
+  - Code civil - art. 88
 
 _Codifié par_:
 

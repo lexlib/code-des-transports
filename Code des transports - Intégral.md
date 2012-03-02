@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-02-26
+Version Consolidée au 2012-03-03
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -888,218 +888,212 @@ du régime d'assurance vieillesse des marins (art. L5553-1 à L5553-16)](#848)
           - [Chapitre Ier : Contrôle (art. L5641-1)](#882)
           - [Chapitre II : Sanctions pénales (art. L5642-1 à L5642-2)](#883)
       - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L5700-1 à L5795-14)](#884)
-        - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER (art. L5713-1 à L5715-10)](#885)
+        - [TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION (art. L5713-1 à L5715-10)](#885)
           - [Chapitre III : Les ports maritimes (art. L5713-1 à L5713-3)](#886)
           - [Chapitre IV : Le transport maritime (art. L5714-1 à L5714-2)](#887)
           - [Chapitre V : Les gens de mer (art. L5715-1 à L5715-10)](#888)
-        - [TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION (art.  à L5715-10)](#889)
-          - [Chapitre III : Les ports maritimes (art.  à L5715-10)](#890)
-          - [Chapitre IV : Le transport maritime (art.  à L5715-10)](#891)
-          - [Chapitre V : Les gens de mer (art.  à L5715-10)](#892)
-        - [TITRE II : MAYOTTE (art. L5721-1 à L5725-4)](#893)
-          - [Chapitre Ier : Le navire (art. L5721-1 à L5721-2)](#894)
-          - [Chapitre III : Les ports maritimes (art. L5723-1 à L5723-2)](#895)
-          - [Chapitre IV : Le transport maritime (art. L5724-1 à L5724-2)](#896)
-          - [Chapitre V : Les gens de mer (art. L5725-1 à L5725-4)](#897)
-        - [TITRE III : SAINT-BARTHELEMY (art. L5733-1 à L5735-10)](#898)
-          - [Chapitre III : Les ports maritimes (art. L5733-1 à L5733-3)](#899)
-          - [Chapitre IV : Le transport maritime (art. L5734-1 à L5734-2)](#900)
-          - [Chapitre V : Les gens de mer (art. L5735-1 à L5735-10)](#901)
-        - [TITRE IV : SAINT-MARTIN (art. L5743-1 à L5745-10)](#902)
-          - [Chapitre III : Les ports maritimes (art. L5743-1 à L5743-3)](#903)
-          - [Chapitre IV : Le transport maritime (art. L5744-1 à L5744-2)](#904)
-          - [Chapitre V : Les gens de mer (art. L5745-1 à L5745-10)](#905)
-        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L5751-1 à L5755-10)](#906)
-          - [Chapitre Ier : Le navire (art. L5751-1 à L5751-2)](#907)
-          - [Chapitre III : Les ports maritimes (art. L5753-1 à L5753-2)](#908)
-          - [Chapitre IV : Le transport maritime (art. L5754-1)](#909)
-          - [Chapitre V : Les gens de mer (art. L5755-1 à L5755-10)](#910)
-        - [TITRE VI : NOUVELLE-CALEDONIE (art. L5760-1 à L5765-4)](#911)
-          - [Chapitre Ier : Le navire (art. L5761-1)](#912)
-          - [Chapitre II : Navigation maritime (art. L5762-1 à L5762-2)](#913)
-          - [Chapitre III : Les ports maritimes (art. L5763-1)](#914)
-          - [Chapitre IV : Le transport maritime (art. L5764-1)](#915)
-          - [Chapitre V : Les gens de mer (art. L5765-1 à L5765-4)](#916)
-        - [TITRE VII : POLYNESIE FRANCAISE (art. L5770-1 à L5775-4)](#917)
-          - [Chapitre Ier : Le navire (art. L5771-1)](#918)
-          - [Chapitre II : Navigation maritime (art. L5772-1 à L5772-3)](#919)
-          - [Chapitre IV : Le transport maritime (art. L5774-1)](#920)
-          - [Chapitre V : Les gens de mer (art. L5775-1 à L5775-4)](#921)
-        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L5780-1 à L5785-7)](#922)
-          - [Chapitre Ier : Le navire (art. L5781-1 à L5781-2)](#923)
-          - [Chapitre II : Navigation maritime (art. L5782-1 à L5782-3)](#924)
-          - [Chapitre III : Les ports maritimes (art. L5783-1)](#925)
-          - [Chapitre IV : Le transport maritime (art. L5784-1)](#926)
-          - [Chapitre V : Les gens de mer (art. L5785-1 à L5785-7)](#927)
-        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L5790-1 à L5795-14)](#928)
-          - [Chapitre Ier : Le navire (art. L5791-1 à L5791-2)](#929)
-          - [Chapitre II : Navigation maritime (art. L5792-1 à L5792-3)](#930)
-          - [Chapitre III : Les ports maritimes (art. L5793-1)](#931)
-          - [Chapitre IV : Le transport maritime (art. L5794-1)](#932)
-          - [Chapitre V : Les gens de mer (art. L5795-1 à L5795-14)](#933)
-    - [SIXIEME PARTIE : AVIATION CIVILE (art. L6100-1 à L6792-2)](#934)
-      - [LIVRE IER : L'AERONEF (art. L6100-1 à L6142-9)](#935)
-        - [TITRE IER : IDENTIFICATION DE L'AERONEF (art. L6111-1 à L6111-6)](#936)
-          - [Chapitre unique (art. L6111-1 à L6111-6)](#937)
-        - [TITRE II : REGIME DE PROPRIETE (art. L6121-1 à L6123-3)](#938)
-          - [Chapitre Ier : Titres de propriété (art. L6121-1 à L6121-2)](#939)
-          - [Chapitre II : Hypothèques et privilèges (art. L6122-1 à L6122-20)](#940)
-            - [Section 1 : Hypothèques (art. L6122-1 à L6122-15)](#941)
-            - [Section 2 : Privilèges (art. L6122-16 à L6122-20)](#942)
-          - [Chapitre III : Saisie et vente forcée (art. L6123-1 à L6123-3)](#943)
-            - [Section 1 : Saisie conservatoire (art. L6123-1 à L6123-2)](#944)
-            - [Section 2 : Vente forcée (art. L6123-3)](#945)
-        - [TITRE III : DOMMAGES ET RESPONSABILITES (art. L6131-1 à L6132-3)](#946)
-          - [Chapitre Ier : Responsabilité des équipages et des exploitants (art. L6131-1 à L6131-4)](#947)
-          - [Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition (art. L6132-1 à L6132-3)](#948)
-            - [Section 1 : Assistance et sauvetage (art. L6132-1)](#949)
-            - [Section 2 : Epaves (art. L6132-2)](#950)
-            - [Section 3 : Disparition (art. L6132-3)](#951)
-        - [TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES (art. L6141-1 à L6142-9)](#952)
-          - [Chapitre Ier : Mesures administratives (art. L6141-1)](#953)
-            - [Section unique : Rétention et immobilisation d'aéronefs (art. L6141-1)](#954)
-          - [Chapitre II : Dispositions pénales (art. L6142-1 à L6142-9)](#955)
-            - [Section 1 : Constatation et poursuite des infractions (art. L6142-1 à L6142-3)](#956)
-            - [Section 2 : Identification de l'aéronef (art. L6142-4 à L6142-7)](#957)
-            - [Section 3 : Jets d'objets (art. L6142-8)](#958)
-            - [Section 4 : Délit de fuite (art. L6142-9)](#959)
-      - [LIVRE II : LA CIRCULATION AERIENNE (art. L6200-1 à L6232-11)](#960)
-        - [TITRE IER : DROIT DE CIRCULATION (art. L6211-1 à L6212-2)](#961)
-          - [Chapitre Ier : Survol du territoire (art. L6211-1 à L6211-5)](#962)
-          - [Chapitre II : Atterrissage et décollage (art. L6212-1 à L6212-2)](#963)
-        - [TITRE II : POLICE DE LA CIRCULATION DES AERONEFS (art. L6221-1 à L6223-3)](#964)
-          - [Chapitre Ier : Contrôle (art. L6221-1 à L6221-5)](#965)
-          - [Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile (art. L6222-1 à L6222-11)](#966)
-          - [Chapitre III : Compte rendu d'événements (art. L6223-1 à L6223-3)](#967)
-        - [TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES (art. L6231-1 à L6232-11)](#968)
-          - [Chapitre Ier : Mesures de police et sanctions administratives (art. L6231-1 à L6231-2)](#969)
-          - [Chapitre II : Dispositions pénales (art. L6232-1 à L6232-11)](#970)
-            - [Section 1 : Dispositions communes (art. L6232-1)](#971)
-            - [Section 2 : Droit de circulation (art. L6232-2 à L6232-3)](#972)
-            - [Section 3 : Documents de bord (art. L6232-4 à L6232-7)](#973)
-            - [Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils (art. L6232-8 à L6232-9)](#974)
-            - [Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile (art. L6232-10 à L6232-11)](#975)
-      - [LIVRE III : LES AERODROMES (art. L6300-1 à L6372-10)](#976)
-        - [TITRE IER : STATUT DES AERODROMES (art. L6311-1 à L6312-2)](#977)
+        - [TITRE II : MAYOTTE (art. L5721-1 à L5725-4)](#889)
+          - [Chapitre Ier : Le navire (art. L5721-1 à L5721-2)](#890)
+          - [Chapitre III : Les ports maritimes (art. L5723-1 à L5723-2)](#891)
+          - [Chapitre IV : Le transport maritime (art. L5724-1 à L5724-2)](#892)
+          - [Chapitre V : Les gens de mer (art. L5725-1 à L5725-4)](#893)
+        - [TITRE III : SAINT-BARTHELEMY (art. L5733-1 à L5735-10)](#894)
+          - [Chapitre III : Les ports maritimes (art. L5733-1 à L5733-3)](#895)
+          - [Chapitre IV : Le transport maritime (art. L5734-1 à L5734-2)](#896)
+          - [Chapitre V : Les gens de mer (art. L5735-1 à L5735-10)](#897)
+        - [TITRE IV : SAINT-MARTIN (art. L5743-1 à L5745-10)](#898)
+          - [Chapitre III : Les ports maritimes (art. L5743-1 à L5743-3)](#899)
+          - [Chapitre IV : Le transport maritime (art. L5744-1 à L5744-2)](#900)
+          - [Chapitre V : Les gens de mer (art. L5745-1 à L5745-10)](#901)
+        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L5751-1 à L5755-10)](#902)
+          - [Chapitre Ier : Le navire (art. L5751-1 à L5751-2)](#903)
+          - [Chapitre III : Les ports maritimes (art. L5753-1 à L5753-2)](#904)
+          - [Chapitre IV : Le transport maritime (art. L5754-1)](#905)
+          - [Chapitre V : Les gens de mer (art. L5755-1 à L5755-10)](#906)
+        - [TITRE VI : NOUVELLE-CALEDONIE (art. L5760-1 à L5765-4)](#907)
+          - [Chapitre Ier : Le navire (art. L5761-1)](#908)
+          - [Chapitre II : Navigation maritime (art. L5762-1 à L5762-2)](#909)
+          - [Chapitre III : Les ports maritimes (art. L5763-1)](#910)
+          - [Chapitre IV : Le transport maritime (art. L5764-1)](#911)
+          - [Chapitre V : Les gens de mer (art. L5765-1 à L5765-4)](#912)
+        - [TITRE VII : POLYNESIE FRANCAISE (art. L5770-1 à L5775-4)](#913)
+          - [Chapitre Ier : Le navire (art. L5771-1)](#914)
+          - [Chapitre II : Navigation maritime (art. L5772-1 à L5772-3)](#915)
+          - [Chapitre IV : Le transport maritime (art. L5774-1)](#916)
+          - [Chapitre V : Les gens de mer (art. L5775-1 à L5775-4)](#917)
+        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L5780-1 à L5785-7)](#918)
+          - [Chapitre Ier : Le navire (art. L5781-1 à L5781-2)](#919)
+          - [Chapitre II : Navigation maritime (art. L5782-1 à L5782-3)](#920)
+          - [Chapitre III : Les ports maritimes (art. L5783-1)](#921)
+          - [Chapitre IV : Le transport maritime (art. L5784-1)](#922)
+          - [Chapitre V : Les gens de mer (art. L5785-1 à L5785-7)](#923)
+        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L5790-1 à L5795-14)](#924)
+          - [Chapitre Ier : Le navire (art. L5791-1 à L5791-2)](#925)
+          - [Chapitre II : Navigation maritime (art. L5792-1 à L5792-3)](#926)
+          - [Chapitre III : Les ports maritimes (art. L5793-1)](#927)
+          - [Chapitre IV : Le transport maritime (art. L5794-1)](#928)
+          - [Chapitre V : Les gens de mer (art. L5795-1 à L5795-14)](#929)
+    - [SIXIEME PARTIE : AVIATION CIVILE (art. L6100-1 à L6792-2)](#930)
+      - [LIVRE IER : L'AERONEF (art. L6100-1 à L6142-9)](#931)
+        - [TITRE IER : IDENTIFICATION DE L'AERONEF (art. L6111-1 à L6111-6)](#932)
+          - [Chapitre unique (art. L6111-1 à L6111-6)](#933)
+        - [TITRE II : REGIME DE PROPRIETE (art. L6121-1 à L6123-3)](#934)
+          - [Chapitre Ier : Titres de propriété (art. L6121-1 à L6121-2)](#935)
+          - [Chapitre II : Hypothèques et privilèges (art. L6122-1 à L6122-20)](#936)
+            - [Section 1 : Hypothèques (art. L6122-1 à L6122-15)](#937)
+            - [Section 2 : Privilèges (art. L6122-16 à L6122-20)](#938)
+          - [Chapitre III : Saisie et vente forcée (art. L6123-1 à L6123-3)](#939)
+            - [Section 1 : Saisie conservatoire (art. L6123-1 à L6123-2)](#940)
+            - [Section 2 : Vente forcée (art. L6123-3)](#941)
+        - [TITRE III : DOMMAGES ET RESPONSABILITES (art. L6131-1 à L6132-3)](#942)
+          - [Chapitre Ier : Responsabilité des équipages et des exploitants (art. L6131-1 à L6131-4)](#943)
+          - [Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition (art. L6132-1 à L6132-3)](#944)
+            - [Section 1 : Assistance et sauvetage (art. L6132-1)](#945)
+            - [Section 2 : Epaves (art. L6132-2)](#946)
+            - [Section 3 : Disparition (art. L6132-3)](#947)
+        - [TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES (art. L6141-1 à L6142-9)](#948)
+          - [Chapitre Ier : Mesures administratives (art. L6141-1)](#949)
+            - [Section unique : Rétention et immobilisation d'aéronefs (art. L6141-1)](#950)
+          - [Chapitre II : Dispositions pénales (art. L6142-1 à L6142-9)](#951)
+            - [Section 1 : Constatation et poursuite des infractions (art. L6142-1 à L6142-3)](#952)
+            - [Section 2 : Identification de l'aéronef (art. L6142-4 à L6142-7)](#953)
+            - [Section 3 : Jets d'objets (art. L6142-8)](#954)
+            - [Section 4 : Délit de fuite (art. L6142-9)](#955)
+      - [LIVRE II : LA CIRCULATION AERIENNE (art. L6200-1 à L6232-11)](#956)
+        - [TITRE IER : DROIT DE CIRCULATION (art. L6211-1 à L6212-2)](#957)
+          - [Chapitre Ier : Survol du territoire (art. L6211-1 à L6211-5)](#958)
+          - [Chapitre II : Atterrissage et décollage (art. L6212-1 à L6212-2)](#959)
+        - [TITRE II : POLICE DE LA CIRCULATION DES AERONEFS (art. L6221-1 à L6223-3)](#960)
+          - [Chapitre Ier : Contrôle (art. L6221-1 à L6221-5)](#961)
+          - [Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile (art. L6222-1 à L6222-11)](#962)
+          - [Chapitre III : Compte rendu d'événements (art. L6223-1 à L6223-3)](#963)
+        - [TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES (art. L6231-1 à L6232-11)](#964)
+          - [Chapitre Ier : Mesures de police et sanctions administratives (art. L6231-1 à L6231-2)](#965)
+          - [Chapitre II : Dispositions pénales (art. L6232-1 à L6232-11)](#966)
+            - [Section 1 : Dispositions communes (art. L6232-1)](#967)
+            - [Section 2 : Droit de circulation (art. L6232-2 à L6232-3)](#968)
+            - [Section 3 : Documents de bord (art. L6232-4 à L6232-7)](#969)
+            - [Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils (art. L6232-8 à L6232-9)](#970)
+            - [Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile (art. L6232-10 à L6232-11)](#971)
+      - [LIVRE III : LES AERODROMES (art. L6300-1 à L6372-10)](#972)
+        - [TITRE IER : STATUT DES AERODROMES (art. L6311-1 à L6312-2)](#973)
           - [Chapitre Ier : Compétences relatives à la création
-et à l'exploitation (art. L6311-1 à L6311-3)](#978)
-          - [Chapitre II : Catégories d'aérodromes (art. L6312-1 à L6312-2)](#979)
-        - [TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE (art. L6321-1 à L6326-1)](#980)
-          - [Chapitre Ier : Dispositions générales (art. L6321-1 à L6321-4)](#981)
-          - [Chapitre II : Dispositions particulières aux sociétés aéroportuaires (art. L6322-1 à L6322-5)](#982)
-          - [Chapitre III : Dispositions particulières à la société Aéroports de Paris (art. L6323-1 à L6323-6)](#983)
-          - [Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse (art. L6324-1)](#984)
-          - [Chapitre V : Redevances aéroportuaires (art. L6325-1 à L6325-7)](#985)
-          - [Chapitre VI : Services d'assistance en escale (art. L6326-1)](#986)
-        - [TITRE III : CONTROLE DE L'ETAT (art. L6331-1 à L6332-5)](#987)
-          - [Chapitre Ier : Contrôle technique et administratif (art. L6331-1 à L6331-3)](#988)
-          - [Chapitre II : Police des aérodromes et des installations à usage aéronautique (art. L6332-1 à L6332-5)](#989)
-        - [TITRE IV : SURETE AEROPORTUAIRE (art. L6341-1 à L6343-5)](#990)
-          - [Chapitre Ier : Dispositions générales (art. L6341-1 à L6341-2)](#991)
-          - [Chapitre II : Protection de la zone réservée (art. L6342-1 à L6342-3)](#992)
-          - [Chapitre III : Sûreté du fret et des colis postaux 
-avant leur embarquement (art. L6343-1 à L6343-5)](#993)
-        - [TITRE V : SUJETIONS AUX ABORDS DES AERODROMES (art. L6350-1 à L6353-2)](#994)
-          - [Chapitre Ier : Servitudes aéronautiques (art. L6351-1 à L6351-9)](#995)
-            - [Section 1 : Définition et portée (art. L6351-1)](#996)
-            - [Section 2 : Servitudes aéronautiques de dégagement (art. L6351-2 à L6351-5)](#997)
-            - [Section 3 : Servitudes aéronautiques de balisage (art. L6351-6 à L6351-9)](#998)
-          - [Chapitre II : Installations soumises à autorisation spéciale (art. L6352-1)](#999)
+et à l'exploitation (art. L6311-1 à L6311-3)](#974)
+          - [Chapitre II : Catégories d'aérodromes (art. L6312-1 à L6312-2)](#975)
+        - [TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE (art. L6321-1 à L6326-1)](#976)
+          - [Chapitre Ier : Dispositions générales (art. L6321-1 à L6321-4)](#977)
+          - [Chapitre II : Dispositions particulières aux sociétés aéroportuaires (art. L6322-1 à L6322-5)](#978)
+          - [Chapitre III : Dispositions particulières à la société Aéroports de Paris (art. L6323-1 à L6323-6)](#979)
+          - [Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse (art. L6324-1)](#980)
+          - [Chapitre V : Redevances aéroportuaires (art. L6325-1 à L6325-7)](#981)
+          - [Chapitre VI : Services d'assistance en escale (art. L6326-1)](#982)
+        - [TITRE III : CONTROLE DE L'ETAT (art. L6331-1 à L6332-5)](#983)
+          - [Chapitre Ier : Contrôle technique et administratif (art. L6331-1 à L6331-3)](#984)
+          - [Chapitre II : Police des aérodromes et des installations à usage aéronautique (art. L6332-1 à L6332-5)](#985)
+        - [TITRE IV : SURETE AEROPORTUAIRE (art. L6341-1 à L6342-4)](#986)
+          - [Chapitre Ier : Dispositions générales (art. L6341-1 à L6341-3)](#987)
+          - [Chapitre II : Autorisations nécessaires pour mettre en œuvre des mesures de sûreté (art. L6342-1 à L6342-4)](#988)
+        - [TITRE V : SUJETIONS AUX ABORDS DES AERODROMES (art. L6350-1 à L6353-2)](#989)
+          - [Chapitre Ier : Servitudes aéronautiques (art. L6351-1 à L6351-9)](#990)
+            - [Section 1 : Définition et portée (art. L6351-1)](#991)
+            - [Section 2 : Servitudes aéronautiques de dégagement (art. L6351-2 à L6351-5)](#992)
+            - [Section 3 : Servitudes aéronautiques de balisage (art. L6351-6 à L6351-9)](#993)
+          - [Chapitre II : Installations soumises à autorisation spéciale (art. L6352-1)](#994)
           - [Chapitre III : Procédures relatives aux extensions
-et aux créations d'aérodromes (art. L6353-1 à L6353-2)](#1000)
-        - [TITRE VI : NUISANCES AEROPORTUAIRES (art. L6361-1 à L6363-7)](#1001)
-          - [Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires (art. L6361-1 à L6361-15)](#1002)
-            - [Section 1 : Composition et fonctionnement (art. L6361-1 à L6361-4)](#1003)
-            - [Section 2 : Missions (art. L6361-5 à L6361-9)](#1004)
-            - [Section 3 : Moyens (art. L6361-10 à L6361-11)](#1005)
-            - [Section 4 : Sanctions administratives (art. L6361-12 à L6361-15)](#1006)
-          - [Chapitre II : Procédures d'approche et de départ (art. L6362-1 à L6362-3)](#1007)
-          - [Chapitre III : Les communautés aéroportuaires (art. L6363-1 à L6363-7)](#1008)
-        - [TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES (art. L6371-1 à L6372-10)](#1009)
-          - [Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation (art. L6371-1 à L6371-4)](#1010)
-            - [Section 1 : Police de l'exploitation (art. L6371-1 à L6371-3)](#1011)
-            - [Section 2 : Police de la conservation (art. L6371-4)](#1012)
-          - [Chapitre II : Dispositions pénales (art. L6372-1 à L6372-10)](#1013)
-            - [Section 1 : Constatation des infractions (art. L6372-1 à L6372-3)](#1014)
-            - [Section 2 : Sanctions (art. L6372-4 à L6372-10)](#1015)
-              - [Sous-section 1 : Actes de malveillance (art. L6372-4 à L6372-7)](#1016)
-              - [Sous-section 2 : Servitudes aéronautiques (art. L6372-8 à L6372-10)](#1017)
-      - [LIVRE IV : LE TRANSPORT AERIEN (art. L6400-1 à L6433-2)](#1018)
-        - [TITRE IER : ENTREPRISES DE TRANSPORT AERIEN (art. L6411-1 à L6412-7)](#1019)
-          - [Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien (art. L6411-1 à L6411-10)](#1020)
-            - [Section 1 : Contrôle (art. L6411-1)](#1021)
-            - [Section 2 : Dispositions générales relatives au capital et aux statuts (art. L6411-2 à L6411-8)](#1022)
-            - [Section 3 : Société Air France (art. L6411-9 à L6411-10)](#1023)
-          - [Chapitre II : Exercice de l'activité de transporteur aérien public (art. L6412-1 à L6412-7)](#1024)
-        - [TITRE II : CONTRAT DE TRANSPORT (art. L6421-1 à L6422-5)](#1025)
-          - [Chapitre Ier : Transport de personnes et de bagages (art. L6421-1 à L6421-4)](#1026)
-            - [Section 1 : Le contrat de transport (art. L6421-1 à L6421-2)](#1027)
-            - [Section 2 : Responsabilité du transporteur aérien (art. L6421-3 à L6421-4)](#1028)
-          - [Chapitre II : Transport de marchandises (art. L6422-1 à L6422-5)](#1029)
-            - [Section 1 : Le contrat de transport de marchandises (art. L6422-1)](#1030)
-            - [Section 2 : Responsabilité du transporteur aérien (art. L6422-2 à L6422-5)](#1031)
-        - [TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES (art. L6431-1 à L6433-2)](#1032)
-          - [Chapitre Ier : Mesures de police, pouvoirs de constatation (art. L6431-1 à L6431-5)](#1033)
-          - [Chapitre II : Sanctions administratives (art. L6432-1 à L6432-2)](#1034)
-          - [Chapitre III : Dispositions pénales (art. L6433-1 à L6433-2)](#1035)
-            - [Section 1 : Transaction pénale (art. L6433-1)](#1036)
+et aux créations d'aérodromes (art. L6353-1 à L6353-2)](#995)
+        - [TITRE VI : NUISANCES AEROPORTUAIRES (art. L6361-1 à L6363-7)](#996)
+          - [Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires (art. L6361-1 à L6361-15)](#997)
+            - [Section 1 : Composition et fonctionnement (art. L6361-1 à L6361-4)](#998)
+            - [Section 2 : Missions (art. L6361-5 à L6361-9)](#999)
+            - [Section 3 : Moyens (art. L6361-10 à L6361-11)](#1000)
+            - [Section 4 : Sanctions administratives (art. L6361-12 à L6361-15)](#1001)
+          - [Chapitre II : Procédures d'approche et de départ (art. L6362-1 à L6362-3)](#1002)
+          - [Chapitre III : Les communautés aéroportuaires (art. L6363-1 à L6363-7)](#1003)
+        - [TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES (art. L6371-1 à L6372-10)](#1004)
+          - [Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation (art. L6371-1 à L6371-4)](#1005)
+            - [Section 1 : Police de l'exploitation (art. L6371-1 à L6371-3)](#1006)
+            - [Section 2 : Police de la conservation (art. L6371-4)](#1007)
+          - [Chapitre II : Dispositions pénales (art. L6372-1 à L6372-10)](#1008)
+            - [Section 1 : Constatation des infractions (art. L6372-1 à L6372-3)](#1009)
+            - [Section 2 : Sanctions (art. L6372-4 à L6372-10)](#1010)
+              - [Sous-section 1 : Actes de malveillance (art. L6372-4 à L6372-7)](#1011)
+              - [Sous-section 2 : Servitudes aéronautiques (art. L6372-8 à L6372-10)](#1012)
+      - [LIVRE IV : LE TRANSPORT AERIEN (art. L6400-1 à L6433-2)](#1013)
+        - [TITRE IER : ENTREPRISES DE TRANSPORT AERIEN (art. L6411-1 à L6412-7)](#1014)
+          - [Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien (art. L6411-1 à L6411-10)](#1015)
+            - [Section 1 : Contrôle (art. L6411-1)](#1016)
+            - [Section 2 : Dispositions générales relatives au capital et aux statuts (art. L6411-2 à L6411-8)](#1017)
+            - [Section 3 : Société Air France (art. L6411-9 à L6411-10)](#1018)
+          - [Chapitre II : Exercice de l'activité de transporteur aérien public (art. L6412-1 à L6412-7)](#1019)
+        - [TITRE II : CONTRAT DE TRANSPORT (art. L6421-1 à L6422-5)](#1020)
+          - [Chapitre Ier : Transport de personnes et de bagages (art. L6421-1 à L6421-4)](#1021)
+            - [Section 1 : Le contrat de transport (art. L6421-1 à L6421-2)](#1022)
+            - [Section 2 : Responsabilité du transporteur aérien (art. L6421-3 à L6421-4)](#1023)
+          - [Chapitre II : Transport de marchandises (art. L6422-1 à L6422-5)](#1024)
+            - [Section 1 : Le contrat de transport de marchandises (art. L6422-1)](#1025)
+            - [Section 2 : Responsabilité du transporteur aérien (art. L6422-2 à L6422-5)](#1026)
+        - [TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES (art. L6431-1 à L6433-2)](#1027)
+          - [Chapitre Ier : Mesures de police, pouvoirs de constatation (art. L6431-1 à L6431-5)](#1028)
+          - [Chapitre II : Sanctions administratives (art. L6432-1 à L6432-2)](#1029)
+          - [Chapitre III : Dispositions pénales (art. L6433-1 à L6433-2)](#1030)
+            - [Section 1 : Transaction pénale (art. L6433-1)](#1031)
             - [Section 2 : Violences commises dans un aéronef
-ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1037)
-      - [LIVRE V : LE PERSONNEL NAVIGANT (art. L6511-1 à L6541-3)](#1038)
-        - [TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES (art. L6511-1 à L6511-10)](#1039)
-          - [Chapitre unique (art. L6511-1 à L6511-10)](#1040)
-        - [TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL (art. L6521-1 à L6527-10)](#1041)
-          - [Chapitre Ier : Règles générales (art. L6521-1 à L6521-6)](#1042)
-          - [Chapitre II : Commandant de bord et équipage (art. L6522-1 à L6522-6)](#1043)
-          - [Chapitre III : Les relations individuelles de travail (art. L6523-1 à L6523-14)](#1044)
-            - [Section 1 : Forme, contenu et exécution du contrat (art. L6523-1 à L6523-11)](#1045)
-            - [Section 2 : Fin du contrat (art. L6523-12 à L6523-14)](#1046)
-          - [Chapitre IV : Relations collectives du travail (art. L6524-1 à L6524-5)](#1047)
-          - [Chapitre V : Durée du travail et congés (art. L6525-1 à L6525-5)](#1048)
-          - [Chapitre VI : La protection sociale (art. L6526-1 à L6526-8)](#1049)
-          - [Chapitre VII : Retraites (art. L6527-1 à L6527-10)](#1050)
-        - [TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES (art. L6541-1 à L6541-3)](#1051)
-          - [Chapitre unique : Sanctions pénales (art. L6541-1 à L6541-3)](#1052)
-      - [LIVRE VI : FORMATION AERONAUTIQUE AMATEURS (art. L6611-1)](#1053)
-        - [TITRE IER : AERO CLUBS ET FEDERATIONS (art. L6611-1)](#1054)
-          - [Chapitre unique (art. L6611-1)](#1055)
-      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L6700-1 à L6792-2)](#1056)
-        - [TITRE II : MAYOTTE (art. L6722-1 à L6725-1)](#1057)
-          - [Chapitre II : La circulation aérienne (art. L6722-1)](#1058)
-          - [Chapitre III : Les aérodromes (art. L6723-1 à L6723-3)](#1059)
-          - [Chapitre IV : Le transport aérien (art. L6724-1 à L6724-3)](#1060)
-          - [Chapitre V : Le personnel navigant (art. L6725-1)](#1061)
-        - [TITRE III : SAINT BARTHELEMY (art. L6731-1 à L6731-2)](#1062)
-          - [Chapitre unique (art. L6731-1 à L6731-2)](#1063)
-        - [TITRE IV : SAINT MARTIN (art. L6741-1)](#1064)
-          - [Chapitre unique (art. L6741-1)](#1065)
-        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L6752-1 à L6755-1)](#1066)
-          - [Chapitre II : La circulation aérienne (art. L6752-1)](#1067)
-          - [Chapitre III : Les aérodromes (art. L6753-1)](#1068)
-          - [Chapitre IV : Le transport aérien (art. L6754-1 à L6754-3)](#1069)
-          - [Chapitre V : Le personnel navigant (art. L6755-1)](#1070)
-        - [TITRE VI : NOUVELLE-CALEDONIE (art. L6761-1 à L6765-3)](#1071)
-          - [Chapitre Ier : L'aéronef (art. L6761-1)](#1072)
-          - [Chapitre II : La circulation aérienne (art. L6762-1 à L6762-2)](#1073)
-          - [Chapitre III : Les aérodromes (art. L6763-1 à L6763-8)](#1074)
-          - [Chapitre IV : Le transport aérien (art. L6764-1 à L6764-2)](#1075)
-          - [Chapitre V : Le personnel navigant (art. L6765-1 à L6765-3)](#1076)
-        - [TITRE VII : POLYNESIE FRANCAISE (art. L6770-1 à L6775-3)](#1077)
-          - [Chapitre Ier : L'aéronef (art. L6771-1)](#1078)
-          - [Chapitre II : La circulation aérienne (art. L6772-1 à L6772-2)](#1079)
-          - [Chapitre III : Les aérodromes (art. L6773-1 à L6773-9)](#1080)
-          - [Chapitre IV : Le transport aérien (art. L6774-1 à L6774-3)](#1081)
-          - [Chapitre V : Le personnel navigant (art. L6775-1 à L6775-3)](#1082)
-        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L6781-1 à L6786-1)](#1083)
-          - [Chapitre Ier : L'aéronef (art. L6781-1)](#1084)
-          - [Chapitre II : La circulation aérienne (art. L6782-1 à L6782-2)](#1085)
-          - [Chapitre III : Les aérodromes (art. L6783-1 à L6783-12)](#1086)
-          - [Chapitre IV : Le transport aérien (art. L6784-1 à L6784-3)](#1087)
-          - [Chapitre V : Le personnel navigant (art. L6785-1 à L6785-4)](#1088)
-          - [Chapitre VI : La formation aéronautique (art. L6786-1)](#1089)
-        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L6791-1 à L6792-2)](#1090)
-          - [Chapitre Ier : L'aéronef (art. L6791-1)](#1091)
-          - [Chapitre II : La circulation aérienne (art. L6792-1 à L6792-2)](#1092)
+ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1032)
+      - [LIVRE V : LE PERSONNEL NAVIGANT (art. L6511-1 à L6541-3)](#1033)
+        - [TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES (art. L6511-1 à L6511-10)](#1034)
+          - [Chapitre unique (art. L6511-1 à L6511-10)](#1035)
+        - [TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL (art. L6521-1 à L6527-10)](#1036)
+          - [Chapitre Ier : Règles générales (art. L6521-1 à L6521-6)](#1037)
+          - [Chapitre II : Commandant de bord et équipage (art. L6522-1 à L6522-6)](#1038)
+          - [Chapitre III : Les relations individuelles de travail (art. L6523-1 à L6523-14)](#1039)
+            - [Section 1 : Forme, contenu et exécution du contrat (art. L6523-1 à L6523-11)](#1040)
+            - [Section 2 : Fin du contrat (art. L6523-12 à L6523-14)](#1041)
+          - [Chapitre IV : Relations collectives du travail (art. L6524-1 à L6524-5)](#1042)
+          - [Chapitre V : Durée du travail et congés (art. L6525-1 à L6525-5)](#1043)
+          - [Chapitre VI : La protection sociale (art. L6526-1 à L6526-8)](#1044)
+          - [Chapitre VII : Retraites (art. L6527-1 à L6527-10)](#1045)
+        - [TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES (art. L6541-1 à L6541-3)](#1046)
+          - [Chapitre unique : Sanctions pénales (art. L6541-1 à L6541-3)](#1047)
+      - [LIVRE VI : FORMATION AERONAUTIQUE AMATEURS (art. L6611-1)](#1048)
+        - [TITRE IER : AERO CLUBS ET FEDERATIONS (art. L6611-1)](#1049)
+          - [Chapitre unique (art. L6611-1)](#1050)
+      - [LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L6700-1 à L6792-2)](#1051)
+        - [TITRE II : MAYOTTE (art. L6722-1 à L6725-1)](#1052)
+          - [Chapitre II : La circulation aérienne (art. L6722-1)](#1053)
+          - [Chapitre III : Les aérodromes (art. L6723-1 à L6723-3)](#1054)
+          - [Chapitre IV : Le transport aérien (art. L6724-1 à L6724-3)](#1055)
+          - [Chapitre V : Le personnel navigant (art. L6725-1)](#1056)
+        - [TITRE III : SAINT BARTHELEMY (art. L6731-1 à L6731-4)](#1057)
+          - [Chapitre unique (art. L6731-1 à L6731-4)](#1058)
+        - [TITRE IV : SAINT MARTIN (art. L6741-1)](#1059)
+          - [Chapitre unique (art. L6741-1)](#1060)
+        - [TITRE V : SAINT-PIERRE-ET-MIQUELON (art. L6752-1 à L6755-1)](#1061)
+          - [Chapitre II : La circulation aérienne (art. L6752-1)](#1062)
+          - [Chapitre III : Les aérodromes (art. L6753-1 à L6753-2)](#1063)
+          - [Chapitre IV : Le transport aérien (art. L6754-1 à L6754-3)](#1064)
+          - [Chapitre V : Le personnel navigant (art. L6755-1)](#1065)
+        - [TITRE VI : NOUVELLE-CALEDONIE (art. L6761-1 à L6765-3)](#1066)
+          - [Chapitre Ier : L'aéronef (art. L6761-1)](#1067)
+          - [Chapitre II : La circulation aérienne (art. L6762-1 à L6762-2)](#1068)
+          - [Chapitre III : Les aérodromes (art. L6763-1 à L6763-8)](#1069)
+          - [Chapitre IV : Le transport aérien (art. L6764-1 à L6764-2)](#1070)
+          - [Chapitre V : Le personnel navigant (art. L6765-1 à L6765-3)](#1071)
+        - [TITRE VII : POLYNESIE FRANCAISE (art. L6770-1 à L6775-3)](#1072)
+          - [Chapitre Ier : L'aéronef (art. L6771-1)](#1073)
+          - [Chapitre II : La circulation aérienne (art. L6772-1 à L6772-2)](#1074)
+          - [Chapitre III : Les aérodromes (art. L6773-1 à L6773-9)](#1075)
+          - [Chapitre IV : Le transport aérien (art. L6774-1 à L6774-3)](#1076)
+          - [Chapitre V : Le personnel navigant (art. L6775-1 à L6775-3)](#1077)
+        - [TITRE VIII : WALLIS-ET-FUTUNA (art. L6781-1 à L6786-1)](#1078)
+          - [Chapitre Ier : L'aéronef (art. L6781-1)](#1079)
+          - [Chapitre II : La circulation aérienne (art. L6782-1 à L6782-2)](#1080)
+          - [Chapitre III : Les aérodromes (art. L6783-1 à L6783-12)](#1081)
+          - [Chapitre IV : Le transport aérien (art. L6784-1 à L6784-3)](#1082)
+          - [Chapitre V : Le personnel navigant (art. L6785-1 à L6785-4)](#1083)
+          - [Chapitre VI : La formation aéronautique (art. L6786-1)](#1084)
+        - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L6791-1 à L6792-2)](#1085)
+          - [Chapitre Ier : L'aéronef (art. L6791-1)](#1086)
+          - [Chapitre II : La circulation aérienne (art. L6792-1 à L6792-2)](#1087)
 # PARTIE LEGISLATIVE<a id=1></a>
 
 ## PREMIERE PARTIE : DISPOSITIONS COMMUNES<a id=2></a>
@@ -48001,7 +47995,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE MER<a id=885></a>
+#### TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION<a id=885></a>
 
 ##### Chapitre III : Les ports maritimes<a id=886></a>
 
@@ -48381,17 +48375,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : GUADELOUPE, GUYANE, MARTINIQUE ET LA REUNION<a id=889></a>
+#### TITRE II : MAYOTTE<a id=889></a>
 
-##### Chapitre III : Les ports maritimes<a id=890></a>
-
-##### Chapitre IV : Le transport maritime<a id=891></a>
-
-##### Chapitre V : Les gens de mer<a id=892></a>
-
-#### TITRE II : MAYOTTE<a id=893></a>
-
-##### Chapitre Ier : Le navire<a id=894></a>
+##### Chapitre Ier : Le navire<a id=890></a>
 
 ###### Article L5721-1
 
@@ -48425,7 +48411,7 @@ _Cite_:
   - Code des transports - art. L5123-2
 
 
-##### Chapitre III : Les ports maritimes<a id=895></a>
+##### Chapitre III : Les ports maritimes<a id=891></a>
 
 ###### Article L5723-1
 
@@ -48464,7 +48450,7 @@ _Anciens textes_:
   - Code des ports maritimes - art. L163-1 (Ab)
 
 
-##### Chapitre IV : Le transport maritime<a id=896></a>
+##### Chapitre IV : Le transport maritime<a id=892></a>
 
 ###### Article L5724-1
 
@@ -48501,7 +48487,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=897></a>
+##### Chapitre V : Les gens de mer<a id=893></a>
 
 ###### Article L5725-1
 
@@ -48567,9 +48553,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : SAINT-BARTHELEMY<a id=898></a>
+#### TITRE III : SAINT-BARTHELEMY<a id=894></a>
 
-##### Chapitre III : Les ports maritimes<a id=899></a>
+##### Chapitre III : Les ports maritimes<a id=895></a>
 
 ###### Article L5733-1
 
@@ -48634,7 +48620,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=900></a>
+##### Chapitre IV : Le transport maritime<a id=896></a>
 
 ###### Article L5734-1
 
@@ -48663,7 +48649,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=901></a>
+##### Chapitre V : Les gens de mer<a id=897></a>
 
 ###### Article L5735-1
 
@@ -48834,9 +48820,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SAINT-MARTIN<a id=902></a>
+#### TITRE IV : SAINT-MARTIN<a id=898></a>
 
-##### Chapitre III : Les ports maritimes<a id=903></a>
+##### Chapitre III : Les ports maritimes<a id=899></a>
 
 ###### Article L5743-1
 
@@ -48901,7 +48887,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=904></a>
+##### Chapitre IV : Le transport maritime<a id=900></a>
 
 ###### Article L5744-1
 
@@ -48930,7 +48916,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=905></a>
+##### Chapitre V : Les gens de mer<a id=901></a>
 
 ###### Article L5745-1
 
@@ -49103,9 +49089,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=906></a>
+#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=902></a>
 
-##### Chapitre Ier : Le navire<a id=907></a>
+##### Chapitre Ier : Le navire<a id=903></a>
 
 ###### Article L5751-1
 
@@ -49139,7 +49125,7 @@ _Créé par_:
   - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
-##### Chapitre III : Les ports maritimes<a id=908></a>
+##### Chapitre III : Les ports maritimes<a id=904></a>
 
 ###### Article L5753-1
 
@@ -49176,7 +49162,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=909></a>
+##### Chapitre IV : Le transport maritime<a id=905></a>
 
 ###### Article L5754-1
 
@@ -49201,7 +49187,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=910></a>
+##### Chapitre V : Les gens de mer<a id=906></a>
 
 ###### Article L5755-1
 
@@ -49368,7 +49354,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : NOUVELLE-CALEDONIE<a id=911></a>
+#### TITRE VI : NOUVELLE-CALEDONIE<a id=907></a>
 
 ###### Article L5760-1
 
@@ -49385,7 +49371,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=912></a>
+##### Chapitre Ier : Le navire<a id=908></a>
 
 ###### Article L5761-1
 
@@ -49402,7 +49388,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Navigation maritime<a id=913></a>
+##### Chapitre II : Navigation maritime<a id=909></a>
 
 ###### Article L5762-1
 
@@ -49448,7 +49434,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=914></a>
+##### Chapitre III : Les ports maritimes<a id=910></a>
 
 ###### Article L5763-1
 
@@ -49465,7 +49451,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=915></a>
+##### Chapitre IV : Le transport maritime<a id=911></a>
 
 ###### Article L5764-1
 
@@ -49479,7 +49465,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=916></a>
+##### Chapitre V : Les gens de mer<a id=912></a>
 
 ###### Article L5765-1
 
@@ -49554,7 +49540,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : POLYNESIE FRANCAISE<a id=917></a>
+#### TITRE VII : POLYNESIE FRANCAISE<a id=913></a>
 
 ###### Article L5770-1
 
@@ -49571,7 +49557,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=918></a>
+##### Chapitre Ier : Le navire<a id=914></a>
 
 ###### Article L5771-1
 
@@ -49600,7 +49586,7 @@ _Modifié par_:
   - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
-##### Chapitre II : Navigation maritime<a id=919></a>
+##### Chapitre II : Navigation maritime<a id=915></a>
 
 ###### Article L5772-1
 
@@ -49642,7 +49628,7 @@ _Cite_:
   - Code des transports - art. L5243-2-2
 
 
-##### Chapitre IV : Le transport maritime<a id=920></a>
+##### Chapitre IV : Le transport maritime<a id=916></a>
 
 ###### Article L5774-1
 
@@ -49655,7 +49641,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=921></a>
+##### Chapitre V : Les gens de mer<a id=917></a>
 
 ###### Article L5775-1
 
@@ -49732,7 +49718,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VIII : WALLIS-ET-FUTUNA<a id=922></a>
+#### TITRE VIII : WALLIS-ET-FUTUNA<a id=918></a>
 
 ###### Article L5780-1
 
@@ -49749,7 +49735,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=923></a>
+##### Chapitre Ier : Le navire<a id=919></a>
 
 ###### Article L5781-1
 
@@ -49783,7 +49769,7 @@ _Créé par_:
   - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
-##### Chapitre II : Navigation maritime<a id=924></a>
+##### Chapitre II : Navigation maritime<a id=920></a>
 
 ###### Article L5782-1
 
@@ -49819,7 +49805,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les ports maritimes<a id=925></a>
+##### Chapitre III : Les ports maritimes<a id=921></a>
 
 ###### Article L5783-1
 
@@ -49836,7 +49822,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=926></a>
+##### Chapitre IV : Le transport maritime<a id=922></a>
 
 ###### Article L5784-1
 
@@ -49849,7 +49835,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=927></a>
+##### Chapitre V : Les gens de mer<a id=923></a>
 
 ###### Article L5785-1
 
@@ -49988,7 +49974,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=928></a>
+#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=924></a>
 
 ###### Article L5790-1
 
@@ -50005,7 +49991,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Le navire<a id=929></a>
+##### Chapitre Ier : Le navire<a id=925></a>
 
 ###### Article L5791-1
 
@@ -50040,7 +50026,7 @@ _Créé par_:
   - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
-##### Chapitre II : Navigation maritime<a id=930></a>
+##### Chapitre II : Navigation maritime<a id=926></a>
 
 ###### Article L5792-1
 
@@ -50076,7 +50062,7 @@ _Créé par_:
   - Ordonnance n°2011-635 du 9 juin 2011 - art. 10
 
 
-##### Chapitre III : Les ports maritimes<a id=931></a>
+##### Chapitre III : Les ports maritimes<a id=927></a>
 
 ###### Article L5793-1
 
@@ -50093,7 +50079,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport maritime<a id=932></a>
+##### Chapitre IV : Le transport maritime<a id=928></a>
 
 ###### Article L5794-1
 
@@ -50107,7 +50093,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Les gens de mer<a id=933></a>
+##### Chapitre V : Les gens de mer<a id=929></a>
 
 ###### Article L5795-1
 
@@ -50395,9 +50381,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-## SIXIEME PARTIE : AVIATION CIVILE<a id=934></a>
+## SIXIEME PARTIE : AVIATION CIVILE<a id=930></a>
 
-### LIVRE IER : L'AERONEF<a id=935></a>
+### LIVRE IER : L'AERONEF<a id=931></a>
 
 ###### Article L6100-1
 
@@ -50431,9 +50417,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : IDENTIFICATION DE L'AERONEF<a id=936></a>
+#### TITRE IER : IDENTIFICATION DE L'AERONEF<a id=932></a>
 
-##### Chapitre unique<a id=937></a>
+##### Chapitre unique<a id=933></a>
 
 ###### Article L6111-1
 
@@ -50584,9 +50570,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : REGIME DE PROPRIETE<a id=938></a>
+#### TITRE II : REGIME DE PROPRIETE<a id=934></a>
 
-##### Chapitre Ier : Titres de propriété<a id=939></a>
+##### Chapitre Ier : Titres de propriété<a id=935></a>
 
 ###### Article L6121-1
 
@@ -50623,9 +50609,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Hypothèques et privilèges<a id=940></a>
+##### Chapitre II : Hypothèques et privilèges<a id=936></a>
 
-##### Section 1 : Hypothèques<a id=941></a>
+##### Section 1 : Hypothèques<a id=937></a>
 
 ###### Article L6122-1
 
@@ -50901,7 +50887,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Privilèges<a id=942></a>
+##### Section 2 : Privilèges<a id=938></a>
 
 ###### Article L6122-16
 
@@ -51036,9 +51022,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Saisie et vente forcée<a id=943></a>
+##### Chapitre III : Saisie et vente forcée<a id=939></a>
 
-##### Section 1 : Saisie conservatoire<a id=944></a>
+##### Section 1 : Saisie conservatoire<a id=940></a>
 
 ###### Article L6123-1
 
@@ -51094,7 +51080,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Vente forcée<a id=945></a>
+##### Section 2 : Vente forcée<a id=941></a>
 
 ###### Article L6123-3
 
@@ -51118,9 +51104,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : DOMMAGES ET RESPONSABILITES<a id=946></a>
+#### TITRE III : DOMMAGES ET RESPONSABILITES<a id=942></a>
 
-##### Chapitre Ier : Responsabilité des équipages et des exploitants<a id=947></a>
+##### Chapitre Ier : Responsabilité des équipages et des exploitants<a id=943></a>
 
 ###### Article L6131-1
 
@@ -51202,9 +51188,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition<a id=948></a>
+##### Chapitre II : Assistance, sauvetage, découverte d'épaves et disparition<a id=944></a>
 
-##### Section 1 : Assistance et sauvetage<a id=949></a>
+##### Section 1 : Assistance et sauvetage<a id=945></a>
 
 ###### Article L6132-1
 
@@ -51228,7 +51214,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Epaves<a id=950></a>
+##### Section 2 : Epaves<a id=946></a>
 
 ###### Article L6132-2
 
@@ -51250,7 +51236,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Disparition<a id=951></a>
+##### Section 3 : Disparition<a id=947></a>
 
 ###### Article L6132-3
 
@@ -51277,11 +51263,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES<a id=952></a>
+#### TITRE IV : DISPOSITIONS ADMINISTRATIVES ET PENALES<a id=948></a>
 
-##### Chapitre Ier : Mesures administratives<a id=953></a>
+##### Chapitre Ier : Mesures administratives<a id=949></a>
 
-##### Section unique : Rétention et immobilisation d'aéronefs<a id=954></a>
+##### Section unique : Rétention et immobilisation d'aéronefs<a id=950></a>
 
 ###### Article L6141-1
 
@@ -51300,9 +51286,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions pénales<a id=955></a>
+##### Chapitre II : Dispositions pénales<a id=951></a>
 
-##### Section 1 : Constatation et poursuite des infractions<a id=956></a>
+##### Section 1 : Constatation et poursuite des infractions<a id=952></a>
 
 ###### Article L6142-1
 
@@ -51363,7 +51349,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Identification de l'aéronef<a id=957></a>
+##### Section 2 : Identification de l'aéronef<a id=953></a>
 
 ###### Article L6142-4
 
@@ -51466,7 +51452,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Jets d'objets<a id=958></a>
+##### Section 3 : Jets d'objets<a id=954></a>
 
 ###### Article L6142-8
 
@@ -51485,7 +51471,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Délit de fuite<a id=959></a>
+##### Section 4 : Délit de fuite<a id=955></a>
 
 ###### Article L6142-9
 
@@ -51508,7 +51494,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE II : LA CIRCULATION AERIENNE<a id=960></a>
+### LIVRE II : LA CIRCULATION AERIENNE<a id=956></a>
 
 ###### Article L6200-1
 
@@ -51525,9 +51511,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : DROIT DE CIRCULATION<a id=961></a>
+#### TITRE IER : DROIT DE CIRCULATION<a id=957></a>
 
-##### Chapitre Ier : Survol du territoire<a id=962></a>
+##### Chapitre Ier : Survol du territoire<a id=958></a>
 
 ###### Article L6211-1
 
@@ -51646,7 +51632,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Atterrissage et décollage<a id=963></a>
+##### Chapitre II : Atterrissage et décollage<a id=959></a>
 
 ###### Article L6212-1
 
@@ -51687,9 +51673,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : POLICE DE LA CIRCULATION DES AERONEFS<a id=964></a>
+#### TITRE II : POLICE DE LA CIRCULATION DES AERONEFS<a id=960></a>
 
-##### Chapitre Ier : Contrôle<a id=965></a>
+##### Chapitre Ier : Contrôle<a id=961></a>
 
 ###### Article L6221-1
 
@@ -51837,7 +51823,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile<a id=966></a>
+##### Chapitre II : Enquêtes techniques relatives à un accident ou à un incident d'aviation civile<a id=962></a>
 
 ###### Article L6222-1
 
@@ -52137,7 +52123,7 @@ _Abrogé par_:
   - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
 
 
-##### Chapitre III : Compte rendu d'événements<a id=967></a>
+##### Chapitre III : Compte rendu d'événements<a id=963></a>
 
 ###### Article L6223-1
 
@@ -52225,9 +52211,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES<a id=968></a>
+#### TITRE III : SANCTIONS ADMINISTRATIVES ET PENALES<a id=964></a>
 
-##### Chapitre Ier : Mesures de police et sanctions administratives<a id=969></a>
+##### Chapitre Ier : Mesures de police et sanctions administratives<a id=965></a>
 
 ###### Article L6231-1
 
@@ -52261,9 +52247,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions pénales<a id=970></a>
+##### Chapitre II : Dispositions pénales<a id=966></a>
 
-##### Section 1 : Dispositions communes<a id=971></a>
+##### Section 1 : Dispositions communes<a id=967></a>
 
 ###### Article L6232-1
 
@@ -52281,7 +52267,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Droit de circulation<a id=972></a>
+##### Section 2 : Droit de circulation<a id=968></a>
 
 ###### Article L6232-2
 
@@ -52341,7 +52327,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Documents de bord<a id=973></a>
+##### Section 3 : Documents de bord<a id=969></a>
 
 ###### Article L6232-4
 
@@ -52459,7 +52445,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils<a id=974></a>
+##### Section 4 : Transport de certaines substances, de certains animaux ou objets et usage aérien de certains appareils<a id=970></a>
 
 ###### Article L6232-8
 
@@ -52528,7 +52514,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile<a id=975></a>
+##### Section 5 : Enquêtes techniques relatives aux incidents et accidents d'aviation civile<a id=971></a>
 
 ###### Article L6232-10
 
@@ -52579,7 +52565,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE III : LES AERODROMES<a id=976></a>
+### LIVRE III : LES AERODROMES<a id=972></a>
 
 ###### Article L6300-1
 
@@ -52604,10 +52590,10 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : STATUT DES AERODROMES<a id=977></a>
+#### TITRE IER : STATUT DES AERODROMES<a id=973></a>
 
 ##### Chapitre Ier : Compétences relatives à la création
-et à l'exploitation<a id=978></a>
+et à l'exploitation<a id=974></a>
 
 ###### Article L6311-1
 
@@ -52664,7 +52650,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Catégories d'aérodromes<a id=979></a>
+##### Chapitre II : Catégories d'aérodromes<a id=975></a>
 
 ###### Article L6312-1
 
@@ -52714,9 +52700,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE<a id=980></a>
+#### TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE<a id=976></a>
 
-##### Chapitre Ier : Dispositions générales<a id=981></a>
+##### Chapitre Ier : Dispositions générales<a id=977></a>
 
 ###### Article L6321-1
 
@@ -52830,7 +52816,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions particulières aux sociétés aéroportuaires<a id=982></a>
+##### Chapitre II : Dispositions particulières aux sociétés aéroportuaires<a id=978></a>
 
 ###### Article L6322-1
 
@@ -52970,7 +52956,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Dispositions particulières à la société Aéroports de Paris<a id=983></a>
+##### Chapitre III : Dispositions particulières à la société Aéroports de Paris<a id=979></a>
 
 ###### Article L6323-1
 
@@ -53155,7 +53141,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse<a id=984></a>
+##### Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse<a id=980></a>
 
 ###### Article L6324-1
 
@@ -53178,7 +53164,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Redevances aéroportuaires<a id=985></a>
+##### Chapitre V : Redevances aéroportuaires<a id=981></a>
 
 ###### Article L6325-1
 
@@ -53434,7 +53420,7 @@ _Cite_:
   - Code des transports - art. L6323-2
 
 
-##### Chapitre VI : Services d'assistance en escale<a id=986></a>
+##### Chapitre VI : Services d'assistance en escale<a id=982></a>
 
 ###### Article L6326-1
 
@@ -53454,9 +53440,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : CONTROLE DE L'ETAT<a id=987></a>
+#### TITRE III : CONTROLE DE L'ETAT<a id=983></a>
 
-##### Chapitre Ier : Contrôle technique et administratif<a id=988></a>
+##### Chapitre Ier : Contrôle technique et administratif<a id=984></a>
 
 ###### Article L6331-1
 
@@ -53527,7 +53513,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Police des aérodromes et des installations à usage aéronautique<a id=989></a>
+##### Chapitre II : Police des aérodromes et des installations à usage aéronautique<a id=985></a>
 
 ###### Article L6332-1
 
@@ -53700,26 +53686,32 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SURETE AEROPORTUAIRE<a id=990></a>
+#### TITRE IV : SURETE AEROPORTUAIRE<a id=986></a>
 
-##### Chapitre Ier : Dispositions générales<a id=991></a>
+##### Chapitre Ier : Dispositions générales<a id=987></a>
 
 ###### Article L6341-1
 
-Les agents civils et militaires de l'Etat ainsi que les personnels des entreprises agissant pour le compte et sous le
-contrôle de l'administration et habilités à cet effet par l'autorité administrative vérifient que les entreprises ou
-organismes installés sur les aérodromes respectent les mesures de prévention en matière de sûreté. Pour l'exercice de ces
-missions, ils ont accès à tout moment aux locaux et terrains à usage professionnel.
+Les agents civils et militaires de l'Etat ainsi que les organismes ou personnes agissant pour le compte et sous le contrôle
+de l'administration et certifiés à cet effet par l'autorité administrative compétente vérifient que les personnes,
+entreprises et organismes mentionnés à l'article L. 6341-2, installés sur les aérodromes ou implantés à l'extérieur de ceux-
+ci, respectent les mesures de sûreté mentionnées au même article. 
 
-Lorsque cet accès leur est refusé, les agents habilités ne peuvent procéder aux visites de locaux, lieux et installations que
-sur autorisation de l'autorité judiciaire dans les conditions fixées au titre Ier du livre VII de la partie 1 du présent
-code.
+A cet effet, les agents de l'Etat, ainsi que les personnes ou organismes mentionnés au premier alinéa, ont accès à tout
+moment aux terrains et locaux à usage professionnel ainsi qu'aux installations et aéronefs, ou tout autre lieu où s'exercent
+les activités contrôlées à l'exclusion des pièces réservées exclusivement à l'habitation, dans les conditions prévues par les
+dispositions du chapitre unique du titre Ier du livre VII de la première partie. 
+
+Ils peuvent requérir, pour l'accomplissement de leurs missions, l'ouverture de tout colis, bagage, véhicule, remorque ou
+engin en présence du responsable de l'entreprise ou de l'organisme, ou d'un de ses préposés en cas d'absence de celui-ci. 
+
+Ils se font communiquer les documents de toute nature en relation avec les opérations pour lesquelles le contrôle est exercé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'aviation civile - art. L213-2-1 (Ab), partie sur la sûreté
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 2
 
 _Cité par_:
 
@@ -53728,6 +53720,10 @@ _Cité par_:
   - Code de l'aviation civile - art. R213-7 (V)
   - Code de l'aviation civile - art. R217-3 (V)
 
+_Cite_:
+
+  - Code des transports - art. L6341-2 (V)
+
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -53735,20 +53731,39 @@ _Codifié par_:
 
 ###### Article L6341-2
 
-Sauf dans les cas où, en application notamment de l'article L. 6342-2, leur mise en œuvre est assurée par les services de
-l'Etat, les mesures prescrites en application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
-2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
-pour son application par la Commission européenne sont mises en œuvre, sous l'autorité du titulaire des pouvoirs de police
-mentionné à l'article L. 6332-2, par les exploitants d'aérodromes, les entreprises de transport aérien, les prestataires de
-service d'assistance en escale, les entreprises ou organismes agréés au sens des articles L. 6342-1 et L. 6343-1, les
-employeurs des agents mentionnés à l'article L. 6342-2, les entreprises qui leur sont liées par contrat et les autres
-personnes autorisées à occuper ou à utiliser les zones non librement accessibles au public des aérodromes, chacun dans son
-domaine d'activité. 
+I.-Sauf dans les cas où leur mise en œuvre est assurée par les services de l'Etat, les mesures de sûreté destinées à protéger
+l'aviation civile contre les actes d'intervention illicite sont mises en œuvre par :
 
-Les catégories de mesures qui incombent à chacune des personnes mentionnées au présent article sont précisées par décret en
-Conseil d'Etat.
+- les exploitants d'aérodromes ;
+
+- les entreprises de transport aérien ;
+
+- les agents habilités, les chargeurs connus et les clients en compte ;
+
+- les fournisseurs habilités et les fournisseurs connus ;
+
+- les autres personnes ou organismes autorisés à occuper ou utiliser la zone côté piste de l'aérodrome ;
+
+- les personnes ou organismes liés par contrat aux personnes ou organismes ci-dessus mentionnés, et notamment les employeurs
+des agents mentionnés aux II et V de l'article L. 6342-4. 
+
+II.-Les mesures de sûreté sont mises en œuvre sous l'autorité du titulaire des pouvoirs de police mentionné à l'article L.
+6332-2.
+
+III.-Les mesures de sûreté résultent de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11
+mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile, des règlements pris
+pour son application par la Commission européenne et des normes de sûreté prévues par la réglementation nationale. 
+
+Les obligations relatives à la mise en œuvre des mesures de sûreté sont définies en fonction des domaines d'activité
+respectifs des exploitants d'aérodromes, des entreprises de transport aérien et des autres personnes et organismes précités. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 2
 
 _Cité par_:
 
@@ -53781,34 +53796,46 @@ _Anciens textes_:
 _Cite_:
 
   - Code des transports - art. L6332-2 (V)
-  - Code des transports - art. L6343-1 (V)
-  - règlement (CE) n°300/2008
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Protection de la zone réservée<a id=992></a>
+###### Article L6341-3
+
+En cas de dommage résultant d'un acte malveillant commis au moyen de l'expédition d'un courrier postal, d'un colis postal ou
+de fret, sécurisée par un agent habilité ou ayant fait l'objet de contrôles de sûreté par un chargeur connu, la
+responsabilité de ces personnes ne peut être engagée qu'en raison de l'inobservation des procédures et mesures mentionnées à
+l'article L. 6341-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 2
+
+_Cite_:
+
+  - Code des transports - art. L6341-2
+
+
+##### Chapitre II : Autorisations nécessaires pour mettre en œuvre des mesures de sûreté<a id=988></a>
 
 ###### Article L6342-1
 
-En vue d'assurer préventivement la sûreté des vols, l'entreprise ou l'organisme implanté à l'extérieur de la zone réservée
-doit, pour y accéder afin de livrer des biens et produits utilisés à bord des aéronefs, être agréé par l'autorité
-administrative en qualité d'établissement connu.L'entreprise ou l'établissement agréé en qualité d'établissement connu met en
-œuvre des mesures de sûreté appropriées pendant le conditionnement de ces biens et produits et préserve leur intégrité
-jusqu'à leur entrée en zone réservée.
+Pour la mise en œuvre dans leur domaine d'activité respectif des mesures de sûreté mentionnées à l'article L. 6341-2, les
+entreprises, personnes et organismes mentionnés au même article et appartenant à l'une des catégories fixées, en fonction des
+caractéristiques de leur activité, par le décret en Conseil d'Etat mentionné au second alinéa doivent être titulaires d'une
+autorisation administrative individuelle délivrée par l'autorité administrative compétente. 
 
-L'agrément peut être refusé ou retiré lorsque l'entreprise ou l'organisme ne se conforme pas aux obligations prévues par le
-présent article ou peut constituer, par ses méthodes de travail ou le comportement de ses dirigeants ou agents, un risque
-pour la sûreté. Il peut faire l'objet d'une suspension immédiate en cas d'urgence. 
-
-Les agents mentionnés à l'article L. 6372-1 ainsi que des organismes techniques habilités à cet effet vérifient que les
-entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité d'établissement connu. 
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 _Anciens textes_:
 
@@ -53822,10 +53849,6 @@ _Cité par_:
   - Code des transports - art. L6341-2 (V)
   - Code des transports - art. L6342-3 (V)
 
-_Cite_:
-
-  - Code des transports - art. L6372-1 (V)
-
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
@@ -53833,38 +53856,14 @@ _Codifié par_:
 
 ###### Article L6342-2
 
-En vue d'assurer préventivement la sûreté des vols, tant en régime intérieur qu'international, d'une part les officiers de
-police judiciaire ainsi que, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police judiciaire et les agents
-de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de procédure pénale et d'autre
-part, les agents des douanes, peuvent procéder à la fouille et à la visite, par tous moyens appropriés, des personnes, des
-bagages, du fret, des colis postaux, des aéronefs et des véhicules pénétrant ou se trouvant dans les zones non librement
-accessibles au public des aérodromes et de leurs dépendances ou sortant de celles-ci.
+L'accès à la zone côté piste de l'aérodrome et la circulation dans cette zone sont soumis à autorisation. 
 
-Sont également habilités à procéder à ces fouilles et visites, sous le contrôle des officiers de police judiciaire ou des
-agents des douanes, les agents de nationalité française ou ressortissants d'un autre Etat membre de l'Union européenne
-désignés par les entreprises de transport aérien, les exploitants d'aérodromes ou les entreprises qui leur sont liées par
-contrat. Ces agents sont préalablement agréés par le représentant de l'Etat dans le département et le procureur de la
-République. Ils ne procèdent à la fouille des bagages à main qu'avec le consentement de leur propriétaire et à des palpations
-de sécurité qu'avec le consentement de la personne. Dans ce cas, la palpation de sécurité est faite par une personne du même
-sexe que la personne qui en fait l'objet.
+Les personnes accédant aux zones de sûreté à accès réglementé et y circulant sont tenues de détenir, outre le cas échéant
+l'habilitation mentionnée au premier alinéa de l'article L. 6342-3, un titre de circulation ou l'un des documents mentionnés
+au point 1.2.2.2 de l'annexe au règlement (UE) n° 185/2010 de la Commission du 4 mars 2010 fixant des mesures détaillées pour
+la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile. 
 
-Ces fouilles et visites peuvent être réalisées, avec le consentement de la personne, au moyen d'un dispositif d'imagerie
-utilisant des ondes millimétriques dans les conditions visées à l'alinéa précédent. En cas de refus, la personne est soumise
-à un autre dispositif de contrôle (1). 
-
-L'analyse des images visualisées est effectuée par des opérateurs ne connaissant pas l'identité de la personne et ne pouvant
-visualiser simultanément celle-ci et son image produite par le scanner corporel.L'image produite par le scanner millimétrique
-doit comporter un système brouillant la visualisation du visage. Aucun stockage ou enregistrement des images n'est autorisé
-(1). 
-
-Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre de l'intérieur détermine les aéroports dans
-lesquels le recours au contrôle par dispositif d'imagerie utilisant les ondes millimétriques est autorisé (1). 
-
-Les agréments prévus par le deuxième alinéa sont refusés ou retirés lorsque la moralité de la personne ou son comportement ne
-présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des
-personnes, de l'ordre public ou sont incompatibles avec l'exercice de ces missions.
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Nota:**
 
@@ -53891,11 +53890,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 25
+  - Loi n°2011-267 du 14 mars 2011 - art. 25 (V)
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 _Cite_:
 
-  - Code de procédure pénale - art. 21
+  - Code des transports - art. L6342-3
 
 _Codifié par_:
 
@@ -53904,21 +53904,28 @@ _Codifié par_:
 
 ###### Article L6342-3
 
-L'accès aux lieux de préparation et de stockage des biens et produits mentionnés au premier alinéa de l'article L. 6342-1 est
-soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le département et, à Paris, par le
-préfet de police.
+Les personnes ayant accès aux zones de sûreté à accès réglementé des aérodromes ou aux approvisionnements de bord sécurisés,
+ainsi que celles ayant accès au fret, aux colis postaux ou au courrier postal, sécurisés par un agent habilité ou ayant fait
+l'objet de contrôles de sûreté par un chargeur connu et identifiés comme devant être acheminés par voie aérienne, doivent
+être habilitées par l'autorité administrative compétente. 
 
-L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+La délivrance de cette habilitation est précédée d'une enquête administrative donnant lieu, le cas échéant, à consultation du
 bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
 police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article et notamment les personnes réputées
+détenir cette habilitation.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 26 (V)
-  - Code des transports - art. L6342-1 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 _Cité par_:
 
@@ -53946,172 +53953,100 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Sûreté du fret et des colis postaux 
-avant leur embarquement<a id=993></a>
+###### Article L6342-4
 
-###### Article L6343-1
+I. ― Les opérations d'inspection-filtrage prévues par les mesures de sûreté mentionnées à l'article L. 6341-2 peuvent être
+exécutées par les officiers de police judiciaire et, sur l'ordre et sous la responsabilité de ceux-ci, les agents de police
+judiciaire et les agents de police judiciaire adjoints mentionnés aux 1°, 1° bis et 1° ter de l'article 21 du code de
+procédure pénale ainsi que les agents des douanes. 
 
-En vue d'assurer préventivement la sûreté des vols, le transporteur aérien met en œuvre les mesures de sûreté sur le fret et
-les colis postaux préalablement à leur embarquement dans les aéronefs. 
+A cet effet, ils peuvent procéder à la fouille et à la visite par tous moyens appropriés des personnes, des bagages, du
+courrier postal, des colis postaux, du fret, des approvisionnements de bord, des fournitures destinées aux aérodromes, des
+aéronefs et des véhicules pénétrant ou se trouvant dans la zone côté piste des aérodromes et dans tout autre lieu où sont
+mises en œuvre les mesures de sûreté précitées, ou sortant de ceux-ci. 
 
-Le transporteur aérien : 
+II. ― Les opérations d'inspection-filtrage des personnes, des objets qu'elles transportent et des bagages ainsi que les
+opérations d'inspection des véhicules peuvent être réalisées, sous le contrôle des officiers de police judiciaire et des
+agents des douanes, par des agents de nationalité française ou ressortissant d'un Etat membre de l'Union européenne, désignés
+par les entreprises ou organismes mentionnés à l'article L. 6341-2 ou les entreprises qui leur sont liées par contrat. 
 
-1° Soit effectue les visites de sûreté mentionnées à l'article L. 6342-2 du fret et des colis postaux qui lui sont remis ; 
+Ces agents doivent avoir été préalablement agréés par le représentant de l'Etat dans le département et le procureur de la
+République. Ils ne procèdent à la fouille des bagages à main et des autres objets transportés qu'avec le consentement de leur
+propriétaire et à des palpations de sûreté qu'avec le consentement de la personne. La palpation de sûreté est faite par une
+personne du même sexe que la personne qui en fait l'objet. 
 
-2° Soit s'assure que ce fret ou ces colis postaux lui sont remis par un agent habilité. 
+III. ― L'inspection-filtrage d'une personne peut être réalisée, avec son consentement, au moyen d'un dispositif d'imagerie
+utilisant des ondes millimétriques dans les conditions prévues au II. En cas de refus, la personne est soumise à un autre
+dispositif de contrôle. 
 
-Le fret ou les colis postaux qui ne peuvent faire l'objet de contrôle après leur conditionnement en raison de leurs
-caractéristiques sont remis à l'agent habilité exclusivement par un chargeur connu. 
+L'analyse des images visualisées est effectuée par des opérateurs ne connaissant pas l'identité de la personne et ne pouvant
+visualiser simultanément celle-ci et son image produite par le dispositif d'imagerie utilisant des ondes millimétriques.
+L'image produite par le dispositif d'imagerie utilisant des ondes millimétriques doit comporter un système brouillant la
+visualisation du visage. Aucun stockage ou enregistrement des images n'est autorisé. 
 
-Peut être agréé en qualité d'agent habilité par l'autorité administrative l'entreprise ou l'organisme qui intervient dans
-l'organisation du transport de fret ou de colis postaux et qui met en place des contrôles et des procédures appropriées. 
+Un arrêté conjoint du ministre chargé de l'aviation civile et du ministre de l'intérieur détermine les aéroports dans
+lesquels le recours au contrôle par dispositif d'imagerie utilisant les ondes millimétriques est autorisé. 
 
-Peut être agréé en qualité de chargeur connu par l'autorité administrative l'entreprise ou l'organisme qui met en œuvre
-directement ou sous son contrôle des mesures appropriées pendant le conditionnement du fret et des colis postaux expédiés à
-sa demande et qui préserve l'intégrité de ces marchandises jusqu'à leur remise à un agent habilité.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L321-7 (M), alinéas 1 à 7, sûreté du fret et des colis postaux et agréments des agents habilités
-
-_Cité par_:
-
-  - Code de la sécurité intérieure - art. R114-4 (VD)
-  - Code des transports - art. L6341-2 (V)
-  - Code des transports - art. L6343-3 (Ab)
-  - Code des transports - art. L6343-4 (Ab)
-  - Code des transports - art. L6343-5 (Ab)
-
-_Cite_:
-
-  - Code des transports - art. L6342-2
-
-
-###### Article L6343-2
-
-Les militaires de la gendarmerie et les fonctionnaires de police, sous le contrôle des officiers de police judiciaire, ainsi
-que les agents des douanes vérifient que les entreprises ou organismes respectent les conditions de délivrance de l'agrément
-en qualité d'agent habilité.A cet effet, ils ont accès à tout moment aux locaux et terrains à usage professionnel des
-entreprises ou organismes titulaires de l'agrément ou qui en demandent le bénéfice, à l'exclusion des pièces exclusivement
-réservées à l'habitation. 
-
-Ils peuvent requérir, pour l'accomplissement de leurs missions, l'ouverture de tous colis, bagages et véhicules
-professionnels en présence du responsable de l'entreprise ou de l'organisme, ou de ses préposés en cas d'absence de celui-ci,
-et se faire communiquer les documents comptables, financiers, commerciaux ou techniques propres à faciliter l'accomplissement
-de leurs contrôles. 
-
-Les agents mentionnés à l'article L. 6372-1 ainsi que des organismes techniques habilités à cet effet vérifient que les
-entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité de chargeur connu. 
-
-Lorsque l'accès aux locaux est refusé aux agents mentionnés au premier alinéa, ceux-ci ne peuvent procéder aux visites de
-locaux, lieux et installations que sur autorisation de l'autorité judiciaire dans les conditions fixées au titre Ier du livre
-VII de la première partie du présent code.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L321-7 (M), alinéas 10 et 11, pouvoirs de contrôle sur les agents habilités
-
-_Cite_:
-
-  - Code des transports - art. L6372-1
-
-
-###### Article L6343-3
-
-L'accès aux lieux de traitement, de conditionnement et de stockage du fret et des colis postaux mentionnés à l'article L.
-6343-1 est soumis à la possession d'une habilitation délivrée par le représentant de l'Etat dans le département et, à Paris,
-par le préfet de police.
-
-L'enquête administrative diligentée aux fins d'instruction de la demande d'habilitation peut donner lieu à consultation du
+IV. ― Les agréments prévus au II sont précédés d'une enquête administrative donnant lieu, le cas échéant, à consultation du
 bulletin n° 2 du casier judiciaire et des traitements automatisés de données à caractère personnel gérés par les services de
 police et de gendarmerie nationales relevant des dispositions de l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification.
+l'informatique, aux fichiers et aux libertés, à l'exception des fichiers d'identification. 
+
+L'enquête diligentée dans le cadre de la délivrance de l'habilitation mentionnée à l'article L. 6342-3 vaut enquête décrite
+au précédent alinéa, lorsque les demandes d'habilitation et d'agrément sont concomitantes. 
+
+Les agréments sont refusés ou retirés lorsque la moralité de la personne ou son comportement ne présentent pas les garanties
+requises au regard de la sûreté de l'Etat, de la sécurité publique, de la sécurité des personnes ou de l'ordre public ou sont
+incompatibles avec l'exercice des missions susmentionnées. 
+
+V. ― Les mesures d'inspection-filtrage du courrier postal, des colis postaux, du fret, des approvisionnements de bord, des
+fournitures destinées aux aérodromes ainsi que les inspections d'aéronefs peuvent être réalisées par des agents autres que
+ceux mentionnés aux I et II. 
+
+Ces agents sont titulaires de l'habilitation mentionnée à l'article L. 6342-3. 
+
+VI. ― Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°78-17 du 6 janvier 1978 - art. 26
-  - Code des transports - art. L6343-1
+  - Loi n°78-17 du 6 janvier 1978 - art. 26 (V)
+  - Code de procédure pénale - art. 21 (V)
+  - Code des transports - art. L6342-3 (V)
 
-_Abrogé par_:
+_Créé par_:
 
-  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L321-8 (Ab)
-
-
-###### Article L6343-4
-
-En cas de dommage résultant d'un acte malveillant et causé par des colis postaux ou du fret mentionnés au présent chapitre,
-la responsabilité d'une entreprise ou d'un organisme agréé ne peut être engagée qu'en raison de l'inobservation des
-procédures et mesures prévues par la présente partie. 
-
-Les agréments mentionnés à l'article L. 6343-1 peuvent être refusés ou retirés lorsque l'entreprise ou l'organisme ne se
-conforme pas aux obligations prévues par l'article L. 6343-1 ou peut constituer, par ses méthodes de travail ou le
-comportement de ses dirigeants ou agents, un risque pour la sûreté. Ils peuvent faire l'objet d'une suspension immédiate en
-cas d'urgence.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L321-7 (M), alinéas 8 et 9, responsabilité des agents habilités, refus de délivrance et retrait des agréments
-
-_Cite_:
-
-  - Code des transports - art. L6343-1
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 3
 
 _Cité par_:
 
-  - Code des transports - art. L6343-5 (Ab)
+  - Arrêté du 4 février 2013 - art. 3 (V)
+  - Arrêté du 12 septembre 2013 - art. 1 (VD)
+  - Décret n°2016-528 du 27 avril 2016 - art. 1
+  - Arrêté du 1er juillet 2016 - art.   (V)
+  - Arrêté du 1er juillet 2016 - art. (V)
+  - Arrêté du 1er juillet 2016 - art. 2 (V)
+  - Arrêté du 27 février 2017 - art. 7 (V)
+  - Arrêté du 27 juin 2017 - art. 14 (V)
+  - Arrêté du 28 septembre 2018 - art. 6
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 4
+  - Décret n°2018-1270 du 26 décembre 2018 - art. 5
+  - Code de l'aviation civile - art. R213-5 (V)
+  - Code de l'aviation civile - art. R213-5-3 (V)
+  - Code de l'aviation civile - art. R213-5-5 (V)
+  - Code de l'aviation civile - art. R217-3 (V)
+  - Code de la sécurité intérieure - art. R114-2 (VD)
+  - Code de la sécurité intérieure - art. R612-31 (VD)
+  - Code de la sécurité intérieure - art. R625-7 (V)
+  - Code de la sécurité intérieure - art. R625-8 (V)
+  - Code des transports - art. L6341-2 (V)
+  - Code des transports - art. L6763-6 (V)
+  - Code des transports - art. L6773-7 (V)
+  - Code des transports - art. L6783-7 (V)
 
 
-###### Article L6343-5
-
-Les conditions d'application des articles L. 6343-1, L. 6343-2 et L. 6343-4 sont fixées par décret en Conseil d'Etat. Ce
-décret tient compte des contraintes propres à chacune des catégories de personnes mentionnées à ces articles. Il peut prévoir
-que le fret ou les colis postaux, mentionnés aux articles L. 6343-1 et L. 6343-4 ainsi que les correspondances et le
-transport de la presse, sont soumis à des règles particulières ou sont exemptés de procédure de sûreté. 
-
-Il détermine également les prescriptions que les agents habilités doivent respecter en matière de réception et de contrôle
-pour éviter des dépôts et des expéditions anonymes.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance n°2012-289 du 1er mars 2012 - art. 4
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L321-7 (M), alinéas 12 et 13, conditions d'application
-
-_Cite_:
-
-  - Code des transports - art. L6343-1
-  - Code des transports - art. L6343-4
-
-
-#### TITRE V : SUJETIONS AUX ABORDS DES AERODROMES<a id=994></a>
+#### TITRE V : SUJETIONS AUX ABORDS DES AERODROMES<a id=989></a>
 
 ###### Article L6350-1
 
@@ -54159,9 +54094,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : Servitudes aéronautiques<a id=995></a>
+##### Chapitre Ier : Servitudes aéronautiques<a id=990></a>
 
-##### Section 1 : Définition et portée<a id=996></a>
+##### Section 1 : Définition et portée<a id=991></a>
 
 ###### Article L6351-1
 
@@ -54194,7 +54129,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Servitudes aéronautiques de dégagement<a id=997></a>
+##### Section 2 : Servitudes aéronautiques de dégagement<a id=992></a>
 
 ###### Article L6351-2
 
@@ -54296,7 +54231,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Servitudes aéronautiques de balisage<a id=998></a>
+##### Section 3 : Servitudes aéronautiques de balisage<a id=993></a>
 
 ###### Article L6351-6
 
@@ -54383,7 +54318,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Installations soumises à autorisation spéciale<a id=999></a>
+##### Chapitre II : Installations soumises à autorisation spéciale<a id=994></a>
 
 ###### Article L6352-1
 
@@ -54418,7 +54353,7 @@ _Codifié par_:
 
 
 ##### Chapitre III : Procédures relatives aux extensions
-et aux créations d'aérodromes<a id=1000></a>
+et aux créations d'aérodromes<a id=995></a>
 
 ###### Article L6353-1
 
@@ -54492,11 +54427,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : NUISANCES AEROPORTUAIRES<a id=1001></a>
+#### TITRE VI : NUISANCES AEROPORTUAIRES<a id=996></a>
 
-##### Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires<a id=1002></a>
+##### Chapitre Ier : Autorité de contrôle des nuisances aéroportuaires<a id=997></a>
 
-##### Section 1 : Composition et fonctionnement<a id=1003></a>
+##### Section 1 : Composition et fonctionnement<a id=998></a>
 
 ###### Article L6361-1
 
@@ -54632,7 +54567,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Missions<a id=1004></a>
+##### Section 2 : Missions<a id=999></a>
 
 ###### Article L6361-5
 
@@ -54835,7 +54770,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Moyens<a id=1005></a>
+##### Section 3 : Moyens<a id=1000></a>
 
 ###### Article L6361-10
 
@@ -54892,7 +54827,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 4 : Sanctions administratives<a id=1006></a>
+##### Section 4 : Sanctions administratives<a id=1001></a>
 
 ###### Article L6361-12
 
@@ -55042,7 +54977,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Procédures d'approche et de départ<a id=1007></a>
+##### Chapitre II : Procédures d'approche et de départ<a id=1002></a>
 
 ###### Article L6362-1
 
@@ -55112,7 +55047,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les communautés aéroportuaires<a id=1008></a>
+##### Chapitre III : Les communautés aéroportuaires<a id=1003></a>
 
 ###### Article L6363-1
 
@@ -55295,11 +55230,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES<a id=1009></a>
+#### TITRE VII : MESURES DE POLICE  ET INFRACTIONS PENALES<a id=1004></a>
 
-##### Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation<a id=1010></a>
+##### Chapitre Ier : Mesures relatives à la police de l'exploitation et de la conservation<a id=1005></a>
 
-##### Section 1 : Police de l'exploitation<a id=1011></a>
+##### Section 1 : Police de l'exploitation<a id=1006></a>
 
 ###### Article L6371-1
 
@@ -55379,7 +55314,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Police de la conservation<a id=1012></a>
+##### Section 2 : Police de la conservation<a id=1007></a>
 
 ###### Article L6371-4
 
@@ -55411,9 +55346,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Dispositions pénales<a id=1013></a>
+##### Chapitre II : Dispositions pénales<a id=1008></a>
 
-##### Section 1 : Constatation des infractions<a id=1014></a>
+##### Section 1 : Constatation des infractions<a id=1009></a>
 
 ###### Article L6372-1
 
@@ -55499,9 +55434,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Sanctions<a id=1015></a>
+##### Section 2 : Sanctions<a id=1010></a>
 
-##### Sous-section 1 : Actes de malveillance<a id=1016></a>
+##### Sous-section 1 : Actes de malveillance<a id=1011></a>
 
 ###### Article L6372-4
 
@@ -55624,7 +55559,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Sous-section 2 : Servitudes aéronautiques<a id=1017></a>
+##### Sous-section 2 : Servitudes aéronautiques<a id=1012></a>
 
 ###### Article L6372-8
 
@@ -55698,7 +55633,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE IV : LE TRANSPORT AERIEN<a id=1018></a>
+### LIVRE IV : LE TRANSPORT AERIEN<a id=1013></a>
 
 ###### Article L6400-1
 
@@ -55756,11 +55691,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IER : ENTREPRISES DE TRANSPORT AERIEN<a id=1019></a>
+#### TITRE IER : ENTREPRISES DE TRANSPORT AERIEN<a id=1014></a>
 
-##### Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien<a id=1020></a>
+##### Chapitre Ier : Contrôle, capital et statuts des entreprises de transport aérien<a id=1015></a>
 
-##### Section 1 : Contrôle<a id=1021></a>
+##### Section 1 : Contrôle<a id=1016></a>
 
 ###### Article L6411-1
 
@@ -55789,7 +55724,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Dispositions générales relatives au capital et aux statuts<a id=1022></a>
+##### Section 2 : Dispositions générales relatives au capital et aux statuts<a id=1017></a>
 
 ###### Article L6411-2
 
@@ -56024,7 +55959,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 3 : Société Air France<a id=1023></a>
+##### Section 3 : Société Air France<a id=1018></a>
 
 ###### Article L6411-9
 
@@ -56100,7 +56035,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Exercice de l'activité de transporteur aérien public<a id=1024></a>
+##### Chapitre II : Exercice de l'activité de transporteur aérien public<a id=1019></a>
 
 ###### Article L6412-1
 
@@ -56283,11 +56218,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : CONTRAT DE TRANSPORT<a id=1025></a>
+#### TITRE II : CONTRAT DE TRANSPORT<a id=1020></a>
 
-##### Chapitre Ier : Transport de personnes et de bagages<a id=1026></a>
+##### Chapitre Ier : Transport de personnes et de bagages<a id=1021></a>
 
-##### Section 1 : Le contrat de transport<a id=1027></a>
+##### Section 1 : Le contrat de transport<a id=1022></a>
 
 ###### Article L6421-1
 
@@ -56327,7 +56262,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Responsabilité du transporteur aérien<a id=1028></a>
+##### Section 2 : Responsabilité du transporteur aérien<a id=1023></a>
 
 ###### Article L6421-3
 
@@ -56389,9 +56324,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Transport de marchandises<a id=1029></a>
+##### Chapitre II : Transport de marchandises<a id=1024></a>
 
-##### Section 1 : Le contrat de transport de marchandises<a id=1030></a>
+##### Section 1 : Le contrat de transport de marchandises<a id=1025></a>
 
 ###### Article L6422-1
 
@@ -56414,7 +56349,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Responsabilité du transporteur aérien<a id=1031></a>
+##### Section 2 : Responsabilité du transporteur aérien<a id=1026></a>
 
 ###### Article L6422-2
 
@@ -56507,9 +56442,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES<a id=1032></a>
+#### TITRE III : MESURES DE POLICE, SANCTIONS ADMINISTRATIVES  ET DISPOSITIONS PENALES<a id=1027></a>
 
-##### Chapitre Ier : Mesures de police, pouvoirs de constatation<a id=1033></a>
+##### Chapitre Ier : Mesures de police, pouvoirs de constatation<a id=1028></a>
 
 ###### Article L6431-1
 
@@ -56660,7 +56595,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Sanctions administratives<a id=1034></a>
+##### Chapitre II : Sanctions administratives<a id=1029></a>
 
 ###### Article L6432-1
 
@@ -56700,9 +56635,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Dispositions pénales<a id=1035></a>
+##### Chapitre III : Dispositions pénales<a id=1030></a>
 
-##### Section 1 : Transaction pénale<a id=1036></a>
+##### Section 1 : Transaction pénale<a id=1031></a>
 
 ###### Article L6433-1
 
@@ -56726,7 +56661,7 @@ _Codifié par_:
 
 
 ##### Section 2 : Violences commises dans un aéronef
-ou dans un lieu destiné à l'accès à un aéronef<a id=1037></a>
+ou dans un lieu destiné à l'accès à un aéronef<a id=1032></a>
 
 ###### Article L6433-2
 
@@ -56763,11 +56698,11 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE V : LE PERSONNEL NAVIGANT<a id=1038></a>
+### LIVRE V : LE PERSONNEL NAVIGANT<a id=1033></a>
 
-#### TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES<a id=1039></a>
+#### TITRE IER : CONDITIONS D'EXERCICE DES ACTIVITES<a id=1034></a>
 
-##### Chapitre unique<a id=1040></a>
+##### Chapitre unique<a id=1035></a>
 
 ###### Article L6511-1
 
@@ -57038,9 +56973,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL<a id=1041></a>
+#### TITRE II : LE PERSONNEL NAVIGANT PROFESSIONNEL<a id=1036></a>
 
-##### Chapitre Ier : Règles générales<a id=1042></a>
+##### Chapitre Ier : Règles générales<a id=1037></a>
 
 ###### Article L6521-1
 
@@ -57251,7 +57186,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : Commandant de bord et équipage<a id=1043></a>
+##### Chapitre II : Commandant de bord et équipage<a id=1038></a>
 
 ###### Article L6522-1
 
@@ -57384,9 +57319,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les relations individuelles de travail<a id=1044></a>
+##### Chapitre III : Les relations individuelles de travail<a id=1039></a>
 
-##### Section 1 : Forme, contenu et exécution du contrat<a id=1045></a>
+##### Section 1 : Forme, contenu et exécution du contrat<a id=1040></a>
 
 ###### Article L6523-1
 
@@ -57616,7 +57551,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Section 2 : Fin du contrat<a id=1046></a>
+##### Section 2 : Fin du contrat<a id=1041></a>
 
 ###### Article L6523-12
 
@@ -57672,7 +57607,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Relations collectives du travail<a id=1047></a>
+##### Chapitre IV : Relations collectives du travail<a id=1042></a>
 
 ###### Article L6524-1
 
@@ -57812,7 +57747,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Durée du travail et congés<a id=1048></a>
+##### Chapitre V : Durée du travail et congés<a id=1043></a>
 
 ###### Article L6525-1
 
@@ -57945,7 +57880,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : La protection sociale<a id=1049></a>
+##### Chapitre VI : La protection sociale<a id=1044></a>
 
 ###### Article L6526-1
 
@@ -58159,7 +58094,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VII : Retraites<a id=1050></a>
+##### Chapitre VII : Retraites<a id=1045></a>
 
 ###### Article L6527-1
 
@@ -58415,9 +58350,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES<a id=1051></a>
+#### TITRE IV : SANCTIONS PENALES ET ADMINISTRATIVES<a id=1046></a>
 
-##### Chapitre unique : Sanctions pénales<a id=1052></a>
+##### Chapitre unique : Sanctions pénales<a id=1047></a>
 
 ###### Article L6541-1
 
@@ -58488,11 +58423,11 @@ _Anciens textes_:
   - Code des transports - art. L6531-3 (T)
 
 
-### LIVRE VI : FORMATION AERONAUTIQUE AMATEURS<a id=1053></a>
+### LIVRE VI : FORMATION AERONAUTIQUE AMATEURS<a id=1048></a>
 
-#### TITRE IER : AERO CLUBS ET FEDERATIONS<a id=1054></a>
+#### TITRE IER : AERO CLUBS ET FEDERATIONS<a id=1049></a>
 
-##### Chapitre unique<a id=1055></a>
+##### Chapitre unique<a id=1050></a>
 
 ###### Article L6611-1
 
@@ -58515,7 +58450,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-### LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER<a id=1056></a>
+### LIVRE VII : DISPOSITIONS RELATIVES A L'OUTRE-MER<a id=1051></a>
 
 ###### Article L6700-1
 
@@ -58557,9 +58492,9 @@ _Anciens textes_:
   - Code de l'aviation civile - art. L330-3-1 (Ab)
 
 
-#### TITRE II : MAYOTTE<a id=1057></a>
+#### TITRE II : MAYOTTE<a id=1052></a>
 
-##### Chapitre II : La circulation aérienne<a id=1058></a>
+##### Chapitre II : La circulation aérienne<a id=1053></a>
 
 ###### Article L6722-1
 
@@ -58596,27 +58531,58 @@ _Cite_:
   - règlement (CE) n°550/2004
 
 
-##### Chapitre III : Les aérodromes<a id=1059></a>
+##### Chapitre III : Les aérodromes<a id=1054></a>
 
 ###### Article L6723-1
 
-Pour l'application à Mayotte du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement (CE) n°
+Pour l'application à Mayotte des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement (CE) n°
 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de
 la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont remplacés par
-les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du Parlement européen
-et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile
-et des règlements pris pour son application par la Commission européenne ".
+les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif à
+l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
+application par la Commission européenne ".
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des transports - art. L6341-2 (V)
-  - règlement (CE) n°300/2008
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 5
+
+_Abrogé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+_Cite_:
+
+  - Code des transports - art. L6341-2
+
+
+###### Article L6723-1-1
+
+Pour l'application à Mayotte des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un des
+documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en
+œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : " un
+document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 5
+
+_Abrogé par_:
+
+  - Loi n°2013-1029 du 15 novembre 2013 - art. 18
+
+_Cite_:
+
+  - Code des transports - art. L6342-2
 
 
 ###### Article L6723-2
@@ -58651,7 +58617,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1060></a>
+##### Chapitre IV : Le transport aérien<a id=1055></a>
 
 ###### Article L6724-1
 
@@ -58721,7 +58687,7 @@ _Abrogé par_:
   - Loi n°2013-1029 du 15 novembre 2013 - art. 18
 
 
-##### Chapitre V : Le personnel navigant<a id=1061></a>
+##### Chapitre V : Le personnel navigant<a id=1056></a>
 
 ###### Article L6725-1
 
@@ -58738,9 +58704,9 @@ _Abrogé par_:
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 28 (VD)
 
 
-#### TITRE III : SAINT BARTHELEMY<a id=1062></a>
+#### TITRE III : SAINT BARTHELEMY<a id=1057></a>
 
-##### Chapitre unique<a id=1063></a>
+##### Chapitre unique<a id=1058></a>
 
 ###### Article L6731-1
 
@@ -58762,22 +58728,66 @@ _Codifié par_:
 
 ###### Article L6731-2
 
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6341-2, les mots : " de l'application du règlement
+(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
+domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
+remplacés par les mots : " de l'application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif
+à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son
+application par la Commission européenne ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+
+_Cite_:
+
+  - Code des transports - art. L6341-2
+
+
+###### Article L6731-3
+
+Pour l'application à Saint-Barthélemy des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou l'un
+des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise
+en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : " un
+document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+
+_Cite_:
+
+  - Code des transports - art. L6342-2
+
+
+###### Article L6731-4
+
 Le titre VI du livre III ne s'applique pas à Saint-Barthélemy.
 
 **Liens relatifs à cet article**
 
-**Liens**:
+_Créé par_:
 
-  - TRANSFERE: Ordonnance n°2012-289 du 1er mars 2012 - art. 6
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 6
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code des transports - art. L6731-4 (Ab)
+  - Ordonnance n°2012-872 du 12 juillet 2012 - art. 2
+
+_Anciens textes_:
+
+  - Code des transports - art. L6731-2 (T)
 
 
-#### TITRE IV : SAINT MARTIN<a id=1064></a>
+#### TITRE IV : SAINT MARTIN<a id=1059></a>
 
-##### Chapitre unique<a id=1065></a>
+##### Chapitre unique<a id=1060></a>
 
 ###### Article L6741-1
 
@@ -58797,9 +58807,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=1066></a>
+#### TITRE V : SAINT-PIERRE-ET-MIQUELON<a id=1061></a>
 
-##### Chapitre II : La circulation aérienne<a id=1067></a>
+##### Chapitre II : La circulation aérienne<a id=1062></a>
 
 ###### Article L6752-1
 
@@ -58838,16 +58848,21 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les aérodromes<a id=1068></a>
+##### Chapitre III : Les aérodromes<a id=1063></a>
 
 ###### Article L6753-1
 
-Pour l'application à Saint-Pierre-et-Miquelon du premier alinéa de l'article L. 6341-2,les mots : " en application du
-règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes
-dans le domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne "
-sont remplacés par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic
+commercial international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du
+11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements
+pris pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en
+vigueur en métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la
+sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
 Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
-l'aviation civile et des règlements pris pour son application par la Commission européenne ".
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -58857,15 +58872,38 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6341-2 (V)
-  - règlement (CE) n°300/2008
+  - Code des transports - art. L6341-2
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
 
-##### Chapitre IV : Le transport aérien<a id=1069></a>
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 7
+
+
+###### Article L6753-2
+
+Pour l'application à Saint-Pierre-et-Miquelon des dispositions de l'article L. 6342-2, les mots : " un titre de circulation
+ou l'un des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour
+la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les
+mots : " un document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du
+règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de
+la sûreté de l'aviation civile ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 7
+
+_Cite_:
+
+  - Code des transports - art. L6342-2 (V)
+
+
+##### Chapitre IV : Le transport aérien<a id=1064></a>
 
 ###### Article L6754-1
 
@@ -58928,7 +58966,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1070></a>
+##### Chapitre V : Le personnel navigant<a id=1065></a>
 
 ###### Article L6755-1
 
@@ -58952,9 +58990,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VI : NOUVELLE-CALEDONIE<a id=1071></a>
+#### TITRE VI : NOUVELLE-CALEDONIE<a id=1066></a>
 
-##### Chapitre Ier : L'aéronef<a id=1072></a>
+##### Chapitre Ier : L'aéronef<a id=1067></a>
 
 ###### Article L6761-1
 
@@ -58967,7 +59005,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1073></a>
+##### Chapitre II : La circulation aérienne<a id=1068></a>
 
 ###### Article L6762-1
 
@@ -59017,7 +59055,7 @@ _Modifié par_:
   - Ordonnance n°2011-204 du 24 février 2011 - art. 6
 
 
-##### Chapitre III : Les aérodromes<a id=1074></a>
+##### Chapitre III : Les aérodromes<a id=1069></a>
 
 ###### Article L6763-1
 
@@ -59078,32 +59116,51 @@ _Codifié par_:
 
 ###### Article L6763-4
 
-Pour l'application en Nouvelle-Calédonie de l'article L. 6332-2, les mots : " par l'article L. 2212-2 du code général des
-collectivités territoriales " sont remplacés par les mots : " par l'article L. 131-2 du code des communes de Nouvelle-
-Calédonie ".
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6332-2, les mots : "dans le département" sont
+remplacés par les mots : "en Nouvelle-Calédonie", les mots : "par l'article L. 2212-2 du code général des collectivités
+territoriales" sont remplacés par les mots : "par l'article L. 131-2 du code des communes de Nouvelle-Calédonie" et les
+mots : "notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs
+mentionnés à cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements" sont supprimés.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code général des collectivités territoriales - art. L2212-2
-  - Code des transports - art. L6332-2 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
+
+**Liens**:
+
+  - RECTIFICATION: Ordonnance n°2012-289 du 1er mars 2012 - art., v. init.
+
+_Cite_:
+
+  - Code des communes de la Nouvelle-Calédonie - art. L131-2 (V)
+  - Code des transports - art. L6332-2 (V)
+
 
 ###### Article L6763-5
 
-Pour l'application en Nouvelle-Calédonie du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement
-(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
-remplacés par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic commercial
+international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
+2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
+pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en vigueur en
+métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
 Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
-l'aviation civile et des règlements pris pour son application par la Commission européenne ".
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
 
 _Cité par_:
 
@@ -59111,7 +59168,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6341-2 (V)
+  - Code des transports - art. L6341-2
   - règlement (CE) n°300/2008
 
 _Codifié par_:
@@ -59121,14 +59178,27 @@ _Codifié par_:
 
 ###### Article L6763-6
 
-Pour l'application du deuxième alinéa de l'article L. 6342-2 en Nouvelle-Calédonie, les mots : " ou ressortissants d'un Etat
-membre de l'Union européenne " sont supprimés.
+I.-Pour l'application en Nouvelle-Calédonie des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou
+l'un des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la
+mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : "
+un document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ". 
+
+II.-Pour l'application en Nouvelle-Calédonie des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à
+un Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : "
+en Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 9
+
 _Cite_:
 
-  - Code des transports - art. L6342-2 (V)
+  - Code des transports - art. L6342-2
+  - Code des transports - art. L6342-4
 
 _Codifié par_:
 
@@ -59180,7 +59250,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1075></a>
+##### Chapitre IV : Le transport aérien<a id=1070></a>
 
 ###### Article L6764-1
 
@@ -59226,7 +59296,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1076></a>
+##### Chapitre V : Le personnel navigant<a id=1071></a>
 
 ###### Article L6765-1
 
@@ -59290,7 +59360,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VII : POLYNESIE FRANCAISE<a id=1077></a>
+#### TITRE VII : POLYNESIE FRANCAISE<a id=1072></a>
 
 ###### Article L6770-1
 
@@ -59307,7 +59377,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre Ier : L'aéronef<a id=1078></a>
+##### Chapitre Ier : L'aéronef<a id=1073></a>
 
 ###### Article L6771-1
 
@@ -59320,7 +59390,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1079></a>
+##### Chapitre II : La circulation aérienne<a id=1074></a>
 
 ###### Article L6772-1
 
@@ -59370,7 +59440,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre III : Les aérodromes<a id=1080></a>
+##### Chapitre III : Les aérodromes<a id=1075></a>
 
 ###### Article L6773-1
 
@@ -59445,16 +59515,45 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L6773-5
+###### Article L6773-4-1
 
-Pour l'application en Polynésie française du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement
-(CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le
-domaine de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont
-remplacés par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
-Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
-l'aviation civile et des règlements pris pour son application par la Commission européenne ".
+Pour l'application en Polynésie française des dispositions de l'article L. 6332-2, les mots : " dans le département " sont
+remplacés par les mots : " en Polynésie française ", les mots : " par l'article L. 2212-2 du code général des collectivités
+territoriales " sont remplacés par les mots : " en matière de police municipale en Polynésie française " et les mots : "
+notamment les conditions dans lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à
+cet article lorsque l'emprise de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2212-2
+  - Code des transports - art. L6332-2
+
+
+###### Article L6773-5
+
+Pour l'application en Polynésie française des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic commercial
+international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
+2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
+pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en vigueur en
+métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
 
 _Cité par_:
 
@@ -59462,8 +59561,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6341-2 (V)
-  - règlement (CE) n°300/2008
+  - Code des transports - art. L6341-2
 
 _Codifié par_:
 
@@ -59488,18 +59586,31 @@ _Codifié par_:
 
 ###### Article L6773-7
 
-Pour l'application du deuxième alinéa de l'article L. 6342-2 en Polynésie française, les mots : " ou ressortissants d'un Etat
-membre de l'Union européenne " sont supprimés.
+I.-Pour l'application en Polynésie française des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou
+l'un des documents indiqués au point 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour la
+mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les mots : "
+un document équivalent à ceux requis en métropole en vertu de l'application du point 1.2.2.2 de l'annexe du règlement (UE) n°
+185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté de
+l'aviation civile ". 
+
+II.-Pour l'application en Polynésie française des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à
+un Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : "
+en Polynésie française ".
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des transports - art. L6342-2 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 10
+
+_Cite_:
+
+  - Code des transports - art. L6342-2
+  - Code des transports - art. L6342-4
 
 
 ###### Article L6773-8
@@ -59546,7 +59657,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1081></a>
+##### Chapitre IV : Le transport aérien<a id=1076></a>
 
 ###### Article L6774-1
 
@@ -59607,7 +59718,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1082></a>
+##### Chapitre V : Le personnel navigant<a id=1077></a>
 
 ###### Article L6775-1
 
@@ -59670,9 +59781,9 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-#### TITRE VIII : WALLIS-ET-FUTUNA<a id=1083></a>
+#### TITRE VIII : WALLIS-ET-FUTUNA<a id=1078></a>
 
-##### Chapitre Ier : L'aéronef<a id=1084></a>
+##### Chapitre Ier : L'aéronef<a id=1079></a>
 
 ###### Article L6781-1
 
@@ -59685,7 +59796,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1085></a>
+##### Chapitre II : La circulation aérienne<a id=1080></a>
 
 ###### Article L6782-1
 
@@ -59735,7 +59846,7 @@ _Cite_:
   - règlement (CE) n°550/2004
 
 
-##### Chapitre III : Les aérodromes<a id=1086></a>
+##### Chapitre III : Les aérodromes<a id=1081></a>
 
 ###### Article L6783-1
 
@@ -59795,15 +59906,22 @@ _Codifié par_:
 
 ###### Article L6783-5
 
-Pour l'application à Wallis-et-Futuna de l'article L. 6332-2, les mots : " dans le département qui exerce, à cet effet, dans
-leur emprise, les pouvoirs impartis au maire par l'article L. 2212-2 du code général des collectivités territoriales " sont
-supprimés.
+Pour l'application à Wallis-et-Futuna de l'article L. 6332-2, les mots : " dans le département " sont remplacés par les
+mots : " à Wallis-et-Futuna ", les mots : " par l'article L. 2212-2 du code général des collectivités territoriales " sont
+remplacés par les mots : " en matière de police municipale à Wallis-et-Futuna " et les mots : " notamment les conditions dans
+lesquelles le représentant de l'Etat dans le département est chargé des pouvoirs mentionnés à cet article lorsque l'emprise
+de l'aérodrome s'étend sur plusieurs départements " sont supprimés.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
+
 _Cite_:
 
-  - Code des transports - art. L6332-2 (V)
+  - Code général des collectivités territoriales - art. L2212-2
+  - Code des transports - art. L6332-2
 
 _Codifié par_:
 
@@ -59812,14 +59930,27 @@ _Codifié par_:
 
 ###### Article L6783-6
 
-Pour l'application à Wallis-et-Futuna du premier alinéa de l'article L. 6341-2, les mots : " en application du règlement (CE)
-n° 300/2008 du Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine
-de la sûreté de l'aviation civile et des règlements pris pour son application par la Commission européenne " sont remplacés
-par les mots : " en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du Parlement
-européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation
-civile et des règlements pris pour son application par la Commission européenne ".
+Pour l'application à Wallis-et-Futuna des dispositions de l'article L. 6341-2 aux aérodromes ouverts au trafic commercial
+international, les mots : " de l'application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil du 11 mars
+2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et des règlements pris
+pour son application par la Commission européenne " sont remplacés par les mots : " de l'application des règles en vigueur en
+métropole en vertu du règlement (CE) n° 300/2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne ". 
+
+Sur les aérodromes autres que ceux mentionnés à l'alinéa précédent, l'autorité administrative compétente peut prendre des
+mesures de sûreté prescrites en application des règles en vigueur en métropole en vertu du règlement (CE) n° 300/2008 du
+Parlement européen et du Conseil du 11 mars 2008 relatif à l'instauration de règles communes dans le domaine de la sûreté de
+l'aviation civile et des règlements pris pour son application par la Commission européenne.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
 
 _Cité par_:
 
@@ -59827,24 +59958,32 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des transports - art. L6341-2 (V)
-  - règlement (CE) n°300/2008
-
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+  - Code des transports - art. L6341-2
 
 
 ###### Article L6783-7
 
-Pour l'application du deuxième alinéa de l'article L. 6342-2 à Wallis-et-Futuna, les mots : " ou ressortissants d'un Etat
-membre de l'Union européenne " sont supprimés.
+I.-Pour l'application à Wallis-et-Futuna des dispositions de l'article L. 6342-2, les mots : " un titre de circulation ou
+l'un des documents indiqués à l'article 1.2.2.2 de l'annexe du règlement (UE) n° 185/2010 fixant des mesures détaillées pour
+la mise en œuvre des normes de base communes dans le domaine de la sûreté de l'aviation civile " sont remplacés par les
+mots : " un document équivalent à ceux requis en métropole en vertu de l'application de l'article 1.2.2.2 de l'annexe au
+règlement (UE) n° 185/2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de
+la sûreté de l'aviation civile ". 
+
+II.-Pour l'application à Wallis-et-Futuna des dispositions du II de l'article L. 6342-4, les mots : " ou ressortissant à un
+Etat membre de l'Union européenne " sont supprimés et les mots : " dans le département " sont remplacés par les mots : " à
+Wallis-et-Futuna ".
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2012-289 du 1er mars 2012 - art. 11
+
 _Cite_:
 
-  - Code des transports - art. L6342-2 (V)
+  - Code des transports - art. L6342-2
+  - Code des transports - art. L6342-4
 
 _Codifié par_:
 
@@ -59953,7 +60092,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre IV : Le transport aérien<a id=1087></a>
+##### Chapitre IV : Le transport aérien<a id=1082></a>
 
 ###### Article L6784-1
 
@@ -60003,7 +60142,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre V : Le personnel navigant<a id=1088></a>
+##### Chapitre V : Le personnel navigant<a id=1083></a>
 
 ###### Article L6785-1
 
@@ -60072,7 +60211,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre VI : La formation aéronautique<a id=1089></a>
+##### Chapitre VI : La formation aéronautique<a id=1084></a>
 
 ###### Article L6786-1
 
@@ -60091,9 +60230,9 @@ _Cité par_:
   - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 9
 
 
-#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1090></a>
+#### TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES<a id=1085></a>
 
-##### Chapitre Ier : L'aéronef<a id=1091></a>
+##### Chapitre Ier : L'aéronef<a id=1086></a>
 
 ###### Article L6791-1
 
@@ -60106,7 +60245,7 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-##### Chapitre II : La circulation aérienne<a id=1092></a>
+##### Chapitre II : La circulation aérienne<a id=1087></a>
 
 ###### Article L6792-1
 

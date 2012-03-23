@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-03-21
+Version Consolidée au 2012-03-24
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -17344,11 +17344,14 @@ tenu par les autorités de l'Etat dans les conditions prévues par l'article L. 
 subordonnée à des conditions d'établissement, d'honorabilité professionnelle, de capacité financière et de capacité
 professionnelle selon des modalités fixées par décret en Conseil d'Etat.
 
+L'administration  fiscale transmet au ministère chargé des transports les données  fiscales nécessaires pour lui permettre
+d'apprécier la capacité  financière des entreprises inscrites au registre prévu au premier alinéa  du présent article.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-12 du 5 janvier 2011 - art. 10
+  - Loi n°2012-387 du 22 mars 2012 - art. 91
 
 _Cité par_:
 
@@ -18413,11 +18416,14 @@ véhicules industriels avec conducteur peut être subordonné, selon des modalit
 conditions d'établissement, d'honorabilité professionnelle, de capacité financière et de capacité professionnelle ainsi qu'à
 l'inscription à un registre tenu par les autorités de l'Etat.
 
+L'administration  fiscale transmet au ministère chargé des transports les données  fiscales nécessaires pour lui permettre
+d'apprécier la capacité  financière des entreprises inscrites au registre prévu au premier  alinéa.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-12 du 5 janvier 2011 - art. 10
+  - Loi n°2012-387 du 22 mars 2012 - art. 91
 
 _Cité par_:
 
@@ -20085,16 +20091,21 @@ _Codifié par_:
 ###### Article L3431-1
 
 La gestion et la délivrance des documents relatifs au contrôle du cabotage et des autorisations de transport routier pour la
-réalisation de liaisons internationales peuvent être confiées à un ou plusieurs organismes agréés. Un décret en Conseil
-d'Etat précise les attributions et les conditions d'agrément de ces organismes ; il détermine les règles de gestion et de
-délivrance des documents et des autorisations, et les modalités selon lesquelles les entreprises participent aux frais de
-gestion et de délivrance.
+réalisation de liaisons internationales et de dessertes intérieures régulières d'intérêt national effectuées à l'occasion
+d'un service régulier de transport routier international de voyageurs prévues à l'article L. 3421-2 peuvent être confiées à
+un ou plusieurs organismes agréés. Un décret en Conseil d'Etat précise les attributions et les conditions d'agrément de ces
+organismes ; il détermine les règles de gestion et de délivrance des documents et des autorisations, et les modalités selon
+lesquelles les entreprises participent aux frais de gestion et de délivrance.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°2009-1503 du 8 décembre 2009 - art. 35 (Ab)
+  - Loi n°2012-387 du 22 mars 2012 - art. 91
+
+_Cite_:
+
+  - Code des transports - art. L3421-2
 
 _Cité par_:
 
@@ -51759,6 +51770,23 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L6221-4-1
+
+Les documents techniques nécessaires à la construction, à la maintenance, à l'utilisation opérationnelle des aéronefs et aux
+supports de formation dans ces domaines bénéficient du même régime que ceux mentionnés au dernier alinéa de l'article L.
+1321-6 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 93
+
+_Cite_:
+
+  - Code du travail - art. L1321-6
 
 
 ###### Article L6221-5

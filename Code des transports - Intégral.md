@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-06-24
+Version Consolidée au 2012-07-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-2)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -15883,23 +15883,24 @@ _Codifié par_:
 
 ###### Article L2231-4
 
-Les riverains des voies ferrées peuvent être contraints de respecter les règles de gestion forestière prévues par l'article
-L. 322-8 du code forestier.
+Les riverains des voies ferrées peuvent être contraints de respecter les règles de gestion forestière prévues par les
+articles L131-16 et L134-12 du nouveau code forestier.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Code forestier - art. L322-8 (V)
+  - Ordonnance n°2012-92 du 26 janvier 2012 - art. 5
 
 _Cité par_:
 
   - Code des transports - art. L2311-2 (V)
   - Code du tourisme. - art. L342-15 (V)
 
-_Codifié par_:
+_Cite_:
 
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+  - Code forestier (nouveau) - art. L131-16 (V)
+  - Code forestier (nouveau) - art. L134-12 (V)
 
 
 ###### Article L2231-5

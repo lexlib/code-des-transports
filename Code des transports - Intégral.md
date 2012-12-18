@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2012-11-22
+Version Consolidée au 2012-12-19
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -47410,20 +47410,31 @@ _Codifié par_:
 
 ###### Article L5552-31
 
-Chaque orphelin a droit à une pension temporaire égale à une fraction de la pension de réversion, sans toutefois que le
-conjoint survivant et les orphelins qu'ils soient ou non issus de plusieurs lits puissent recevoir au total plus que le
-montant de la pension attribuée ou qui aurait été attribuée au marin. S'il y a excédent, il est procédé à la réduction
-temporaire des pensions d'orphelins.
+Chaque orphelin a droit à une pension temporaire égale à une fraction définie par décret en Conseil d'Etat de la pension dont
+le marin était ou aurait été titulaire, sans toutefois que le conjoint survivant et les orphelins qu'ils soient ou non issus
+de plusieurs lits puissent recevoir au total plus que le montant de la pension attribuée ou qui aurait été attribuée au
+marin. S'il y a excédent, il est procédé à la réduction temporaire des pensions d'orphelins. 
 
-En cas de décès de l'autre parent ou si celui-ci ne peut prétendre à pension, les droits qui lui auraient appartenu passent
-aux enfants dans la limite du maximum fixé par le premier alinéa.
+En cas de décès de l'autre parent ou si celui-ci ne peut prétendre à pension de réversion, les droits qui lui auraient
+appartenu passent aux enfants dans les conditions fixées à l'article L. 5552-36 dans la limite du maximum fixé par le premier
+alinéa et de l'âge prévu à l'article L. 5552-33.
+
+**Nota:**
+
+Loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013, article 80 II : Ces dispositions
+s'appliquentLe aux pensions de réversion liquidées  à compter du 1er janvier 2013. 
+
+Dans les cas où son application conduit à la révision et à la liquidation d'une pension inférieure à ce que percevait l'ayant
+cause du marin avant le 1er janvier 2013, cet ayant cause conserve le bénéfice de l'ancienne pension jusqu'à la notification
+du nouveau montant calculé en application de l'article L. 5552-36 du code des transports, dans sa rédaction issue de la
+présente loi. Le trop-perçu ne peut faire l'objet d'aucune demande de l'administration tendant à la répétition des sommes
+indûment versées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des pensions de retraite des marins frança... - art. L18 (Ab), alinéas 2 et 3
-  - Code des pensions de retraite des marins frança... - art. L18-1 (Ab), alinéa 3
+  - Loi n°2012-1404 du 17 décembre 2012 - art. 80 (V)
 
 _Cité par_:
 
@@ -47432,6 +47443,10 @@ _Cité par_:
   - Code des transports - art. L5552-34 (Ab)
   - Code des transports - art. L5552-36 (V)
   - Code des transports - art. L5552-44 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5552-33 (V)
 
 _Codifié par_:
 
@@ -47484,39 +47499,6 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
-###### Article L5552-34
-
-Les orphelins du marin décédé mentionné à l'article L. 5552-11 ont droit à la réversion d'une fraction de la pension spéciale
-dont le marin était titulaire ou à laquelle il aurait pu prétendre s'il n'était décédé avant d'être pensionné, dans les
-conditions prévues aux articles L. 5552-31 à L. 5552-33.
-
-**Nota:**
-
-Loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013, article 80 II : Ces dispositions
-s'appliquentLe aux pensions de réversion liquidées  à compter du 1er janvier 2013. 
-
-Dans les cas où son application conduit à la révision et à la liquidation d'une pension inférieure à ce que percevait l'ayant
-cause du marin avant le 1er janvier 2013, cet ayant cause conserve le bénéfice de l'ancienne pension jusqu'à la notification
-du nouveau montant calculé en application de l'article L. 5552-36 du code des transports, dans sa rédaction issue de la
-présente loi. Le trop-perçu ne peut faire l'objet d'aucune demande de l'administration tendant à la répétition des sommes
-indûment versées.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°2012-1404 du 17 décembre 2012 - art. 80 (V)
-
-_Anciens textes_:
-
-  - Code des pensions de retraite des marins frança... - art. L25 (Ab)
-
-_Cite_:
-
-  - Code des transports - art. L5552-11
-  - Code des transports - art. L5552-31
-
-
 ###### Article L5552-35
 
 Le droit à pension des enfants n'est soumis à aucune condition d'antériorité de la naissance ou de l'adoption par rapport à
@@ -47541,26 +47523,44 @@ _Codifié par_:
 
 ###### Article L5552-36
 
-Lorsque les enfants mineurs issus de plusieurs lits sont orphelins de père et de mère, la pension qui aurait été attribuée au
-conjoint survivant se partage, par parties égales, entre chaque groupe d'orphelins. 
+En cas de pluralité d'ayants cause du marin, la pension de réversion prévue à l'article L. 5552-25 est répartie entre les
+bénéficiaires des différents lits comme suit : 
 
-La pension temporaire est, dans ce cas, attribuée dans les conditions prévues aux articles L. 5552-31 à L. 5552-33 et L.
-5552-35.
+1° Les conjoints survivants ou divorcés ayant droit à la pension de réversion ont droit à une part de la pension de réversion
+correspondant au rapport entre leur nombre et le nombre total de lits en présence. Cette part est ensuite partagée entre eux
+au prorata de la durée respective de chaque mariage. Un lit est constitué soit par le conjoint survivant, soit par chaque
+conjoint divorcé survivant, soit par chaque fratrie d'orphelins du marin dont l'autre parent n'a pas ou plus droit à pension
+de réversion ; 
+
+2° La différence entre le montant global de la pension de réversion et la part de cette pension versée aux conjoints
+survivants ou divorcés en application du 1° est répartie également entre les orphelins ayant droit à cette pension mentionnés
+au même 1°.
+
+**Nota:**
+
+Loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013, article 80 II : Ces dispositions
+s'appliquentLe aux pensions de réversion liquidées  à compter du 1er janvier 2013. 
+
+Dans les cas où son application conduit à la révision et à la liquidation d'une pension inférieure à ce que percevait l'ayant
+cause du marin avant le 1er janvier 2013, cet ayant cause conserve le bénéfice de l'ancienne pension jusqu'à la notification
+du nouveau montant calculé en application de l'article L. 5552-36 du code des transports, dans sa rédaction issue de la
+présente loi. Le trop-perçu ne peut faire l'objet d'aucune demande de l'administration tendant à la répétition des sommes
+indûment versées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des pensions de retraite des marins frança... - art. L19 (Ab), alinéa 2
+  - Loi n°2012-1404 du 17 décembre 2012 - art. 80 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5552-25
 
 _Cité par_:
 
   - Code des transports - art. L5552-31 (V)
   - Code des transports - art. L5552-44 (V)
-
-_Cite_:
-
-  - Code des transports - art. L5552-35 (V)
 
 _Codifié par_:
 
@@ -47569,23 +47569,30 @@ _Codifié par_:
 
 ###### Article L5552-37
 
-Lorsqu'au décès du marin il existe plusieurs conjoints ou ex-conjoints survivants, ayant droit à pension, la pension de
-réversion est répartie entre eux au prorata de la durée respective de chaque mariage. Au décès de l'un des bénéficiaires, le
-droit est reversé au profit des enfants que le bénéficiaire a eus avec le marin réunissant les conditions d'âge exigées pour
-l'octroi d'une pension ou, à défaut, sa part accroît la part des autres conjoints ou ex-conjoints survivants. 
+Lorsqu'au décès du marin il existe plusieurs conjoints ou anciens conjoints survivants ayant droit à l'allocation annuelle
+proportionnelle prévue à l'article L. 5552-29, cette allocation est répartie entre eux au prorata de la durée respective de
+chaque mariage.
 
-Les dispositions du premier alinéa s'appliquent dans les mêmes conditions à l'allocation annuelle mentionnée à l'article L.
-5552-29.
+**Nota:**
+
+Loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013, article 80 II : Ces dispositions
+s'appliquentLe aux pensions de réversion liquidées  à compter du 1er janvier 2013. 
+
+Dans les cas où son application conduit à la révision et à la liquidation d'une pension inférieure à ce que percevait l'ayant
+cause du marin avant le 1er janvier 2013, cet ayant cause conserve le bénéfice de l'ancienne pension jusqu'à la notification
+du nouveau montant calculé en application de l'article L. 5552-36 du code des transports, dans sa rédaction issue de la
+présente loi. Le trop-perçu ne peut faire l'objet d'aucune demande de l'administration tendant à la répétition des sommes
+indûment versées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des pensions de retraite des marins frança... - art. L20 (Ab), alinéas 3 à 5
+  - Loi n°2012-1404 du 17 décembre 2012 - art. 80 (V)
 
 _Cite_:
 
-  - Code des transports - art. L5552-29 (V)
+  - Code des transports - art. L5552-29
 
 _Codifié par_:
 
@@ -47716,11 +47723,11 @@ _Codifié par_:
 
 ###### Article L5552-44
 
-Sous réserve des dispositions des articles L. 5552-7, 
-L. 5552-10, L. 5552-31 et L. 5552-38, les pensions sont définitivement acquises et ne peuvent être révisées ou supprimées que
-dans les conditions suivantes : 
+Sous réserve des  dispositions des articles L. 5552-7, 
+L. 5552-10, L. 5552-31, L. 5552-36, L. 5552-37 et L. 5552-38, les pensions sont définitivement acquises et ne peuvent être
+révisées ou supprimées que dans les conditions suivantes : 
 
-1° A tout moment, en cas d'erreur matérielle ; 
+1° A tout moment, en cas d'erreur matérielle ;
 
 2° Dans le délai d'un an à compter de la notification de la décision de concession initiale de la pension, en cas d'erreur de
 droit. 
@@ -47728,18 +47735,30 @@ droit.
 La restitution des sommes payées au titre de la pension supprimée ou révisée est exigible lorsque l'intéressé était de
 mauvaise foi.
 
+**Nota:**
+
+Loi n° 2012-1404 du 17 décembre 2012 de financement de la sécurité sociale pour 2013, article 80 II : Ces dispositions
+s'appliquentLe aux pensions de réversion liquidées  à compter du 1er janvier 2013. 
+
+Dans les cas où son application conduit à la révision et à la liquidation d'une pension inférieure à ce que percevait l'ayant
+cause du marin avant le 1er janvier 2013, cet ayant cause conserve le bénéfice de l'ancienne pension jusqu'à la notification
+du nouveau montant calculé en application de l'article L. 5552-36 du code des transports, dans sa rédaction issue de la
+présente loi. Le trop-perçu ne peut faire l'objet d'aucune demande de l'administration tendant à la répétition des sommes
+indûment versées.
+
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des pensions de retraite des marins frança... - art. L37 (Ab)
+  - Loi n°2012-1404 du 17 décembre 2012 - art. 80 (V)
 
 _Cite_:
 
-  - Code des transports - art. L5552-10 (V)
+  - Code des transports - art. L5552-10
   - Code des transports - art. L5552-31 (V)
-  - Code des transports - art. L5552-38 (V)
-  - Code des transports - art. L5552-7 (V)
+  - Code des transports - art. L5552-36 (V)
+  - Code des transports - art. L5552-38
+  - Code des transports - art. L5552-7
 
 _Codifié par_:
 
@@ -47830,14 +47849,14 @@ _Codifié par_:
 ###### Article L5553-3
 
 Les périodes de perception d'une indemnité journalière de sécurité sociale pour accident du travail ou maladie
-professionnelle, accident non professionnel, maladie, maternité ou congé de paternité donnent lieu, de la part des
-bénéficiaires, au versement de la cotisation personnelle assise sur le montant de cette indemnité.
+professionnelle, accident non professionnel, maladie, maternité ou congé de paternité et d'accueil de l'enfant donnent lieu,
+de la part des bénéficiaires, au versement de la cotisation personnelle assise sur le montant de cette indemnité.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des pensions de retraite des marins frança... - art. L41 (Ab), alinéa 6
+  - Loi n°2012-1404 du 17 décembre 2012 - art. 94
 
 _Codifié par_:
 

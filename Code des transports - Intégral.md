@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-06-09
+Version Consolidée au 2013-06-17
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -790,7 +790,7 @@ Version Consolidée au 2013-06-09
                   - [2. Préavis et indemnité de licenciement (art. L5542-43 à L5542-44)](#787)
                 - [Paragraphe 3 : Contrat à durée déterminée ou au voyage (art. L5542-45 à L5542-46)](#788)
                 - [Paragraphe 4 : Dispositions particulières au capitaine (art. L5542-47)](#789)
-            - [Section 2 : La résolution des litiges individuels (art. L5542-48 à L5542-49)](#790)
+            - [Section 2 : La résolution des litiges individuels (art. L5542-48)](#790)
             - [Section 3 : Sanctions pénales (art. L5542-50 à L5542-55)](#791)
           - [Chapitre III : Les relations collectives de travail (art. L5543-1 à L5543-4)](#792)
             - [Section 1 : Négociation collective. ― Conventions et accords collectifs de travail (art. L5543-1)](#793)
@@ -44310,34 +44310,6 @@ _Cité par_:
   - Décret n°2015-219 du 27 février 2015 - art. 5 (V)
   - Loi n°2017-1340 du 15 septembre 2017 - art. 3 (V)
   - Code des transports - art. L5549-2 (V)
-
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
-
-
-###### Article L5542-49
-
-Sous réserve des dispositions de l'article L. 3245-1 du code du travail, les actions ayant trait aux différends liés à
-l'embarquement se prescrivent par un an après la fin du voyage.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°2013-619 du 16 juillet 2013 - art. 32 (V)
-
-_Cité par_:
-
-  - Loi n°2013-619 du 16 juillet 2013 - art. 32 (V)
-
-_Cite_:
-
-  - Code du travail - art. L3245-1
-
-_Anciens textes_:
-
-  - Code du travail maritime - art. 130 (Ab)
 
 _Codifié par_:
 

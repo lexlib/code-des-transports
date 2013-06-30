@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-06-17
+Version Consolidée au 2013-07-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -5464,15 +5464,21 @@ _Modifié par_:
 
 ###### Article L1252-11
 
-Les règles relatives au transport de déchets sont fixées par les dispositions des articles L. 541-7, L. 541-8 et L. 541-44 à
-L. 541-48 du code de l'environnement.
+Les règles relatives au transport de déchets sont fixées par les dispositions des articles L. 541-7, L. 541-8 et L. 541-44,
+L. 541-46 et L. 541-48 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 25
+
 _Cite_:
 
-  - Code de l'environnement - art. L541-44 (V)
-  - Code de l'environnement - art. L541-7 (V)
+  - Code de l'environnement - art. L541-44
+  - Code de l'environnement - art. L541-46
+  - Code de l'environnement - art. L541-48
+  - Code de l'environnement - art. L541-7
 
 _Codifié par_:
 
@@ -23965,16 +23971,20 @@ _Codifié par_:
 
 ###### Article L4271-1
 
-Les dispositions de l'article L. 216-1 du code de l'environnement sont applicables en cas de méconnaissance des dispositions
+Les dispositions de l'article L. 171-8 du code de l'environnement sont applicables en cas de méconnaissance des dispositions
 des articles L. 4242-2, L. 4242-3 et L. 4243-1.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 25
+
 _Cite_:
 
-  - Code de l'environnement - art. L216-1 (V)
-  - Code des transports - art. L4242-2 (V)
-  - Code des transports - art. L4243-1 (V)
+  - Code de l'environnement - art. L171-8
+  - Code des transports - art. L4242-2
+  - Code des transports - art. L4243-1
 
 _Codifié par_:
 
@@ -38065,7 +38075,7 @@ attributions mentionnées au premier alinéa de l'article L. 2332-2 du code gén
 l'autorité portuaire est un syndicat mixte, le montant du prélèvement constitue une dépense obligatoire. 
 
 La somme correspondant au prélèvement est consignée entre les mains du comptable public, dans les conditions fixées à
-l'article L. 216-1 du code de l'environnement, jusqu'à l'adoption définitive du plan visé à l'article L. 5334-10 dans le
+l'article L. 171-8 du code de l'environnement, jusqu'à l'adoption définitive du plan visé à l'article L. 5334-10 dans le
 délai fixé par le représentant de l'Etat dans le département. Si le plan n'est pas adopté dans ce délai, la somme est
 définitivement acquise à l'Etat qui se substitue à la collectivité territoriale ou au groupement compétent défaillant pour
 l'élaboration et l'adoption du plan visé à l'article L. 5334-10.
@@ -38074,17 +38084,17 @@ l'élaboration et l'adoption du plan visé à l'article L. 5334-10.
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2332-2
-  - Code de l'environnement - art. L216-1 (V)
-  - Code des transports - art. L5334-10 (V)
-
-_Anciens textes_:
-
-  - Code des ports maritimes - art. L156-2 (Ab)
+  - Code général des collectivités territoriales - art. L2332-2 (V)
+  - Code de l'environnement - art. L171-8
+  - Code des transports - art. L5334-10
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 25
 
 
 ##### Section 4 : Chargement et déchargement des navires vraquiers<a id=670></a>

@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2013-08-30
+Version Consolidée au 2013-10-01
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -1067,7 +1067,7 @@ et aux créations d'aérodromes (art. L6353-1 à L6353-2)](#1035)
           - [Chapitre II : Exercice de l'activité de transporteur aérien public (art. L6412-1 à L6412-7)](#1059)
         - [TITRE II : CONTRAT DE TRANSPORT (art. L6421-1 à L6422-5)](#1060)
           - [Chapitre Ier : Transport de personnes et de bagages (art. L6421-1 à L6421-4)](#1061)
-            - [Section 1 : Le contrat de transport (art. L6421-1 à L6421-2)](#1062)
+            - [Section 1 : Le contrat de transport (art. L6421-1 à L6421-2-1)](#1062)
             - [Section 2 : Responsabilité du transporteur aérien (art. L6421-3 à L6421-4)](#1063)
           - [Chapitre II : Transport de marchandises (art. L6422-1 à L6422-5)](#1064)
             - [Section 1 : Le contrat de transport de marchandises (art. L6422-1)](#1065)
@@ -61202,6 +61202,37 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+
+###### Article L6421-2-1
+
+Toute personne physique ou morale commercialisant un titre de transport sur les vols d'un transporteur aérien effectif
+figurant sur la liste des transporteurs aériens faisant l'objet dans l'Union européenne d'une interdiction d'exploitation
+doit informer de manière claire et non ambiguë le passager ou l'acquéreur, si celui-ci n'est pas l'utilisateur du billet, de
+cette situation et l'inviter à rechercher des solutions de transport de remplacement.
+
+Il lui est indiqué par écrit, avant la conclusion de la vente, qu'il voyagera sur une compagnie figurant sur la liste
+européenne des transporteurs aériens faisant l'objet dans l'Union européenne d'une interdiction d'exploitation.
+
+Le fait de se livrer ou d'apporter son concours à la commercialisation d'un titre de transport sans respecter les mesures
+ordonnées en application du présent article est passible d'une amende administrative de 7 500 € par titre de transport,
+doublée en cas de récidive, sans préjudice des poursuites pouvant être engagées au titre de l'article 121-3 du code pénal.
+
+**Nota:**
+
+Conformément au II de l'article unique de la loi n° 2013-343 du 24 avril 2013, la présente loi entre en vigueur à une date
+fixée par décret et au plus tard un an après sa promulgation. Conformément à l'article 1 du décret n° 2013-698 du 30 juillet
+2013, la loi n° 2013-343 du 24 avril 2013 entre en vigueur le 1er octobre 2013.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-343 du 24 avril 2013 - art. unique.
+
+_Cite_:
+
+  - Code pénal - art. 121-3
 
 
 ##### Section 2 : Responsabilité du transporteur aérien<a id=1063></a>

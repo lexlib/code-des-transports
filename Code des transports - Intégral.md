@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-22
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -49261,17 +49261,21 @@ _Codifié par_:
 
 ###### Article L5552-20
 
-Les pensions concédées sont revalorisées lorsque le salaire forfaitaire est revalorisé.
+Les pensions sont revalorisées dans les conditions fixées à l'article L. 161-23-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des pensions de retraite des marins frança... - art. L15 (Ab), alinéa 1
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Modifié par_:
+
+  - Loi n°2014-40 du 20 janvier 2014 - art. 6
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L161-23-1
 
 
 ###### Article L5552-21

@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-07-19
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -1340,7 +1340,7 @@ ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1083)
               - [Sous-section 4 : Equivalences (art. R4231-19 à R4231-22)](#1331)
             - [Section 2 : Engins flottants et navires (art. R4231-23)](#1332)
             - [Section 3 : Bateaux de plaisance (art. R4231-24)](#1333)
-        - [TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE (art. R4241-8 à R4242-12)](#1334)
+        - [TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE (art. R4241-8 à R4244-1)](#1334)
           - [Chapitre Ier : Règlements de police (art. R4241-8 à R4241-71)](#1335)
             - [Section 1 : Règlement général de police  de la navigation intérieure (art. R4241-8 à R4241-46)](#1336)
               - [Sous-section 1 : Dispositions générales (art. R4241-8 à R4241-46)](#1337)
@@ -1351,146 +1351,147 @@ ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1083)
           - [Chapitre II : Navigation des bateaux non motorisés (art. R4242-1 à R4242-12)](#1342)
             - [Section 1 : Conditions de signalisation des ouvrages (art. R4242-1 à R4242-8)](#1343)
             - [Section 2 : Etablissement de la liste des ouvrages nécessitant un aménagement adapté pour assurer la circulation sécurisée des engins nautiques non motorisés (art. R4242-9 à R4242-12)](#1344)
-        - [TITRE V : DISPOSITIONS RELATIVES  À LA NAVIGATION DES BATEAUX EN MER (art. D4251-1)](#1345)
-          - [Chapitre unique : Dispositions générales (art. D4251-1)](#1346)
-        - [TITRE VI : DISPOSITIONS SPÉCIFIQUES À LA NAVIGATION  DU RHIN, DE LA MOSELLE ET SUR LE LÉMAN (art. D4261-1 à D4261-15)](#1347)
-          - [Chapitre Ier : Navigation du Rhin (art. D4261-1 à D4261-15)](#1348)
-            - [Section 1 : Modalités d'application du règlement  de visite des bateaux du Rhin (art. D4261-1 à D4261-12)](#1349)
-              - [Sous-section 1 : Autorités compétentes pour l'application  du règlement de visite des bateaux du Rhin (art. D4261-1 à D4261-4)](#1350)
-              - [Sous-section 2 : Autres modalités d'application  du règlement de visite des bateaux du Rhin (art. D4261-5 à D4261-12)](#1351)
-            - [Section 2 : Modalités d'application du règlement  relatif au personnel de la navigation sur le Rhin (art. D4261-13)](#1352)
-            - [Section 3 : Modalités d'application du règlement de police  pour la navigation du Rhin (art. D4261-14 à D4261-15)](#1353)
-        - [TITRE VII : SANCTIONS ADMINISTRATIVES  ET SANCTIONS PÉNALES (art. R4271-1 à R4272-4)](#1354)
-          - [Chapitre Ier : Sanctions administratives (art. R4271-1 à R4271-3)](#1355)
-          - [Chapitre II : Recherche et constatation des infractions (art. R4272-1 à R4272-4)](#1356)
-      - [LIVRE III : VOIES NAVIGABLES DE FRANCE  ET PORTS FLUVIAUX (art. R4311-1 à R4323-55)](#1357)
-        - [TITRE Ier : VOIES NAVIGABLES DE FRANCE (art. R4311-1 à R4316-14)](#1358)
-          - [Chapitre Ier : Objet et missions (art. R4311-1 à R4311-5)](#1359)
-          - [Chapitre II : Organisation administrative (art. R4312-1 à D4312-22)](#1360)
-            - [Section 1 : Conseil d'administration (art. R4312-1 à R4312-15)](#1361)
-              - [Sous-section 1 : Organisation (art. R4312-1 à R4312-5)](#1362)
-              - [Sous-section 2 : Fonctionnement (art. R4312-6 à R4312-15)](#1363)
-            - [Section 2 : Directeur général (art. R4312-16 à R4312-17)](#1364)
-            - [Section 3 : Contrôle de l'Etat (art. R4312-18)](#1365)
-            - [Section 4 : Commissions territoriales (art. D4312-19 à D4312-22)](#1366)
-          - [Chapitre III : Gestion financière, comptable et domaniale (art. R4313-1 à R4313-19)](#1367)
-            - [Section 1 : Gestion financière et comptable (art. R4313-1 à R4313-12)](#1368)
-            - [Section 2 : Gestion domaniale (art. R4313-13 à R4313-19)](#1369)
-          - [Chapitre IV : Domaine confié à Voies navigables de France (art. D4314-1 à D4314-3)](#1370)
-          - [Chapitre VI : Ressources de Voies navigables de France (art. R4316-1 à R4316-14)](#1371)
-            - [Section 1 : Taxe sur les titulaires d'ouvrages hydrauliques (art. R4316-1 à R4316-10)](#1372)
-              - [Sous-section 1 : Dispositions générales (art. R4316-1 à R4316-9)](#1373)
-              - [Sous-section 2 : Contrôle (art. R4316-10)](#1374)
-            - [Section 2 : Redevances domaniales et autres produits (art. R4316-11 à R4316-14)](#1375)
-        - [TITRE II : LES PORTS FLUVIAUX (art. D4321-1 à R4323-55)](#1376)
-          - [Chapitre Ier : Organisation (art. D4321-1 à D4321-8)](#1377)
-            - [Section 1 : Voies ferrées des ports fluviaux (art. D4321-1)](#1378)
-            - [Section 2 : Police (art. D4321-2 à D4321-8)](#1379)
-          - [Chapitre II : Port autonome de Paris (art. D4322-2 à R4322-71)](#1380)
-            - [Section 1 : Nature et attributions (art. D4322-2 à R4322-6)](#1381)
-            - [Section 2 : Organisation administrative (art. R4322-7 à R4322-43)](#1382)
-              - [Sous-section 1 : Conseil d'administration (art. R4322-7 à R4322-38)](#1383)
-                - [Paragraphe 1 : Organisation (art. R4322-7 à R4322-17)](#1384)
-                - [Paragraphe 2 : Fonctionnement (art. R4322-18 à R4322-38)](#1385)
-              - [Sous-section 2 : Directeur général (art. R4322-39 à R4322-42)](#1386)
-              - [Sous-section 3 : Personnel (art. R4322-43)](#1387)
-            - [Section 3 : Gestion financière, comptable et domaniale (art. D4322-45 à R4322-54)](#1388)
-              - [Sous-section 1 : Gestion financière et comptable (art. D4322-45 à R4322-52)](#1389)
-              - [Sous-section 2 : Gestion domaniale (art. R4322-53 à R4322-54)](#1390)
-            - [Section 4 : Contrôle de l'Etat (art. R4322-55 à R4322-58)](#1391)
-            - [Section 5 : Domaine (art. R4322-59 à R4322-60)](#1392)
-            - [Section 6 : Patrimoine (art. R4322-61)](#1393)
-            - [Section 7 : Ressources (art. R4322-62 à R4322-71)](#1394)
-          - [Chapitre III : Droits de port (art. R4323-1 à R4323-55)](#1395)
-            - [Section 1 : Ports fluviaux ouverts au trafic des navires autres  que les ports du Rhin et de la Moselle (art. R4323-1 à R4323-34)](#1396)
-              - [Sous-section 1 : Dispositions générales (art. R4323-1 à R4323-8)](#1397)
-              - [Sous-section 2 : Redevance sur le navire (art. R4323-9 à R4323-30)](#1398)
-                - [Paragraphe 1 : Modalités de fixation (art. R4323-9 à R4323-18)](#1399)
-                - [Paragraphe 2 : Réductions et exemptions de la redevance fluviale (art. R4323-19 à R4323-26)](#1400)
-                - [Paragraphe 3 : Réductions et exemptions de la redevance maritime (art. R4323-27 à R4323-30)](#1401)
-              - [Sous-section 3 : Redevance sur les marchandises (art. R4323-31 à R4323-33)](#1402)
-              - [Sous-section 4 : Redevance sur les passagers (art. D4323-35 à R4323-34)](#1403)
-            - [Section 2 : Ports du Rhin et de la Moselle (art. R4323-37 à R4323-55)](#1404)
-              - [Sous-section 1 : Dispositions générales (art. R4323-37 à R4323-43)](#1405)
-              - [Sous-section 2 : Droit de port (art. R4323-44 à R4323-55)](#1406)
-                - [Paragraphe 1 : Redevance sur les marchandises (art. R4323-44 à R4323-46)](#1407)
-                - [Paragraphe 2 : Redevance sur les passagers (art. D4323-48 à R4323-47)](#1408)
-                - [Paragraphe 3 : Redevance sur le stationnement  des bateaux et navires de commerce (art. R4323-52)](#1409)
-                - [Paragraphe 4 : Redevance d'équipement des ports de plaisance (art. R4323-53 à R4323-55)](#1410)
-      - [LIVRE IV : LE TRANSPORT FLUVIAL (art. R4400-1 à Annexe à l'article D4452-2)](#1411)
-        - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D4411-1 à R4413-1)](#1412)
-          - [Chapitre Ier : Schéma de développement du transport fluvial (art. D4411-1 à D4411-8)](#1413)
-            - [Section unique : Services d'information fluviale (art. D4411-1 à D4411-8)](#1414)
-          - [Chapitre II : Péages fluviaux (art. R4412-1 à R4412-11)](#1415)
-            - [Section unique : Péages fluviaux perçus sur le domaine  confié à Voies navigables de France (art. R4412-1 à R4412-11)](#1416)
-          - [Chapitre III : Cabotage fluvial (art. R4413-1)](#1417)
-        - [TITRE II : ENTREPRISES DE TRANSPORT FLUVIAL (art. R*4421-1 à R4421-8)](#1418)
-          - [Chapitre Ier : Entreprises de transport fluvial de marchandises (art. R*4421-1 à R4421-8)](#1419)
-        - [TITRE III : BATELLERIE ARTISANALE (art. R4431-1 à R4432-18)](#1420)
-          - [Chapitre Ier : Entreprises de la batellerie artisanale (art. R4431-1 à R4431-3)](#1421)
-          - [Chapitre II : Chambre nationale de la batellerie artisanale (art. R4432-1 à R4432-18)](#1422)
-            - [Section 1 : Objet et missions (art. R4432-1 à R4432-2)](#1423)
-            - [Section 2 : Organisation administrative (art. R4432-3 à R4432-14)](#1424)
-              - [Sous-section 1 : Le conseil d'administration (art. R4432-3 à R4432-13)](#1425)
-                - [Paragraphe 1 : Organisation (art. R4432-3 à R4432-6)](#1426)
-                - [Paragraphe 2 : Fonctionnement (art. R4432-7 à R4432-13)](#1427)
-              - [Sous-section 2 : Le président (art. R4432-14)](#1428)
-            - [Section 3 : Gestion financière et comptable (art. R4432-15 à R4432-16)](#1429)
-            - [Section 4 : Ressources de l'établissement (art. R4432-17)](#1430)
-            - [Section 5 : Contrôle de l'Etat (art. R4432-18)](#1431)
-        - [TITRE IV : COURTIERS DE FRET FLUVIAL (art. R*4441-1 à R4441-11)](#1432)
-          - [Chapitre unique (art. R*4441-1 à R4441-11)](#1433)
-        - [TITRE V : CONTRATS RELATIFS AU TRANSPORT  DE MARCHANDISES (art. D4451-1 à D4452-2)](#1434)
-          - [Chapitre Ier : Le contrat de transport (art. D4451-1 à D4451-4)](#1435)
-            - [Section 1 : Dispositions générales (art. D4451-1)](#1436)
-            - [Section 2 : Contrats types (art. D4451-2 à D4451-4)](#1437)
-          - [Chapitre II : Contrats de sous-traitance (art. D4452-1 à D4452-2)](#1438)
-        - [TITRE VI : CONTRÔLE ET DISPOSITIONS PÉNALES (art. R4461-1 à R4463-1)](#1439)
-          - [Chapitre Ier : Contrôle (art. R4461-1 à R4461-3)](#1440)
-          - [Chapitre II : Recherche, constatation et poursuite des infractions (art. R4462-1 à R4462-10)](#1441)
-            - [Section 1 : Dispositions relatives aux péages fluviaux (art. R4462-1 à R4462-6)](#1442)
-              - [Sous-section 1 : Péages fluviaux perçus  au profit de Voies navigables de France (art. R4462-1 à R4462-4)](#1443)
-              - [Sous-section 2 : Dispositions communes (art. R4462-5 à R4462-6)](#1444)
-            - [Section 2 : Dispositions relatives au cabotage fluvial  et à l'immobilisation des bateaux (art. R4462-7 à R4462-10)](#1445)
-          - [Chapitre III : Sanctions pénales (art. R4463-1)](#1446)
-        - [TITRE VII : DISPOSITIONS SPÉCIFIQUES AUX TRANSPORTS  SUR LE RHIN ET LA MOSELLE (art. R4471-1 à R4472-13)](#1447)
-          - [Chapitre Ier : Dispositions générales (art. R4471-1)](#1448)
-          - [Chapitre II : Sanctions pénales (art. R4472-1 à R4472-13)](#1449)
-            - [Section 1 : Recherche, constatation et poursuite des infractions (art. R4472-1 à R4472-2)](#1450)
-            - [Section 2 : Appréhension et saisie du bateau ou navire (art. R4472-3 à R4472-13)](#1451)
-        - [Annexes au LIVRE IV (art. Annexe à l'article D4451-2 à Annexe à l'article D4452-2)](#1452)
-      - [LIVRE V : PERSONNELS DES ENTREPRISES  DE NAVIGATION INTÉRIEURE (art. D4511-3 à R4511-25)](#1453)
-        - [TITRE Ier : RÉGIMES DE TRAVAIL (art. D4511-3 à R4511-25)](#1454)
-          - [Chapitre Ier : Dispositions générales (art. D4511-3 à R4511-25)](#1455)
-            - [Section 1 : Dispositions communes au personnel navigant  et au personnel sédentaire (art. D4511-3 à R4511-7)](#1456)
-            - [Section 2 : Personnel navigant (art. D4511-11 à R4511-18)](#1457)
-              - [Sous-section 1 : Dispositions communes au personnel navigant (art. D4511-11 à R4511-10)](#1458)
-              - [Sous-section 2 : Transport de marchandises (art. R4511-12 à R4511-17)](#1459)
-                - [Paragraphe 1 : Modes d'exploitation (art. R4511-12)](#1460)
-                - [Paragraphe 2 : Bateaux exploités en relèves (art. D4511-13 à D4511-14)](#1461)
-                - [Paragraphe 3 : Bateaux exploités en flotte classique (art. D4511-15 à R4511-17)](#1462)
-              - [Sous-section 3 : Transport de personnes (art. D4511-19 à R4511-18)](#1463)
-            - [Section 3 : Personnel sédentaire (art. D4511-22 à R4511-25)](#1464)
-      - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R4600-1 à R4651-4)](#1465)
-        - [TITRE Ier : DISPOSITIONS SPÉCIFIQUES  AUX DÉPARTEMENTS D'OUTRE-MER (art. R4611-1 à R4611-4)](#1466)
-          - [Chapitre unique (art. R4611-1 à R4611-4)](#1467)
-        - [TITRE II : DISPOSITIONS SPÉCIFIQUES À MAYOTTE (art. R4621-1 à R4621-5)](#1468)
-          - [Chapitre unique (art. R4621-1 à R4621-5)](#1469)
-        - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY (art. R4631-1 à R4631-4)](#1470)
-          - [Chapitre unique (art. R4631-1 à R4631-4)](#1471)
-        - [TITRE IV : DISPOSITIONS SPÉCIFIQUES  À SAINT-MARTIN (art. R4641-1 à R4641-4)](#1472)
-          - [Chapitre unique (art. R4641-1 à R4641-4)](#1473)
-        - [TITRE V : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R4651-1 à R4651-4)](#1474)
-          - [Chapitre unique (art. R4651-1 à R4651-4)](#1475)
-  - [PARTIE REGLEMENTAIRE - Arrêtés (art. A4241-26 à A4241-35-4)](#1476)
-    - [QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL (art. A4241-26 à A4241-35-4)](#1477)
-      - [LIVRE II : NAVIGATION INTÉRIEURE (art. A4241-26 à A4241-35-4)](#1478)
-        - [TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE (art. A4241-26 à A4241-35-4)](#1479)
-          - [Chapitre Ier : Règlements de police (art. A4241-26 à A4241-35-4)](#1480)
-            - [Section 1 : Règlement général de police de la navigation intérieure (art. A4241-26 à A4241-35-4)](#1481)
-              - [Sous-section 1 : Dispositions générales (art. A4241-26 à A4241-35-4)](#1482)
-                - [Paragraphe 4 : Prescriptions temporaires (art. A4241-26)](#1483)
-                - [Paragraphe 7 : Transports spéciaux (art. A4241-35-1 à A4241-35-4)](#1484)
+          - [Chapitre IV : Déplacement d'office (art. R4244-1)](#1345)
+        - [TITRE V : DISPOSITIONS RELATIVES  À LA NAVIGATION DES BATEAUX EN MER (art. D4251-1)](#1346)
+          - [Chapitre unique : Dispositions générales (art. D4251-1)](#1347)
+        - [TITRE VI : DISPOSITIONS SPÉCIFIQUES À LA NAVIGATION  DU RHIN, DE LA MOSELLE ET SUR LE LÉMAN (art. D4261-1 à D4261-15)](#1348)
+          - [Chapitre Ier : Navigation du Rhin (art. D4261-1 à D4261-15)](#1349)
+            - [Section 1 : Modalités d'application du règlement  de visite des bateaux du Rhin (art. D4261-1 à D4261-12)](#1350)
+              - [Sous-section 1 : Autorités compétentes pour l'application  du règlement de visite des bateaux du Rhin (art. D4261-1 à D4261-4)](#1351)
+              - [Sous-section 2 : Autres modalités d'application  du règlement de visite des bateaux du Rhin (art. D4261-5 à D4261-12)](#1352)
+            - [Section 2 : Modalités d'application du règlement  relatif au personnel de la navigation sur le Rhin (art. D4261-13)](#1353)
+            - [Section 3 : Modalités d'application du règlement de police  pour la navigation du Rhin (art. D4261-14 à D4261-15)](#1354)
+        - [TITRE VII : SANCTIONS ADMINISTRATIVES  ET SANCTIONS PÉNALES (art. R4271-1 à R4272-4)](#1355)
+          - [Chapitre Ier : Sanctions administratives (art. R4271-1 à R4271-3)](#1356)
+          - [Chapitre II : Recherche et constatation des infractions (art. R4272-1 à R4272-4)](#1357)
+      - [LIVRE III : VOIES NAVIGABLES DE FRANCE  ET PORTS FLUVIAUX (art. R4311-1 à R4323-55)](#1358)
+        - [TITRE Ier : VOIES NAVIGABLES DE FRANCE (art. R4311-1 à R4316-14)](#1359)
+          - [Chapitre Ier : Objet et missions (art. R4311-1 à R4311-5)](#1360)
+          - [Chapitre II : Organisation administrative (art. R4312-1 à D4312-22)](#1361)
+            - [Section 1 : Conseil d'administration (art. R4312-1 à R4312-15)](#1362)
+              - [Sous-section 1 : Organisation (art. R4312-1 à R4312-5)](#1363)
+              - [Sous-section 2 : Fonctionnement (art. R4312-6 à R4312-15)](#1364)
+            - [Section 2 : Directeur général (art. R4312-16 à R4312-17)](#1365)
+            - [Section 3 : Contrôle de l'Etat (art. R4312-18)](#1366)
+            - [Section 4 : Commissions territoriales (art. D4312-19 à D4312-22)](#1367)
+          - [Chapitre III : Gestion financière, comptable et domaniale (art. R4313-1 à R4313-19)](#1368)
+            - [Section 1 : Gestion financière et comptable (art. R4313-1 à R4313-12)](#1369)
+            - [Section 2 : Gestion domaniale (art. R4313-13 à R4313-19)](#1370)
+          - [Chapitre IV : Domaine confié à Voies navigables de France (art. D4314-1 à D4314-3)](#1371)
+          - [Chapitre VI : Ressources de Voies navigables de France (art. R4316-1 à R4316-14)](#1372)
+            - [Section 1 : Taxe sur les titulaires d'ouvrages hydrauliques (art. R4316-1 à R4316-10)](#1373)
+              - [Sous-section 1 : Dispositions générales (art. R4316-1 à R4316-9)](#1374)
+              - [Sous-section 2 : Contrôle (art. R4316-10)](#1375)
+            - [Section 2 : Redevances domaniales et autres produits (art. R4316-11 à R4316-14)](#1376)
+        - [TITRE II : LES PORTS FLUVIAUX (art. D4321-1 à R4323-55)](#1377)
+          - [Chapitre Ier : Organisation (art. D4321-1 à D4321-8)](#1378)
+            - [Section 1 : Voies ferrées des ports fluviaux (art. D4321-1)](#1379)
+            - [Section 2 : Police (art. D4321-2 à D4321-8)](#1380)
+          - [Chapitre II : Port autonome de Paris (art. D4322-2 à R4322-71)](#1381)
+            - [Section 1 : Nature et attributions (art. D4322-2 à R4322-6)](#1382)
+            - [Section 2 : Organisation administrative (art. R4322-7 à R4322-43)](#1383)
+              - [Sous-section 1 : Conseil d'administration (art. R4322-7 à R4322-38)](#1384)
+                - [Paragraphe 1 : Organisation (art. R4322-7 à R4322-17)](#1385)
+                - [Paragraphe 2 : Fonctionnement (art. R4322-18 à R4322-38)](#1386)
+              - [Sous-section 2 : Directeur général (art. R4322-39 à R4322-42)](#1387)
+              - [Sous-section 3 : Personnel (art. R4322-43)](#1388)
+            - [Section 3 : Gestion financière, comptable et domaniale (art. D4322-45 à R4322-54)](#1389)
+              - [Sous-section 1 : Gestion financière et comptable (art. D4322-45 à R4322-52)](#1390)
+              - [Sous-section 2 : Gestion domaniale (art. R4322-53 à R4322-54)](#1391)
+            - [Section 4 : Contrôle de l'Etat (art. R4322-55 à R4322-58)](#1392)
+            - [Section 5 : Domaine (art. R4322-59 à R4322-60)](#1393)
+            - [Section 6 : Patrimoine (art. R4322-61)](#1394)
+            - [Section 7 : Ressources (art. R4322-62 à R4322-71)](#1395)
+          - [Chapitre III : Droits de port (art. R4323-1 à R4323-55)](#1396)
+            - [Section 1 : Ports fluviaux ouverts au trafic des navires autres  que les ports du Rhin et de la Moselle (art. R4323-1 à R4323-34)](#1397)
+              - [Sous-section 1 : Dispositions générales (art. R4323-1 à R4323-8)](#1398)
+              - [Sous-section 2 : Redevance sur le navire (art. R4323-9 à R4323-30)](#1399)
+                - [Paragraphe 1 : Modalités de fixation (art. R4323-9 à R4323-18)](#1400)
+                - [Paragraphe 2 : Réductions et exemptions de la redevance fluviale (art. R4323-19 à R4323-26)](#1401)
+                - [Paragraphe 3 : Réductions et exemptions de la redevance maritime (art. R4323-27 à R4323-30)](#1402)
+              - [Sous-section 3 : Redevance sur les marchandises (art. R4323-31 à R4323-33)](#1403)
+              - [Sous-section 4 : Redevance sur les passagers (art. D4323-35 à R4323-34)](#1404)
+            - [Section 2 : Ports du Rhin et de la Moselle (art. R4323-37 à R4323-55)](#1405)
+              - [Sous-section 1 : Dispositions générales (art. R4323-37 à R4323-43)](#1406)
+              - [Sous-section 2 : Droit de port (art. R4323-44 à R4323-55)](#1407)
+                - [Paragraphe 1 : Redevance sur les marchandises (art. R4323-44 à R4323-46)](#1408)
+                - [Paragraphe 2 : Redevance sur les passagers (art. D4323-48 à R4323-47)](#1409)
+                - [Paragraphe 3 : Redevance sur le stationnement  des bateaux et navires de commerce (art. R4323-52)](#1410)
+                - [Paragraphe 4 : Redevance d'équipement des ports de plaisance (art. R4323-53 à R4323-55)](#1411)
+      - [LIVRE IV : LE TRANSPORT FLUVIAL (art. R4400-1 à Annexe à l'article D4452-2)](#1412)
+        - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D4411-1 à R4413-1)](#1413)
+          - [Chapitre Ier : Schéma de développement du transport fluvial (art. D4411-1 à D4411-8)](#1414)
+            - [Section unique : Services d'information fluviale (art. D4411-1 à D4411-8)](#1415)
+          - [Chapitre II : Péages fluviaux (art. R4412-1 à R4412-11)](#1416)
+            - [Section unique : Péages fluviaux perçus sur le domaine  confié à Voies navigables de France (art. R4412-1 à R4412-11)](#1417)
+          - [Chapitre III : Cabotage fluvial (art. R4413-1)](#1418)
+        - [TITRE II : ENTREPRISES DE TRANSPORT FLUVIAL (art. R*4421-1 à R4421-8)](#1419)
+          - [Chapitre Ier : Entreprises de transport fluvial de marchandises (art. R*4421-1 à R4421-8)](#1420)
+        - [TITRE III : BATELLERIE ARTISANALE (art. R4431-1 à R4432-18)](#1421)
+          - [Chapitre Ier : Entreprises de la batellerie artisanale (art. R4431-1 à R4431-3)](#1422)
+          - [Chapitre II : Chambre nationale de la batellerie artisanale (art. R4432-1 à R4432-18)](#1423)
+            - [Section 1 : Objet et missions (art. R4432-1 à R4432-2)](#1424)
+            - [Section 2 : Organisation administrative (art. R4432-3 à R4432-14)](#1425)
+              - [Sous-section 1 : Le conseil d'administration (art. R4432-3 à R4432-13)](#1426)
+                - [Paragraphe 1 : Organisation (art. R4432-3 à R4432-6)](#1427)
+                - [Paragraphe 2 : Fonctionnement (art. R4432-7 à R4432-13)](#1428)
+              - [Sous-section 2 : Le président (art. R4432-14)](#1429)
+            - [Section 3 : Gestion financière et comptable (art. R4432-15 à R4432-16)](#1430)
+            - [Section 4 : Ressources de l'établissement (art. R4432-17)](#1431)
+            - [Section 5 : Contrôle de l'Etat (art. R4432-18)](#1432)
+        - [TITRE IV : COURTIERS DE FRET FLUVIAL (art. R*4441-1 à R4441-11)](#1433)
+          - [Chapitre unique (art. R*4441-1 à R4441-11)](#1434)
+        - [TITRE V : CONTRATS RELATIFS AU TRANSPORT  DE MARCHANDISES (art. D4451-1 à D4452-2)](#1435)
+          - [Chapitre Ier : Le contrat de transport (art. D4451-1 à D4451-4)](#1436)
+            - [Section 1 : Dispositions générales (art. D4451-1)](#1437)
+            - [Section 2 : Contrats types (art. D4451-2 à D4451-4)](#1438)
+          - [Chapitre II : Contrats de sous-traitance (art. D4452-1 à D4452-2)](#1439)
+        - [TITRE VI : CONTRÔLE ET DISPOSITIONS PÉNALES (art. R4461-1 à R4463-1)](#1440)
+          - [Chapitre Ier : Contrôle (art. R4461-1 à R4461-3)](#1441)
+          - [Chapitre II : Recherche, constatation et poursuite des infractions (art. R4462-1 à R4462-10)](#1442)
+            - [Section 1 : Dispositions relatives aux péages fluviaux (art. R4462-1 à R4462-6)](#1443)
+              - [Sous-section 1 : Péages fluviaux perçus  au profit de Voies navigables de France (art. R4462-1 à R4462-4)](#1444)
+              - [Sous-section 2 : Dispositions communes (art. R4462-5 à R4462-6)](#1445)
+            - [Section 2 : Dispositions relatives au cabotage fluvial  et à l'immobilisation des bateaux (art. R4462-7 à R4462-10)](#1446)
+          - [Chapitre III : Sanctions pénales (art. R4463-1)](#1447)
+        - [TITRE VII : DISPOSITIONS SPÉCIFIQUES AUX TRANSPORTS  SUR LE RHIN ET LA MOSELLE (art. R4471-1 à R4472-13)](#1448)
+          - [Chapitre Ier : Dispositions générales (art. R4471-1)](#1449)
+          - [Chapitre II : Sanctions pénales (art. R4472-1 à R4472-13)](#1450)
+            - [Section 1 : Recherche, constatation et poursuite des infractions (art. R4472-1 à R4472-2)](#1451)
+            - [Section 2 : Appréhension et saisie du bateau ou navire (art. R4472-3 à R4472-13)](#1452)
+        - [Annexes au LIVRE IV (art. Annexe à l'article D4451-2 à Annexe à l'article D4452-2)](#1453)
+      - [LIVRE V : PERSONNELS DES ENTREPRISES  DE NAVIGATION INTÉRIEURE (art. D4511-3 à R4511-25)](#1454)
+        - [TITRE Ier : RÉGIMES DE TRAVAIL (art. D4511-3 à R4511-25)](#1455)
+          - [Chapitre Ier : Dispositions générales (art. D4511-3 à R4511-25)](#1456)
+            - [Section 1 : Dispositions communes au personnel navigant  et au personnel sédentaire (art. D4511-3 à R4511-7)](#1457)
+            - [Section 2 : Personnel navigant (art. D4511-11 à R4511-18)](#1458)
+              - [Sous-section 1 : Dispositions communes au personnel navigant (art. D4511-11 à R4511-10)](#1459)
+              - [Sous-section 2 : Transport de marchandises (art. R4511-12 à R4511-17)](#1460)
+                - [Paragraphe 1 : Modes d'exploitation (art. R4511-12)](#1461)
+                - [Paragraphe 2 : Bateaux exploités en relèves (art. D4511-13 à D4511-14)](#1462)
+                - [Paragraphe 3 : Bateaux exploités en flotte classique (art. D4511-15 à R4511-17)](#1463)
+              - [Sous-section 3 : Transport de personnes (art. D4511-19 à R4511-18)](#1464)
+            - [Section 3 : Personnel sédentaire (art. D4511-22 à R4511-25)](#1465)
+      - [LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. R4600-1 à R4651-4)](#1466)
+        - [TITRE Ier : DISPOSITIONS SPÉCIFIQUES  AUX DÉPARTEMENTS D'OUTRE-MER (art. R4611-1 à R4611-4)](#1467)
+          - [Chapitre unique (art. R4611-1 à R4611-4)](#1468)
+        - [TITRE II : DISPOSITIONS SPÉCIFIQUES À MAYOTTE (art. R4621-1 à R4621-5)](#1469)
+          - [Chapitre unique (art. R4621-1 à R4621-5)](#1470)
+        - [TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY (art. R4631-1 à R4631-4)](#1471)
+          - [Chapitre unique (art. R4631-1 à R4631-4)](#1472)
+        - [TITRE IV : DISPOSITIONS SPÉCIFIQUES  À SAINT-MARTIN (art. R4641-1 à R4641-4)](#1473)
+          - [Chapitre unique (art. R4641-1 à R4641-4)](#1474)
+        - [TITRE V : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R4651-1 à R4651-4)](#1475)
+          - [Chapitre unique (art. R4651-1 à R4651-4)](#1476)
+  - [PARTIE REGLEMENTAIRE - Arrêtés (art. A4241-26 à A4241-35-4)](#1477)
+    - [QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL (art. A4241-26 à A4241-35-4)](#1478)
+      - [LIVRE II : NAVIGATION INTÉRIEURE (art. A4241-26 à A4241-35-4)](#1479)
+        - [TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE (art. A4241-26 à A4241-35-4)](#1480)
+          - [Chapitre Ier : Règlements de police (art. A4241-26 à A4241-35-4)](#1481)
+            - [Section 1 : Règlement général de police de la navigation intérieure (art. A4241-26 à A4241-35-4)](#1482)
+              - [Sous-section 1 : Dispositions générales (art. A4241-26 à A4241-35-4)](#1483)
+                - [Paragraphe 4 : Prescriptions temporaires (art. A4241-26)](#1484)
+                - [Paragraphe 7 : Transports spéciaux (art. A4241-35-1 à A4241-35-4)](#1485)
 # PARTIE LEGISLATIVE<a id=1></a>
 
 ## PREMIERE PARTIE : DISPOSITIONS COMMUNES<a id=2></a>
@@ -84388,9 +84389,33 @@ _Anciens textes_:
   - Code de l'environnement - art. R214-105-4 (Ab)
 
 
-#### TITRE V : DISPOSITIONS RELATIVES  À LA NAVIGATION DES BATEAUX EN MER<a id=1345></a>
+##### Chapitre IV : Déplacement d'office<a id=1345></a>
 
-##### Chapitre unique : Dispositions générales<a id=1346></a>
+###### Article R4244-1
+
+L'autorité administrative compétente prévue à l'article L. 4244-1 est le préfet du département dans lequel le bateau est
+stationné. 
+
+Sauf en cas de péril imminent, si ce dernier envisage de déplacer le bateau dans un autre département, il recueille l'accord
+préalable du préfet concerné. 
+
+Après le déplacement d'office, le préfet qui a procédé au déplacement notifie le nouveau lieu de stationnement du bateau à
+son propriétaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-803 du 16 juillet 2014 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. L4244-1
+
+
+#### TITRE V : DISPOSITIONS RELATIVES  À LA NAVIGATION DES BATEAUX EN MER<a id=1346></a>
+
+##### Chapitre unique : Dispositions générales<a id=1347></a>
 
 ###### Article D4251-1
 
@@ -84414,13 +84439,13 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-#### TITRE VI : DISPOSITIONS SPÉCIFIQUES À LA NAVIGATION  DU RHIN, DE LA MOSELLE ET SUR LE LÉMAN<a id=1347></a>
+#### TITRE VI : DISPOSITIONS SPÉCIFIQUES À LA NAVIGATION  DU RHIN, DE LA MOSELLE ET SUR LE LÉMAN<a id=1348></a>
 
-##### Chapitre Ier : Navigation du Rhin<a id=1348></a>
+##### Chapitre Ier : Navigation du Rhin<a id=1349></a>
 
-##### Section 1 : Modalités d'application du règlement  de visite des bateaux du Rhin<a id=1349></a>
+##### Section 1 : Modalités d'application du règlement  de visite des bateaux du Rhin<a id=1350></a>
 
-##### Sous-section 1 : Autorités compétentes pour l'application  du règlement de visite des bateaux du Rhin<a id=1350></a>
+##### Sous-section 1 : Autorités compétentes pour l'application  du règlement de visite des bateaux du Rhin<a id=1351></a>
 
 ###### Article D4261-1
 
@@ -84524,7 +84549,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 2 : Autres modalités d'application  du règlement de visite des bateaux du Rhin<a id=1351></a>
+##### Sous-section 2 : Autres modalités d'application  du règlement de visite des bateaux du Rhin<a id=1352></a>
 
 ###### Article D4261-5
 
@@ -84766,7 +84791,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Modalités d'application du règlement  relatif au personnel de la navigation sur le Rhin<a id=1352></a>
+##### Section 2 : Modalités d'application du règlement  relatif au personnel de la navigation sur le Rhin<a id=1353></a>
 
 ###### Article D4261-13
 
@@ -84796,7 +84821,7 @@ _Cite_:
   - Code des transports - art. R*4200-1 (V)
 
 
-##### Section 3 : Modalités d'application du règlement de police  pour la navigation du Rhin<a id=1353></a>
+##### Section 3 : Modalités d'application du règlement de police  pour la navigation du Rhin<a id=1354></a>
 
 ###### Article D4261-14
 
@@ -84844,9 +84869,9 @@ _Cite_:
   - Code des transports - art. L4272-1 (V)
 
 
-#### TITRE VII : SANCTIONS ADMINISTRATIVES  ET SANCTIONS PÉNALES<a id=1354></a>
+#### TITRE VII : SANCTIONS ADMINISTRATIVES  ET SANCTIONS PÉNALES<a id=1355></a>
 
-##### Chapitre Ier : Sanctions administratives<a id=1355></a>
+##### Chapitre Ier : Sanctions administratives<a id=1356></a>
 
 ###### Article R4271-1
 
@@ -84934,7 +84959,7 @@ _Cite_:
   - Code des transports - art. R4231-19 (V)
 
 
-##### Chapitre II : Recherche et constatation des infractions<a id=1356></a>
+##### Chapitre II : Recherche et constatation des infractions<a id=1357></a>
 
 ###### Article R4272-1
 
@@ -85046,11 +85071,11 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-### LIVRE III : VOIES NAVIGABLES DE FRANCE  ET PORTS FLUVIAUX<a id=1357></a>
+### LIVRE III : VOIES NAVIGABLES DE FRANCE  ET PORTS FLUVIAUX<a id=1358></a>
 
-#### TITRE Ier : VOIES NAVIGABLES DE FRANCE<a id=1358></a>
+#### TITRE Ier : VOIES NAVIGABLES DE FRANCE<a id=1359></a>
 
-##### Chapitre Ier : Objet et missions<a id=1359></a>
+##### Chapitre Ier : Objet et missions<a id=1360></a>
 
 ###### Article R4311-1
 
@@ -85211,11 +85236,11 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. L3211-10 (V)
 
 
-##### Chapitre II : Organisation administrative<a id=1360></a>
+##### Chapitre II : Organisation administrative<a id=1361></a>
 
-##### Section 1 : Conseil d'administration<a id=1361></a>
+##### Section 1 : Conseil d'administration<a id=1362></a>
 
-##### Sous-section 1 : Organisation<a id=1362></a>
+##### Sous-section 1 : Organisation<a id=1363></a>
 
 ###### Article R4312-1
 
@@ -85387,7 +85412,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 2 : Fonctionnement<a id=1363></a>
+##### Sous-section 2 : Fonctionnement<a id=1364></a>
 
 ###### Article R4312-6
 
@@ -85697,7 +85722,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Directeur général<a id=1364></a>
+##### Section 2 : Directeur général<a id=1365></a>
 
 ###### Article R4312-16
 
@@ -85778,7 +85803,7 @@ _Cite_:
   - Code des transports - art. L4312-3 (V)
 
 
-##### Section 3 : Contrôle de l'Etat<a id=1365></a>
+##### Section 3 : Contrôle de l'Etat<a id=1366></a>
 
 ###### Article R4312-18
 
@@ -85803,7 +85828,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 4 : Commissions territoriales<a id=1366></a>
+##### Section 4 : Commissions territoriales<a id=1367></a>
 
 ###### Article D4312-19
 
@@ -85904,9 +85929,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre III : Gestion financière, comptable et domaniale<a id=1367></a>
+##### Chapitre III : Gestion financière, comptable et domaniale<a id=1368></a>
 
-##### Section 1 : Gestion financière et comptable<a id=1368></a>
+##### Section 1 : Gestion financière et comptable<a id=1369></a>
 
 ###### Article R4313-1
 
@@ -86185,7 +86210,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Gestion domaniale<a id=1369></a>
+##### Section 2 : Gestion domaniale<a id=1370></a>
 
 ###### Article R4313-13
 
@@ -86370,7 +86395,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre IV : Domaine confié à Voies navigables de France<a id=1370></a>
+##### Chapitre IV : Domaine confié à Voies navigables de France<a id=1371></a>
 
 ###### Article D4314-1
 
@@ -86643,11 +86668,11 @@ _Cité par_:
   - Code des transports - art. D4314-1 (V)
 
 
-##### Chapitre VI : Ressources de Voies navigables de France<a id=1371></a>
+##### Chapitre VI : Ressources de Voies navigables de France<a id=1372></a>
 
-##### Section 1 : Taxe sur les titulaires d'ouvrages hydrauliques<a id=1372></a>
+##### Section 1 : Taxe sur les titulaires d'ouvrages hydrauliques<a id=1373></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1373></a>
+##### Sous-section 1 : Dispositions générales<a id=1374></a>
 
 ###### Article R4316-1
 
@@ -86935,7 +86960,7 @@ _Cite_:
   - Code des transports - art. R4316-7 (V)
 
 
-##### Sous-section 2 : Contrôle<a id=1374></a>
+##### Sous-section 2 : Contrôle<a id=1375></a>
 
 ###### Article R4316-10
 
@@ -86962,7 +86987,7 @@ _Cite_:
   - Code des transports - art. R4141-1 (V)
 
 
-##### Section 2 : Redevances domaniales et autres produits<a id=1375></a>
+##### Section 2 : Redevances domaniales et autres produits<a id=1376></a>
 
 ###### Article R4316-11
 
@@ -87062,11 +87087,11 @@ _Cite_:
   - Code des transports - art. R4316-12 (V)
 
 
-#### TITRE II : LES PORTS FLUVIAUX<a id=1376></a>
+#### TITRE II : LES PORTS FLUVIAUX<a id=1377></a>
 
-##### Chapitre Ier : Organisation<a id=1377></a>
+##### Chapitre Ier : Organisation<a id=1378></a>
 
-##### Section 1 : Voies ferrées des ports fluviaux<a id=1378></a>
+##### Section 1 : Voies ferrées des ports fluviaux<a id=1379></a>
 
 ###### Article D4321-1
 
@@ -87089,7 +87114,7 @@ _Cite_:
   - Code des transports - art. L4321-1 (V)
 
 
-##### Section 2 : Police<a id=1379></a>
+##### Section 2 : Police<a id=1380></a>
 
 ###### Article D4321-2
 
@@ -87284,9 +87309,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre II : Port autonome de Paris<a id=1380></a>
+##### Chapitre II : Port autonome de Paris<a id=1381></a>
 
-##### Section 1 : Nature et attributions<a id=1381></a>
+##### Section 1 : Nature et attributions<a id=1382></a>
 
 ###### Article D4322-2
 
@@ -87460,11 +87485,11 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Organisation administrative<a id=1382></a>
+##### Section 2 : Organisation administrative<a id=1383></a>
 
-##### Sous-section 1 : Conseil d'administration<a id=1383></a>
+##### Sous-section 1 : Conseil d'administration<a id=1384></a>
 
-##### Paragraphe 1 : Organisation<a id=1384></a>
+##### Paragraphe 1 : Organisation<a id=1385></a>
 
 ###### Article R4322-7
 
@@ -87791,7 +87816,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Paragraphe 2 : Fonctionnement<a id=1385></a>
+##### Paragraphe 2 : Fonctionnement<a id=1386></a>
 
 ###### Article R4322-18
 
@@ -88381,7 +88406,7 @@ _Cite_:
   - Code des transports - art. R4322-31 (V)
 
 
-##### Sous-section 2 : Directeur général<a id=1386></a>
+##### Sous-section 2 : Directeur général<a id=1387></a>
 
 ###### Article R4322-39
 
@@ -88492,7 +88517,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 3 : Personnel<a id=1387></a>
+##### Sous-section 3 : Personnel<a id=1388></a>
 
 ###### Article R4322-43
 
@@ -88525,9 +88550,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 3 : Gestion financière, comptable et domaniale<a id=1388></a>
+##### Section 3 : Gestion financière, comptable et domaniale<a id=1389></a>
 
-##### Sous-section 1 : Gestion financière et comptable<a id=1389></a>
+##### Sous-section 1 : Gestion financière et comptable<a id=1390></a>
 
 ###### Article D4322-45
 
@@ -88787,7 +88812,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 2 : Gestion domaniale<a id=1390></a>
+##### Sous-section 2 : Gestion domaniale<a id=1391></a>
 
 ###### Article R4322-53
 
@@ -88840,7 +88865,7 @@ _Cite_:
   - Code général de la propriété des personnes publ... - art. R2122-15 (V)
 
 
-##### Section 4 : Contrôle de l'Etat<a id=1391></a>
+##### Section 4 : Contrôle de l'Etat<a id=1392></a>
 
 ###### Article R4322-55
 
@@ -88944,7 +88969,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 5 : Domaine<a id=1392></a>
+##### Section 5 : Domaine<a id=1393></a>
 
 ###### Article R4322-59
 
@@ -89016,7 +89041,7 @@ _Cite_:
   - Code des transports - art. L4322-19 (V)
 
 
-##### Section 6 : Patrimoine<a id=1393></a>
+##### Section 6 : Patrimoine<a id=1394></a>
 
 ###### Article R4322-61
 
@@ -89038,7 +89063,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 7 : Ressources<a id=1394></a>
+##### Section 7 : Ressources<a id=1395></a>
 
 ###### Article R4322-62
 
@@ -89316,11 +89341,11 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre III : Droits de port<a id=1395></a>
+##### Chapitre III : Droits de port<a id=1396></a>
 
-##### Section 1 : Ports fluviaux ouverts au trafic des navires autres  que les ports du Rhin et de la Moselle<a id=1396></a>
+##### Section 1 : Ports fluviaux ouverts au trafic des navires autres  que les ports du Rhin et de la Moselle<a id=1397></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1397></a>
+##### Sous-section 1 : Dispositions générales<a id=1398></a>
 
 ###### Article R4323-1
 
@@ -89561,9 +89586,9 @@ _Cite_:
   - Code des transports - art. L5321-3 (V)
 
 
-##### Sous-section 2 : Redevance sur le navire<a id=1398></a>
+##### Sous-section 2 : Redevance sur le navire<a id=1399></a>
 
-##### Paragraphe 1 : Modalités de fixation<a id=1399></a>
+##### Paragraphe 1 : Modalités de fixation<a id=1400></a>
 
 ###### Article R4323-9
 
@@ -89863,7 +89888,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Paragraphe 2 : Réductions et exemptions de la redevance fluviale<a id=1400></a>
+##### Paragraphe 2 : Réductions et exemptions de la redevance fluviale<a id=1401></a>
 
 ###### Article R4323-19
 
@@ -90118,7 +90143,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Paragraphe 3 : Réductions et exemptions de la redevance maritime<a id=1401></a>
+##### Paragraphe 3 : Réductions et exemptions de la redevance maritime<a id=1402></a>
 
 ###### Article R4323-27
 
@@ -90210,7 +90235,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 3 : Redevance sur les marchandises<a id=1402></a>
+##### Sous-section 3 : Redevance sur les marchandises<a id=1403></a>
 
 ###### Article R4323-31
 
@@ -90304,7 +90329,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 4 : Redevance sur les passagers<a id=1403></a>
+##### Sous-section 4 : Redevance sur les passagers<a id=1404></a>
 
 ###### Article D4323-35
 
@@ -90381,9 +90406,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Ports du Rhin et de la Moselle<a id=1404></a>
+##### Section 2 : Ports du Rhin et de la Moselle<a id=1405></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1405></a>
+##### Sous-section 1 : Dispositions générales<a id=1406></a>
 
 ###### Article R4323-37
 
@@ -90577,9 +90602,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 2 : Droit de port<a id=1406></a>
+##### Sous-section 2 : Droit de port<a id=1407></a>
 
-##### Paragraphe 1 : Redevance sur les marchandises<a id=1407></a>
+##### Paragraphe 1 : Redevance sur les marchandises<a id=1408></a>
 
 ###### Article R4323-44
 
@@ -90688,7 +90713,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Paragraphe 2 : Redevance sur les passagers<a id=1408></a>
+##### Paragraphe 2 : Redevance sur les passagers<a id=1409></a>
 
 ###### Article D4323-48
 
@@ -90821,7 +90846,7 @@ _Cite_:
   - Code des transports - art. R4323-37 (V)
 
 
-##### Paragraphe 3 : Redevance sur le stationnement  des bateaux et navires de commerce<a id=1409></a>
+##### Paragraphe 3 : Redevance sur le stationnement  des bateaux et navires de commerce<a id=1410></a>
 
 ###### Article R4323-52
 
@@ -90848,7 +90873,7 @@ _Cite_:
   - Code des transports - art. R4323-37 (V)
 
 
-##### Paragraphe 4 : Redevance d'équipement des ports de plaisance<a id=1410></a>
+##### Paragraphe 4 : Redevance d'équipement des ports de plaisance<a id=1411></a>
 
 ###### Article R4323-53
 
@@ -90923,7 +90948,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-### LIVRE IV : LE TRANSPORT FLUVIAL<a id=1411></a>
+### LIVRE IV : LE TRANSPORT FLUVIAL<a id=1412></a>
 
 ###### Article R4400-1
 
@@ -90961,11 +90986,11 @@ _Cité par_:
   - Code des transports - art. R4313-16 (V)
 
 
-#### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=1412></a>
+#### TITRE Ier : DISPOSITIONS GÉNÉRALES<a id=1413></a>
 
-##### Chapitre Ier : Schéma de développement du transport fluvial<a id=1413></a>
+##### Chapitre Ier : Schéma de développement du transport fluvial<a id=1414></a>
 
-##### Section unique : Services d'information fluviale<a id=1414></a>
+##### Section unique : Services d'information fluviale<a id=1415></a>
 
 ###### Article D4411-1
 
@@ -91188,9 +91213,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre II : Péages fluviaux<a id=1415></a>
+##### Chapitre II : Péages fluviaux<a id=1416></a>
 
-##### Section unique : Péages fluviaux perçus sur le domaine  confié à Voies navigables de France<a id=1416></a>
+##### Section unique : Péages fluviaux perçus sur le domaine  confié à Voies navigables de France<a id=1417></a>
 
 ###### Article R4412-1
 
@@ -91513,7 +91538,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre III : Cabotage fluvial<a id=1417></a>
+##### Chapitre III : Cabotage fluvial<a id=1418></a>
 
 ###### Article R4413-1
 
@@ -91535,9 +91560,9 @@ _Cite_:
   - Code des transports - art. R4462-7 (V)
 
 
-#### TITRE II : ENTREPRISES DE TRANSPORT FLUVIAL<a id=1418></a>
+#### TITRE II : ENTREPRISES DE TRANSPORT FLUVIAL<a id=1419></a>
 
-##### Chapitre Ier : Entreprises de transport fluvial de marchandises<a id=1419></a>
+##### Chapitre Ier : Entreprises de transport fluvial de marchandises<a id=1420></a>
 
 ###### Article R*4421-1
 
@@ -91776,9 +91801,9 @@ _Cite_:
   - Code des transports - art. R4421-4 (V)
 
 
-#### TITRE III : BATELLERIE ARTISANALE<a id=1420></a>
+#### TITRE III : BATELLERIE ARTISANALE<a id=1421></a>
 
-##### Chapitre Ier : Entreprises de la batellerie artisanale<a id=1421></a>
+##### Chapitre Ier : Entreprises de la batellerie artisanale<a id=1422></a>
 
 ###### Article R4431-1
 
@@ -91887,9 +91912,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre II : Chambre nationale de la batellerie artisanale<a id=1422></a>
+##### Chapitre II : Chambre nationale de la batellerie artisanale<a id=1423></a>
 
-##### Section 1 : Objet et missions<a id=1423></a>
+##### Section 1 : Objet et missions<a id=1424></a>
 
 ###### Article R4432-1
 
@@ -91959,11 +91984,11 @@ _Cité par_:
   - Code des transports - art. R4432-7 (V)
 
 
-##### Section 2 : Organisation administrative<a id=1424></a>
+##### Section 2 : Organisation administrative<a id=1425></a>
 
-##### Sous-section 1 : Le conseil d'administration<a id=1425></a>
+##### Sous-section 1 : Le conseil d'administration<a id=1426></a>
 
-##### Paragraphe 1 : Organisation<a id=1426></a>
+##### Paragraphe 1 : Organisation<a id=1427></a>
 
 ###### Article R4432-3
 
@@ -92106,7 +92131,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Paragraphe 2 : Fonctionnement<a id=1427></a>
+##### Paragraphe 2 : Fonctionnement<a id=1428></a>
 
 ###### Article R4432-7
 
@@ -92280,7 +92305,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Sous-section 2 : Le président<a id=1428></a>
+##### Sous-section 2 : Le président<a id=1429></a>
 
 ###### Article R4432-14
 
@@ -92312,7 +92337,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 3 : Gestion financière et comptable<a id=1429></a>
+##### Section 3 : Gestion financière et comptable<a id=1430></a>
 
 ###### Article R4432-15
 
@@ -92362,7 +92387,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 4 : Ressources de l'établissement<a id=1430></a>
+##### Section 4 : Ressources de l'établissement<a id=1431></a>
 
 ###### Article R4432-17
 
@@ -92401,7 +92426,7 @@ _Cite_:
   - Code des transports - art. L4432-3 (V)
 
 
-##### Section 5 : Contrôle de l'Etat<a id=1431></a>
+##### Section 5 : Contrôle de l'Etat<a id=1432></a>
 
 ###### Article R4432-18
 
@@ -92427,9 +92452,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-#### TITRE IV : COURTIERS DE FRET FLUVIAL<a id=1432></a>
+#### TITRE IV : COURTIERS DE FRET FLUVIAL<a id=1433></a>
 
-##### Chapitre unique<a id=1433></a>
+##### Chapitre unique<a id=1434></a>
 
 ###### Article R*4441-1
 
@@ -92749,11 +92774,11 @@ _Cite_:
   - Code des transports - art. R4441-2 (V)
 
 
-#### TITRE V : CONTRATS RELATIFS AU TRANSPORT  DE MARCHANDISES<a id=1434></a>
+#### TITRE V : CONTRATS RELATIFS AU TRANSPORT  DE MARCHANDISES<a id=1435></a>
 
-##### Chapitre Ier : Le contrat de transport<a id=1435></a>
+##### Chapitre Ier : Le contrat de transport<a id=1436></a>
 
-##### Section 1 : Dispositions générales<a id=1436></a>
+##### Section 1 : Dispositions générales<a id=1437></a>
 
 ###### Article D4451-1
 
@@ -92779,7 +92804,7 @@ _Anciens textes_:
   - Code du domaine public fluvial et de la navigat... - art. 196 (Ab)
 
 
-##### Section 2 : Contrats types<a id=1437></a>
+##### Section 2 : Contrats types<a id=1438></a>
 
 ###### Article D4451-2
 
@@ -92861,7 +92886,7 @@ _Cite_:
   - Code des transports - art. L4451-1 (V)
 
 
-##### Chapitre II : Contrats de sous-traitance<a id=1438></a>
+##### Chapitre II : Contrats de sous-traitance<a id=1439></a>
 
 ###### Article D4452-1
 
@@ -92918,9 +92943,9 @@ _Cite_:
   - Code des transports - art. D4452-1 (V)
 
 
-#### TITRE VI : CONTRÔLE ET DISPOSITIONS PÉNALES<a id=1439></a>
+#### TITRE VI : CONTRÔLE ET DISPOSITIONS PÉNALES<a id=1440></a>
 
-##### Chapitre Ier : Contrôle<a id=1440></a>
+##### Chapitre Ier : Contrôle<a id=1441></a>
 
 ###### Article R4461-1
 
@@ -93032,11 +93057,11 @@ _Cité par_:
   - Code des transports - art. R4463-1 (V)
 
 
-##### Chapitre II : Recherche, constatation et poursuite des infractions<a id=1441></a>
+##### Chapitre II : Recherche, constatation et poursuite des infractions<a id=1442></a>
 
-##### Section 1 : Dispositions relatives aux péages fluviaux<a id=1442></a>
+##### Section 1 : Dispositions relatives aux péages fluviaux<a id=1443></a>
 
-##### Sous-section 1 : Péages fluviaux perçus  au profit de Voies navigables de France<a id=1443></a>
+##### Sous-section 1 : Péages fluviaux perçus  au profit de Voies navigables de France<a id=1444></a>
 
 ###### Article R4462-1
 
@@ -93166,7 +93191,7 @@ _Cite_:
   - Code des transports - art. R4462-1 (V)
 
 
-##### Sous-section 2 : Dispositions communes<a id=1444></a>
+##### Sous-section 2 : Dispositions communes<a id=1445></a>
 
 ###### Article R4462-5
 
@@ -93217,7 +93242,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Dispositions relatives au cabotage fluvial  et à l'immobilisation des bateaux<a id=1445></a>
+##### Section 2 : Dispositions relatives au cabotage fluvial  et à l'immobilisation des bateaux<a id=1446></a>
 
 ###### Article R4462-7
 
@@ -93348,7 +93373,7 @@ _Cite_:
   - Code des transports - art. R4462-9 (V)
 
 
-##### Chapitre III : Sanctions pénales<a id=1446></a>
+##### Chapitre III : Sanctions pénales<a id=1447></a>
 
 ###### Article R4463-1
 
@@ -93376,9 +93401,9 @@ _Cite_:
   - Code des transports - art. R4461-3 (V)
 
 
-#### TITRE VII : DISPOSITIONS SPÉCIFIQUES AUX TRANSPORTS  SUR LE RHIN ET LA MOSELLE<a id=1447></a>
+#### TITRE VII : DISPOSITIONS SPÉCIFIQUES AUX TRANSPORTS  SUR LE RHIN ET LA MOSELLE<a id=1448></a>
 
-##### Chapitre Ier : Dispositions générales<a id=1448></a>
+##### Chapitre Ier : Dispositions générales<a id=1449></a>
 
 ###### Article R4471-1
 
@@ -93398,9 +93423,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Chapitre II : Sanctions pénales<a id=1449></a>
+##### Chapitre II : Sanctions pénales<a id=1450></a>
 
-##### Section 1 : Recherche, constatation et poursuite des infractions<a id=1450></a>
+##### Section 1 : Recherche, constatation et poursuite des infractions<a id=1451></a>
 
 ###### Article R4472-1
 
@@ -93452,7 +93477,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 2 : Appréhension et saisie du bateau ou navire<a id=1451></a>
+##### Section 2 : Appréhension et saisie du bateau ou navire<a id=1452></a>
 
 ###### Article R4472-3
 
@@ -93723,7 +93748,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-#### Annexes au LIVRE IV<a id=1452></a>
+#### Annexes au LIVRE IV<a id=1453></a>
 
 ###### Article Annexe à l'article D4451-2
 
@@ -95465,13 +95490,13 @@ _Cite_:
   - Code des transports - art. R4231-1 (V)
 
 
-### LIVRE V : PERSONNELS DES ENTREPRISES  DE NAVIGATION INTÉRIEURE<a id=1453></a>
+### LIVRE V : PERSONNELS DES ENTREPRISES  DE NAVIGATION INTÉRIEURE<a id=1454></a>
 
-#### TITRE Ier : RÉGIMES DE TRAVAIL<a id=1454></a>
+#### TITRE Ier : RÉGIMES DE TRAVAIL<a id=1455></a>
 
-##### Chapitre Ier : Dispositions générales<a id=1455></a>
+##### Chapitre Ier : Dispositions générales<a id=1456></a>
 
-##### Section 1 : Dispositions communes au personnel navigant  et au personnel sédentaire<a id=1456></a>
+##### Section 1 : Dispositions communes au personnel navigant  et au personnel sédentaire<a id=1457></a>
 
 ###### Article D4511-3
 
@@ -95718,9 +95743,9 @@ _Cite_:
   - Code du travail - art. R3172-1 (V)
 
 
-##### Section 2 : Personnel navigant<a id=1457></a>
+##### Section 2 : Personnel navigant<a id=1458></a>
 
-##### Sous-section 1 : Dispositions communes au personnel navigant<a id=1458></a>
+##### Sous-section 1 : Dispositions communes au personnel navigant<a id=1459></a>
 
 ###### Article D4511-11
 
@@ -95846,9 +95871,9 @@ _Cite_:
   - Code des transports - art. R4511-8 (V)
 
 
-##### Sous-section 2 : Transport de marchandises<a id=1459></a>
+##### Sous-section 2 : Transport de marchandises<a id=1460></a>
 
-##### Paragraphe 1 : Modes d'exploitation<a id=1460></a>
+##### Paragraphe 1 : Modes d'exploitation<a id=1461></a>
 
 ###### Article R4511-12
 
@@ -95876,7 +95901,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Paragraphe 2 : Bateaux exploités en relèves<a id=1461></a>
+##### Paragraphe 2 : Bateaux exploités en relèves<a id=1462></a>
 
 ###### Article D4511-13
 
@@ -95963,7 +95988,7 @@ _Nouveaux textes_:
   - Code des transports - art. R4511-14 (V)
 
 
-##### Paragraphe 3 : Bateaux exploités en flotte classique<a id=1462></a>
+##### Paragraphe 3 : Bateaux exploités en flotte classique<a id=1463></a>
 
 ###### Article D4511-15
 
@@ -96063,7 +96088,7 @@ _Cité par_:
   - Code des transports - art. R4512-1 (V)
 
 
-##### Sous-section 3 : Transport de personnes<a id=1463></a>
+##### Sous-section 3 : Transport de personnes<a id=1464></a>
 
 ###### Article D4511-19
 
@@ -96190,7 +96215,7 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-##### Section 3 : Personnel sédentaire<a id=1464></a>
+##### Section 3 : Personnel sédentaire<a id=1465></a>
 
 ###### Article D4511-22
 
@@ -96370,7 +96395,7 @@ _Anciens textes_:
   - Code du travail - art. R221-18 (Ab)
 
 
-### LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1465></a>
+### LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1466></a>
 
 ###### Article R4600-1
 
@@ -96384,9 +96409,9 @@ _Créé par_:
   - Décret n°2014-530 du 22 mai 2014 - art. 5
 
 
-#### TITRE Ier : DISPOSITIONS SPÉCIFIQUES  AUX DÉPARTEMENTS D'OUTRE-MER<a id=1466></a>
+#### TITRE Ier : DISPOSITIONS SPÉCIFIQUES  AUX DÉPARTEMENTS D'OUTRE-MER<a id=1467></a>
 
-##### Chapitre unique<a id=1467></a>
+##### Chapitre unique<a id=1468></a>
 
 ###### Article R4611-1
 
@@ -96455,9 +96480,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-#### TITRE II : DISPOSITIONS SPÉCIFIQUES À MAYOTTE<a id=1468></a>
+#### TITRE II : DISPOSITIONS SPÉCIFIQUES À MAYOTTE<a id=1469></a>
 
-##### Chapitre unique<a id=1469></a>
+##### Chapitre unique<a id=1470></a>
 
 ###### Article R4621-1
 
@@ -96543,9 +96568,9 @@ _Abrogé par_:
   - Décret n°2018-953 du 31 octobre 2018 - art. 25 (V)
 
 
-#### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY<a id=1470></a>
+#### TITRE III : DISPOSITIONS SPÉCIFIQUES  À SAINT-BARTHÉLEMY<a id=1471></a>
 
-##### Chapitre unique<a id=1471></a>
+##### Chapitre unique<a id=1472></a>
 
 ###### Article R4631-1
 
@@ -96613,9 +96638,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-#### TITRE IV : DISPOSITIONS SPÉCIFIQUES  À SAINT-MARTIN<a id=1472></a>
+#### TITRE IV : DISPOSITIONS SPÉCIFIQUES  À SAINT-MARTIN<a id=1473></a>
 
-##### Chapitre unique<a id=1473></a>
+##### Chapitre unique<a id=1474></a>
 
 ###### Article R4641-1
 
@@ -96683,9 +96708,9 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-#### TITRE V : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=1474></a>
+#### TITRE V : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON<a id=1475></a>
 
-##### Chapitre unique<a id=1475></a>
+##### Chapitre unique<a id=1476></a>
 
 ###### Article R4651-1
 
@@ -96754,21 +96779,21 @@ _Créé par_:
   - Décret n°2013-253 du 25 mars 2013 - art.
 
 
-# PARTIE REGLEMENTAIRE - Arrêtés<a id=1476></a>
+# PARTIE REGLEMENTAIRE - Arrêtés<a id=1477></a>
 
-## QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL<a id=1477></a>
+## QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL<a id=1478></a>
 
-### LIVRE II : NAVIGATION INTÉRIEURE<a id=1478></a>
+### LIVRE II : NAVIGATION INTÉRIEURE<a id=1479></a>
 
-#### TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE<a id=1479></a>
+#### TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE<a id=1480></a>
 
-##### Chapitre Ier : Règlements de police<a id=1480></a>
+##### Chapitre Ier : Règlements de police<a id=1481></a>
 
-##### Section 1 : Règlement général de police de la navigation intérieure<a id=1481></a>
+##### Section 1 : Règlement général de police de la navigation intérieure<a id=1482></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1482></a>
+##### Sous-section 1 : Dispositions générales<a id=1483></a>
 
-##### Paragraphe 4 : Prescriptions temporaires<a id=1483></a>
+##### Paragraphe 4 : Prescriptions temporaires<a id=1484></a>
 
 ###### Article A4241-26
 
@@ -96807,7 +96832,7 @@ _Cité par_:
   - Code des transports - art. A4241-26 (V)
 
 
-##### Paragraphe 7 : Transports spéciaux<a id=1484></a>
+##### Paragraphe 7 : Transports spéciaux<a id=1485></a>
 
 ###### Article A4241-35-1
 

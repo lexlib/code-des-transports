@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-08-24
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -1033,7 +1033,7 @@ et à l'exploitation (art. L6311-1 à L6311-3)](#1025)
           - [Chapitre II : Catégories d'aérodromes (art. L6312-1 à L6312-2)](#1026)
         - [TITRE II : EXPLOITATION DES AERODROMES OUVERTS  A LA CIRCULATION AERIENNE PUBLIQUE (art. L6321-1 à L6326-1)](#1027)
           - [Chapitre Ier : Dispositions générales (art. L6321-1 à L6321-4)](#1028)
-          - [Chapitre II : Dispositions particulières aux sociétés aéroportuaires (art. L6322-1 à L6322-5)](#1029)
+          - [Chapitre II : Dispositions particulières aux sociétés aéroportuaires (art. L6322-1 à L6322-7)](#1029)
           - [Chapitre III : Dispositions particulières à la société Aéroports de Paris (art. L6323-1 à L6323-6)](#1030)
           - [Chapitre IV : Dispositions particulières à l'aéroport de Bâle-Mulhouse (art. L6324-1)](#1031)
           - [Chapitre V : Redevances aéroportuaires (art. L6325-1 à L6325-7)](#1032)
@@ -58395,6 +58395,59 @@ _Codifié par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
 
 
+###### Article L6322-6
+
+Par dérogation au I de l'article 7 de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations
+sur le capital des sociétés à participation publique, les représentants des salariés dans les conseils d'administration ou de
+surveillance des sociétés relevant du présent chapitre sont, le cas échéant, désignés dans les conditions prévues par le code
+de commerce et soumis aux dispositions de ce code.
+
+**Nota:**
+
+Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de
+surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des
+dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être
+postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les
+présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 7
+  - Code de commerce
+
+_Créé par_:
+
+  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 37
+
+
+###### Article L6322-7
+
+Par dérogation à l'article 19 de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le
+capital des sociétés à participation publique, les dirigeants mandataires sociaux des sociétés relevant du présent chapitre
+sont désignés dans les conditions prévues par le code de commerce.
+
+**Nota:**
+
+Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de
+surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des
+dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être
+postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les
+présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 19
+  - Code de commerce
+
+_Créé par_:
+
+  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 37
+
+
 ##### Chapitre III : Dispositions particulières à la société Aéroports de Paris<a id=1030></a>
 
 ###### Article L6323-1
@@ -61341,10 +61394,11 @@ _Codifié par_:
 
 ###### Article L6411-9
 
-Le conseil d'administration ou, selon le cas, le conseil de surveillance de la société Air France peut compter jusqu'à six
-membres élus par les salariés dans les conditions prévues, selon le cas, par les articles L. 225-27 à L. 225-34 ou les
-articles L. 225-79 et L. 225-80 du code de commerce. Pour l'élection de ces membres, les statuts peuvent prévoir que les
-salariés sont répartis entre quatre collèges comprenant respectivement : 
+Nonobstant les dispositions de l'ordonnance n° 2014-948 du 20 août 2014 relative à la gouvernance et aux opérations sur le
+capital des sociétés à participation publique, le conseil d'administration ou, selon le cas, le conseil de surveillance de la
+société Air France peut compter jusqu'à six membres élus par les salariés dans les conditions prévues, selon le cas, par les
+articles L. 225-27 à L. 225-34 ou les articles L. 225-79 et L. 225-80 du code de commerce. Pour l'élection de ces membres,
+les statuts peuvent prévoir que les salariés sont répartis entre quatre collèges comprenant respectivement : 
 
 1° Le personnel navigant technique ; 
 
@@ -61365,22 +61419,31 @@ En cas d'opération donnant lieu à l'apport de tout ou partie de l'actif de la 
 titulaire d'une licence d'exploitation de transporteur aérien, dont elle détient la majorité du capital social et des droits
 de vote, les dispositions du premier alinéa du présent article sont applicables à la société bénéficiaire des apports.
 
+**Nota:**
+
+Conformément à l'article 34 I de l'ordonnance n° 2014-948 du 20 août 2014, le conseil d'administration, le conseil de
+surveillance ou l'organe délibérant en tenant lieu des sociétés mentionnées à l'article 1er fixe la date d'application des
+dispositions du titre II de la présente ordonnance, à l'exception de celles des articles 17 et 21. Cette date ne peut être
+postérieure au lendemain de la première assemblée générale ordinaire qui suit le 1er janvier 2017. Jusqu'à cette date, les
+présentes dispositions restent applicables dans leur rédaction antérieure à l'entrée en vigueur de la présente ordonnance.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de commerce - art. L225-23 (V)
-  - Code de commerce - art. L225-27 (VT)
-  - Code de commerce - art. L225-71
-  - Code de commerce - art. L225-79
-
-_Anciens textes_:
-
-  - Code de l'aviation civile - art. L342-3 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+
+_Cite_:
+
+  - ORDONNANCE n°2014-948 du 20 août 2014
+  - Code de commerce - art. L225-23
+  - Code de commerce - art. L225-27
+  - Code de commerce - art. L225-71
+  - Code de commerce - art. L225-79
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 37
 
 
 ###### Article L6411-10

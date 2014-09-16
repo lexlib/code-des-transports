@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-09-01
+Version Consolidée au 2014-09-17
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -70358,7 +70358,7 @@ représentant ;
 
 12° Le chef de la mission de la sûreté nucléaire et de la radioprotection ou son représentant ;
 
-13° Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ;
+13° Le directeur général des entreprises ou son représentant ;
 
 14° Le directeur général des douanes et droits indirects ou son représentant ;
 
@@ -70390,17 +70390,9 @@ dangereuses est renouvelée pour une durée de cinq ans à compter du 8 juin 201
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°95-1029 du 13 septembre 1995 - art. 2, alinéas 3 à 24 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2014-530 du 22 mai 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-530 du 22 mai 2014 - art.
+  - Décret n°2014-1048 du 15 septembre 2014 - art. 4
 
 
 ###### Article D1252-4

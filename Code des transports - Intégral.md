@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-11-08
+Version Consolidée au 2014-11-15
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -1047,7 +1047,7 @@ et à l'exploitation (art. L6311-1 à L6311-3)](#1030)
           - [Chapitre Ier : Contrôle technique et administratif (art. L6331-1 à L6331-3)](#1040)
           - [Chapitre II : Police des aérodromes et des installations à usage aéronautique (art. L6332-1 à L6332-5)](#1041)
         - [TITRE IV : SURETE AEROPORTUAIRE (art. L6341-1 à L6342-4)](#1042)
-          - [Chapitre Ier : Dispositions générales (art. L6341-1 à L6341-3)](#1043)
+          - [Chapitre Ier : Dispositions générales (art. L6341-1 à L6341-4)](#1043)
           - [Chapitre II : Autorisations nécessaires pour mettre en œuvre des mesures de sûreté (art. L6342-1 à L6342-4)](#1044)
         - [TITRE V : SUJETIONS AUX ABORDS DES AERODROMES (art. L6350-1 à L6353-2)](#1045)
           - [Chapitre Ier : Servitudes aéronautiques (art. L6351-1 à L6351-9)](#1046)
@@ -60682,6 +60682,32 @@ _Créé par_:
 _Cite_:
 
   - Code des transports - art. L6341-2
+
+
+###### Article L6341-4
+
+En cas de menace pour la sécurité nationale, l'autorité administrative peut imposer aux entreprises de transport aérien
+desservant le territoire national au départ d'aérodromes étrangers la mise en œuvre de mesures de sûreté dont la durée
+d'application ne peut excéder trois mois. Ces mesures peuvent être reconduites dans les mêmes conditions.
+
+Les mesures de sûreté mentionnées au premier alinéa sont celles dont la mise en œuvre peut être imposée aux entreprises de
+transport aérien en application du règlement (CE) n° 300/2008 du Parlement européen et du Conseil, du 11 mars 2008, relatif à
+l'instauration de règles communes dans le domaine de la sûreté de l'aviation civile et abrogeant le règlement (CE) n°
+2320/2002, des règlements pris pour son application par la Commission européenne et des normes de sûreté prévues par la
+réglementation nationale.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-1353 du 13 novembre 2014 - art. 23
+
+_Cité par_:
+
+  - Décret n°2015-383 du 3 avril 2015 (V)
+  - Code de l'aviation civile - art. R213-7 (V)
 
 
 ##### Chapitre II : Autorisations nécessaires pour mettre en œuvre des mesures de sûreté<a id=1044></a>

@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-11-15
+Version Consolidée au 2014-11-23
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -169,8 +169,8 @@ Version Consolidée au 2014-11-15
           - [Chapitre III : La continuité territoriale entre les collectivités d'outre-mer et le territoire métropolitain (art. L1803-1 à L1803-9)](#166)
         - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE-MER (art. L1811-1 à L1811-8)](#167)
           - [Chapitre unique (art. L1811-1 à L1811-8)](#168)
-        - [TITRE II : MAYOTTE (art. L1821-1 à L1821-8)](#169)
-          - [Chapitre unique (art. L1821-1 à L1821-8)](#170)
+        - [TITRE II : MAYOTTE (art. L1821-1 à L1821-8-1)](#169)
+          - [Chapitre unique (art. L1821-1 à L1821-8-1)](#170)
         - [TITRE III : SAINT-BARTHELEMY (art. L1831-1 à L1831-3)](#171)
           - [Chapitre unique (art. L1831-1 à L1831-3)](#172)
         - [TITRE IV : SAINT-MARTIN (art. L1841-1 à L1841-2)](#173)
@@ -392,8 +392,8 @@ Version Consolidée au 2014-11-15
       - [LIVRE V : DISPOSITIONS RELATIVES A L'OUTRE-MER (art. L3500-1 à L3561-1)](#389)
         - [TITRE IER : DEPARTEMENTS ET REGIONS D'OUTRE-MER (art. L3511-1 à L3511-2)](#390)
           - [Chapitre unique (art. L3511-1 à L3511-2)](#391)
-        - [TITRE II : MAYOTTE (art. L3521-1 à L3521-5)](#392)
-          - [Chapitre unique (art. L3521-1 à L3521-5)](#393)
+        - [TITRE II : MAYOTTE (art. L3521-1 à L3521-4)](#392)
+          - [Chapitre unique (art. L3521-1 à L3521-4)](#393)
         - [TITRE III : SAINT-BARTHELEMY (art. L3531-1 à L3531-2)](#394)
           - [Chapitre unique (art. L3531-1 à L3531-2)](#395)
         - [TITRE IV : SAINT-MARTIN (art. L3541-1 à L3541-2)](#396)
@@ -11293,8 +11293,8 @@ _Codifié par_:
 
 ###### Article L1821-1
 
-Le chapitre III du titre Ier du livre Ier, les titres II et III du livre III de la présente partie ne sont pas applicables à
-Mayotte.
+Le chapitre III du titre Ier du livre Ier, les chapitres III et IV du titre II du livre III de la présente partie ne sont pas
+applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -11304,7 +11304,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 15
+  - ORDONNANCE n°2014-1380 du 21 novembre 2014 - art. 1
 
 
 ###### Article L1821-1-1
@@ -11482,6 +11482,43 @@ _Codifié par_:
 _Abrogé par_:
 
   - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 28 (VD)
+
+
+###### Article L1821-8-1
+
+Pour l'application des chapitres Ier et II du titre II et du titre III du livre III de la présente partie du code à
+Mayotte : 
+
+1° L'article L. 1321-4 n'est pas applicable ; 
+
+2° A l'article L. 1321-5, les mots : " chapitre II du titre III du livre Ier de la troisième partie du code du travail " sont
+remplacés par les mots : " chapitre Ier du titre II du livre II du code du travail applicable à Mayotte " ; 
+
+3° Au deuxième alinéa de l'article L. 1321-6, les mots : " des articles L. 3122-34 et L. 3122-35 du code du travail " sont
+remplacés par les mots : " de l'article L. 213-4 du code du travail applicable à Mayotte " ; 
+
+4° Au troisième alinéa de l'article L. 1321-7, les mots : " de l'article L. 3122-31 du code du travail " sont remplacés par
+les mots : " de l'article L. 213-3 du code du travail applicable à Mayotte " ; 
+
+5° Les dispositions de la section 6 du chapitre Ier du titre II du livre III ne sont pas applicables ; 
+
+6° A l'article L. 1331-1, les mots : " de l'article L. 1262-4 du code du travail " sont remplacés par les mots : " de
+l'article L. 330-4 du code du travail applicable à Mayotte ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2014-1380 du 21 novembre 2014 - art. 1
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-3 (V)
+  - Code des transports - art. L1321-4 (V)
+  - Code des transports - art. L1321-5 (V)
+  - Code des transports - art. L1321-6 (V)
+  - Code des transports - art. L1321-7 (V)
+  - Code des transports - art. L1331-1 (V)
 
 
 #### TITRE III : SAINT-BARTHELEMY<a id=171></a>
@@ -23129,9 +23166,41 @@ _Codifié par_:
 
 ###### Article L3521-3
 
-Les chapitres Ier, II, III et IV du titre unique du livre III de la présente partie ne sont pas applicables à Mayotte.
+Pour l'application du livre III de la présente partie du code à Mayotte : 
+
+1° Au premier alinéa de l'article L. 3312-1, les mots : " de l'article L. 3122-31 du code du travail " sont remplacés par les
+mots : " de l'article L. 213-3 du code du travail applicable à Mayotte " ; 
+
+2° L'article L. 3312-3 n'est pas applicable ; 
+
+3° L'article L. 3313-2 n'est pas applicable ; 
+
+4° Au premier alinéa de l'article L. 3315-1, les mots : " du livre Ier de la troisième partie du code du travail " sont
+remplacés par les mots : " aux dispositions des chapitres II et III du titre Ier et du titre II du livre II du code du
+travail applicable à Mayotte " ; 
+
+5° Au premier alinéa de l'article L. 3315-6, les mots : " aux titres II et III du livre Ier de la troisième partie du code du
+travail " sont remplacés par les mots : " aux chapitres II et III du titre Ier et aux chapitres Ier et II du titre II du
+livre II du code du travail applicable à Mayotte ".
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1380 du 21 novembre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 28 (VD)
+
+_Cite_:
+
+  - Code du travail applicable à Mayotte. - art. L213-3
+  - Code des transports - art. L3312-1
+  - Code des transports - art. L3312-3
+  - Code des transports - art. L3313-2
+  - Code des transports - art. L3315-1
+  - Code des transports - art. L3315-6
 
 _Codifié par_:
 
@@ -23140,15 +23209,23 @@ _Codifié par_:
 
 ###### Article L3521-4
 
-Pour son application à Mayotte, l'article L. 3411-1 est ainsi modifié : 
+Sont dispensés de l'obligation de qualification initiale prévue par l'article L. 3314-2 les conducteurs qui ont obtenu la
+catégorie C1, C1E, C, CE, D1, D1E, D ou DE du permis de conduire avant le 1er janvier 2016 lorsqu'ils conduisent, dans le
+Département de Mayotte, un véhicule correspondant à l'une de ces catégories. Toutefois, ces dispositions ne s'appliquent pas
+aux conducteurs qui n'ont jamais exercé à titre professionnel une activité de conduite de véhicule des catégories considérées
+ou qui ont interrompu cette activité pendant plus de dix ans.
 
-1° Au premier alinéa, les mots : " d'une licence communautaire ou " sont supprimés ; 
+**Nota:**
 
-2° Le deuxième alinéa n'est pas applicable ; 
-
-3° Au troisième alinéa, les mots : " et qui n'ont pas l'obligation de détenir une licence communautaire " sont supprimés.
+Conformément à l'article 5 de l'ordonnance n° 2014-1380 du 21 novembre 2014, les conducteurs mentionnés à l'article L. 3521-4
+satisfont à l'obligation de formation continue prévue par le décret pris en application de l'article L. 3314-3 avant le 1er
+janvier 2019.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1380 du 21 novembre 2014 - art. 2
 
 _Cité par_:
 
@@ -23160,26 +23237,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code des transports - art. L3411-1 (VT)
-
-
-###### Article L3521-5
-
-Le titre II du livre IV de la présente partie n'est pas applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - ORDONNANCE n°2014-1380 du 21 novembre 2014 - art. 3
-
-_Cité par_:
-
-  - Loi n°2015-990 du 6 août 2015 - art. 18 (VD)
-
-_Codifié par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. (V)
+  - Code des transports - art. L3314-2 (V)
 
 
 #### TITRE III : SAINT-BARTHELEMY<a id=394></a>
@@ -54637,16 +54695,18 @@ _Codifié par_:
 
 ###### Article L5723-1
 
-Les dispositions des articles L. 5314-3, 
-L. 5341-7 à L. 5341-10, L. 5343-1 à L. 5343-23, L. 5344-1 à L. 5344-4, L. 5351-3 en ce qui concerne le réseau ferré national
-et L. 5351-4 ne sont pas applicables à Mayotte.
+Les dispositions des articles L. 5314-3, L. 5343-1 à L. 5343-23, L. 5344-1 à L. 5344-4, L. 5351-3 en ce qui concerne le
+réseau ferré national et L. 5351-4 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - ORDONNANCE n°2014-1380 du 21 novembre 2014 - art. 4
 
 _Cite_:
 
   - Code des transports - art. L5314-3 (V)
-  - Code des transports - art. L5341-7 (V)
   - Code des transports - art. L5343-1 (V)
   - Code des transports - art. L5344-1 (V)
   - Code des transports - art. L5351-3 (V)

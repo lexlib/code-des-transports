@@ -1,5 +1,5 @@
 # Code des transports  
-Version Consolidée au 2014-11-23
+Version Consolidée au 2014-12-02
 ## Contenu: 
   - [PARTIE LEGISLATIVE (art. L1000-1 à L6792-4)](#1)
     - [PREMIERE PARTIE : DISPOSITIONS COMMUNES (art. L1000-1 à L1893-1)](#2)
@@ -1150,7 +1150,7 @@ ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1088)
         - [TITRE IX : TERRES AUSTRALES  ET ANTARCTIQUES FRANCAISES (art. L6791-1 à L6792-4)](#1141)
           - [Chapitre Ier : L'aéronef (art. L6791-1)](#1142)
           - [Chapitre II : La circulation aérienne (art. L6792-1 à L6792-4)](#1143)
-  - [PARTIE REGLEMENTAIRE (art. D1112-1 à R5566-7)](#1144)
+  - [PARTIE REGLEMENTAIRE (art. D1112-1 à R5794-2)](#1144)
     - [PREMIÈRE PARTIE : DISPOSITIONS COMMUNES (art. D1112-1 à R1892-4)](#1145)
       - [LIVRE Ier : LE DROIT AU TRANSPORT (art. D1112-1 à D1121-1)](#1146)
         - [TITRE Ier : DISPOSITIONS GÉNÉRALES (art. D1112-1 à R1112-22)](#1147)
@@ -1559,54 +1559,68 @@ ou dans un lieu destiné à l'accès à un aéronef (art. L6433-2)](#1088)
           - [Chapitre unique (art. R4641-1 à R4641-4)](#1550)
         - [TITRE V : DISPOSITIONS SPÉCIFIQUES  À SAINT-PIERRE-ET-MIQUELON (art. R4651-1 à R4651-4)](#1551)
           - [Chapitre unique (art. R4651-1 à R4651-4)](#1552)
-    - [CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES (art. R5561-1 à R5566-7)](#1553)
-      - [LIVRE V : LES GENS DE MER (art. R5561-1 à R5566-7)](#1554)
-        - [TITRE VI : CONDITIONS SOCIALES DU PAYS D'ACCUEIL (art. R5561-1 à R5566-7)](#1555)
-          - [Chapitre Ier : Champ d'application (art. R5561-1 à R5561-3)](#1556)
-          - [Chapitre II : Droits des salariés (art. R5562-1 à R5562-3)](#1557)
-          - [Chapitre III : Protection sociale (art. R5563-1)](#1558)
-          - [Chapitre V : Documents obligatoires (art. D5565-1 à D5565-3)](#1559)
-          - [Chapitre VI : Sanctions pénales (art. R5566-1 à R5566-7)](#1560)
-  - [PARTIE REGLEMENTAIRE - Arrêtés (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1561)
-    - [QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1562)
-      - [LIVRE II : NAVIGATION INTÉRIEURE (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1563)
-        - [TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1564)
-          - [Chapitre Ier : Règlements de police (art. A4241-1 à A4241-65)](#1565)
-            - [Section 1 : Règlement général de police de la navigation intérieure (art. A4241-1 à A4241-65)](#1566)
-              - [Sous-section 1 : Dispositions générales (art. A4241-1 à A4241-38-4)](#1567)
-                - [Paragraphe 1 : Obligations générales relatives au conducteur et à la tenue de la barre (art. A4241-5 à A4241-7)](#1568)
-                - [Paragraphe 2 : Obligations générales relatives à la conduite (art. A4241-11 )](#1569)
-                - [Paragraphe 3 : Obligations générales de sécurité (art. A4241-22  à A4241-24 )](#1570)
-                - [Paragraphe 4 : Prescriptions temporaires (art. A4241-26)](#1571)
-                - [Paragraphe 5 : Embarquement, débarquement, chargement, déchargement et transbordement (art. A4241-27 à A4241-28)](#1572)
-                - [Paragraphe 6 : Documents devant se trouver à bord (art. A4241-33 )](#1573)
-                - [Paragraphe 7 : Transports spéciaux (art. A4241-35-1 à A4241-35-4)](#1574)
-                - [Paragraphe 8 : Manifestations sportives, fêtes nautiques et autres manifestations (art. A4241-38-1 à A4241-38-4)](#1575)
+    - [CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES (art. D5442-1-1 à R5794-2)](#1553)
+      - [LIVRE IV : LE TRANSPORT MARITIME (art. D5442-1-1 à D5442-9)](#1554)
+        - [TITRE IV : ACTIVITÉS PRIVÉES DE PROTECTION DES NAVIRES (art. D5442-1-1 à D5442-9)](#1555)
+          - [Chapitre II : Modalités d'exercice de l'activité privée de protection des navires (art. D5442-1-1 à D5442-9)](#1556)
+            - [Section 2 : Armement et tenue des agents (art. D5442-1-1 à R5442-6)](#1557)
+            - [Section 3 : Droits et obligations (art. D5442-7 à D5442-9)](#1558)
+      - [LIVRE V : LES GENS DE MER (art. R5561-1 à R5566-7)](#1559)
+        - [TITRE VI : CONDITIONS SOCIALES DU PAYS D'ACCUEIL (art. R5561-1 à R5566-7)](#1560)
+          - [Chapitre Ier : Champ d'application (art. R5561-1 à R5561-3)](#1561)
+          - [Chapitre II : Droits des salariés (art. R5562-1 à R5562-3)](#1562)
+          - [Chapitre III : Protection sociale (art. R5563-1)](#1563)
+          - [Chapitre V : Documents obligatoires (art. D5565-1 à D5565-3)](#1564)
+          - [Chapitre VI : Sanctions pénales (art. R5566-1 à R5566-7)](#1565)
+      - [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER (art. D5764-3 à R5794-2)](#1566)
+        - [TITRE VI : NOUVELLE-CALÉDONIE (art. D5764-3 à R5764-2)](#1567)
+          - [Chapitre IV : Le transport maritime (art. D5764-3 à R5764-2)](#1568)
+        - [TITRE VII : POLYNÉSIE FRANÇAISE (art. D5774-3 à R5774-2)](#1569)
+          - [Chapitre IV : Le transport maritime (art. D5774-3 à R5774-2)](#1570)
+        - [TITRE VIII : WALLIS-ET-FUTUNA (art. D5784-3 à R5784-2)](#1571)
+          - [Chapitre IV : Le transport maritime (art. D5784-3 à R5784-2)](#1572)
+        - [TITRE IX : TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES (art. D5794-3 à R5794-2)](#1573)
+          - [Chapitre IV : Le transport maritime (art. D5794-3 à R5794-2)](#1574)
+  - [PARTIE REGLEMENTAIRE - Arrêtés (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1575)
+    - [QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1576)
+      - [LIVRE II : NAVIGATION INTÉRIEURE (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1577)
+        - [TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE (art. A4241-1 à Annexe 8 à l'article A4241-51-2)](#1578)
+          - [Chapitre Ier : Règlements de police (art. A4241-1 à A4241-65)](#1579)
+            - [Section 1 : Règlement général de police de la navigation intérieure (art. A4241-1 à A4241-65)](#1580)
+              - [Sous-section 1 : Dispositions générales (art. A4241-1 à A4241-38-4)](#1581)
+                - [Paragraphe 1 : Obligations générales relatives au conducteur et à la tenue de la barre (art. A4241-5 à A4241-7)](#1582)
+                - [Paragraphe 2 : Obligations générales relatives à la conduite (art. A4241-11 )](#1583)
+                - [Paragraphe 3 : Obligations générales de sécurité (art. A4241-22  à A4241-24 )](#1584)
+                - [Paragraphe 4 : Prescriptions temporaires (art. A4241-26)](#1585)
+                - [Paragraphe 5 : Embarquement, débarquement, chargement, déchargement et transbordement (art. A4241-27 à A4241-28)](#1586)
+                - [Paragraphe 6 : Documents devant se trouver à bord (art. A4241-33 )](#1587)
+                - [Paragraphe 7 : Transports spéciaux (art. A4241-35-1 à A4241-35-4)](#1588)
+                - [Paragraphe 8 : Manifestations sportives, fêtes nautiques et autres manifestations (art. A4241-38-1 à A4241-38-4)](#1589)
               - [Sous-section 2 : Dispositions relatives aux marques 
-et aux échelles de tirant d'eau (art. A4241-47-1 à A4241-47-2)](#1576)
-              - [Sous-section 3 : Dispositions relatives à la signalisation visuelle des bateaux et établissements flottants (art. A4241-48-1 à A4241-48-38)](#1577)
-                - [Paragraphe 1 : Dispositions générales (art. A4241-48-1 à A4241-48-7)](#1578)
-                - [Paragraphe 2 : Signalisation de nuit et de jour (art. A4241-48-8 à A4241-48-19)](#1579)
-                - [Paragraphe 3 : Signalisation en stationnement (art. A4241-48-20 à A4241-48-26)](#1580)
-                - [Paragraphe 4 : Signalisations particulières (art. A4241-48-27 à A4241-48-38)](#1581)
-              - [Sous-section 4 : Dispositions relatives à la signalisation sonore et à la radiotéléphonie des bateaux (art. A4241-49-1 à A4241-50-2)](#1582)
-                - [Paragraphe 1 : Signaux sonores (*) (art. A4241-49-1 à A4241-49-4)](#1583)
-                - [Paragraphe 2 : Radiotéléphonie (art. A4241-49-5 à A4241-50-2)](#1584)
+et aux échelles de tirant d'eau (art. A4241-47-1 à A4241-47-2)](#1590)
+              - [Sous-section 3 : Dispositions relatives à la signalisation visuelle des bateaux et établissements flottants (art. A4241-48-1 à A4241-48-38)](#1591)
+                - [Paragraphe 1 : Dispositions générales (art. A4241-48-1 à A4241-48-7)](#1592)
+                - [Paragraphe 2 : Signalisation de nuit et de jour (art. A4241-48-8 à A4241-48-19)](#1593)
+                - [Paragraphe 3 : Signalisation en stationnement (art. A4241-48-20 à A4241-48-26)](#1594)
+                - [Paragraphe 4 : Signalisations particulières (art. A4241-48-27 à A4241-48-38)](#1595)
+              - [Sous-section 4 : Dispositions relatives à la signalisation sonore et à la radiotéléphonie des bateaux (art. A4241-49-1 à A4241-50-2)](#1596)
+                - [Paragraphe 1 : Signaux sonores (*) (art. A4241-49-1 à A4241-49-4)](#1597)
+                - [Paragraphe 2 : Radiotéléphonie (art. A4241-49-5 à A4241-50-2)](#1598)
               - [Sous-section 5 : Dispositions relatives à la signalisation
-et au balisage des eaux intérieures (art. A4241-51-1 à A4241-52)](#1585)
-              - [Sous-section 6 : Dispositions relatives aux règles de route (art. A4241-53-1 à A4241-53-39)](#1586)
-                - [Paragraphe 1 : Dispositions générales (art. A4241-53-1 à A4241-53-3)](#1587)
-                - [Paragraphe 2 : Croisement et dépassement (art. A4241-53-4 à A4241-53-12)](#1588)
-                - [Paragraphe 3 : Autres règles de route (art. A4241-53-13 à A4241-53-24)](#1589)
-                - [Paragraphe 4 : Règles applicables aux bacs (art. A4241-53-25)](#1590)
-                - [Paragraphe 5 : Passage des ponts, barrages et écluses (art. A4241-53-26 à A4241-53-32)](#1591)
-                - [Paragraphe 6 : Règles applicables en cas de visibilité réduite et de navigation au radar (art. A4241-53-33 à A4241-53-36)](#1592)
-                - [Paragraphe 7 : Règles spéciales (art. A4241-53-37 à A4241-53-39)](#1593)
-              - [Sous-section 7 : Dispositions relatives aux règles de stationnement (art. A4241-54-1 à A4241-54-9)](#1594)
-              - [Sous-section 8 : Dispositions complémentaires applicables à certains bateaux ou aux convois (art. A4241-55-1 à A4241-56-3)](#1595)
-              - [Sous-section 9 : Dispositions relatives à la navigation de plaisance et aux activités sportives (art. A4241-59-1 à A4241-60)](#1596)
-              - [Sous-section 10 : Dispositions relatives à la protection des eaux et à l'élimination des déchets survenant à bord (art. A4241-63 à A4241-65)](#1597)
-          - [Annexes (art. Annexe 1 à l'article A4241-47-1 à Annexe 8 à l'article A4241-51-2)](#1598)
+et au balisage des eaux intérieures (art. A4241-51-1 à A4241-52)](#1599)
+              - [Sous-section 6 : Dispositions relatives aux règles de route (art. A4241-53-1 à A4241-53-39)](#1600)
+                - [Paragraphe 1 : Dispositions générales (art. A4241-53-1 à A4241-53-3)](#1601)
+                - [Paragraphe 2 : Croisement et dépassement (art. A4241-53-4 à A4241-53-12)](#1602)
+                - [Paragraphe 3 : Autres règles de route (art. A4241-53-13 à A4241-53-24)](#1603)
+                - [Paragraphe 4 : Règles applicables aux bacs (art. A4241-53-25)](#1604)
+                - [Paragraphe 5 : Passage des ponts, barrages et écluses (art. A4241-53-26 à A4241-53-32)](#1605)
+                - [Paragraphe 6 : Règles applicables en cas de visibilité réduite et de navigation au radar (art. A4241-53-33 à A4241-53-36)](#1606)
+                - [Paragraphe 7 : Règles spéciales (art. A4241-53-37 à A4241-53-39)](#1607)
+              - [Sous-section 7 : Dispositions relatives aux règles de stationnement (art. A4241-54-1 à A4241-54-9)](#1608)
+              - [Sous-section 8 : Dispositions complémentaires applicables à certains bateaux ou aux convois (art. A4241-55-1 à A4241-56-3)](#1609)
+              - [Sous-section 9 : Dispositions relatives à la navigation de plaisance et aux activités sportives (art. A4241-59-1 à A4241-60)](#1610)
+              - [Sous-section 10 : Dispositions relatives à la protection des eaux et à l'élimination des déchets survenant à bord (art. A4241-63 à A4241-65)](#1611)
+          - [Annexes (art. Annexe 1 à l'article A4241-47-1 à Annexe 8 à l'article A4241-51-2)](#1612)
 # PARTIE LEGISLATIVE<a id=1></a>
 
 ## PREMIERE PARTIE : DISPOSITIONS COMMUNES<a id=2></a>
@@ -101730,11 +101744,446 @@ _Créé par_:
 
 ## CINQUIEME PARTIE : TRANSPORT ET NAVIGATION MARITIMES<a id=1553></a>
 
-### LIVRE V : LES GENS DE MER<a id=1554></a>
+### LIVRE IV : LE TRANSPORT MARITIME<a id=1554></a>
 
-#### TITRE VI : CONDITIONS SOCIALES DU PAYS D'ACCUEIL<a id=1555></a>
+#### TITRE IV : ACTIVITÉS PRIVÉES DE PROTECTION DES NAVIRES<a id=1555></a>
 
-##### Chapitre Ier : Champ d'application<a id=1556></a>
+##### Chapitre II : Modalités d'exercice de l'activité privée de protection des navires<a id=1556></a>
+
+##### Section 2 : Armement et tenue des agents<a id=1557></a>
+
+###### Article D5442-1-1
+
+Les équipements de protection balistique mentionnés à l'article L. 5442-3 sont constitués au minimum, par agent, d'un gilet
+pare-balles NIJ niveau III A avec plaque additionnelle NIJ type IV et d'un casque NIJ niveau III A.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. D5764-2 (V)
+  - Code des transports - art. D5764-3 (Ab)
+  - Code des transports - art. D5774-2 (V)
+  - Code des transports - art. D5774-3 (Ab)
+  - Code des transports - art. D5784-2 (V)
+  - Code des transports - art. D5784-3 (Ab)
+  - Code des transports - art. D5794-2 (V)
+  - Code des transports - art. D5794-3 (Ab)
+
+_Cite_:
+
+  - Code des transports - art. L5442-3
+
+
+###### Article D5442-1-2
+
+Les armes, éléments d'armes et munitions mentionnés à l'article R. 5442-1 sont embarqués à bord des navires concernés dans
+les quantités suivantes : 
+
+1° Une arme à feu d'épaule telle que définie au a du 1° de l'article R. 5442-1 par agent et, au plus, parmi les armes
+suivantes : une arme à feu d'épaule telle que définie au b du 1° de l'article R. 5442-1 par agent, une arme à feu de poing
+telle que définie au 2° de l'article R. 5442-1 par agent, une arme à impulsion électrique telle que définie au 3° de
+l'article R. 5442-1 par agent et un générateur d'aérosol tel que défini au 4° de l'article R. 5442-1 par agent ; 
+
+2° Au maximum, deux armes à feu de poing et deux armes à feu d'épaule supplémentaires telles que définies aux 1° et 2° de
+l'article R. 5442-1 par équipe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. D5764-2 (V)
+  - Code des transports - art. D5764-3 (M)
+  - Code des transports - art. D5774-2 (V)
+  - Code des transports - art. D5774-3 (M)
+  - Code des transports - art. D5784-2 (V)
+  - Code des transports - art. D5784-3 (M)
+  - Code des transports - art. D5794-2 (V)
+  - Code des transports - art. D5794-3 (M)
+
+_Cite_:
+
+  - Code des transports - art. R5442-1
+
+
+###### Article R5442-1
+
+En application de l'article L. 5442-5, les entreprises privées de protection des navires mentionnées à l'article L. 5441-1
+peuvent être autorisées à acquérir, détenir, transporter et mettre à disposition de leurs agents les armes, éléments d'armes
+et munitions suivants : 
+
+1° Armes à feu d'épaule : 
+
+a) A répétition semi-automatique dont le projectile a un diamètre supérieur ou égal à 5,56 mm et inférieur à 12,7 mm classées
+au a du 2° et au 4° de la catégorie B ; 
+
+b) A répétition à canon lisse munies d'un dispositif de rechargement à pompe classées au f du 2° de la catégorie B ; 
+
+2° Armes à feu de poing dont le projectile a un diamètre inférieur ou égal à 9 mm classées au 1° de la catégorie B ; 
+
+3° Armes à impulsion électrique permettant de provoquer un choc électrique à distance classées au 6° de la catégorie B ; 
+
+4° Générateurs d'aérosols lacrymogènes ou incapacitants d'une capacité inférieure ou égale à 100 ml classés au b du 2° de la
+catégorie D ; 
+
+5° Munitions des armes mentionnées aux 1° à 3° du présent article ainsi que les munitions avec projectile contenant un
+mélange s'enflammant au contact de l'air classées au 2° de la catégorie A2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Décret n°2017-1300 du 23 août 2017 - art. 2 (V)
+  - Code des transports - art. D5442-1-2 (V)
+  - Code des transports - art. R5442-2 (V)
+  - Code des transports - art. R5442-3 (V)
+  - Code des transports - art. R5442-4 (V)
+  - Code des transports - art. R5764-1 (V)
+  - Code des transports - art. R5774-1 (V)
+  - Code des transports - art. R5784-1 (V)
+  - Code des transports - art. R5784-2 (Ab)
+  - Code des transports - art. R5794-1 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5441-1
+  - Code des transports - art. L5442-5
+
+
+###### Article R5442-2
+
+L'autorisation mentionnée à l'article R. 5442-1 est délivrée dans les conditions suivantes : 
+
+1° L'autorisation est délivrée par le préfet du département où se trouve le siège de l'entreprise privée de protection des
+navires, par le préfet de police lorsque le siège se trouve à Paris ou hors du territoire national et par le préfet de police
+des Bouches-du-Rhône lorsque le siège se trouve dans le département des Bouches-du-Rhône ; 
+
+2° La demande d'autorisation est accompagnée des pièces suivantes : 
+
+a) Extrait de l'inscription au registre du commerce et des sociétés ou document équivalent pour les entreprises dont le siège
+est à l'étranger ; 
+
+b) Pièce justificative de l'état civil et de la nationalité du représentant de la personne morale ; 
+
+c) Copie de l'autorisation d'exercice de l'activité privée de protection des navires délivrée à l'entreprise ; 
+
+d) Document mentionnant le type, la marque, le modèle et le calibre des armes faisant l'objet de la demande ; 
+
+e) Le cas échéant, liste des armes déjà détenues ; 
+
+f) Justification des dispositifs de stockage et de protection contre le vol au sein de l'entreprise. 
+
+Le silence gardé pendant deux mois par le préfet sur la demande d'autorisation vaut décision de rejet ; 
+
+3° L'autorisation court à partir de sa date de délivrance et est délivrée pour une durée maximale de cinq ans. Elle est
+notifiée par tout moyen permettant de donner une date certaine, dans les quinze jours qui suivent la délivrance. Elle
+mentionne le type, la marque, le modèle et le calibre des armes autorisées ; 
+
+4° La demande de renouvellement doit être déposée au plus tard trois mois avant la date d'expiration de l'autorisation. Un
+récépissé valant autorisation provisoire de détention à compter de la date d'expiration de l'autorisation jusqu'à la décision
+expresse de renouvellement est délivré ; 
+
+5° L'autorisation peut être retirée par l'autorité qui l'a délivrée pour des raisons d'ordre public ou de sécurité des
+personnes ; 
+
+6° L'autorisation est caduque si l'entreprise cesse de remplir les conditions mentionnées à l'article L. 612-9 du code de la
+sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. R5442-1
+  - Code de la sécurité intérieure - art. L612-9
+
+_Cité par_:
+
+  - Code des transports - art. R5442-4 (V)
+  - Code des transports - art. R5764-1 (V)
+  - Code des transports - art. R5774-1 (V)
+  - Code des transports - art. R5784-1 (V)
+  - Code des transports - art. R5794-1 (V)
+
+
+###### Article R5442-3
+
+Sur le territoire national, les armes, éléments d'armes et munitions mentionnés à l'article R. 5442-1 sont conservés au sein
+de l'entreprise dans les conditions prévues aux articles R. 314-2 à R. 314-6 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. R5442-1
+  - Code de la sécurité intérieure - art. R314-2
+
+_Cité par_:
+
+  - Code des transports - art. R5784-3 (V)
+  - Code des transports - art. R5794-1 (M)
+
+
+###### Article R5442-4
+
+Tout transport sur le territoire national d'armes, d'éléments d'armes ou de munitions mentionnés à l'article R. 5442-1 par
+une entreprise privée de protection des navires fait l'objet par cette dernière, au plus tard soixante-douze heures avant la
+date prévue pour ce transport, d'une déclaration préalable au préfet du département du lieu de départ, qui en délivre
+récépissé. 
+
+Cette déclaration comporte : 
+
+1° L'identité et la qualité de la personne chargée du transport ; 
+
+2° Le jour et les lieux de départ et d'arrivée ; 
+
+3° La liste des armes transportées, avec indication de leur type, marque, modèle, calibre et numéro de série ; 
+
+4° La quantité des munitions transportées ; 
+
+5° Une copie de l'autorisation prévue à l'article R. 5442-2. 
+
+Les armes sont transportées de manière à ne pas être immédiatement utilisables, soit en recourant à un dispositif technique
+répondant à cet objectif, soit par démontage de leurs pièces de sécurité. 
+
+Le transport et l'expédition des armes, éléments d'armes et munitions sont effectués dans les conditions prévues par les
+articles R. 315-13 à R. 315-18 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. R5442-1
+  - Code des transports - art. R5442-2
+  - Code de la sécurité intérieure - art. R315-13
+
+_Cité par_:
+
+  - Code des transports - art. R5784-4 (V)
+  - Code des transports - art. R5794-2 (Ab)
+
+
+###### Article R5442-5
+
+Lorsque les armes et munitions doivent être embarquées à bord d'un navire en escale dans un port, le capitaine du navire ou
+son représentant accompagne la personne chargée par l'entreprise de leur transport, depuis l'entrée de l'installation
+portuaire jusqu'au bord. Au débarquement dans un port, le capitaine du navire ou son représentant accompagne la personne
+chargée du transport jusqu'à la sortie de l'installation portuaire. 
+
+La personne chargée du transport des armes et munitions sur le territoire national conserve cette responsabilité lors du
+transfert dans le port. Elle rend compte immédiatement à l'autorité portuaire de tout incident survenu à l'occasion de ce
+transfert.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. R5764-1 (V)
+  - Code des transports - art. R5774-1 (V)
+  - Code des transports - art. R5784-1 (V)
+  - Code des transports - art. R5794-1 (V)
+
+
+###### Article R5442-6
+
+I.-Dès avant l'arrivée dans la zone mentionnée à l'article L. 5442-1, le capitaine du navire examine avec le chef de l'équipe
+de protection les mesures permettant d'assurer la protection du navire et les règles relatives au stockage et à l'usage des
+armes. En tant que de besoin, ces mesures sont arrêtées par le capitaine, sur proposition du chef de l'équipe de protection. 
+
+Le capitaine porte à la connaissance de l'équipe les paramètres de sécurité, de sûreté et d'exploitation propres au navire. 
+
+II.-En dehors des zones mentionnées à l'article L. 5442-1, les armes, éléments d'armes et les munitions sont stockés à bord
+du navire dans des locaux séparés et fermés à clé, dont la garde incombe au chef de l'équipe de protection. 
+
+III.-Dans les zones mentionnées à l'article L. 5442-1 : 
+
+1° La vérification par les agents de protection du bon fonctionnement des armes et l'entraînement au tir nécessitent, au cas
+par cas, l'autorisation préalable du capitaine ; 
+
+2° La décision d'armer les agents de protection en vue d'assurer leur activité de protection du navire est prise par le
+capitaine.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 1
+
+_Cite_:
+
+  - Code des transports - art. L5442-1
+
+_Cité par_:
+
+  - Code des transports - art. R5764-1 (V)
+  - Code des transports - art. R5774-1 (V)
+  - Code des transports - art. R5784-1 (V)
+  - Code des transports - art. R5794-1 (V)
+
+
+##### Section 3 : Droits et obligations<a id=1558></a>
+
+###### Article D5442-7
+
+La déclaration prévue au dernier alinéa de l'article L. 5442-7 contient les informations suivantes : 
+
+1° Le nom et le numéro OMI du navire concerné ; 
+
+2° La date et le lieu de l'embarquement et du débarquement prévus des agents de l'entreprise privée de protection des navires
+ainsi que de leurs armes, éléments d'armes et munitions ; 
+
+3° L'itinéraire planifié et le temps de trajet estimé ; 
+
+4° Le nombre d'agents de l'entreprise privée de protection des navires à embarquer. 
+
+Cette déclaration est transmise au ministre chargé des transports par l'intermédiaire des points de contact définis au
+paragraphe 1.4 de la règle 13 du chapitre XI-2 de la convention internationale de 1974 pour la sauvegarde de la vie en mer
+(convention SOLAS).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. D5764-2 (V)
+  - Code des transports - art. D5764-3 (Ab)
+  - Code des transports - art. D5774-2 (V)
+  - Code des transports - art. D5774-3 (Ab)
+  - Code des transports - art. D5784-2 (V)
+  - Code des transports - art. D5784-3 (Ab)
+  - Code des transports - art. D5794-2 (V)
+  - Code des transports - art. D5794-3 (Ab)
+
+_Cite_:
+
+  - Code des transports - art. L5442-7
+
+
+###### Article D5442-8
+
+La déclaration à l'embarquement des agents de l'entreprise privée de protection des navires ou des armes et de leurs
+munitions prévue au dernier alinéa de l'article L. 5442-8 contient les informations suivantes : 
+
+1° Le nom et le numéro du navire concerné ; 
+
+2° La date et le lieu de l'embarquement des agents de l'entreprise privée de protection des navires ainsi que de leurs armes,
+éléments d'armes et munitions ; 
+
+3° La date et le lieu estimés du débarquement des agents de l'entreprise privée de protection des navires ainsi que de leurs
+armes, éléments d'armes et munitions ; 
+
+4° L'itinéraire planifié et le temps de trajet estimé ; 
+
+5° Le nombre d'agents de l'entreprise privée de protection des navires à embarquer, leur nom, prénom et date de naissance,
+leur nationalité, le numéro de leur carte professionnelle et l'identité du chef de l'équipe à bord du navire. 
+
+Lors du débarquement des agents ou des armes et de leurs munitions, la déclaration prévue au dernier alinéa de l'article L.
+5442-8 contient les informations suivantes : 
+
+1° Le nom et le numéro du navire concerné ; 
+
+2° La date et le lieu du débarquement des agents de l'entreprise privée de protection des navires ainsi que de leurs armes,
+éléments d'armes et munitions. 
+
+Ces déclarations sont transmises au commandant de la zone maritime concerné par la prestation et, en cas d'embarquement ou de
+débarquement dans un port français, au préfet de département concerné, à l'autorité portuaire et à l'exploitant de
+l'installation portuaire où accoste le navire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. D5764-2 (V)
+  - Code des transports - art. D5774-2 (V)
+  - Code des transports - art. D5784-2 (V)
+  - Code des transports - art. D5794-2 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5442-8
+
+
+###### Article D5442-9
+
+Le rapport mentionné au deuxième alinéa de l'article L. 5442-12 comprend au moins les éléments suivants : 
+
+1° L'heure, le lieu et la durée de l'incident ; 
+
+2° La description détaillée des événements qui ont abouti à l'incident ; 
+
+3° La nature de l'attaque (type et taille du ou des navires utilisés, méthode d'approche et armes utilisées) ; 
+
+4° Le nombre des assaillants, leur description et la langue parlée par ces assaillants ; 
+
+5° L'identité des agents de l'équipe de protection dans l'incident ; 
+
+6° Les témoignages écrits de ces agents ; 
+
+7° Les détails sur les armes et munitions utilisées par les agents de l'équipe de protection ; 
+
+8° Les lésions corporelles ou les dommages matériels subis ; 
+
+9° Toute violation de la discipline par les agents de l'équipe de protection ; 
+
+10° Les enseignements tirés de l'incident et, s'il y a lieu, les procédures recommandées pour éviter qu'il ne se reproduise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 1
+
+_Cité par_:
+
+  - Code des transports - art. D5764-2 (V)
+  - Code des transports - art. D5774-2 (V)
+  - Code des transports - art. D5784-2 (V)
+  - Code des transports - art. D5794-2 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5442-12
+
+
+### LIVRE V : LES GENS DE MER<a id=1559></a>
+
+#### TITRE VI : CONDITIONS SOCIALES DU PAYS D'ACCUEIL<a id=1560></a>
+
+##### Chapitre Ier : Champ d'application<a id=1561></a>
 
 ###### Article R5561-1
 
@@ -101815,7 +102264,7 @@ _Cite_:
   - Code des transports - art. L5522-2 (V)
 
 
-##### Chapitre II : Droits des salariés<a id=1557></a>
+##### Chapitre II : Droits des salariés<a id=1562></a>
 
 ###### Article R5562-1
 
@@ -101862,7 +102311,7 @@ _Créé par_:
   - Décret n°2014-881 du 1er août 2014 - art. 1
 
 
-##### Chapitre III : Protection sociale<a id=1558></a>
+##### Chapitre III : Protection sociale<a id=1563></a>
 
 ###### Article R5563-1
 
@@ -101892,7 +102341,7 @@ _Cité par_:
   - Code des transports - art. R5566-2 (VD)
 
 
-##### Chapitre V : Documents obligatoires<a id=1559></a>
+##### Chapitre V : Documents obligatoires<a id=1564></a>
 
 ###### Article D5565-1
 
@@ -102001,7 +102450,7 @@ _Cite_:
   - Code des transports - art. D5565-2 (VD)
 
 
-##### Chapitre VI : Sanctions pénales<a id=1560></a>
+##### Chapitre VI : Sanctions pénales<a id=1565></a>
 
 ###### Article R5566-1
 
@@ -102129,19 +102578,299 @@ _Créé par_:
   - Décret n°2014-881 du 1er août 2014 - art. 1
 
 
-# PARTIE REGLEMENTAIRE - Arrêtés<a id=1561></a>
+### LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER<a id=1566></a>
 
-## QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL<a id=1562></a>
+#### TITRE VI : NOUVELLE-CALÉDONIE<a id=1567></a>
 
-### LIVRE II : NAVIGATION INTÉRIEURE<a id=1563></a>
+##### Chapitre IV : Le transport maritime<a id=1568></a>
 
-#### TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE<a id=1564></a>
+###### Article D5764-3
 
-##### Chapitre Ier : Règlements de police<a id=1565></a>
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables en Nouvelle-Calédonie, dans leur rédaction résultant du décret n° 2014-1419 du 28 novembre 2014 pris pour
+l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports et relatif aux modalités
+d'exercice de l'activité privée de protection des navires.
 
-##### Section 1 : Règlement général de police de la navigation intérieure<a id=1566></a>
+**Liens relatifs à cet article**
 
-##### Sous-section 1 : Dispositions générales<a id=1567></a>
+_Cite_:
+
+  - Décret n°2014-1419 du 28 novembre 2014
+  - Code des transports - art. D5442-1-1
+  - Code des transports - art. D5442-1-2
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5764-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV sont applicables en Nouvelle-Calédonie, dans leur
+rédaction résultant du décret n° 2014-1416 du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de
+protection des navires, sous réserve des adaptations prévues à l'article R. 5764-2.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1416 du 28 novembre 2014
+  - Code des transports - art. R5764-2
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5764-2
+
+La référence au préfet de département est remplacée par la référence au haut-commissaire de la République en Nouvelle-
+Calédonie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+_Cité par_:
+
+  - Code des transports - art. R5764-1 (M)
+
+
+#### TITRE VII : POLYNÉSIE FRANÇAISE<a id=1569></a>
+
+##### Chapitre IV : Le transport maritime<a id=1570></a>
+
+###### Article D5774-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables en Polynésie française, dans leur rédaction résultant du décret n° 2014-1419 du 28 novembre 2014pris pour
+l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports et relatif aux modalités
+d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1419 du 28 novembre 2014
+  - Code des transports - art. D5442-1-1
+  - Code des transports - art. D5442-1-2
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5774-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV sont applicables en Polynésie française dans leur
+rédaction résultant du décret n° 2014-1416 du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de
+protection des navires, sous réserve des adaptations prévues à l'article R. 5774-2.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1416 du 28 novembre 2014
+  - Code des transports - art. R5774-2
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5774-2
+
+La référence au préfet de département est remplacée par la référence au haut-commissaire de la République en Polynésie
+française.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+_Cité par_:
+
+  - Code des transports - art. R5774-1 (M)
+
+
+#### TITRE VIII : WALLIS-ET-FUTUNA<a id=1571></a>
+
+##### Chapitre IV : Le transport maritime<a id=1572></a>
+
+###### Article D5784-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables dans les îles Wallis et Futuna, dans leur rédaction résultant du décret n° 2014-1419 du 28 novembre 2014pris pour
+l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports et relatif aux modalités
+d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1419 du 28 novembre 2014
+  - Code des transports - art. D5442-1-1
+  - Code des transports - art. D5442-1-2
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5784-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV sont applicables à Wallis-et-Futuna dans leur
+rédaction résultant du décret n° 2014-1416 du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de
+protection des navires, sous réserve des adaptations prévues à l'article R. 5784-2.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1416 du 28 novembre 2014
+  - Code des transports - art. R5784-2
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5784-2
+
+I.-La référence au préfet de département est remplacée par la référence à l'administrateur supérieur des îles Wallis et
+Futuna. 
+
+II.-L'article R. 5442-3 est ainsi rédigé : 
+
+“ Dans les îles Wallis et Futuna, les armes, éléments d'armes et munitions mentionnés à l'article R. 5442-1 sont conservés au
+sein de l'entreprise dans des conditions équivalentes à celles prévues par les articles R. 314-2 à R. 314-6 du code de la
+sécurité intérieure. ” 
+
+III.-Le dernier alinéa de l'article L. 5442-4 est ainsi rédigé : 
+
+“ Le transport et l'expédition de ces armes, de leurs éléments et munitions sont effectués dans des conditions équivalentes à
+celles prévues par les articles R. 315-13 à R. 315-18 du code de la sécurité intérieure. ”
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+_Cite_:
+
+  - Code des transports - art. L5442-4
+  - Code des transports - art. R5442-1 (V)
+  - Code de la sécurité intérieure - art. R314-2 (V)
+  - Code de la sécurité intérieure - art. R315-13 (V)
+
+_Cité par_:
+
+  - Code des transports - art. R5784-1 (M)
+
+
+#### TITRE IX : TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES<a id=1573></a>
+
+##### Chapitre IV : Le transport maritime<a id=1574></a>
+
+###### Article D5794-3
+
+Les articles D. 5442-1-1 et D. 5442-1-2 et les dispositions de la section 3 du chapitre II du titre IV du livre IV sont
+applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant du décret n° 2014-1419 du 28
+novembre 2014pris pour l'application des dispositions du titre IV du livre IV de la cinquième partie du code des transports
+et relatif aux modalités d'exercice de l'activité privée de protection des navires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1419 du 28 novembre 2014
+  - Code des transports - art. D5442-1-1
+  - Code des transports - art. D5442-1-2
+
+_Créé par_:
+
+  - Décret n°2014-1419 du 28 novembre 2014 - art. 2
+
+
+###### Article R5794-1
+
+Les dispositions de la section 2 du chapitre II du titre IV du livre IV dans leur rédaction résultant du décret n° 2014-1416
+du 28 novembre 2014 relatif aux modalités d'exercice de l'activité privée de protection des navires, à l'exception de
+l'article R. 5442-3, sont applicables dans les Terres australes et antarctiques françaises sous réserve des adaptations
+prévues à l'article R. 5794-2.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2014-1416 du 28 novembre 2014
+  - Code des transports - art. R5442-3
+  - Code des transports - art. R5794-2
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+
+###### Article R5794-2
+
+I.-La référence au préfet de département est remplacée par la référence à l'administrateur supérieur des Terres australes et
+antarctiques françaises. 
+
+II.-Le dernier alinéa de l'article R. 5442-4 est ainsi rédigé : 
+
+“ Le transport et l'expédition de ces armes, de leurs éléments et munitions sont effectués dans des conditions équivalentes à
+celles prévues par les articles R. 315-13 à R. 315-18 du code de la sécurité intérieure. ”
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2014-1416 du 28 novembre 2014 - art. 2
+
+_Abrogé par_:
+
+  - Décret n°2016-1893 du 28 décembre 2016 - art.
+
+_Cite_:
+
+  - Code des transports - art. R5442-4
+  - Code de la sécurité intérieure - art. R315-13 (V)
+
+_Cité par_:
+
+  - Code des transports - art. R5794-1 (M)
+
+
+# PARTIE REGLEMENTAIRE - Arrêtés<a id=1575></a>
+
+## QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL<a id=1576></a>
+
+### LIVRE II : NAVIGATION INTÉRIEURE<a id=1577></a>
+
+#### TITRE IV : POLICE DE LA NAVIGATION INTÉRIEURE<a id=1578></a>
+
+##### Chapitre Ier : Règlements de police<a id=1579></a>
+
+##### Section 1 : Règlement général de police de la navigation intérieure<a id=1580></a>
+
+##### Sous-section 1 : Dispositions générales<a id=1581></a>
 
 ###### Article A4241-1
 
@@ -102252,7 +102981,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Paragraphe 1 : Obligations générales relatives au conducteur et à la tenue de la barre<a id=1568></a>
+##### Paragraphe 1 : Obligations générales relatives au conducteur et à la tenue de la barre<a id=1582></a>
 
 ###### Article A4241-5
 
@@ -102333,7 +103062,7 @@ _Cite_:
   - Code des transports - art. R4231-15
 
 
-##### Paragraphe 2 : Obligations générales relatives à la conduite<a id=1569></a>
+##### Paragraphe 2 : Obligations générales relatives à la conduite<a id=1583></a>
 
 ###### Article A4241-11 
 
@@ -102361,7 +103090,7 @@ _Cite_:
   - Code des transports - art. R4241-11
 
 
-##### Paragraphe 3 : Obligations générales de sécurité<a id=1570></a>
+##### Paragraphe 3 : Obligations générales de sécurité<a id=1584></a>
 
 ###### Article A4241-22 
 
@@ -102423,7 +103152,7 @@ _Cite_:
   - Code des transports - art. R4241-24
 
 
-##### Paragraphe 4 : Prescriptions temporaires<a id=1571></a>
+##### Paragraphe 4 : Prescriptions temporaires<a id=1585></a>
 
 ###### Article A4241-26
 
@@ -102462,7 +103191,7 @@ _Cité par_:
   - Code des transports - art. A4241-26 (V)
 
 
-##### Paragraphe 5 : Embarquement, débarquement, chargement, déchargement et transbordement<a id=1572></a>
+##### Paragraphe 5 : Embarquement, débarquement, chargement, déchargement et transbordement<a id=1586></a>
 
 ###### Article A4241-27
 
@@ -102517,7 +103246,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Paragraphe 6 : Documents devant se trouver à bord<a id=1573></a>
+##### Paragraphe 6 : Documents devant se trouver à bord<a id=1587></a>
 
 ###### Article A4241-33 
 
@@ -102601,7 +103330,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Paragraphe 7 : Transports spéciaux<a id=1574></a>
+##### Paragraphe 7 : Transports spéciaux<a id=1588></a>
 
 ###### Article A4241-35-1
 
@@ -102689,7 +103418,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Paragraphe 8 : Manifestations sportives, fêtes nautiques et autres manifestations<a id=1575></a>
+##### Paragraphe 8 : Manifestations sportives, fêtes nautiques et autres manifestations<a id=1589></a>
 
 ###### Article A4241-38-1
 
@@ -102790,7 +103519,7 @@ _Créé par_:
 
 
 ##### Sous-section 2 : Dispositions relatives aux marques 
-et aux échelles de tirant d'eau<a id=1576></a>
+et aux échelles de tirant d'eau<a id=1590></a>
 
 ###### Article A4241-47-1
 
@@ -102855,9 +103584,9 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Sous-section 3 : Dispositions relatives à la signalisation visuelle des bateaux et établissements flottants<a id=1577></a>
+##### Sous-section 3 : Dispositions relatives à la signalisation visuelle des bateaux et établissements flottants<a id=1591></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1578></a>
+##### Paragraphe 1 : Dispositions générales<a id=1592></a>
 
 ###### Article A4241-48-1
 
@@ -103064,7 +103793,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Paragraphe 2 : Signalisation de nuit et de jour<a id=1579></a>
+##### Paragraphe 2 : Signalisation de nuit et de jour<a id=1593></a>
 
 ###### Article A4241-48-8
 
@@ -103740,7 +104469,7 @@ _Cite_:
   - Code des transports - art. R4241-35 (V)
 
 
-##### Paragraphe 3 : Signalisation en stationnement<a id=1580></a>
+##### Paragraphe 3 : Signalisation en stationnement<a id=1594></a>
 
 ###### Article A4241-48-20
 
@@ -104053,7 +104782,7 @@ _Cite_:
   - Code des transports - art. A4241-48-20 (VD)
 
 
-##### Paragraphe 4 : Signalisations particulières<a id=1581></a>
+##### Paragraphe 4 : Signalisations particulières<a id=1595></a>
 
 ###### Article A4241-48-27
 
@@ -104530,9 +105259,9 @@ _Cite_:
   - Code des transports - art. A4241-48-8 (VD)
 
 
-##### Sous-section 4 : Dispositions relatives à la signalisation sonore et à la radiotéléphonie des bateaux<a id=1582></a>
+##### Sous-section 4 : Dispositions relatives à la signalisation sonore et à la radiotéléphonie des bateaux<a id=1596></a>
 
-##### Paragraphe 1 : Signaux sonores (*)<a id=1583></a>
+##### Paragraphe 1 : Signaux sonores (*)<a id=1597></a>
 
 ###### Article A4241-49-1
 
@@ -104659,7 +105388,7 @@ _Cite_:
   - Code des transports - art. A4241-48-30 (VD)
 
 
-##### Paragraphe 2 : Radiotéléphonie<a id=1584></a>
+##### Paragraphe 2 : Radiotéléphonie<a id=1598></a>
 
 ###### Article A4241-49-5
 
@@ -104794,7 +105523,7 @@ _Créé par_:
 
 
 ##### Sous-section 5 : Dispositions relatives à la signalisation
-et au balisage des eaux intérieures<a id=1585></a>
+et au balisage des eaux intérieures<a id=1599></a>
 
 ###### Article A4241-51-1
 
@@ -104898,9 +105627,9 @@ _Cite_:
   - Code des transports - art. R4241-52 (VD)
 
 
-##### Sous-section 6 : Dispositions relatives aux règles de route<a id=1586></a>
+##### Sous-section 6 : Dispositions relatives aux règles de route<a id=1600></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1587></a>
+##### Paragraphe 1 : Dispositions générales<a id=1601></a>
 
 ###### Article A4241-53-1
 
@@ -104986,7 +105715,7 @@ _Cité par_:
   - Code des transports - art. A4241-53-7 (VD)
 
 
-##### Paragraphe 2 : Croisement et dépassement<a id=1588></a>
+##### Paragraphe 2 : Croisement et dépassement<a id=1602></a>
 
 ###### Article A4241-53-4
 
@@ -105475,7 +106204,7 @@ _Cite_:
   - Code des transports - art. A4241-53-9 (VD)
 
 
-##### Paragraphe 3 : Autres règles de route<a id=1589></a>
+##### Paragraphe 3 : Autres règles de route<a id=1603></a>
 
 ###### Article A4241-53-13
 
@@ -105911,7 +106640,7 @@ _Cite_:
   - Code des transports - art. A4241-51-1 (VD)
 
 
-##### Paragraphe 4 : Règles applicables aux bacs<a id=1590></a>
+##### Paragraphe 4 : Règles applicables aux bacs<a id=1604></a>
 
 ###### Article A4241-53-25
 
@@ -105946,7 +106675,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Paragraphe 5 : Passage des ponts, barrages et écluses<a id=1591></a>
+##### Paragraphe 5 : Passage des ponts, barrages et écluses<a id=1605></a>
 
 ###### Article A4241-53-26
 
@@ -106285,7 +107014,7 @@ _Cite_:
   - Code des transports - art. A4241-53-30 (VD)
 
 
-##### Paragraphe 6 : Règles applicables en cas de visibilité réduite et de navigation au radar<a id=1592></a>
+##### Paragraphe 6 : Règles applicables en cas de visibilité réduite et de navigation au radar<a id=1606></a>
 
 ###### Article A4241-53-33
 
@@ -106472,7 +107201,7 @@ _Cité par_:
   - Code des transports - art. A4241-53-34 (VD)
 
 
-##### Paragraphe 7 : Règles spéciales<a id=1593></a>
+##### Paragraphe 7 : Règles spéciales<a id=1607></a>
 
 ###### Article A4241-53-37
 
@@ -106574,7 +107303,7 @@ _Cite_:
   - Code des transports - art. A4241-48-36 (VD)
 
 
-##### Sous-section 7 : Dispositions relatives aux règles de stationnement<a id=1594></a>
+##### Sous-section 7 : Dispositions relatives aux règles de stationnement<a id=1608></a>
 
 ###### Article A4241-54-1
 
@@ -106912,7 +107641,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Sous-section 8 : Dispositions complémentaires applicables à certains bateaux ou aux convois<a id=1595></a>
+##### Sous-section 8 : Dispositions complémentaires applicables à certains bateaux ou aux convois<a id=1609></a>
 
 ###### Article A4241-55-1
 
@@ -107123,7 +107852,7 @@ _Créé par_:
   - Arrêté du 28 juin 2013 - art.
 
 
-##### Sous-section 9 : Dispositions relatives à la navigation de plaisance et aux activités sportives<a id=1596></a>
+##### Sous-section 9 : Dispositions relatives à la navigation de plaisance et aux activités sportives<a id=1610></a>
 
 ###### Article A4241-59-1
 
@@ -107214,7 +107943,7 @@ _Cite_:
   - Code du sport. - art. L311-2 (V)
 
 
-##### Sous-section 10 : Dispositions relatives à la protection des eaux et à l'élimination des déchets survenant à bord<a id=1597></a>
+##### Sous-section 10 : Dispositions relatives à la protection des eaux et à l'élimination des déchets survenant à bord<a id=1611></a>
 
 ###### Article A4241-63
 
@@ -107265,7 +107994,7 @@ _Cite_:
   - Code des transports - art. R*4200-1 (V)
 
 
-##### Annexes<a id=1598></a>
+##### Annexes<a id=1612></a>
 
 ###### Article Annexe 1 à l'article A4241-47-1
 
